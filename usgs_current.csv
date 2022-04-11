@@ -1,14 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-11T19:14:24.257Z,61.6924,-150.0371,25.8,1.4,ml,,,,0.64,ak,ak0224ncoc9l,2022-04-11T19:23:37.933Z,"6 km S of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-11T19:13:55.130Z,63.5271,-147.09,199.7,1.4,ml,,,,1.03,ak,ak0224nco6xl,2022-04-11T19:23:42.530Z,"87 km SW of Delta Junction, Alaska",earthquake,,11.4,,,automatic,ak,ak
+2022-04-11T18:56:24.110Z,46.98416666666667,-122.214,1.46,1.1300000000000001,ml,20,110,0.00432,0.11,uw,uw61830731,2022-04-11T19:16:32.910Z,"0 km E of Kapowsin, Washington",explosion,0.47,0.41,0.17516281587812865,7,reviewed,uw,uw
 2022-04-11T18:47:37.380Z,37.6245003,-121.7761688,6.86,0.87,md,8,114,0.01543,0.04,nc,nc73717031,2022-04-11T18:49:12.327Z,"6km S of Livermore, CA",earthquake,0.58,0.46,0.09,7,automatic,nc,nc
 2022-04-11T18:39:09.089Z,59.7838,-152.8286,75.7,1.5,ml,,,,0.49,ak,ak0224nc88ec,2022-04-11T18:48:21.883Z,"56 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-11T18:35:33.840Z,38.8183327,-122.8349991,15.51,0.94,md,9,134,0.004776,0.04,nc,nc73717011,2022-04-11T18:37:08.236Z,"8km NW of The Geysers, CA",earthquake,2.07,3.76,,1,automatic,nc,nc
+2022-04-11T18:35:33.840Z,38.8183327,-122.8349991,15.51,0.94,md,9,134,0.004776,0.04,nc,nc73717011,2022-04-11T19:05:23.511Z,"8km NW of The Geysers, CA",earthquake,2.07,3.76,,1,automatic,nc,nc
 2022-04-11T18:31:52.124Z,31.604,-104.23,5,2.9,ml,,52,0.239,0.78,us,us7000h1ba,2022-04-11T18:51:08.040Z,"52 km NW of Toyah, Texas",earthquake,4.8,2,0.105,38,reviewed,us,us
 2022-04-11T18:20:16.676Z,63.5666,-147.4631,1.3,1.3,ml,,,,0.53,ak,ak0224nc46df,2022-04-11T18:35:23.600Z,"74 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-11T18:18:03.890Z,33.369,-116.2738333,28.93,1.26,ml,21,107,0.1566,0.25,ci,ci39990439,2022-04-11T18:33:21.949Z,"16km NE of Borrego Springs, CA",earthquake,1.13,0.79,0.238,28,automatic,ci,ci
 2022-04-11T18:12:29.790Z,38.4500008,-119.4723358,7.82,1.85,md,5,139,0.06047,0,nc,nc73717001,2022-04-11T18:55:10.452Z,"7km S of Walker, CA",earthquake,2.98,5.37,0.16,4,automatic,nc,nc
 2022-04-11T17:59:35.750Z,17.9613333333333,-66.9723333333333,8.66,1.93,md,6,196,,0.02,pr,pr71344253,2022-04-11T18:15:22.680Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.7,0.78,0.0871520837801951,5,reviewed,pr,pr
 2022-04-11T17:51:37.100Z,38.8395004,-122.8748322,1.93,1.14,md,19,151,0.004875,0.03,nc,nc73716991,2022-04-11T18:30:17.286Z,"12km NW of The Geysers, CA",earthquake,0.43,0.53,0.09,2,automatic,nc,nc
-2022-04-11T17:38:42.806Z,42.3489,31.0657,13.89,4.5,mb,,27,1.878,0.79,us,us7000h1b2,2022-04-11T18:54:52.551Z,"116 km NNW of Zonguldak, Turkey",earthquake,4.9,2,0.191,8,reviewed,us,us
+2022-04-11T17:38:42.806Z,42.3489,31.0657,13.89,4.5,mb,,27,1.878,0.79,us,us7000h1b2,2022-04-11T19:18:57.161Z,"116 km NNW of Zonguldak, Turkey",earthquake,4.9,2,0.191,8,reviewed,us,us
 2022-04-11T17:36:10.250Z,61.7511,-149.757,47.8,0.8,ml,,,,0.28,ak,ak0224nbm5ha,2022-04-11T18:30:24.934Z,"13 km NNE of Houston, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2022-04-11T17:33:01.119Z,62.5706,-152.0669,14.4,1,ml,,,,0.42,ak,ak0224nblhvo,2022-04-11T17:45:52.830Z,"67 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-11T17:31:24.930Z,36.791832,-120.8433304,1.03,1.96,md,5,209,0.1347,0.13,nc,nc73716981,2022-04-11T18:07:17.138Z,"26km SW of South Dos Palos, CA",earthquake,1.39,12.88,0.01,3,automatic,nc,nc
@@ -61,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T11:54:44.390Z,47.732,-122.89933333333333,50.1,1.8900000000000001,ml,34,80,0.05112,0.27,uw,uw61830496,2022-04-11T18:00:44.030Z,"5 km N of Brinnon, Washington",earthquake,0.85,0.94,0.2716419773630274,9,reviewed,uw,uw
 2022-04-11T11:52:37.140Z,35.7153333,-117.5558333,8.61,1.65,ml,22,89,0.1058,0.15,ci,ci39990263,2022-04-11T12:03:27.200Z,"15km WSW of Searles Valley, CA",earthquake,0.28,0.86,0.173,23,automatic,ci,ci
 2022-04-11T11:45:31.336Z,60.7371,-150.5442,20.4,2.7,ml,,,,0.7,ak,ak0224n83j7g,2022-04-11T12:04:41.040Z,"22 km SSE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-11T11:37:42.153Z,23.3228,-108.6444,10,4.3,mb,,176,1.246,0.68,us,us7000h19g,2022-04-11T12:17:09.040Z,"100 km ESE of La Rivera, Mexico",earthquake,4.6,2,0.081,43,reviewed,us,us
+2022-04-11T11:37:42.153Z,23.3228,-108.6444,10,4.3,mb,,176,1.246,0.68,us,us7000h19g,2022-04-11T19:13:45.502Z,"100 km ESE of La Rivera, Mexico",earthquake,4.6,2,0.081,43,reviewed,us,us
 2022-04-11T11:21:48.255Z,61.2646,-150.6721,51.5,0.9,ml,,,,0.53,ak,ak0224n7yfah,2022-04-11T11:27:15.221Z,"26 km ENE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-11T11:15:48.512Z,9.29,126.549,39.79,4.6,mb,,80,2.405,0.52,us,us7000h19e,2022-04-11T11:59:47.040Z,"39 km E of Cortes, Philippines",earthquake,9.1,7.1,0.057,91,reviewed,us,us
 2022-04-11T10:53:17.071Z,60.0642,-153.5676,169.6,1.8,ml,,,,0.34,ak,ak0224n7js7y,2022-04-11T11:19:39.407Z,"43 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -219,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T19:45:21.222Z,58.2305,-153.7378,77,1.8,ml,,,,0.25,ak,ak0224lpbmqi,2022-04-10T19:56:42.545Z,"52 km WNW of Aleneva, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-10T19:36:09.810Z,17.9443333333333,-66.9101666666667,13.66,2.57,md,8,215,,0.1,pr,pr71344043,2022-04-10T20:08:03.920Z,"3 km S of Guánica, Puerto Rico",earthquake,0.81,0.34,0.0147278235680841,3,reviewed,pr,pr
 2022-04-10T19:32:25.909Z,58.7073,-153.7465,15.2,1.1,ml,,,,0.72,ak,ak0224lp8uzx,2022-04-10T19:48:01.412Z,"87 km NW of Aleneva, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-10T19:01:14.730Z,19.6106662750244,-155.917663574219,13.3199996948242,1.98000002,md,17,234,,0.239999995,hv,hv72979887,2022-04-10T19:04:27.700Z,"3 km ESE of Hōlualoa, Hawaii",earthquake,2.32,2.96000004,0.660000026,3,automatic,hv,hv
