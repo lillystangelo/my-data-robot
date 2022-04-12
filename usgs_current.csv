@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-12T18:42:55.554Z,59.5965,-152.9353,91.1,1.4,ml,,,,0.5,ak,ak0224ozsbmb,2022-04-12T18:45:12.592Z,"63 km WNW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-12T17:54:56.177Z,51.3464,178.8503,55.23,4.6,mb,,137,0.634,0.82,us,us7000h1ia,2022-04-12T18:38:45.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.8,5.9,0.037,234,reviewed,us,us
-2022-04-12T17:51:00.390Z,38.8330002,-122.7968369,1.93,0.85,md,12,54,0.007408,0.02,nc,nc73717506,2022-04-12T17:52:35.225Z,"6km W of Cobb, CA",earthquake,0.36,0.81,,1,automatic,nc,nc
+2022-04-12T17:51:00.390Z,38.8330002,-122.7968369,1.93,0.85,md,12,54,0.007408,0.02,nc,nc73717506,2022-04-12T18:50:13.157Z,"6km W of Cobb, CA",earthquake,0.36,0.81,,1,automatic,nc,nc
 2022-04-12T17:50:31.098Z,58.0394,-153.6928,58.4,2.1,ml,,,,0.38,ak,ak0224oz8jwm,2022-04-12T18:19:31.040Z,"46 km W of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-12T17:45:54.720Z,38.8414993,-122.8408356,2.04,1.52,md,9,103,0.005088,0.01,nc,nc73717501,2022-04-12T18:38:12.077Z,"10km NW of The Geysers, CA",earthquake,0.54,0.94,1.15,2,automatic,nc,nc
 2022-04-12T17:41:26.530Z,38.8424988,-122.8406677,2.18,0.37,md,13,107,0.005622,0.01,nc,nc73717496,2022-04-12T18:15:14.916Z,"10km NW of The Geysers, CA",earthquake,0.38,0.5,,2,automatic,nc,nc
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T19:03:15.490Z,61.2426666666667,-151.904666666667,13.48,0.14,ml,5,248,,0.08,av,av91536061,2022-04-12T04:35:18.000Z,"45 km WNW of Beluga, Alaska",earthquake,0.82,1.23,0.168946411522481,5,reviewed,av,av
 2022-04-11T19:02:39.520Z,46.0108333,-112.471,-2,1.35,ml,13,105,0.058,0.08,mb,mb80542834,2022-04-12T18:24:10.490Z,"4 km E of Butte, Montana",quarry blast,0.44,31.61,0.235,6,reviewed,mb,mb
 2022-04-11T18:56:24.110Z,46.98416666666667,-122.214,1.46,1.1300000000000001,ml,20,110,0.00432,0.11,uw,uw61830731,2022-04-11T19:16:32.910Z,"0 km E of Kapowsin, Washington",explosion,0.47,0.41,0.17516281587812865,7,reviewed,uw,uw
-2022-04-11T18:47:37.290Z,37.628,-121.7701667,7.64,0.93,md,17,85,0.01202,0.08,nc,nc73717031,2022-04-12T02:53:22.366Z,"6km S of Livermore, CA",earthquake,0.31,0.44,0.212,11,reviewed,nc,nc
