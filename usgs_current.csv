@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-19T11:46:34.970Z,33.4108315,-116.6214981,6.39,1.91,ml,78,30,0.07752,0.2,ci,ci40240952,2022-04-19T11:50:15.207Z,"14km N of Warner Springs, CA",earthquake,0.21,0.58,0.267,25,automatic,ci,ci
+2022-04-19T11:50:55.930Z,38.8346672,-122.8206635,0.39,0.85,md,8,82,0.01222,0.02,nc,nc73720135,2022-04-19T11:57:31.826Z,"8km NW of The Geysers, CA",earthquake,0.38,1.33,,1,automatic,nc,nc
+2022-04-19T11:46:34.970Z,33.4125,-116.6216667,6.88,1.88,ml,65,37,0.07889,0.21,ci,ci40240952,2022-04-19T11:57:15.060Z,"14km N of Warner Springs, CA",earthquake,0.2,0.71,0.174,26,automatic,ci,ci
 2022-04-19T11:42:58.830Z,38.841835,-122.878334,2.61,0.86,md,8,112,0.007804,0.01,nc,nc73720120,2022-04-19T11:49:35.590Z,"13km ENE of Cloverdale, CA",earthquake,0.42,0.81,0.02,2,automatic,nc,nc
 2022-04-19T11:39:41.050Z,33.6928333,-115.9218333,0.35,1.79,ml,8,224,0.3928,0.33,ci,ci40240944,2022-04-19T11:43:28.994Z,"18km N of North Shore, CA",earthquake,3.57,31.61,0.283,12,automatic,ci,ci
 2022-04-19T11:30:41.070Z,33.1775,-115.6145,1.86,1.19,ml,17,111,0.0009565,0.23,ci,ci40240936,2022-04-19T11:34:21.473Z,"11km WNW of Calipatria, CA",earthquake,0.73,0.36,0.17,18,automatic,ci,ci
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T12:10:41.278Z,38.3597,-118.6567,6,-0.3,ml,6,300.79,0.161,0.094,nn,nn00837408,2022-04-19T02:38:44.459Z,"18 km S of Hawthorne, Nevada",earthquake,,57,0,1,reviewed,nn,nn
 2022-04-18T12:09:33.823Z,39.9551,-120.028,8.2,0.3,ml,3,202.94,0.156,0.052,nn,nn00837407,2022-04-19T02:38:43.653Z,"10 km SE of Doyle, California",earthquake,,11.3,0.13,2,reviewed,nn,nn
 2022-04-18T11:59:34.360Z,44.3286667,-115.1856667,8.76,2.04,ml,11,82,0.825,0.26,mb,mb80543279,2022-04-18T15:33:38.500Z,"23 km WNW of Stanley, Idaho",earthquake,0.6,1.17,0.113,11,reviewed,mb,mb
-2022-04-18T11:54:18.250Z,33.9533333,-116.934,16.85,1.47,ml,49,62,0.05015,0.21,ci,ci40239640,2022-04-18T12:05:35.030Z,"5km ENE of Beaumont, CA",earthquake,0.24,0.59,0.154,29,automatic,ci,ci
