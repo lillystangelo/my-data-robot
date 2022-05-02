@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-02T23:40:02.400Z,33.7003333,-116.7051667,16.89,0.63,ml,15,122,0.01315,0.15,ci,ci40250896,2022-05-02T23:43:42.687Z,"5km SSE of Idyllwild, CA",earthquake,0.41,0.55,0.113,12,automatic,ci,ci
-2022-05-02T23:13:38.280Z,33.9516667,-116.6446667,12.46,1.66,ml,54,35,0.05764,0.18,ci,ci40250872,2022-05-02T23:24:19.410Z,"11km WNW of Garnet, CA",earthquake,0.21,0.51,0.16,25,automatic,ci,ci
+2022-05-02T23:25:56.078Z,-4.9817,144.87,94.4,4.7,mb,,59,7.312,0.71,us,us7000h6qi,2022-05-02T23:49:26.040Z,"105 km WNW of Madang, Papua New Guinea",earthquake,9.8,5.3,0.087,40,reviewed,us,us
+2022-05-02T23:13:38.250Z,33.949,-116.6451667,12.46,1.68,ml,65,32,0.05738,0.13,ci,ci40250872,2022-05-02T23:53:41.950Z,"11km WNW of Garnet, CA",earthquake,0.13,0.33,0.142,25,reviewed,ci,ci
 2022-05-02T22:35:47.300Z,34.0096667,-116.9816667,18.06,0.92,ml,19,140,0.05217,0.1,ci,ci40250840,2022-05-02T22:53:48.506Z,"6km ESE of Yucaipa, CA",earthquake,0.21,0.47,0.043,10,reviewed,ci,ci
 2022-05-02T22:34:50.310Z,18.0268333333333,-66.8521666666667,15.73,2.39,md,10,121,,0.15,pr,pr71347148,2022-05-02T22:46:28.550Z,"0 km SSW of Yauco, Puerto Rico",earthquake,0.56,1.02,0.107525550304609,5,reviewed,pr,pr
 2022-05-02T22:31:24.230Z,39.6206665,-122.2166672,14.26,1.89,md,7,175,0.1866,0.05,nc,nc73728466,2022-05-02T22:56:11.948Z,"11km N of Willows, CA",earthquake,1.95,7.72,0.09,5,automatic,nc,nc
@@ -210,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T00:08:25.240Z,54.1171666666667,-165.958166666667,8.47,-0.01,ml,8,75,,0.32,av,av91549226,2022-05-02T18:37:29.450Z,"11 km W of Akutan, Alaska",earthquake,0.7,1.46,0.367932004102568,7,reviewed,av,av
 2022-05-02T00:05:33.650Z,38.796833,-122.81633,3.25,0.85,md,14,92,0.0134,0.02,nc,nc73727921,2022-05-02T00:50:14.886Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.71,0.3,3,automatic,nc,nc
 2022-05-02T00:03:38.260Z,38.7961655,-122.8150024,2.97,1.39,md,29,71,0.01217,0.03,nc,nc73727916,2022-05-02T02:57:11.598Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.38,0.02,7,automatic,nc,nc
-2022-05-01T23:53:28.050Z,38.8361664,-122.8036652,2.33,0.89,md,18,58,0.01064,0.02,nc,nc73727906,2022-05-02T00:17:17.686Z,"7km WNW of Cobb, CA",earthquake,0.25,0.59,0.18,4,automatic,nc,nc
-2022-05-01T23:50:31.630Z,47.0945,-113.3775,12.23,1.81,ml,14,62,0.077,0.18,mb,mb80544609,2022-05-02T14:37:24.850Z,"12 km SE of Seeley Lake, Montana",earthquake,0.38,0.97,0.32,5,reviewed,mb,mb
-2022-05-01T23:49:13.470Z,38.7956657,-122.8160019,3.27,0.56,md,11,97,0.01248,0.01,nc,nc73727901,2022-05-02T00:06:12.630Z,"6km WNW of The Geysers, CA",earthquake,0.39,1.02,0.35,2,automatic,nc,nc
