@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T13:32:32.980Z,37.2268,142.9714,10,4.6,mb,,190,3.855,0.21,us,us7000h8bh,2022-05-10T14:09:10.040Z,"176 km E of Namie, Japan",earthquake,10.3,1.9,0.244,5,reviewed,us,us
 2022-05-10T13:24:00.860Z,37.1651649,-121.5541687,7.72,1.38,md,9,125,0.05777,0.06,nc,nc73731726,2022-05-10T13:40:12.369Z,"10km ENE of Morgan Hill, CA",earthquake,0.69,1.59,0.14,9,automatic,nc,nc
 2022-05-10T13:22:52.450Z,63.1059,-149.584,84.6,1.9,ml,,,,0.4,ak,ak0225z7qkup,2022-05-10T13:27:30.536Z,"45 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-10T13:18:10.929Z,-17.2148,167.6145,10,5.7,mww,,63,1.801,0.66,us,us7000h8bc,2022-05-10T13:49:20.632Z,"94 km NW of Port-Vila, Vanuatu",earthquake,4,1.8,0.098,10,reviewed,us,us
+2022-05-10T13:18:10.914Z,-17.2194,167.6107,10,5.6,mww,,63,1.805,0.65,us,us7000h8bc,2022-05-10T14:34:56.532Z,"94 km NW of Port-Vila, Vanuatu",earthquake,7.5,1.8,0.093,11,reviewed,us,us
 2022-05-10T13:13:45.293Z,60.8007,-151.1641,64,1.2,ml,,,,0.04,ak,ak0225z7omv5,2022-05-10T13:16:29.716Z,"14 km NNE of Nikiski, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2022-05-10T13:07:29.420Z,17.9648333333333,-66.8325,11.27,2.57,md,16,168,,0.14,pr,pr71348258,2022-05-10T13:33:05.150Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.4,0.53,0.0533452713653892,8,reviewed,pr,pr
 2022-05-10T13:06:17.677Z,61.5642,-141.0936,1.4,1.7,ml,,,,0.32,ak,ak0225z7n2px,2022-05-10T13:18:16.219Z,"98 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -83,12 +83,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T05:02:41.964Z,38.1861,-117.8812,8.5,1.1,ml,9,179.68,0.077,0.1237,nn,nn00838593,2022-05-10T05:06:42.818Z,"30 km SE of Mina, Nevada",earthquake,,0.9,0.55,5,automatic,nn,nn
 2022-05-10T04:59:21.714Z,38.1447,-118.0037,1.8,1,ml,10,122.66,0.035,0.1409,nn,nn00838592,2022-05-10T05:03:22.975Z,"28 km SSE of Mina, Nevada",earthquake,,0.6,0.48,6,automatic,nn,nn
 2022-05-10T04:55:45.670Z,38.8333321,-122.8014984,0.08,0.46,md,15,52,0.01008,0.02,nc,nc73731596,2022-05-10T07:06:09.910Z,"7km W of Cobb, CA",earthquake,0.2,0.69,0.39,2,automatic,nc,nc
+2022-05-10T04:41:01.870Z,44.3451667,-115.2056667,10.86,2.07,ml,14,83,0.838,0.28,mb,mb80545459,2022-05-10T14:42:16.830Z,"25 km WNW of Stanley, Idaho",earthquake,0.62,1.11,0.201,13,reviewed,mb,mb
+2022-05-10T04:30:53.170Z,44.2665,-115.2105,11.68,2.01,ml,13,85,0.849,0.24,mb,mb80545449,2022-05-10T14:32:54.400Z,"22 km WNW of Stanley, Idaho",earthquake,0.62,1.62,0.181,14,reviewed,mb,mb
 2022-05-10T04:28:46.140Z,33.432,-116.4206667,5.58,0.63,ml,19,54,0.09126,0.22,ci,ci40255336,2022-05-10T04:32:23.989Z,"20km NNW of Borrego Springs, CA",earthquake,0.36,1.86,0.157,14,automatic,ci,ci
 2022-05-10T04:12:55.103Z,31.5978,-103.9652,2.37,2.6,ml,,54,0.241,0.61,us,us7000h89b,2022-05-10T05:58:52.632Z,"35 km NNW of Toyah, Texas",earthquake,4.6,6,0.045,66,reviewed,us,us
 2022-05-10T04:11:01.270Z,36.139,-118.2378333,3.36,1.69,ml,23,71,0.3105,0.18,ci,ci40255328,2022-05-10T04:14:39.468Z,"26km SW of Olancha, CA",earthquake,0.34,2.65,0.169,22,automatic,ci,ci
 2022-05-10T04:00:49.974Z,61.4393,-146.4547,18.8,1.4,ml,,,,0.37,ak,ak0225z28yka,2022-05-10T04:10:56.946Z,"34 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-10T03:55:48.250Z,38.8325005,-122.8168335,1.3,0.87,md,21,55,0.01051,0.02,nc,nc73731586,2022-05-10T04:12:16.955Z,"8km NW of The Geysers, CA",earthquake,0.18,0.42,0.03,4,automatic,nc,nc
-2022-05-10T03:55:40.714Z,34.1678,-80.7433,5.56,2.9,mb_lg,,37,0.328,0.48,us,us7000h88y,2022-05-10T14:24:02.040Z,"4 km E of Elgin, South Carolina",earthquake,1.4,4.9,0.073,49,reviewed,us,us
+2022-05-10T03:55:40.714Z,34.1678,-80.7433,5.56,2.9,mb_lg,,37,0.328,0.48,us,us7000h88y,2022-05-10T14:40:11.417Z,"4 km E of Elgin, South Carolina",earthquake,1.4,4.9,0.073,49,reviewed,us,us
 2022-05-10T03:46:09.390Z,33.9706667,-116.8413333,12.69,1.03,ml,21,79,0.1415,0.22,ci,ci40255320,2022-05-10T03:49:44.612Z,"6km NNE of Banning, CA",earthquake,0.42,1.12,0.156,29,automatic,ci,ci
 2022-05-10T03:45:05.720Z,38.1603,-117.8628,9.5,1,ml,10,173.99,0.079,0.1588,nn,nn00838591,2022-05-10T03:49:02.668Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.43,5,automatic,nn,nn
 2022-05-10T03:44:33.460Z,34.5066667,-117.805,4.71,2.32,ml,62,32,0.05865,0.24,ci,ci40255312,2022-05-10T03:55:19.500Z,"2km NW of Llano, CA",earthquake,0.23,1.31,0.182,26,automatic,ci,ci
@@ -142,6 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T21:57:11.780Z,33.0418333,-116.355,10.6,1.82,ml,63,43,0.09721,0.19,ci,ci40255208,2022-05-09T22:07:38.480Z,"23km E of Julian, CA",earthquake,0.2,0.55,0.201,25,automatic,ci,ci
 2022-05-09T21:50:20.539Z,36.76516667,-97.83416667,6,2.22,ml,60,88,0.08818269555,0.4,ok,ok2022jbnr,2022-05-10T12:41:18.405Z,"6 km NW of Jefferson, Oklahoma",earthquake,,0.9,0.27,6,reviewed,ok,ok
 2022-05-09T21:46:51.370Z,38.7733345,-122.7356644,1.56,0.89,md,15,124,0.009923,0.04,nc,nc73731456,2022-05-09T22:08:14.815Z,"2km ESE of The Geysers, CA",earthquake,0.32,0.5,0.2,4,automatic,nc,nc
+2022-05-09T21:43:45.520Z,33.044,-116.3466667,13.33,0.92,ml,31,58,0.08373,0.19,ci,ci37416284,2022-05-10T14:31:17.721Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.29,0.7,0.315,5,reviewed,ci,ci
 2022-05-09T21:43:28.950Z,33.0436667,-116.3491667,12.3,1.29,ml,57,34,0.08195,0.21,ci,ci40255184,2022-05-10T14:20:57.675Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.19,0.56,0.16,35,reviewed,ci,ci
 2022-05-09T21:41:52.370Z,33.0465,-116.355,9.46,1.17,ml,39,61,0.1014,0.21,ci,ci40255176,2022-05-10T02:46:09.712Z,"23km E of Julian, CA",earthquake,0.29,0.88,0.196,26,automatic,ci,ci
 2022-05-09T21:41:25.750Z,33.0451667,-116.3533333,11.36,1.18,ml,38,59,0.07814,0.17,ci,ci40255168,2022-05-10T01:10:15.364Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.23,0.45,0.18,17,reviewed,ci,ci
