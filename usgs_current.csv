@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-15T05:58:55.950Z,33.894001,-116.9530029,12.59,1.68,ml,68,39,0.03567,0.16,ci,ci40019255,2022-05-15T06:01:05.349Z,"4km SSE of Beaumont, CA",earthquake,0.19,0.49,0.317,26,automatic,ci,ci
+2022-05-15T05:56:29.280Z,38.8103333,-122.7871704,-0.24,0.84,md,8,96,0.005849,0.04,nc,nc73733906,2022-05-15T05:58:02.799Z,"4km NW of The Geysers, CA",earthquake,0.3,0.7,,1,automatic,nc,nc
+2022-05-15T05:49:53.130Z,35.3356667,-118.5135,3.1,1.17,ml,17,78,0.0878,0.17,ci,ci40019247,2022-05-15T05:53:28.534Z,"23km NNW of Tehachapi, CA",earthquake,0.4,0.51,0.166,16,automatic,ci,ci
 2022-05-15T05:10:53.380Z,19.2171669006348,-155.390502929688,31.4200000762939,1.73000002,md,29,161,,0.119999997,hv,hv73012777,2022-05-15T05:14:11.200Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,0.74000001,0.860000014,3,automatic,hv,hv
 2022-05-15T05:04:40.547Z,61.649,-146.3741,32.6,1.3,ml,,,,0.74,ak,ak02267cjyo5,2022-05-15T05:14:33.051Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-15T04:52:07.780Z,33.5961667,-116.8151667,13.14,0.63,ml,27,42,0.0427,0.1,ci,ci40019215,2022-05-15T04:55:41.252Z,"14km WNW of Anza, CA",earthquake,0.2,0.37,0.124,19,automatic,ci,ci
-2022-05-15T04:45:31.941Z,18.9487,-65.3215,10,2.9,ml,,283,0.874,0.52,us,us6000hl90,2022-05-15T05:00:53.040Z,"71 km N of Culebra, Puerto Rico",earthquake,5.2,2,0.069,28,reviewed,us,us
+2022-05-15T04:45:25.630Z,19.3435,-64.6885,41,3.9,md,19,305,1.1942,0.46,pr,pr2022135001,2022-05-15T05:55:19.169Z,"112 km N of Cruz Bay, U.S. Virgin Islands",earthquake,4.22,20.95,0.11,13,reviewed,pr,pr
 2022-05-15T04:40:21.370Z,38.8263321,-122.814003,1.98,1.41,md,24,74,0.01674,0.02,nc,nc73733901,2022-05-15T04:48:11.026Z,"7km NW of The Geysers, CA",earthquake,0.2,0.39,0.05,5,automatic,nc,nc
 2022-05-15T04:39:33.285Z,60.5734,-152.5961,9,0.8,ml,,,,0.42,ak,ak02267c60kw,2022-05-15T04:55:56.583Z,"70 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-15T04:36:12.080Z,40.4510002,-121.9905014,14.65,1.54,md,6,200,0.1356,0.03,nc,nc73733896,2022-05-15T04:43:11.877Z,"10km WSW of Shingletown, CA",earthquake,0.8,2.96,0.08,5,automatic,nc,nc
@@ -199,6 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T06:37:21.190Z,38.7963333,-122.7493362,2.43,0.45,md,11,95,0.01638,0.03,nc,nc73733501,2022-05-14T08:47:10.759Z,"2km NNE of The Geysers, CA",earthquake,0.35,1.03,0.2,4,automatic,nc,nc
 2022-05-14T06:19:54.350Z,19.3255,-155.203,0.32,2.14,md,47,86,,0.15,hv,hv73011837,2022-05-14T23:14:28.560Z,"13 km SSE of Volcano, Hawaii",earthquake,0.16,0.17,0.160227566735286,19,reviewed,hv,hv
 2022-05-14T06:04:47.200Z,61.3182,-150.3637,43.4,1.8,ml,,,,0.61,ak,ak02265pm2au,2022-05-14T06:32:00.874Z,"21 km WSW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-14T06:01:54.704Z,61.3833,-147.2836,11.5,2.2,ml,,,,1.02,ak,ak02265plfqc,2022-05-14T06:48:48.040Z,"51 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-14T05:55:36.530Z,44.3611667,-115.2145,9.31,1.76,ml,10,83,0.844,0.25,mb,mb80545774,2022-05-14T12:51:19.670Z,"27 km NW of Stanley, Idaho",earthquake,0.75,1.51,0.24,12,reviewed,mb,mb
-2022-05-14T05:52:39.190Z,33.2718333,-116.0005,2.09,0.64,ml,16,101,0.09992,0.2,ci,ci40018383,2022-05-14T05:56:20.110Z,"5km SW of Salton City, CA",earthquake,0.38,0.78,0.106,8,automatic,ci,ci
