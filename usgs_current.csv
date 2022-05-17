@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-17T23:36:48.631Z,38.1246,-118.1086,4.1,2.4,ml,17,51.86,0.118,0.3287,nn,nn00839060,2022-05-17T23:42:15.372Z,"29 km S of Mina, Nevada",earthquake,,0.7,0.33,9,automatic,nn,nn
+2022-05-17T23:32:46.450Z,17.9341666666667,-66.9336666666667,12.01,1.64,md,3,238,,0.02,pr,pr71349198,2022-05-17T23:47:57.580Z,"4 km SSW of Guánica, Puerto Rico",earthquake,2.69,0.87,0.121089084322864,3,reviewed,pr,pr
 2022-05-17T23:17:22.733Z,61.7252,-150.4482,52.1,1.2,ml,,,,0.71,ak,ak0226ayf7dh,2022-05-17T23:21:19.435Z,"20 km N of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-17T23:13:35.020Z,35.0431667,-117.6596667,0.28,1.4,ml,15,75,0.1126,0.27,ci,ci40021519,2022-05-17T23:17:16.594Z,"5km N of Boron, CA",quarry blast,0.9,31.61,0.136,28,automatic,ci,ci
 2022-05-17T22:48:37.900Z,38.8424988,-122.8259964,1.7,0.86,md,10,130,0.008377,0.02,nc,nc73735146,2022-05-17T22:57:11.268Z,"9km WNW of Cobb, CA",earthquake,0.34,1.07,,1,automatic,nc,nc
@@ -27,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T20:33:08.170Z,35.5413333,-118.4318333,3.12,1.2,ml,25,70,0.126,0.15,ci,ci40021415,2022-05-17T21:17:16.399Z,"8km SE of Bodfish, CA",earthquake,0.23,0.74,0.134,9,reviewed,ci,ci
 2022-05-17T20:31:49.290Z,49.1395,-122.1925,-0.68,1.04,md,6,270,0.158,0.4,uw,uw61832337,2022-05-17T21:09:08.920Z,"8 km E of Mission, Canada",explosion,2.13,31.61,0.06099044368364237,4,reviewed,uw,uw
 2022-05-17T20:31:34.540Z,33.5938333,-116.8035,8.14,0.29,ml,20,116,0.03289,0.1,ci,ci40021407,2022-05-17T21:12:09.370Z,"13km WNW of Anza, CA",earthquake,0.24,0.4,0.061,3,reviewed,ci,ci
+2022-05-17T20:29:03.533Z,36.8175,-116.1102,10.2,-0.1,ml,16,67.59,0.016,0.102,nn,nn00839065,2022-05-17T23:54:39.694Z,"47 km NW of Indian Springs, Nevada",earthquake,,1.2,0.28,10,reviewed,nn,nn
 2022-05-17T20:21:41.762Z,-57.7221,-25.6775,60.28,4.6,mb,,69,6.971,0.53,us,us6000hlv6,2022-05-17T21:08:42.040Z,"South Sandwich Islands region",earthquake,10.8,7.6,0.103,34,reviewed,us,us
 2022-05-17T20:17:59.668Z,-22.7803,-66.3488,260.53,4.1,mb,,123,1.696,0.75,us,us6000hlv5,2022-05-17T20:55:20.040Z,"67 km W of Abra Pampa, Argentina",earthquake,13.9,21.3,0.369,2,reviewed,us,us
 2022-05-17T20:14:52.983Z,64.8465,-147.6724,15.4,0.8,ml,,,,0.46,ak,ak0226awmbv6,2022-05-17T20:16:37.941Z,"2 km ENE of Fairbanks, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -35,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T19:46:38.360Z,38.8089981,-122.7748337,1.36,0.84,md,7,115,0.006245,0.02,nc,nc73735101,2022-05-17T19:56:10.052Z,"4km NNW of The Geysers, CA",earthquake,0.51,0.81,,1,automatic,nc,nc
 2022-05-17T19:26:27.200Z,38.8388329,-122.8106689,1.96,0.95,md,22,54,0.01542,0.03,nc,nc73735096,2022-05-17T19:36:09.940Z,"8km WNW of Cobb, CA",earthquake,0.21,0.42,0.08,5,automatic,nc,nc
 2022-05-17T19:19:38.911Z,61.7422,-148.1934,16.9,0.9,ml,,,,0.22,ak,ak0226aw1xqz,2022-05-17T19:23:23.459Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-17T19:08:23.680Z,46.852833333333336,-121.75533333333334,2.04,0.36,ml,10,106,0.02305,0.06,uw,uw61832297,2022-05-17T23:52:34.430Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.66,0.04943470048596274,4,reviewed,uw,uw
 2022-05-17T19:02:32.780Z,34.0485,-117.5266667,16.51,1.15,ml,36,70,0.03455,0.11,ci,ci40021351,2022-05-17T21:06:52.340Z,"6km NW of Glen Avon, CA",earthquake,0.22,0.27,0.088,16,reviewed,ci,ci
 2022-05-17T19:01:57.330Z,34.0533333,-117.5218333,16.95,0.95,ml,26,91,0.0598,0.14,ci,ci40021343,2022-05-17T20:45:52.386Z,"6km NW of Glen Avon, CA",earthquake,0.32,0.43,0.166,9,reviewed,ci,ci
 2022-05-17T18:54:08.750Z,46.285833333333336,-122.70983333333334,-1.04,1.55,ml,11,249,0.1349,0.24,uw,uw61832292,2022-05-17T23:06:58.690Z,"15 km E of Castle Rock, Washington",explosion,1.02,31.61,0.22549041540349668,7,reviewed,uw,uw
@@ -66,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T16:10:16.039Z,62.1734,-150.5377,6.2,0.8,ml,,,,0.79,ak,ak0226au7nqg,2022-05-17T16:13:48.809Z,"22 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-17T16:01:34.719Z,36.20166667,-95.88983333,0,1.35,ml,55,178,0.301440847,0.57,ok,ok2022jpsd,2022-05-17T16:10:42.925Z,"8 km SSW of Owasso, Oklahoma",quarry blast,,0.7,0.21,27,reviewed,ok,ok
 2022-05-17T15:57:34.590Z,61.4299,-150.1935,34.7,1.2,ml,,,,0.71,ak,ak0226atwc6y,2022-05-17T16:01:23.794Z,"13 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-17T15:54:12.280Z,34.063,-117.2701667,4.05,0.96,ml,27,114,0.1409,0.27,ci,ci40021159,2022-05-17T15:57:57.484Z,"2km NNW of Loma Linda, CA",earthquake,0.44,1.92,0.129,25,automatic,ci,ci
+2022-05-17T15:54:12.130Z,34.0598333,-117.2683333,10.63,0.94,ml,20,113,0.1109,0.12,ci,ci40021159,2022-05-17T23:51:15.324Z,"1km NNW of Loma Linda, CA",earthquake,0.27,0.48,0.091,16,reviewed,ci,ci
 2022-05-17T15:51:17.210Z,34.0095,-116.446,7.54,1.56,ml,51,53,0.0753,0.14,ci,ci40021143,2022-05-17T22:23:27.032Z,"7km NE of Desert Hot Springs, CA",earthquake,0.15,0.4,0.195,29,reviewed,ci,ci
 2022-05-17T15:49:12.147Z,53.0416,-167.4846,23.7,2.1,ml,,,,0.4,ak,ak0226atukoy,2022-05-17T17:38:01.667Z,"93 km E of Nikolski, Alaska",earthquake,,10.5,,,reviewed,ak,ak
 2022-05-17T15:44:25.423Z,41.385,-126.1229,10.55,2.6,ml,,261,1.68,0.22,us,us6000hlts,2022-05-17T16:11:29.040Z,"165 km WSW of Crescent City, California",earthquake,10.6,10,0.044,68,reviewed,us,us
