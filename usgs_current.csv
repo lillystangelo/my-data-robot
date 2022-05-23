@@ -135,6 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T02:50:43.660Z,37.4663333,-113.8518333,10.08,1.95,ml,14,92,0.006061,0.15,uu,uu60499292,2022-05-23T13:27:37.180Z,"16 km SW of Enterprise, Utah",earthquake,0.48,0.75,0.109,9,reviewed,uu,uu
 2022-05-23T02:40:42.798Z,63.3215,-145.0369,12.5,0.9,ml,,,,0.28,ak,ak0226kja5rr,2022-05-23T02:42:19.866Z,"38 km NE of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-23T02:39:01.540Z,17.9873333333333,-66.9941666666667,12.82,2.05,md,5,154,,0.03,pr,pr71350183,2022-05-23T04:14:21.590Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.65,0.92,0.0755083329075181,5,reviewed,pr,pr
+2022-05-23T02:22:07.200Z,59.9925,-153.117833333333,4.91,-1.08,ml,5,118,,0.19,av,av91570111,2022-05-23T17:57:55.280Z,"59 km ENE of Pedro Bay, Alaska",earthquake,0.89,1.33,0.149374159940762,5,reviewed,av,av
 2022-05-23T02:12:47.968Z,60.0199,-151.9039,54.3,1.4,ml,,,,0.44,ak,ak0226kj467g,2022-05-23T02:25:09.607Z,"12 km NW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-23T02:01:05.566Z,41.2572,143.0619,30.32,5.5,mww,,95,0.76,0.74,us,us6000hn6m,2022-05-23T13:05:50.947Z,"132 km SSE of Shizunai-furukawachō, Japan",earthquake,5.5,4.2,0.073,18,reviewed,us,us
 2022-05-23T01:52:26.180Z,60.2141,-152.6759,103.9,1.8,ml,,,,0.41,ak,ak0226kir9h4,2022-05-23T02:01:03.524Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T18:25:46.808Z,31.66105747,-104.4531819,4.589086914,2.1,ml,16,73,0.04126934958,0.2,tx,tx2022jzak,2022-05-23T05:45:02.163Z,"57 km S of Whites City, New Mexico",earthquake,1.546926006,1.539877057,0.1,12,reviewed,tx,tx
 2022-05-22T18:20:19.900Z,38.8203333,-122.7806667,1.75,0.23,md,16,50,0.007064,0.02,nc,nc73736706,2022-05-23T09:08:10.663Z,"5km W of Cobb, CA",earthquake,0.29,0.53,0.279,2,reviewed,nc,nc
 2022-05-22T18:18:23.990Z,38.8163338,-122.8184967,2.44,1.17,md,21,49,0.009644,0.03,nc,nc73736701,2022-05-22T21:05:11.672Z,"7km NW of The Geysers, CA",earthquake,0.23,0.51,,1,automatic,nc,nc
-2022-05-22T17:58:40.540Z,35.662,-117.5231667,9.89,1.19,ml,13,149,0.09024,0.18,ci,ci40024231,2022-05-22T18:02:21.748Z,"14km ENE of Ridgecrest, CA",earthquake,0.41,0.94,0.214,15,automatic,ci,ci
