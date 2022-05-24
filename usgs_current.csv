@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-24T10:42:23.780Z,38.748333,-122.7378311,1.86,1.64,md,19,89,0.006831,0.03,nc,nc73737411,2022-05-24T10:51:10.003Z,"4km SSE of The Geysers, CA",earthquake,0.24,0.33,0.06,7,automatic,nc,nc
+2022-05-24T10:42:23.780Z,38.748333,-122.7378311,1.86,1.64,md,19,89,0.006831,0.03,nc,nc73737411,2022-05-24T11:00:15.055Z,"4km SSE of The Geysers, CA",earthquake,0.24,0.33,0.06,7,automatic,nc,nc
 2022-05-24T10:36:20.950Z,35.8798333,-117.6583333,11.47,0.51,ml,9,103,0.06823,0.14,ci,ci40025287,2022-05-24T10:39:56.579Z,"23km ESE of Little Lake, CA",earthquake,0.53,1.32,0.098,5,automatic,ci,ci
 2022-05-24T10:24:44.290Z,33.378,-116.8723333,5.21,0.34,ml,15,93,0.02564,0.15,ci,ci40025271,2022-05-24T10:28:19.103Z,"3km NNW of Palomar Observatory, CA",earthquake,0.43,0.54,0.14,8,automatic,ci,ci
 2022-05-24T10:20:09.520Z,36.102,-117.811,11.18,0.73,ml,10,112,0.03877,0.09,ci,ci40025263,2022-05-24T10:23:44.898Z,"14km ENE of Coso Junction, CA",earthquake,0.28,0.45,0.173,5,automatic,ci,ci
@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T04:10:45.500Z,35.8571667,-117.6736667,7.76,0.88,ml,9,87,0.07442,0.06,ci,ci40025119,2022-05-24T04:14:24.220Z,"23km ESE of Little Lake, CA",earthquake,0.35,0.9,0.13,10,automatic,ci,ci
 2022-05-24T04:09:51.079Z,62.2684,-150.9377,72,1.5,ml,,,,0.45,ak,ak0226m7tqx5,2022-05-24T04:23:41.653Z,"26 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-24T04:00:27.838Z,84.2265,-0.6532,10,5,mb,,58,5.627,1.22,us,us7000hc4h,2022-05-24T04:15:36.040Z,"north of Svalbard",earthquake,9.1,1.9,0.033,286,reviewed,us,us
-2022-05-24T03:59:04.958Z,43.6154,-71.1558,2.85,2.2,mb_lg,,106,0.289,0.37,us,us7000hc47,2022-05-24T10:40:02.856Z,"5 km NE of Wolfeboro, New Hampshire",earthquake,1.7,5.8,0.228,5,reviewed,us,us
+2022-05-24T03:59:04.958Z,43.6154,-71.1558,2.85,2.2,mb_lg,,106,0.289,0.37,us,us7000hc47,2022-05-24T11:06:09.771Z,"5 km NE of Wolfeboro, New Hampshire",earthquake,1.7,5.8,0.228,5,reviewed,us,us
 2022-05-24T03:58:35.650Z,32.1791667,-115.821,0.42,2.07,ml,13,107,0.2046,0.17,ci,ci40025095,2022-05-24T04:02:17.749Z,"50km SSW of Progreso, B.C., MX",earthquake,0.52,31.61,0.182,26,automatic,ci,ci
 2022-05-24T03:52:14.260Z,36.4145012,-120.9938354,6.74,1.88,md,24,109,0.02278,0.16,nc,nc73737301,2022-05-24T06:59:25.565Z,"19km SE of Pinnacles, CA",earthquake,0.45,0.72,0.11,14,automatic,nc,nc
 2022-05-24T03:47:39.301Z,-28.108,-70.9896,46.7,5.2,mb,,97,0.121,0.88,us,us7000hc3l,2022-05-24T04:57:09.116Z,"56 km NNW of Vallenar, Chile",earthquake,5.2,5.7,0.051,125,reviewed,us,us
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T23:19:42.650Z,54.1346666666667,-165.970666666667,2.29,-0.9,ml,7,94,,0.21,av,av91059833,2022-05-24T06:05:26.330Z,"12 km W of Akutan, Alaska",earthquake,0.29,0.98,0.295417913153788,7,reviewed,av,av
 2022-05-23T23:12:40.430Z,33.672,-116.7658333,10.93,0.47,ml,18,125,0.05815,0.1,ci,ci40024991,2022-05-24T00:07:27.242Z,"9km SSW of Idyllwild, CA",earthquake,0.26,0.4,0.086,10,reviewed,ci,ci
 2022-05-23T23:12:39.797Z,61.4627,-149.9803,34.7,2.4,ml,,,,0.7,ak,ak0226kvm95s,2022-05-24T00:28:28.040Z,"6 km SSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-23T23:11:46.034Z,3.7445,128.0982,150.11,4.7,mb,,121,3.042,0.68,us,us7000hc2a,2022-05-24T00:23:23.040Z,"223 km N of Tobelo, Indonesia",earthquake,9.8,8.5,0.072,58,reviewed,us,us
+2022-05-23T23:11:46.034Z,3.7445,128.0982,150.11,4.7,mb,,121,3.042,0.68,us,us7000hc2a,2022-05-24T00:23:23.040Z,"north of Halmahera, Indonesia",earthquake,9.8,8.5,0.072,58,reviewed,us,us
 2022-05-23T23:11:36.050Z,38.796833,-122.7378311,2.06,0.21,md,9,109,0.0136,0.02,nc,nc73737231,2022-05-24T00:20:14.116Z,"3km NE of The Geysers, CA",earthquake,0.44,0.88,0.17,2,automatic,nc,nc
 2022-05-23T23:09:20.060Z,35.0335,-117.6771667,-0.82,1.48,ml,21,59,0.1001,0.15,ci,ci40024983,2022-05-24T00:04:51.992Z,"4km NNW of Boron, CA",quarry blast,0.43,31.61,0.117,28,reviewed,ci,ci
 2022-05-23T23:07:02.820Z,38.7623329,-122.729332,2.14,0.88,md,8,106,0.02421,0.02,nc,nc73737226,2022-05-24T00:08:15.043Z,"3km SE of The Geysers, CA",earthquake,0.86,0.56,,1,automatic,nc,nc
@@ -243,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T11:29:23.008Z,51.4556,-178.447,54.62,4.4,mb,,176,0.427,0.81,us,us6000hn9h,2022-05-23T18:56:17.049Z,"133 km WSW of Adak, Alaska",earthquake,8.4,8.2,0.039,188,reviewed,us,us
 2022-05-23T11:27:54.580Z,33.8686667,-116.196,9.1,0.9,ml,40,134,0.05968,0.2,ci,ci40024551,2022-05-23T23:42:21.580Z,"17km N of Indio, CA",earthquake,0.32,0.67,0.149,24,reviewed,ci,ci
 2022-05-23T11:24:25.230Z,38.838665,-122.8383331,2.01,0.86,md,8,163,0.002224,0.02,nc,nc73737036,2022-05-23T13:11:10.191Z,"10km NW of The Geysers, CA",earthquake,0.67,2.02,,1,automatic,nc,nc
-2022-05-23T10:55:19.263Z,37.38,-117.0897,2.9,1.1,ml,16,109.08,0.158,0.177,nn,nn00839380,2022-05-24T02:39:04.346Z,"38 km SSE of Goldfield, Nevada",earthquake,,3.5,0.97,7,reviewed,nn,nn
-2022-05-23T10:53:12.324Z,37.3777,-117.0866,0,0.3,ml,16,109.11,0.159,0.1619,nn,nn00839376,2022-05-24T02:39:02.923Z,"39 km SSE of Goldfield, Nevada",earthquake,,0,0.94,6,reviewed,nn,nn
-2022-05-23T10:52:26.750Z,17.9596666666667,-67.0911666666667,10.06,2.31,md,10,235,,0.15,pr,pr71350298,2022-05-23T11:14:17.060Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,1.15,0.66,0.074946392749528,8,reviewed,pr,pr
