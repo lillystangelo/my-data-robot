@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-24T09:14:59.612Z,-17.6878,27.4842,10,4.8,mb,,69,2.216,0.63,us,us7000hc68,2022-05-24T09:44:23.040Z,"16 km ESE of Binga, Zimbabwe",earthquake,7.4,1.9,0.121,23,reviewed,us,us
 2022-05-24T09:10:36.110Z,35.6418333,-117.4501667,8.26,0.74,ml,11,168,0.05608,0.12,ci,ci40025247,2022-05-24T09:14:15.537Z,"15km SSW of Searles Valley, CA",earthquake,0.58,0.8,0.084,8,automatic,ci,ci
 2022-05-24T09:09:53.540Z,17.9815,-66.9426666666667,9.9,2.31,md,18,157,,0.17,pr,pr71350458,2022-05-24T09:20:17.120Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.34,0.58,0.0206005867362906,7,reviewed,pr,pr
 2022-05-24T09:02:26.837Z,63.4067,-144.9174,3,1.1,ml,,,,0.42,ak,ak0226mard22,2022-05-24T09:05:46.889Z,"30 km SSW of Dry Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-24T08:41:31.423Z,84.3784,-4.8869,10,4.2,mb,,100,6.55,0.38,us,us7000hc63,2022-05-24T09:36:50.040Z,"north of Svalbard",earthquake,11,1.9,0.07,57,reviewed,us,us
 2022-05-24T08:31:34.780Z,33.3598333,-116.3111667,11.76,0.74,ml,22,106,0.00285,0.16,ci,ci40025239,2022-05-24T08:35:15.341Z,"13km NNE of Borrego Springs, CA",earthquake,0.28,0.54,0.16,17,automatic,ci,ci
 2022-05-24T08:31:23.730Z,38.8251648,-122.7993317,2.67,0.83,md,18,59,0.008575,0.01,nc,nc73737376,2022-05-24T08:47:23.249Z,"6km NW of The Geysers, CA",earthquake,0.28,0.58,0.45,2,automatic,nc,nc
 2022-05-24T08:20:08.180Z,19.199333190918,-155.399673461914,31.3400001525879,2.06,ml,44,159,,0.119999997,hv,hv73021612,2022-05-24T08:25:38.410Z,"8 km E of Pāhala, Hawaii",earthquake,0.65,0.790000021,4.91,3,automatic,hv,hv
@@ -249,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T10:00:37.500Z,36.3915,-89.5725,10.96,1.27,md,17,65,0.01426,0.06,nm,nm60395856,2022-05-23T14:55:35.590Z,"southeastern Missouri",earthquake,0.58,0.73,0.042,8,reviewed,nm,nm
 2022-05-23T09:51:21.310Z,53.869,-166.746666666667,-3.2,-0.25,ml,5,159,,0.09,av,av91059638,2022-05-24T00:36:52.910Z,"13 km W of Dutch Harbor, Alaska",earthquake,0.31,1.11,0.257367664234735,5,reviewed,av,av
 2022-05-23T09:47:42.590Z,33.6945,-116.7975,16.13,0.55,ml,33,85,0.07143,0.19,ci,ci40024503,2022-05-23T21:17:00.859Z,"9km SW of Idyllwild, CA",earthquake,0.26,0.47,0.208,12,reviewed,ci,ci
-2022-05-23T09:41:34.900Z,48.934333333333335,-124.97316666666667,30.1,1.9000000000000001,ml,11,111,0.1466,0.52,uw,uw61834307,2022-05-23T18:30:52.220Z,"36 km SSW of Port Alberni, Canada",earthquake,1.41,3.1,0.056956469124194276,5,reviewed,uw,uw
