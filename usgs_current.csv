@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-04T13:31:14.240Z,33.3923333,-116.8333333,10.61,1.49,ml,56,31,0.04575,0.18,ci,ci40033799,2022-06-04T13:35:03.499Z,"5km NE of Palomar Observatory, CA",earthquake,0.18,0.42,0.182,27,automatic,ci,ci
+2022-06-04T13:17:48.457Z,-57.7133,148.7671,10,6.4,mww,,44,6.545,0.96,us,us7000hexr,2022-06-04T13:36:41.040Z,"west of Macquarie Island",earthquake,9.2,1.8,0.098,10,reviewed,us,us
+2022-06-04T13:07:25.993Z,-17.9656,-174.9389,237.98,6.2,mww,,39,4.751,0.75,us,us7000hexp,2022-06-04T13:36:48.601Z,"126 km NW of Neiafu, Tonga",earthquake,5.7,3.2,0.041,58,reviewed,us,us
 2022-06-04T12:55:43.630Z,33.2351667,-116.6368333,12.01,0.64,ml,18,88,0.03697,0.16,ci,ci40033783,2022-06-04T12:59:29.851Z,"5km S of Warner Springs, CA",earthquake,0.34,0.59,0.162,14,automatic,ci,ci
 2022-06-04T12:32:13.220Z,33.6906667,-116.7071667,15.14,0.43,ml,18,107,0.02126,0.18,ci,ci40033775,2022-06-04T12:35:56.123Z,"6km S of Idyllwild, CA",earthquake,0.52,0.62,0.044,10,automatic,ci,ci
 2022-06-04T12:11:16.787Z,21.7456,121.0261,10,4.4,mb,,81,1.068,0.85,us,us7000hexj,2022-06-04T12:37:11.040Z,"40 km SE of Hengchun, Taiwan",earthquake,7,1.9,0.092,43,reviewed,us,us
