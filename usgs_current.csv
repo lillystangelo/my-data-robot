@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T20:55:20.560Z,33.8791667,-116.6721667,10.44,1.74,ml,55,47,0.0967,0.18,ci,ci40034487,2022-06-05T21:06:13.960Z,"11km ESE of Cabazon, CA",earthquake,0.21,0.45,0.202,26,automatic,ci,ci
 2022-06-05T20:53:57.240Z,18.0561666666667,-66.921,4.92,2.3,md,5,109,,0.21,pr,pr71352583,2022-06-05T21:28:27.280Z,"2 km NW of Lluveras, Puerto Rico",earthquake,0.7,5.12,0.0698743415120457,3,reviewed,pr,pr
 2022-06-05T20:46:09.694Z,63.4998,-151.4091,5.3,2.1,ml,,,,0.64,ak,ak02276c0otx,2022-06-05T20:59:56.528Z,"16 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-05T20:09:09.210Z,38.7686653,-122.6344986,2.5,2.75,md,41,62,0.05915,0.2,nc,nc73740866,2022-06-05T21:48:09.836Z,"2km NW of Middletown, CA",earthquake,0.25,1.44,0.11,45,automatic,nc,nc
+2022-06-05T20:09:09.210Z,38.7686653,-122.6344986,2.5,2.75,md,41,62,0.05915,0.2,nc,nc73740866,2022-06-05T21:51:18.852Z,"2km NW of Middletown, CA",earthquake,0.25,1.44,0.11,45,automatic,nc,nc
 2022-06-05T19:45:38.080Z,18.019,-66.7776666666667,16.71,2.61,md,8,165,,0.15,pr,pr71352568,2022-06-05T20:03:52.020Z,"0 km W of Magas Arriba, Puerto Rico",earthquake,0.6,0.44,0.13298958721496,5,reviewed,pr,pr
 2022-06-05T19:38:45.346Z,59.9452,-151.6944,72.5,1.8,ml,,,,0.42,ak,ak02276bdm8m,2022-06-05T19:41:31.794Z,"2 km E of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-05T19:34:07.931Z,58.7195,-153.6192,68.1,1.3,ml,,,,0.37,ak,ak02276bcohl,2022-06-05T19:36:46.958Z,"84 km NNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -167,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T22:13:24.164Z,63.6822,-149.4983,5.8,1.3,ml,,,,0.43,ak,ak02274ph60v,2022-06-04T22:15:42.117Z,"29 km WSW of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-04T22:12:46.600Z,34.28,-117.0658333,0.89,1.01,ml,14,89,0.1214,0.23,ci,ci40033999,2022-06-04T22:16:28.082Z,"9km NNE of Running Springs, CA",earthquake,0.56,0.85,0.178,16,automatic,ci,ci
 2022-06-04T22:07:32.209Z,59.3137,-152.3221,63.2,1.3,ml,,,,0.22,ak,ak02274pfwcj,2022-06-04T22:18:25.467Z,"23 km WSW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-06-04T22:00:59.780Z,33.5818333,-116.8066667,8.27,0.62,ml,17,119,0.03745,0.14,ci,ci40033991,2022-06-04T22:04:31.572Z,"13km WNW of Anza, CA",earthquake,0.38,0.62,0.121,12,automatic,ci,ci
-2022-06-04T21:56:34.200Z,35.989666,-120.5473328,3.02,0.99,md,5,190,0.01559,0.03,nc,nc73740661,2022-06-04T22:28:13.638Z,"14km NW of Parkfield, CA",earthquake,1.31,1.72,0.93,2,automatic,nc,nc
