@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-05T22:40:45.590Z,63.8518,-149.1024,98.2,1.4,ml,,,,3.5,ak,ak02276d6ci7,2022-06-05T22:42:50.906Z,"6 km W of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-05T22:12:02.892Z,6.0297,125.9996,130.55,4.6,mb,,47,1.114,0.97,us,us7000hf7s,2022-06-05T22:28:59.040Z,"33 km E of Lamitan, Philippines",earthquake,9,6.8,0.053,105,reviewed,us,us
 2022-06-05T21:38:17.620Z,60.8264,-151.6899,80,1.8,ml,,,,0.55,ak,ak02276ckfb6,2022-06-05T21:40:46.371Z,"26 km NW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-05T21:36:03.900Z,33.485,-116.7586667,6.6,1.54,ml,54,30,0.04425,0.21,ci,ci40034503,2022-06-05T21:46:47.970Z,"11km ENE of Aguanga, CA",earthquake,0.19,0.49,0.211,26,automatic,ci,ci
