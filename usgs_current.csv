@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-05T22:44:37.480Z,40.996666,-123.690834,23.53,2.27,md,7,158,0.1258,0.04,nc,nc73740886,2022-06-05T22:53:28.269Z,"8km NW of Willow Creek, CA",earthquake,0.84,1.23,0.17,6,automatic,nc,nc
 2022-06-05T22:40:45.590Z,63.8518,-149.1024,98.2,1.4,ml,,,,3.5,ak,ak02276d6ci7,2022-06-05T22:42:50.906Z,"6 km W of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-05T22:12:02.892Z,6.0297,125.9996,130.55,4.6,mb,,47,1.114,0.97,us,us7000hf7s,2022-06-05T22:28:59.040Z,"33 km E of Lamitan, Philippines",earthquake,9,6.8,0.053,105,reviewed,us,us
 2022-06-05T21:38:17.620Z,60.8264,-151.6899,80,1.8,ml,,,,0.55,ak,ak02276ckfb6,2022-06-05T21:40:46.371Z,"26 km NW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -163,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T23:15:41.628Z,39.4423,-120.2902,9.6,0.9,ml,9,126.33,0.023,0.166,nn,nn00840355,2022-06-05T15:56:45.174Z,"Northern California",earthquake,,2.9,0.31,5,reviewed,nn,nn
 2022-06-04T23:04:49.501Z,59.7722,-151.9243,67.9,1.4,ml,,,,0.36,ak,ak02274q0q5t,2022-06-04T23:20:10.370Z,"5 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-04T23:04:19.175Z,64.9857,-147.4313,4.7,1,ml,,,,0.73,ak,ak02274q0nsa,2022-06-04T23:17:25.699Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-04T22:46:01.550Z,19.1983337402344,-155.395660400391,30.2099990844727,1.97000003,md,42,163,,0.100000001,hv,hv73033922,2022-06-04T22:49:05.200Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,1.00999999,0.140000001,13,automatic,hv,hv
