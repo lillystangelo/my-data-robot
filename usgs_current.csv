@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-07T10:44:51.150Z,33.478,-116.4915,10.28,0.41,ml,16,134,0.08588,0.19,ci,ci40035399,2022-06-07T10:48:26.309Z,"19km ESE of Anza, CA",earthquake,0.51,0.93,0.054,6,automatic,ci,ci
 2022-06-07T10:19:16.130Z,34.0625,-117.251,12.46,0.9,ml,33,48,0.1242,0.2,ci,ci40035391,2022-06-07T10:23:03.151Z,"2km NNE of Loma Linda, CA",earthquake,0.26,1.09,0.126,25,automatic,ci,ci
 2022-06-07T10:11:42.449Z,62.0998,-152.158,108.6,1.8,ml,,,,0.59,ak,ak02279gxm84,2022-06-07T10:14:48.401Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-07T09:48:58.310Z,40.2943344,-124.4905014,12.95,2.96,md,13,264,0.1601,0.07,nc,nc73741131,2022-06-07T10:39:16.920Z,"18km W of Petrolia, CA",earthquake,1.51,0.8,0.05,12,automatic,nc,nc
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T11:30:34.230Z,36.1788333,-91.3231667,12.35,1.95,md,6,205,0.1748,0.09,nm,nm60152243,2022-06-06T13:43:26.650Z,"8 km SSE of Williford, Arkansas",earthquake,0.46,0.76,0.147,6,reviewed,nm,nm
 2022-06-06T11:19:49.790Z,60.9481,-142.7771,30.2,0.8,ml,,,,0.32,ak,ak02277u1fmr,2022-06-06T11:22:29.970Z,"54 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-06T11:14:06.200Z,38.8300018,-122.8069992,2.12,1.68,md,9,126,0.02382,0.05,nc,nc73740971,2022-06-06T11:46:11.843Z,"7km NW of The Geysers, CA",earthquake,0.39,0.64,0.09,10,automatic,nc,nc
-2022-06-06T10:51:43.746Z,38.5387,-119.5525,6.5,0.2,ml,7,120.23,0.054,0.1244,nn,nn00840453,2022-06-07T02:38:11.894Z,"5 km SW of Coleville, California",earthquake,,2.4,0.48,3,reviewed,nn,nn
