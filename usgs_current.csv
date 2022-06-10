@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-10T11:42:36.300Z,19.1441669464111,-155.380661010742,30.9099998474121,2.25,md,47,180,,0.119999997,hv,hv73039997,2022-06-10T11:48:14.400Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.6,0.779999971,1.38,24,automatic,hv,hv
+2022-06-10T11:42:36.300Z,19.1441669464111,-155.380661010742,30.9099998474121,2.25,md,47,180,,0.119999997,hv,hv73039997,2022-06-10T11:52:02.250Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.6,0.779999971,1.38,24,automatic,hv,hv
 2022-06-10T11:40:57.648Z,62.9037,-148.3618,62.2,1.2,ml,,,,0.87,ak,ak0227egbc90,2022-06-10T11:43:01.970Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-10T11:33:00.510Z,36.5486679,-121.0944977,2.84,2.23,md,14,107,0.05331,0.14,nc,nc73743616,2022-06-10T11:45:18.279Z,"5km ENE of Pinnacles, CA",earthquake,0.35,0.99,0.1,13,automatic,nc,nc
 2022-06-10T11:21:17.937Z,39.0874,-119.0234,1.4,0.8,ml,11,120.18,0.197,0.2358,nn,nn00840710,2022-06-10T11:25:43.615Z,"16 km NE of Yerington, Nevada",earthquake,,5.9,0.36,6,automatic,nn,nn
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T09:36:57.020Z,34.0098333,-117.038,20.6,0.65,ml,19,98,0.119,0.29,ci,ci40037815,2022-06-10T09:40:34.056Z,"3km S of Yucaipa, CA",earthquake,0.61,2.13,0.233,8,automatic,ci,ci
 2022-06-10T09:32:40.614Z,63.5187,-150.7533,6.3,1.9,ml,,,,0.61,ak,ak0227ef2pzx,2022-06-10T09:34:52.729Z,"48 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-10T09:25:42.790Z,19.542667388916,-155.658493041992,0.349999994039536,1.71000004,md,24,161,,0.310000002,hv,hv73039887,2022-06-10T09:31:14.000Z,"23 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,1.16,0.519999981,0.850000024,3,automatic,hv,hv
-2022-06-10T09:09:03.170Z,38.8148346,-122.8059998,1.76,1.24,md,23,40,0.009121,0.02,nc,nc73743581,2022-06-10T09:43:16.606Z,"6km NW of The Geysers, CA",earthquake,0.2,0.39,0.11,5,automatic,nc,nc
+2022-06-10T09:09:03.170Z,38.8148346,-122.8059998,1.76,1.24,md,23,40,0.009121,0.02,nc,nc73743581,2022-06-10T11:55:15.346Z,"6km NW of The Geysers, CA",earthquake,0.2,0.39,0.11,5,automatic,nc,nc
 2022-06-10T08:58:29.300Z,35.7718333,-118.0001667,17.15,0.64,ml,7,140,0.1038,0.15,ci,ci40037799,2022-06-10T09:01:58.608Z,"20km SSW of Little Lake, CA",earthquake,0.78,2.01,0.11,6,automatic,ci,ci
 2022-06-10T08:53:29.120Z,38.8183327,-122.7963333,3.25,0.97,md,21,43,0.01038,0.02,nc,nc73743576,2022-06-10T09:10:15.391Z,"6km NW of The Geysers, CA",earthquake,0.26,0.52,0.08,3,automatic,nc,nc
 2022-06-10T08:51:49.261Z,62.4132,-148.5641,33,2.1,ml,,,,0.57,ak,ak0227eeldny,2022-06-10T08:53:39.909Z,"68 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
