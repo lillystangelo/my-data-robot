@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-10T09:43:33.130Z,19.1876659393311,-155.484329223633,32.8699989318848,2.21000004,md,43,74,,0.140000001,hv,hv73039907,2022-06-10T09:46:48.320Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.57,0.779999971,1.82000005,18,automatic,hv,hv
 2022-06-10T09:41:53.450Z,19.1958332061768,-155.395172119141,32.0699996948242,1.83000004,md,42,161,,0.119999997,hv,hv73039902,2022-06-10T09:45:01.290Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.889999986,1.38,6,automatic,hv,hv
 2022-06-10T09:36:57.020Z,34.0098333,-117.038,20.6,0.65,ml,19,98,0.119,0.29,ci,ci40037815,2022-06-10T09:40:34.056Z,"3km S of Yucaipa, CA",earthquake,0.61,2.13,0.233,8,automatic,ci,ci
 2022-06-10T09:32:40.614Z,63.5187,-150.7533,6.3,1.9,ml,,,,0.61,ak,ak0227ef2pzx,2022-06-10T09:34:52.729Z,"48 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T01:40:21.452Z,34.8578,33.8272,45.22,5,mww,,49,0.42,1.04,us,us7000hgcl,2022-06-10T09:30:27.748Z,"13 km S of Xylofágou, Cyprus",earthquake,6.2,5.8,0.075,17,reviewed,us,us
 2022-06-10T01:15:47.100Z,38.8131676,-122.8199997,2.55,0.5,md,16,55,0.01282,0.02,nc,nc73743461,2022-06-10T03:05:22.166Z,"7km NW of The Geysers, CA",earthquake,0.27,0.72,0.36,2,automatic,nc,nc
 2022-06-10T01:11:23.800Z,18.8913333333333,-67.2791666666667,8.19,3.14,md,17,224,,0.34,pr,pr71353303,2022-06-10T01:46:04.690Z,"48 km NNW of San Antonio, Puerto Rico",earthquake,0.84,1.1,0.109068474358215,8,reviewed,pr,pr
-2022-06-10T01:08:29.986Z,60.1936,-152.7018,113.7,1.4,ml,,,,0.31,ak,ak0227ea635i,2022-06-10T01:10:33.906Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-10T01:08:29.986Z,60.1936,-152.7018,113.7,1.4,ml,,,,0.31,ak,ak0227ea635i,2022-06-10T01:10:33.906Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-10T00:58:44.244Z,62.5333,-151.8511,98.5,1.4,ml,,,,0.26,ak,ak0227e9veg8,2022-06-10T01:01:18.764Z,"56 km W of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-06-10T00:42:37.763Z,38.4013,-118.6995,3.8,0.7,ml,8,180.27,0.214,0.2131,nn,nn00840706,2022-06-10T00:46:37.548Z,"15 km SSW of Hawthorne, Nevada",earthquake,,22.6,0.28,5,automatic,nn,nn
 2022-06-10T00:20:56.870Z,53.5247,-163.0055,10,3.4,ml,,208,1.356,0.29,us,us7000hgce,2022-06-10T00:38:52.040Z,"150 km S of False Pass, Alaska",earthquake,4.7,2,0.077,22,reviewed,us,us
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T10:17:24.420Z,38.7868347,-122.7770004,2.19,0.36,md,7,125,0.01063,0.02,nc,nc73743256,2022-06-09T11:55:10.601Z,"2km WNW of The Geysers, CA",earthquake,0.59,1.41,,1,automatic,nc,nc
 2022-06-09T10:04:34.770Z,46.8815,-112.53,10.29,1.32,ml,21,64,0.055,0.23,mb,mb80548289,2022-06-09T14:57:14.580Z,"14 km SE of Lincoln, Montana",earthquake,0.51,0.7,0.134,7,reviewed,mb,mb
 2022-06-09T09:59:41.755Z,40.0753,-119.7486,15.4,0.1,ml,5,134.94,0.096,0.1219,nn,nn00840668,2022-06-10T02:38:27.495Z,"18 km NW of Sutcliffe, Nevada",earthquake,,2.5,0.46,3,reviewed,nn,nn
-2022-06-09T09:50:44.030Z,47.5566667,-114.6506667,5.98,0.01,ml,5,143,0.216,0.12,mb,mb80548309,2022-06-09T16:55:25.120Z,"5 km SSE of Hot Springs, Montana",earthquake,0.51,7.19,,0,reviewed,mb,mb
