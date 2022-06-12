@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T23:49:09.820Z,38.8188324,-122.7813339,10.2,0.86,md,5,137,0.005588,0.02,nc,nc73744546,2022-06-12T23:50:45.226Z,"5km W of Cobb, CA",earthquake,2.46,8.28,,1,automatic,nc,nc
 2022-06-12T23:30:33.392Z,31.652,-104.4967,5,2.5,ml,,74,0.016,0.44,us,us7000hh00,2022-06-12T23:39:43.040Z,"59 km S of Whites City, New Mexico",earthquake,1.1,1.9,0.048,58,reviewed,us,us
 2022-06-12T23:20:10.850Z,35.0275,-117.6746667,0.28,1.49,ml,19,88,0.09458,0.29,ci,ci40039031,2022-06-12T23:23:53.685Z,"4km NW of Boron, CA",quarry blast,0.77,31.61,0.116,32,automatic,ci,ci
 2022-06-12T22:54:52.720Z,18.036,-66.8248333333333,15.45,2.32,md,6,141,,0.14,pr,pr71353823,2022-06-12T23:09:06.360Z,"2 km E of Yauco, Puerto Rico",earthquake,0.55,1.17,0.161335859404834,5,reviewed,pr,pr
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T00:08:39.350Z,18.0975,-66.7188333333333,18.07,2.01,md,8,116,,0.13,pr,pr71353618,2022-06-12T00:33:59.430Z,"4 km N of Peñuelas, Puerto Rico",earthquake,0.4,1.24,0.132209612993088,6,reviewed,pr,pr
 2022-06-11T23:57:36.730Z,47.79066666666667,-123.32416666666667,38.57,2.85,ml,35,56,0.2148,0.21,uw,uw61850651,2022-06-12T14:11:22.067Z,"33 km W of Quilcene, Washington",earthquake,0.5,0.94,0.21020770028741653,6,reviewed,uw,uw
 2022-06-11T23:55:32.350Z,-8.3459,111.4605,111.51,5,mb,,73,1.023,0.95,us,us7000hgtm,2022-06-12T01:27:21.185Z,"40 km SW of Trenggalek, Indonesia",earthquake,7.7,6.5,0.069,69,reviewed,us,us
-2022-06-11T23:47:14.165Z,62.5809,-151.0783,80.6,1.4,ml,,,,0.54,ak,ak0227gb1ans,2022-06-11T23:49:37.486Z,"18 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
