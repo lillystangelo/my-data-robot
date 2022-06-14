@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T08:12:50.224Z,61.9505,-148.6955,33.1,1.2,ml,,,,0.73,ak,ak0227l0iese,2022-06-14T08:15:25.036Z,"19 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-14T08:04:01.880Z,33.9693333,-118.7241667,14.07,1.45,ml,7,233,0.07711,0.15,ci,ci40039863,2022-06-14T08:07:49.917Z,"8km SSW of Malibu Beach, CA",earthquake,0.89,1.14,0.276,31,automatic,ci,ci
 2022-06-14T08:02:06.454Z,60.0814,-152.78,88.7,0.9,ml,,,,0.56,ak,ak0227l0g691,2022-06-14T08:04:07.610Z,"60 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-14T07:59:22.215Z,31.7174,-104.5665,5,3.1,ml,,72,0.074,0.3,us,us7000hh93,2022-06-14T08:10:39.040Z,"53 km SSW of Whites City, New Mexico",earthquake,1.6,1.9,0.045,66,reviewed,us,us
+2022-06-14T07:59:22.586Z,31.72076869,-104.5221571,5.206079102000001,2.9,ml,17,103,0.03294759216,0.2,tx,tx2022logi,2022-06-14T08:19:59.713Z,"52 km SSW of Whites City, New Mexico",earthquake,1.358067114,0.7802642664,0.2,10,reviewed,tx,tx
 2022-06-14T07:44:01.910Z,17.9743333333333,-66.9901666666667,8.78,1.77,md,6,174,,0.07,pr,pr71353998,2022-06-14T07:52:16.060Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.44,0.82,0.0315026281688884,3,reviewed,pr,pr
 2022-06-14T07:35:44.771Z,36.4812,71.1634,207.9,4.9,mb,,72,0.797,1,us,us7000hh92,2022-06-14T08:01:48.514Z,"39 km SW of Ashkāsham, Afghanistan",earthquake,6.8,5.4,0.038,219,reviewed,us,us
 2022-06-14T07:32:39.550Z,38.783165,-122.75,-0.05,0.86,md,9,112,0.01038,0.02,nc,nc73745201,2022-06-14T08:08:14.209Z,"1km NE of The Geysers, CA",earthquake,0.3,0.79,,1,automatic,nc,nc
@@ -216,8 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T08:44:14.740Z,18.6508333333333,-66.4793333333333,63.27,2.79,md,14,227,,0.22,pr,pr71353888,2022-06-13T09:40:26.340Z,"20 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.29,1.5,0.0603519192156541,10,reviewed,pr,pr
 2022-06-13T08:42:45.570Z,38.8139992,-122.8216629,2.42,0.99,md,17,68,0.007793,0.03,nc,nc73744866,2022-06-13T10:58:10.854Z,"7km NW of The Geysers, CA",earthquake,0.3,0.62,0.09,3,automatic,nc,nc
 2022-06-13T08:41:44.260Z,33.5071667,-116.4488333,4.1,0.53,ml,19,126,0.1046,0.17,ci,ci40039279,2022-06-13T16:19:21.467Z,"22km ESE of Anza, CA",earthquake,0.32,0.71,0.13,10,reviewed,ci,ci
-2022-06-13T08:36:37.210Z,33.6665,-116.7341667,13.62,0.69,ml,17,100,0.05098,0.15,ci,ci40039263,2022-06-13T13:16:30.795Z,"8km S of Idyllwild, CA",earthquake,0.41,0.57,0.204,14,reviewed,ci,ci
-2022-06-13T08:34:34.110Z,35.9121667,-117.6771667,7.08,0.96,ml,10,136,0.116,0.13,ci,ci40039271,2022-06-13T16:12:43.093Z,"21km E of Little Lake, CA",earthquake,0.36,1.06,0.156,5,reviewed,ci,ci
-2022-06-13T08:30:27.420Z,35.8783333,-117.6953333,3.85,1.05,ml,9,117,0.08967,0.1,ci,ci40039255,2022-06-13T16:07:35.762Z,"20km ESE of Little Lake, CA",earthquake,0.23,0.88,0.195,3,reviewed,ci,ci
-2022-06-13T08:26:17.823Z,60.863,-152.3652,103.2,0.7,ml,,,,0.62,ak,ak0227jd1zty,2022-06-13T08:29:30.181Z,"61 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-06-13T08:24:20.130Z,51.9933333333333,-174.071333333333,29.94,2.02,ml,5,338,,0.19,av,av91597971,2022-06-14T00:05:35.520Z,"24 km SSE of Atka, Alaska",earthquake,4.65,2.65,0.134957314126006,4,reviewed,av,av
