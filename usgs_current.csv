@@ -8,7 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T07:32:39.550Z,38.783165,-122.75,-0.05,0.86,md,9,112,0.01038,0.02,nc,nc73745201,2022-06-14T08:08:14.209Z,"1km NE of The Geysers, CA",earthquake,0.3,0.79,,1,automatic,nc,nc
 2022-06-14T07:29:51.840Z,33.8195,-116.9995,12.32,0.68,ml,19,86,0.1111,0.23,ci,ci40039855,2022-06-14T07:33:25.740Z,"6km NW of San Jacinto, CA",earthquake,0.41,1.16,0.086,15,automatic,ci,ci
 2022-06-14T07:01:36.560Z,18.0038333333333,-66.9991666666667,12.77,1.88,md,3,191,,0.05,pr,pr71353988,2022-06-14T07:39:48.640Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,2.23,1.17,0.0298048809060363,3,reviewed,pr,pr
-2022-06-14T06:51:21.130Z,40.3561668,-123.8430023,28.7,1.73,md,7,219,0.1108,0.05,nc,nc73745191,2022-06-14T07:25:13.966Z,"26km N of Redway, CA",earthquake,1.68,2.3,0.08,6,automatic,nc,nc
+2022-06-14T06:57:20.487Z,31.0498881,-103.6198607,3.997802734,2.2,ml,11,76,0.1818242505,0.2,tx,tx2022loeh,2022-06-14T08:44:11.520Z,"13 km ENE of Balmorhea, Texas",earthquake,1.492273919,4.18903153,0.2,8,reviewed,tx,tx
+2022-06-14T06:51:21.130Z,40.3561668,-123.8430023,28.7,1.73,md,7,219,0.1108,0.05,nc,nc73745191,2022-06-14T08:47:11.441Z,"26km N of Redway, CA",earthquake,1.68,2.3,0.08,6,automatic,nc,nc
 2022-06-14T06:50:27.530Z,17.9671666666667,-66.9188333333333,7.2,2.18,md,3,194,,0.11,pr,pr71353983,2022-06-14T07:16:54.250Z,"1 km WSW of Guánica, Puerto Rico",earthquake,4.34,0.54,0.0280018714724952,3,reviewed,pr,pr
 2022-06-14T06:47:13.410Z,38.8333321,-122.8054962,1.49,0.85,md,9,67,0.01055,0.01,nc,nc73745186,2022-06-14T07:17:19.926Z,"7km W of Cobb, CA",earthquake,0.36,1.36,,1,automatic,nc,nc
 2022-06-14T06:42:14.800Z,38.8134995,-122.7626648,2.03,0.86,md,12,107,0.01306,0.02,nc,nc73745181,2022-06-14T07:06:15.868Z,"4km WSW of Cobb, CA",earthquake,0.36,0.76,0.01,2,automatic,nc,nc
@@ -212,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T09:04:28.946Z,51.5959,-178.4835,14.1,1,ml,,,,0.06,ak,ak0227jdiqj2,2022-06-13T16:13:45.281Z,"131 km WSW of Adak, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-13T08:57:15.080Z,38.829834,-122.8010025,3.45,0.85,md,10,126,0.009568,0.02,nc,nc73744876,2022-06-13T09:37:17.363Z,"7km W of Cobb, CA",earthquake,1.06,1.44,,1,automatic,nc,nc
 2022-06-13T08:56:21.150Z,38.8048325,-122.8101654,2.35,1.56,md,31,58,0.01203,0.05,nc,nc73744871,2022-06-13T11:25:11.014Z,"6km WNW of The Geysers, CA",earthquake,0.18,0.31,0.08,9,automatic,nc,nc
-2022-06-13T08:45:59.110Z,55.8123,-158.1468,81.9,2.3,ml,,,,0.58,ak,ak0227jd65lz,2022-06-13T09:26:26.040Z,"56 km SSE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2022-06-13T08:44:14.740Z,18.6508333333333,-66.4793333333333,63.27,2.79,md,14,227,,0.22,pr,pr71353888,2022-06-13T09:40:26.340Z,"20 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.29,1.5,0.0603519192156541,10,reviewed,pr,pr
-2022-06-13T08:42:45.570Z,38.8139992,-122.8216629,2.42,0.99,md,17,68,0.007793,0.03,nc,nc73744866,2022-06-13T10:58:10.854Z,"7km NW of The Geysers, CA",earthquake,0.3,0.62,0.09,3,automatic,nc,nc
-2022-06-13T08:41:44.260Z,33.5071667,-116.4488333,4.1,0.53,ml,19,126,0.1046,0.17,ci,ci40039279,2022-06-13T16:19:21.467Z,"22km ESE of Anza, CA",earthquake,0.32,0.71,0.13,10,reviewed,ci,ci
