@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-14T06:01:50.250Z,37.58,-118.8471667,5.62,0.18,md,7,262,0.01749,0.01,nc,nc73745166,2022-06-14T06:29:12.665Z,"13km ESE of Mammoth Lakes, CA",earthquake,1.77,2.68,0.235,6,reviewed,nc,nc
 2022-06-14T05:28:20.140Z,34.8743333,-117.3693333,4.94,1.2,ml,9,133,0.1484,0.1,ci,ci40039839,2022-06-14T05:31:54.853Z,"29km ESE of Boron, CA",earthquake,1.08,3.64,0.158,18,automatic,ci,ci
 2022-06-14T05:27:34.330Z,33.8168333,-117.0011667,13.8,2.01,ml,72,23,0.02907,0.21,ci,ci40039831,2022-06-14T05:38:32.810Z,"5km NW of San Jacinto, CA",earthquake,0.2,0.48,0.228,25,automatic,ci,ci
 2022-06-14T05:23:38.145Z,-7.3457,125.8495,490.4,4.8,mb,,38,2.86,0.76,us,us7000hh8j,2022-06-14T05:56:55.040Z,"130 km N of Manatutu, Timor Leste",earthquake,8.9,8.1,0.113,24,reviewed,us,us
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T04:59:24.091Z,57.6236,-154.9115,74.2,2,ml,,,,0.42,ak,ak0227kyep09,2022-06-14T05:01:47.045Z,"27 km WNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-14T04:54:17.270Z,35.9533333,-117.6718333,2.27,1.11,ml,12,96,0.05957,0.14,ci,ci40039815,2022-06-14T04:57:58.268Z,"21km E of Little Lake, CA",earthquake,0.31,0.38,0.085,12,automatic,ci,ci
 2022-06-14T04:07:12.970Z,18.0188333333333,-66.8748333333333,8.37,2.01,md,3,279,,0.09,pr,pr71353978,2022-06-14T04:21:00.930Z,"0 km NNW of Palomas, Puerto Rico",earthquake,2.71,2.29,0.06296831869394,3,reviewed,pr,pr
+2022-06-14T03:58:46.398Z,51.367,178.4078,94.8,2.1,ml,,,,0.34,ak,ak0227kxt2py,2022-06-14T06:11:27.971Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.7,,,reviewed,ak,ak
 2022-06-14T03:52:22.125Z,63.0663,-151.5686,0.9,1.5,ml,,,,0.85,ak,ak0227kxrr7m,2022-06-14T03:55:04.004Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-14T03:49:00.170Z,33.4143333,-116.615,7.58,0.72,ml,28,68,0.07693,0.19,ci,ci40039799,2022-06-14T03:52:36.388Z,"15km N of Warner Springs, CA",earthquake,0.29,0.71,0.125,19,automatic,ci,ci
 2022-06-14T03:35:58.130Z,36.4481659,-121.0983353,11.37,1.07,md,5,230,0.1384,0.07,nc,nc73745151,2022-06-14T05:07:15.219Z,"10km SSE of Pinnacles, CA",earthquake,1.47,3.5,0.19,3,automatic,nc,nc
@@ -71,9 +73,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T20:18:16.020Z,34.2316667,-117.055,1.5,0.73,ml,9,225,0.1153,0.13,ci,ci40039639,2022-06-13T21:16:34.878Z,"6km ENE of Running Springs, CA",earthquake,0.71,0.41,0.092,3,reviewed,ci,ci
 2022-06-13T20:07:55.450Z,38.8338318,-122.8059998,2,1.15,md,26,45,0.0109,0.02,nc,nc73745031,2022-06-13T22:59:28.076Z,"7km W of Cobb, CA",earthquake,0.18,0.35,0.05,6,automatic,nc,nc
 2022-06-13T20:06:27.690Z,38.7861671,-122.7321701,1.71,0.21,md,8,86,0.004608,0.01,nc,nc73745026,2022-06-13T20:23:25.109Z,"2km ENE of The Geysers, CA",earthquake,0.33,0.85,0.17,2,automatic,nc,nc
+2022-06-13T20:02:00.400Z,51.8111666666667,-176.643,-1.8,0.88,ml,7,217,,0.17,av,av91062883,2022-06-14T06:27:54.790Z,"7 km S of Adak, Alaska",earthquake,0.88,0.62,0.373706584298359,7,reviewed,av,av
 2022-06-13T19:59:42.780Z,34.24,-117.0621667,4.68,1.35,ml,42,74,0.1192,0.13,ci,ci40039615,2022-06-13T21:23:01.210Z,"6km NE of Running Springs, CA",earthquake,0.18,0.87,0.11,23,reviewed,ci,ci
 2022-06-13T19:57:29.043Z,37.1984,-116.3637,9.8,0.5,ml,14,180.98,0.1,0.1372,nn,nn00840864,2022-06-13T23:58:28.027Z,"47 km NE of Beatty, Nevada",earthquake,,1.6,1.14,11,reviewed,nn,nn
 2022-06-13T19:53:45.414Z,61.4825,-151.4293,78.4,1.7,ml,,,,0.48,ak,ak0227jjrlxp,2022-06-13T19:56:12.139Z,"42 km NNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-06-13T19:44:17.700Z,58.2923333333333,-154.978166666667,3.65,-0.03,ml,9,131,,0.16,av,av91062873,2022-06-14T06:00:55.500Z,"86 km NNW of Karluk, Alaska",earthquake,0.5,0.64,0.307781892629993,9,reviewed,av,av
 2022-06-13T19:38:50.230Z,38.7975,-122.8161667,3,0.4,md,22,68,0.01374,0.02,nc,nc71128304,2022-06-13T23:57:17.425Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.49,0.123,3,reviewed,nc,nc
 2022-06-13T19:36:35.770Z,40.478,-122.0265,9.39,2.58,md,32,35,0.09958,0.23,nc,nc73745021,2022-06-14T02:00:16.139Z,"12km W of Shingletown, CA",earthquake,0.4,1.05,0.123,44,reviewed,nc,nc
 2022-06-13T19:35:57.651Z,59.4708,-151.563,50.6,1.8,ml,,,,0.33,ak,ak0227jjnrzp,2022-06-13T19:38:28.593Z,"5 km E of Seldovia Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -174,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T09:48:29.530Z,33.511,-116.4498333,7.9,0.74,ml,25,70,0.02365,0.15,ci,ci40039335,2022-06-13T18:42:06.337Z,"21km ESE of Anza, CA",earthquake,0.2,0.57,0.169,15,reviewed,ci,ci
 2022-06-13T09:48:14.990Z,33.4928333,-116.446,8.53,0.63,ml,16,73,0.1191,0.26,ci,ci37502925,2022-06-13T18:53:02.401Z,"22km ESE of Anza, CA",earthquake,0.46,2.11,0.145,7,reviewed,ci,ci
 2022-06-13T09:45:10.910Z,33.5033333,-116.4615,5.64,2.55,ml,111,19,0.03599,0.19,ci,ci40039327,2022-06-13T18:28:00.950Z,"20km ESE of Anza, CA",earthquake,0.1,0.33,0.169,25,reviewed,ci,ci
-2022-06-13T09:40:43.530Z,38.9461667,-123.0025,6.06,3.01,ml,72,49,0.1101,0.08,nc,nc73744931,2022-06-14T03:44:46.073Z,"13km SW of Lakeport, CA",earthquake,0.17,0.47,0.153,68,reviewed,nc,nc
+2022-06-13T09:40:43.530Z,38.9461667,-123.0025,6.06,3.01,ml,72,49,0.1101,0.08,nc,nc73744931,2022-06-14T06:19:36.991Z,"13km SW of Lakeport, CA",earthquake,0.17,0.47,0.153,68,reviewed,nc,nc
 2022-06-13T09:40:37.020Z,33.5043333,-116.457,6.84,2.16,ml,90,19,0.03233,0.2,ci,ci40039319,2022-06-13T17:50:43.480Z,"21km ESE of Anza, CA",earthquake,0.12,0.42,0.259,24,reviewed,ci,ci
 2022-06-13T09:36:03.930Z,58.2875,-154.997333333333,3.45,-0.21,ml,7,127,,0.18,av,av91062828,2022-06-14T00:21:21.930Z,"86 km NNW of Karluk, Alaska",earthquake,0.71,0.84,0.2095336878393,7,reviewed,av,av
 2022-06-13T09:32:09.640Z,40.0493333,-123.7918333,18.7,1.93,md,18,86,0.05599,0.15,nc,nc73744916,2022-06-13T16:59:10.928Z,"8km SSE of Redway, CA",earthquake,0.39,0.53,0.224,16,reviewed,nc,nc
@@ -221,11 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T07:04:17.982Z,-46.8408,-10.5529,10,4.9,mb,,104,18.008,0.32,us,us7000hh1u,2022-06-13T07:23:53.040Z,"southern Mid-Atlantic Ridge",earthquake,11,1.6,0.079,51,reviewed,us,us
 2022-06-13T06:57:04.630Z,39.4313333,-110.3025,-1.68,1.86,ml,9,197,0.01894,0.09,uu,uu60501647,2022-06-13T13:44:09.940Z,"15 km SSE of Sunnyside, Utah",earthquake,1.1,0.53,0.118,5,reviewed,uu,uu
 2022-06-13T06:35:30.100Z,38.831665,-122.809166,2.33,0.69,md,17,67,0.008288,0.01,nc,nc73744776,2022-06-13T07:05:22.466Z,"8km W of Cobb, CA",earthquake,0.24,0.7,0.48,3,automatic,nc,nc
-2022-06-13T06:22:41.110Z,18.0878333333333,-66.8583333333333,5.47,2.07,md,5,129,,0.07,pr,pr71353878,2022-06-13T06:48:37.200Z,"5 km N of Yauco, Puerto Rico",earthquake,0.47,0.94,0.449266581319457,2,reviewed,pr,pr
-2022-06-13T06:19:34.940Z,39.2712,-118.0811,0,0.9,ml,8,184.13,0.049,0.1466,nn,nn00840845,2022-06-13T20:12:49.517Z,"46 km NNW of Gabbs, Nevada",earthquake,,0,0.07,2,reviewed,nn,nn
-2022-06-13T06:19:03.873Z,34.4738,85.2722,10,4.2,mb,,96,6.652,0.25,us,us7000hh1n,2022-06-13T07:35:32.040Z,"western Xizang",earthquake,6.9,1.9,0.167,10,reviewed,us,us
-2022-06-13T06:16:38.050Z,35.51,-118.3921667,6,2.16,ml,47,25,0.1664,0.14,ci,ci40039215,2022-06-13T21:40:35.190Z,"12km SE of Bodfish, CA",earthquake,0.13,0.65,0.249,26,reviewed,ci,ci
-2022-06-13T06:09:28.350Z,34.699,-116.2956667,7.53,1.76,ml,28,61,0.12,0.11,ci,ci40039207,2022-06-13T21:44:48.240Z,"13km W of Ludlow, CA",earthquake,0.15,0.67,0.21,24,reviewed,ci,ci
-2022-06-13T06:05:44.540Z,38.8300018,-122.7521667,-0.04,0.47,md,7,162,0.01387,0.01,nc,nc73744756,2022-06-13T06:44:16.528Z,"3km WNW of Cobb, CA",earthquake,0.57,0.86,0.08,2,automatic,nc,nc
-2022-06-13T06:04:55.530Z,38.8136673,-122.8208313,2.47,0.96,md,20,54,0.008093,0.03,nc,nc73744751,2022-06-13T08:06:15.806Z,"7km NW of The Geysers, CA",earthquake,0.23,0.6,0.05,3,automatic,nc,nc
-2022-06-13T06:01:47.406Z,63.0817,-151.4546,0,1.1,ml,,,,0.63,ak,ak0227jbptzo,2022-06-13T06:03:37.148Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
