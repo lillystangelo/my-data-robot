@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-16T06:44:45.642Z,57.7548,-153.6082,65,1.8,ml,,,,0.24,ak,ak0227oal34k,2022-06-16T06:47:06.192Z,"32 km NE of Larsen Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-06-16T06:36:15.200Z,32.9275,-115.5311667,5.5,0.98,ml,10,112,0.03594,0.24,ci,ci40041103,2022-06-16T06:39:47.099Z,"6km S of Brawley, CA",earthquake,0.64,1.01,0.124,10,automatic,ci,ci
+2022-06-16T06:31:35.543Z,63.842,-149.1976,0,1.8,ml,,,,0.76,ak,ak0227oaia1e,2022-06-16T06:33:53.503Z,"11 km W of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-16T06:21:46.960Z,35.3906667,-118.1656667,1.8,1.24,ml,21,59,0.1448,0.16,ci,ci40041095,2022-06-16T06:25:25.012Z,"34km NNW of California City, CA",earthquake,0.24,0.49,0.162,20,automatic,ci,ci
 2022-06-16T06:11:10.278Z,61.8653,-149.1914,28.4,1,ml,,,,0.36,ak,ak0227oadxrn,2022-06-16T06:13:53.722Z,"13 km N of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-06-16T06:08:52.700Z,17.1803,119.9525,14.23,5.1,mww,,72,5.707,0.95,us,us7000hhqh,2022-06-16T06:27:07.040Z,"49 km W of Darapidap, Philippines",earthquake,8.4,4.3,0.083,14,reviewed,us,us
+2022-06-16T06:08:52.700Z,17.1803,119.9525,14.23,5.1,mww,,72,5.707,0.95,us,us7000hhqh,2022-06-16T06:43:50.674Z,"49 km W of Darapidap, Philippines",earthquake,8.4,4.3,0.083,14,reviewed,us,us
 2022-06-16T06:00:37.796Z,38.1959,-117.8577,7.1,0.5,ml,10,188.91,0.098,0.22,nn,nn00840997,2022-06-16T06:04:56.571Z,"30 km SE of Mina, Nevada",earthquake,,1.2,0.54,6,automatic,nn,nn
 2022-06-16T05:44:08.860Z,59.8473,-152.335,85.7,1.5,ml,,,,0.29,ak,ak0227o9zkom,2022-06-16T05:46:19.130Z,"29 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-16T05:34:05.650Z,33.69,-116.7473333,14.6,0.58,ml,14,69,0.03479,0.22,ci,ci40041087,2022-06-16T05:37:41.122Z,"6km SSW of Idyllwild, CA",earthquake,0.64,0.95,0.12,9,automatic,ci,ci
@@ -73,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T22:23:44.855Z,23.8505,143.2625,10,5,mb,,85,12.673,0.91,us,us7000hhng,2022-06-15T22:41:27.040Z,"Volcano Islands, Japan region",earthquake,10.6,1.8,0.044,162,reviewed,us,us
 2022-06-15T22:17:29.586Z,-22.8803,-179.0682,531.95,4.5,mb,,132,5.779,0.96,us,us7000hhn7,2022-06-15T22:35:39.040Z,"south of the Fiji Islands",earthquake,12.1,15.8,0.14,15,reviewed,us,us
 2022-06-15T21:54:33.450Z,18.6046,-65.0581,31,3.53,md,14,252,0.2689,0.18,pr,pr2022166001,2022-06-15T22:29:04.040Z,"32 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.95,1.33,0.05,12,reviewed,pr,pr
-2022-06-15T21:54:07.580Z,37.6581667,-119.398,7.97,1.61,md,7,167,0.2543,0.13,nc,nc73745881,2022-06-16T06:16:11.014Z,"18km ESE of Yosemite Valley, CA",earthquake,0.94,6.45,0.218,16,reviewed,nc,nc
+2022-06-15T21:54:07.580Z,37.6581667,-119.398,7.97,1.61,md,7,167,0.2543,0.13,nc,nc73745881,2022-06-16T06:29:22.051Z,"18km ESE of Yosemite Valley, CA",earthquake,0.94,6.45,0.218,16,reviewed,nc,nc
 2022-06-15T21:51:52.139Z,64.2522,-150.1715,0.1,1.6,ml,,,,0.72,ak,ak0227mw0r7x,2022-06-15T21:53:46.411Z,"47 km W of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-15T21:45:20.610Z,33.0613333,-115.0075,-0.2,1.5,ml,14,63,0.09224,0.24,ci,ci40040887,2022-06-15T22:18:04.905Z,"44km NE of Holtville, CA",quarry blast,0.53,31.61,0.012,4,reviewed,ci,ci
 2022-06-15T21:41:00.090Z,33.3585,-116.3135,10.45,0.93,ml,26,115,0.005055,0.12,ci,ci40040879,2022-06-15T22:23:51.857Z,"13km NNE of Borrego Springs, CA",earthquake,0.25,0.38,0.12,13,reviewed,ci,ci
@@ -244,6 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T06:56:30.590Z,18.592,-66.7268333333333,24.61,2.26,md,8,222,,0.26,pr,pr71354223,2022-06-15T07:16:56.140Z,"13 km N of Arecibo, Puerto Rico",earthquake,1.19,2.1,0.0983695124137665,5,reviewed,pr,pr
 2022-06-15T06:48:54.090Z,26.6526,54.2431,10,4.9,mb,,76,2.452,0.72,us,us7000hhhk,2022-06-15T07:37:32.928Z,"southern Iran",earthquake,8,1.8,0.055,102,reviewed,us,us
 2022-06-15T06:47:56.195Z,36.6559,-116.2744,6.9,0.4,ml,10,184.43,0.053,0.0923,nn,nn00840960,2022-06-16T02:39:28.756Z,"California-Nevada border region",earthquake,,1.6,0.61,2,reviewed,nn,nn
-2022-06-15T06:37:43.340Z,38.8424988,-122.8231659,1.6,0.86,md,10,119,0.01214,0.01,nc,nc73745561,2022-06-15T08:35:21.015Z,"9km WNW of Cobb, CA",earthquake,0.39,0.93,,1,automatic,nc,nc
-2022-06-15T06:37:08.400Z,38.8328323,-122.7973328,1.35,0.36,md,8,86,0.007798,0.01,nc,nc73745556,2022-06-15T08:09:16.849Z,"6km W of Cobb, CA",earthquake,0.41,1.21,,1,automatic,nc,nc
-2022-06-15T06:35:46.396Z,38.5699,-119.4871,7.5,0.6,ml,9,131.55,0.03,0.0825,nn,nn00840959,2022-06-16T02:39:27.560Z,"1 km ENE of Coleville, California",earthquake,,1.2,0.24,3,reviewed,nn,nn
