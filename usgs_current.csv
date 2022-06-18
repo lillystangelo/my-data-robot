@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-18T07:18:57.530Z,38.8343315,-122.7910004,1.84,1.17,md,12,56,0.004104,0.01,nc,nc73746956,2022-06-18T07:20:30.634Z,"6km WNW of Cobb, CA",earthquake,0.32,0.94,,1,automatic,nc,nc
 2022-06-18T07:02:10.523Z,61.5154,-149.9433,31.4,1,ml,,,,0.44,ak,ak0227rm04xo,2022-06-18T07:03:55.144Z,"0 km SE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-18T06:37:09.055Z,-17.7599,-178.5353,622.42,4.4,mb,,102,3.251,0.67,us,us7000hiaz,2022-06-18T07:00:39.040Z,"230 km E of Levuka, Fiji",earthquake,13.2,7,0.033,258,reviewed,us,us
 2022-06-18T06:36:43.400Z,35.7148333,-117.492,4.76,1.05,ml,17,167,0.1303,0.16,ci,ci40286616,2022-06-18T06:40:20.240Z,"10km SW of Searles Valley, CA",earthquake,0.44,0.96,0.142,10,automatic,ci,ci
@@ -241,6 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T07:26:40.460Z,38.7968333,-122.7478333,1.77,0.05,md,13,125,0.01002,0.03,nc,nc73746606,2022-06-18T05:36:10.740Z,"2km NNE of The Geysers, CA",earthquake,0.29,0.58,0.169,2,reviewed,nc,nc
 2022-06-17T07:26:25.298Z,8.6795,-83.3281,10,4.7,mb,,135,0.585,1.19,us,us7000hi25,2022-06-17T13:31:01.914Z,"25 km WNW of Golfito, Costa Rica",earthquake,5.7,1.9,0.049,125,reviewed,us,us
 2022-06-17T07:24:45.118Z,38.5175,-118.2813,9.8,0.1,ml,7,190.16,0.072,0.0807,nn,nn00841100,2022-06-18T02:40:03.025Z,"20 km NW of Mina, Nevada",earthquake,,4.7,0,1,reviewed,nn,nn
-2022-06-17T07:15:07.050Z,33.6696667,-116.7756667,14.98,0.47,ml,25,128,0.0659,0.14,ci,ci40285864,2022-06-17T19:06:38.460Z,"9km SW of Idyllwild, CA",earthquake,0.25,0.43,0.117,5,reviewed,ci,ci
-2022-06-17T07:13:45.680Z,20.0446662902832,-155.097839355469,16.2199993133545,2.74,ml,39,254,,0.25,hv,hv73046617,2022-06-17T07:19:15.190Z,"15 km ENE of Laupāhoehoe, Hawaii",earthquake,1,19.0499992,5.81,3,automatic,hv,hv
-2022-06-17T07:10:10.520Z,51.9285,-177.091,7.53,0.93,ml,6,266,,0.15,av,av91601181,2022-06-18T00:17:45.340Z,"32 km W of Adak, Alaska",earthquake,0.96,0.72,0.244762379913989,6,reviewed,av,av
