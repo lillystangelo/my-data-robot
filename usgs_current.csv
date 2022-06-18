@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-18T06:36:43.450Z,35.7146683,-117.5041656,4.44,1.13,ml,19,86,0.1179,0.12,ci,ci40286616,2022-06-18T06:39:01.234Z,"11km WSW of Searles Valley, CA",earthquake,0.32,1.23,0.132,5,automatic,ci,ci
+2022-06-18T06:36:43.400Z,35.7148333,-117.492,4.76,1.05,ml,17,167,0.1303,0.16,ci,ci40286616,2022-06-18T06:40:20.240Z,"10km SW of Searles Valley, CA",earthquake,0.44,0.96,0.142,10,automatic,ci,ci
 2022-06-18T06:20:15.860Z,33.5796667,-116.8081667,8.53,0.31,ml,15,167,0.03935,0.18,ci,ci40286608,2022-06-18T06:23:47.383Z,"13km WNW of Anza, CA",earthquake,0.83,0.91,0.2,5,automatic,ci,ci
 2022-06-18T06:13:36.290Z,38.8181648,-122.7659988,1.86,0.34,md,10,106,0.01248,0.02,nc,nc73746946,2022-06-18T06:30:17.080Z,"4km W of Cobb, CA",earthquake,0.36,0.75,0.01,2,automatic,nc,nc
 2022-06-18T06:09:54.551Z,38.1298,-117.9924,9.6,1.1,ml,8,142.71,0.027,0.0868,nn,nn00841133,2022-06-18T06:13:58.497Z,"30 km SSE of Mina, Nevada",earthquake,,0.4,0.36,5,automatic,nn,nn
@@ -83,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T20:30:53.360Z,46.196,-122.18633333333334,0.7,0.52,ml,7,212,0.004241,0.07,uw,uw61852821,2022-06-18T00:08:43.280Z,"37 km NNE of Amboy, Washington",earthquake,0.6,0.5,0.361849838792731,3,reviewed,uw,uw
 2022-06-17T20:14:14.160Z,34.6648333,-119.5468333,12.59,1.18,ml,8,153,0.1315,0.13,ci,ci40286352,2022-06-17T20:31:50.558Z,"26km NNE of Montecito, CA",earthquake,0.48,1.01,0.068,2,reviewed,ci,ci
 2022-06-17T20:10:25.893Z,64.4417,-147.891,6.2,1.4,ml,,,,0.93,ak,ak0227q6967x,2022-06-17T20:12:28.435Z,"41 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-17T20:08:38.220Z,36.9685,-121.6158333,0.9,0.89,md,14,69,0.0301,0.14,nc,nc73746826,2022-06-18T06:35:12.107Z,"6km SW of Gilroy, CA",earthquake,0.31,1.03,0.263,11,reviewed,nc,nc
+2022-06-17T20:08:38.220Z,36.9685,-121.6158333,0.9,0.89,md,14,69,0.0301,0.14,nc,nc73746826,2022-06-18T06:42:17.147Z,"6km SW of Gilroy, CA",earthquake,0.31,1.03,0.263,11,reviewed,nc,nc
 2022-06-17T19:45:03.020Z,38.7796669,-122.7275009,1.19,0.67,md,10,78,0.008043,0.03,nc,nc73746821,2022-06-17T20:18:14.209Z,"2km E of The Geysers, CA",earthquake,0.29,0.72,0.16,2,automatic,nc,nc
 2022-06-17T19:32:49.720Z,34.2411667,-116.7483333,12.94,0.92,ml,17,78,0.1251,0.13,ci,ci40286328,2022-06-17T20:05:21.035Z,"9km ESE of Big Bear City, CA",earthquake,0.3,1.12,0.214,8,reviewed,ci,ci
 2022-06-17T19:31:08.094Z,64.5951,-149.4244,19,0.9,ml,,,,0.32,ak,ak0227q5s7a1,2022-06-17T19:33:10.498Z,"14 km W of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -106,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T18:25:02.653Z,38.248,-118.3521,8.9,0.6,ml,10,163.13,0.12,0.112,nn,nn00841109,2022-06-18T02:40:11.924Z,"26 km SW of Mina, Nevada",earthquake,,2.4,0.07,2,reviewed,nn,nn
 2022-06-17T18:21:16.249Z,38.1697,-117.8301,7.8,1.6,ml,17,112.12,0.106,0.1114,nn,nn00841091,2022-06-18T02:39:54.661Z,"34 km SE of Mina, Nevada",earthquake,,1.8,0.42,6,reviewed,nn,nn
 2022-06-17T18:09:20.416Z,-23.5236,-68.7374,103.78,4.3,mb,,83,0.766,1.01,us,us7000hi72,2022-06-17T18:35:03.040Z,"87 km SW of San Pedro de Atacama, Chile",earthquake,4.7,6.8,0.154,13,reviewed,us,us
-2022-06-17T18:08:06.540Z,37.3368333,-122.2048333,8.69,1.63,md,16,71,0.02642,0.09,nc,nc73746786,2022-06-18T06:37:17.118Z,"6km SSE of Portola Valley, CA",earthquake,0.35,0.55,0.132,16,reviewed,nc,nc
+2022-06-17T18:08:06.540Z,37.3368333,-122.2048333,8.69,1.63,md,16,71,0.02642,0.09,nc,nc73746786,2022-06-18T06:43:10.149Z,"6km SSE of Portola Valley, CA",earthquake,0.35,0.55,0.132,16,reviewed,nc,nc
 2022-06-17T18:04:50.296Z,38.1669,-117.8252,8.1,1,ml,14,144.94,0.109,0.1246,nn,nn00841089,2022-06-18T02:39:52.786Z,"35 km SE of Mina, Nevada",earthquake,,2.7,0.33,3,reviewed,nn,nn
 2022-06-17T18:00:22.316Z,38.2308,-118.334,4.6,0.3,ml,7,244.06,0.136,0.1022,nn,nn00841108,2022-06-18T02:40:10.382Z,"26 km SW of Mina, Nevada",earthquake,,14.5,0,1,reviewed,nn,nn
 2022-06-17T17:54:21.730Z,17.9866666666667,-66.8138333333333,13.43,2.98,md,24,151,,0.22,pr,pr71354668,2022-06-18T00:10:28.470Z,"1 km SE of Indios, Puerto Rico",earthquake,0.37,0.31,0.185623997843956,15,reviewed,pr,pr
