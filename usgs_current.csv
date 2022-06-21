@@ -297,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T12:08:31.720Z,37.6378326,-118.8883362,-0.44,2.17,md,16,121,0.009403,0.04,nc,nc73748131,2022-06-20T14:37:10.374Z,"8km E of Mammoth Lakes, CA",earthquake,0.38,0.23,0.14,16,automatic,nc,nc
 2022-06-20T11:58:54.560Z,46.855333333333334,-121.76016666666666,-0.71,0.93,ml,11,99,0.05834,0.09,uw,uw61844797,2022-06-20T15:49:18.520Z,"23 km ENE of Ashford, Washington",earthquake,0.26,0.98,0.2894556632450601,4,reviewed,uw,uw
 2022-06-20T11:47:14.000Z,33.3988333,-116.9855,13.23,0.69,ml,25,46,0.03996,0.2,ci,ci40287760,2022-06-20T11:50:47.546Z,"9km ENE of Pala, CA",earthquake,0.28,0.79,0.061,16,automatic,ci,ci
-2022-06-20T11:40:54.322Z,62.4651,-149.2591,16.6,1,ml,,,,0.21,ak,ak0227uzosxk,2022-06-20T11:43:02.431Z,"43 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
