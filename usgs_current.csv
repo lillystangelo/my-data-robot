@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T18:48:18.726Z,38.1811,-117.789,8.5,0.7,ml,13,197.45,0.122,0.1337,nn,nn00841464,2022-06-22T18:58:36.057Z,"36 km SE of Mina, Nevada",earthquake,,3.9,0.14,2,reviewed,nn,nn
 2022-06-22T18:36:22.330Z,47.8685,-122.7135,-0.02,1.79,ml,11,85,0.08855,0.51,uw,uw61845387,2022-06-22T19:38:17.860Z,"6 km SSW of Port Ludlow, Washington",explosion,0.91,31.61,0.3486035129717284,4,reviewed,uw,uw
 2022-06-22T18:25:37.780Z,33.8535,-116.158,9.31,1.23,ml,40,48,0.0729,0.12,ci,ci40289264,2022-06-22T19:13:05.323Z,"16km NNE of Indio, CA",earthquake,0.16,0.34,0.125,29,reviewed,ci,ci
+2022-06-22T18:08:58.010Z,48.44583333333333,-122.34383333333334,11.39,1.04,ml,6,250,0.08982,0.17,uw,uw61845372,2022-06-22T19:48:35.350Z,"2 km NNW of Mount Vernon, Washington",earthquake,0.83,1.36,0.09632236225753521,3,reviewed,uw,uw
 2022-06-22T18:04:43.550Z,33.0601667,-115.0036667,-0.2,1.4,ml,16,63,0.0903,0.25,ci,ci40289248,2022-06-22T19:05:44.127Z,"45km NE of Holtville, CA",quarry blast,0.57,31.61,0.086,6,reviewed,ci,ci
 2022-06-22T17:52:24.560Z,19.2210006713867,-155.390167236328,30.9200000762939,1.98000002,md,34,152,,0.119999997,hv,hv73052047,2022-06-22T17:55:22.250Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.810000002,,9,automatic,hv,hv
 2022-06-22T17:45:19.587Z,63.5093,-151.0684,0,1.2,ml,,,,1.18,ak,ak0227yed3g2,2022-06-22T17:48:37.710Z,"32 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
