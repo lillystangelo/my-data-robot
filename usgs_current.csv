@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-27T10:49:08.620Z,35.0176659,-119.0713348,17.44,1.43,ml,29,70,0.0421,0.22,ci,ci40292168,2022-06-27T10:51:14.285Z,"15km WNW of Grapevine, CA",earthquake,0.46,1.08,0.221,4,automatic,ci,ci
 2022-06-27T10:29:54.780Z,33.7255,-116.838,15.35,0.66,ml,28,113,0.08116,0.13,ci,ci40292160,2022-06-27T10:33:31.210Z,"6km ESE of Valle Vista, CA",earthquake,0.31,0.37,0.144,17,automatic,ci,ci
 2022-06-27T10:29:40.620Z,33.6565,-116.7333333,6.28,0.27,ml,14,92,0.05682,0.34,ci,ci40292152,2022-06-27T10:33:14.046Z,"9km S of Idyllwild, CA",earthquake,0.92,2.11,0.195,8,automatic,ci,ci
 2022-06-27T10:25:42.610Z,33.6863333,-116.7108333,15.11,1.01,ml,40,36,0.02492,0.19,ci,ci40292144,2022-06-27T10:29:16.371Z,"6km S of Idyllwild, CA",earthquake,0.28,0.42,0.199,26,automatic,ci,ci
@@ -215,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T11:14:10.320Z,36.7039986,-121.38517,-0.53,1.32,md,8,122,0.03126,0.09,nc,nc73751231,2022-06-26T14:22:16.435Z,"11km SSW of Tres Pinos, CA",earthquake,0.48,1.73,0.34,6,automatic,nc,nc
 2022-06-26T11:13:59.143Z,40.0779,-119.6895,14.2,1,ml,11,121.54,0.098,0.1731,nn,nn00841760,2022-06-26T11:17:21.385Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,0.9,0.35,5,automatic,nn,nn
 2022-06-26T10:56:51.440Z,37.6283333,-118.8693333,-0.03,0.29,md,10,132,0.01061,0.03,nc,nc73751226,2022-06-26T21:16:14.164Z,"10km E of Mammoth Lakes, CA",earthquake,0.37,0.28,0.35,10,reviewed,nc,nc
-2022-06-26T10:47:35.550Z,33.9791667,-117.476,2.47,1.19,ml,45,57,0.0546,0.23,ci,ci40291680,2022-06-26T10:51:10.422Z,"0km N of Pedley, CA",earthquake,0.23,0.39,0.139,30,automatic,ci,ci
-2022-06-26T10:45:49.690Z,33.9761667,-117.4735,0.88,1.23,ml,6,117,0.05685,0.15,ci,ci40291672,2022-06-26T10:49:33.432Z,"0km ENE of Pedley, CA",earthquake,0.41,1.17,0.352,21,automatic,ci,ci
