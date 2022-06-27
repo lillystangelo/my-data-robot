@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-27T11:23:43.740Z,62.1622,-152.0592,101.5,2.2,ml,,,,0.48,ak,ak02286kckee,2022-06-27T11:25:54.556Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-27T10:53:38.621Z,63.5413,-147.3019,12.4,1.1,ml,,,,0.27,ak,ak02286jxjvq,2022-06-27T10:55:43.804Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-27T10:49:08.700Z,35.0193333,-119.0658333,16.29,1.39,ml,28,74,0.1422,0.26,ci,ci40292168,2022-06-27T11:00:02.620Z,"15km NW of Grapevine, CA",earthquake,0.49,1.36,0.143,23,automatic,ci,ci
 2022-06-27T10:29:54.780Z,33.7255,-116.838,15.35,0.66,ml,28,113,0.08116,0.13,ci,ci40292160,2022-06-27T10:33:31.210Z,"6km ESE of Valle Vista, CA",earthquake,0.31,0.37,0.144,17,automatic,ci,ci
@@ -103,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T20:51:53.500Z,38.8019981,-122.7815018,2.36,0.84,md,20,77,0.01013,0.02,nc,nc73751456,2022-06-26T21:28:14.054Z,"4km NW of The Geysers, CA",earthquake,0.25,0.47,0.22,3,automatic,nc,nc
 2022-06-26T20:41:54.765Z,56.3023,-156.3701,65.8,2.5,ml,,,,0.4,ak,ak022852a038,2022-06-26T20:52:11.040Z,"125 km E of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-06-26T20:41:15.440Z,19.166166305542,-155.498001098633,31.1800003051758,1.77999997,md,34,163,,0.170000002,hv,hv73056862,2022-06-26T20:44:23.500Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.9,1.25,1.77999997,4,automatic,hv,hv
-2022-06-26T20:39:27.226Z,34.1611,-80.7247,5,1.5,ml,,156,0.311,0.45,us,us7000hkg3,2022-06-27T10:07:05.291Z,"6 km E of Elgin, South Carolina",earthquake,0.7,1.9,0.097,14,reviewed,us,us
+2022-06-26T20:39:27.226Z,34.1611,-80.7247,5,1.5,ml,,156,0.311,0.45,us,us7000hkg3,2022-06-27T11:23:07.736Z,"6 km E of Elgin, South Carolina",earthquake,0.7,1.9,0.097,14,reviewed,us,us
 2022-06-26T20:35:49.650Z,17.9658333333333,-66.8333333333333,15.59,2.18,md,10,202,,0.12,pr,pr71356233,2022-06-26T20:48:06.400Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.53,0.68,0.142437577060524,6,reviewed,pr,pr
 2022-06-26T20:32:00.530Z,17.9371666666667,-66.9545,15.11,2.41,md,16,223,,0.16,pr,pr71356223,2022-06-26T20:40:59.890Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.49,0.51,0.0873639608318071,8,reviewed,pr,pr
 2022-06-26T20:31:39.635Z,64.8094,-148.8088,8.7,0.8,ml,,,,0.19,ak,ak0228527trf,2022-06-26T20:34:02.463Z,"27 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -133,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T17:59:30.972Z,53.9348,-166.2166,15.2,1.6,ml,,,,0.56,ak,ak022850lidf,2022-06-26T21:18:27.145Z,"21 km ENE of Unalaska, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2022-06-26T17:58:49.630Z,37.628,-118.8705,0.05,1.05,md,8,121,0.01081,0.04,nc,nc73751391,2022-06-26T22:10:14.319Z,"10km E of Mammoth Lakes, CA",earthquake,0.42,0.5,0.064,6,reviewed,nc,nc
 2022-06-26T17:57:31.260Z,37.6345,-118.8708333,-1.9,0.15,md,7,135,0.0167,0.02,nc,nc73751386,2022-06-26T22:21:14.376Z,"10km E of Mammoth Lakes, CA",earthquake,0.24,5.18,0.156,5,reviewed,nc,nc
-2022-06-26T17:55:09.830Z,46.2285,-122.18816666666666,-1.45,0.04,mh,4,312,0.02837,0.04,uw,uw61846487,2022-06-27T04:20:07.200Z,"37 km S of Morton, Washington",earthquake,0.72,7.99,,0,reviewed,uw,uw
+2022-06-26T17:55:09.830Z,46.2285,-122.18816666666666,-1.45,0.04,mh,4,312,0.02837,0.04,uw,uw61846487,2022-06-27T04:20:07.200Z,"Washington",earthquake,0.72,7.99,,0,reviewed,uw,uw
 2022-06-26T17:53:43.540Z,46.19116666666667,-122.18816666666666,1.26,-0.1,mh,8,205,0.008816,0.17,uw,uw61846482,2022-06-27T03:45:48.660Z,"37 km NNE of Amboy, Washington",earthquake,1.18,0.41,,0,reviewed,uw,uw
 2022-06-26T17:52:30.800Z,37.626667,-118.8704987,0.11,1.6,md,11,121,0.009726,0.04,nc,nc73751371,2022-06-26T21:16:13.973Z,"10km E of Mammoth Lakes, CA",earthquake,0.38,0.43,0.06,11,automatic,nc,nc
 2022-06-26T17:51:43.410Z,37.6220016,-118.8731689,-0.52,1.66,md,12,133,0.00865,0.1,nc,nc73751366,2022-06-26T20:44:14.793Z,"10km E of Mammoth Lakes, CA",earthquake,0.43,0.33,0.12,12,automatic,nc,nc
@@ -215,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T11:31:53.843Z,61.9387,-150.6454,12.8,1.6,ml,,,,0.31,ak,ak02284wuyew,2022-06-26T11:33:15.600Z,"38 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-26T11:30:55.670Z,32.9281667,-115.5283333,5.67,1.34,ml,9,126,0.03808,0.26,ci,ci40291696,2022-06-26T11:34:36.486Z,"6km S of Brawley, CA",earthquake,0.86,1.04,0.263,10,automatic,ci,ci
 2022-06-26T11:29:10.170Z,47.5885,-122.60233333333333,24.69,1.3,ml,20,76,0.0518,0.32,uw,uw61846447,2022-06-26T16:03:42.100Z,"0 km NNW of Enetai, Washington",earthquake,0.72,1.17,0.1476051111550165,4,reviewed,uw,uw
-2022-06-26T11:14:10.320Z,36.7039986,-121.38517,-0.53,1.32,md,8,122,0.03126,0.09,nc,nc73751231,2022-06-26T14:22:16.435Z,"11km SSW of Tres Pinos, CA",earthquake,0.48,1.73,0.34,6,automatic,nc,nc
-2022-06-26T11:13:59.143Z,40.0779,-119.6895,14.2,1,ml,11,121.54,0.098,0.1731,nn,nn00841760,2022-06-26T11:17:21.385Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,0.9,0.35,5,automatic,nn,nn
