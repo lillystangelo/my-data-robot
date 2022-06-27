@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-27T15:45:25.017Z,61.3317,-150.6837,41.3,1.7,ml,,,,0.47,ak,ak02286muz4l,2022-06-27T15:47:30.072Z,"25 km SSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-06-27T15:15:42.120Z,38.7815018,-122.7273331,1.31,1.67,md,29,78,0.007542,0.04,nc,nc73751661,2022-06-27T15:32:13.419Z,"3km E of The Geysers, CA",earthquake,0.24,0.36,0.05,9,automatic,nc,nc
 2022-06-27T15:09:51.621Z,59.807,-153.418,129.6,1.6,ml,,,,1.16,ak,ak02286mnben,2022-06-27T15:13:48.278Z,"38 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-27T15:02:30.870Z,39.145668,-123.116333,8.09,1.68,md,13,96,0.1556,0.09,nc,nc73751656,2022-06-27T15:19:13.358Z,"5km ENE of Talmage, CA",earthquake,0.33,2.15,0.13,8,automatic,nc,nc
@@ -176,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T17:59:30.972Z,53.9348,-166.2166,15.2,1.6,ml,,,,0.56,ak,ak022850lidf,2022-06-26T21:18:27.145Z,"21 km ENE of Unalaska, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2022-06-26T17:58:49.630Z,37.628,-118.8705,0.05,1.05,md,8,121,0.01081,0.04,nc,nc73751391,2022-06-26T22:10:14.319Z,"10km E of Mammoth Lakes, CA",earthquake,0.42,0.5,0.064,6,reviewed,nc,nc
 2022-06-26T17:57:31.260Z,37.6345,-118.8708333,-1.9,0.15,md,7,135,0.0167,0.02,nc,nc73751386,2022-06-26T22:21:14.376Z,"10km E of Mammoth Lakes, CA",earthquake,0.24,5.18,0.156,5,reviewed,nc,nc
-2022-06-26T17:55:09.830Z,46.2285,-122.18816666666666,-1.45,0.04,mh,4,312,0.02837,0.04,uw,uw61846487,2022-06-27T04:20:07.200Z,"Washington",earthquake,0.72,7.99,,0,reviewed,uw,uw
+2022-06-26T17:55:09.830Z,46.2285,-122.18816666666666,-1.45,0.04,mh,4,312,0.02837,0.04,uw,uw61846487,2022-06-27T04:20:07.200Z,"37 km S of Morton, Washington",earthquake,0.72,7.99,,0,reviewed,uw,uw
 2022-06-26T17:53:43.540Z,46.19116666666667,-122.18816666666666,1.26,-0.1,mh,8,205,0.008816,0.17,uw,uw61846482,2022-06-27T03:45:48.660Z,"37 km NNE of Amboy, Washington",earthquake,1.18,0.41,,0,reviewed,uw,uw
 2022-06-26T17:52:30.800Z,37.626667,-118.8704987,0.11,1.6,md,11,121,0.009726,0.04,nc,nc73751371,2022-06-26T21:16:13.973Z,"10km E of Mammoth Lakes, CA",earthquake,0.38,0.43,0.06,11,automatic,nc,nc
 2022-06-26T17:51:43.410Z,37.6220016,-118.8731689,-0.52,1.66,md,12,133,0.00865,0.1,nc,nc73751366,2022-06-26T20:44:14.793Z,"10km E of Mammoth Lakes, CA",earthquake,0.43,0.33,0.12,12,automatic,nc,nc
