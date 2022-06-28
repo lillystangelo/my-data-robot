@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-28T23:25:07.010Z,19.2056674957275,-155.469497680664,33.3699989318848,3.46,ml,47,96,,0.119999997,hv,hv73059517,2022-06-28T23:36:17.670Z,"1 km ENE of Pāhala, Hawaii",earthquake,0.44,0.639999986,3.6,35,automatic,hv,hv
+2022-06-28T23:22:25.060Z,33.2256667,-117.1133333,0.42,0.62,ml,8,119,0.1767,0.17,ci,ci40293280,2022-06-28T23:26:07.442Z,"7km W of Valley Center, CA",earthquake,0.54,31.61,0.279,4,automatic,ci,ci
 2022-06-28T23:20:07.918Z,63.0292,-151.0182,23.1,1.1,ml,,,,1.29,ak,ak02288f0e8n,2022-06-28T23:21:54.614Z,"60 km NNW of Petersville, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2022-06-28T23:18:36.190Z,35.0408333,-117.662,0.29,1.73,ml,20,61,0.1099,0.23,ci,ci40293272,2022-06-28T23:22:28.595Z,"5km NNW of Boron, CA",quarry blast,0.48,31.61,0.158,28,automatic,ci,ci
 2022-06-28T23:07:20.836Z,62.9082,-148.3811,0,1.4,ml,,,,0.88,ak,ak02288exmxf,2022-06-28T23:09:45.032Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -139,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T11:31:46.390Z,37.3568333,-121.715,8.54,0.97,md,31,40,0.04581,0.08,nc,nc73752011,2022-06-28T19:57:10.472Z,"10km E of Alum Rock, CA",earthquake,0.18,0.33,0.3,26,reviewed,nc,nc
 2022-06-28T11:25:59.020Z,37.3548333,-121.7135,8.6,0.88,md,22,39,0.04765,0.08,nc,nc73752006,2022-06-28T19:51:11.436Z,"10km E of Alum Rock, CA",earthquake,0.25,0.43,0.392,21,reviewed,nc,nc
 2022-06-28T11:20:20.910Z,62.923,-148.3606,5,1.9,ml,,,,0.79,ak,ak022887v7zf,2022-06-28T11:22:44.129Z,"60 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-28T11:20:12.280Z,37.3556667,-121.7146667,8.69,1.12,md,25,39,0.04648,0.06,nc,nc73751996,2022-06-28T22:36:10.477Z,"10km E of Alum Rock, CA",earthquake,0.2,0.37,0.188,24,reviewed,nc,nc
+2022-06-28T11:20:12.280Z,37.3556667,-121.7146667,8.69,1.12,md,25,39,0.04648,0.06,nc,nc73751996,2022-06-28T23:31:16.823Z,"10km E of Alum Rock, CA",earthquake,0.2,0.37,0.188,24,reviewed,nc,nc
 2022-06-28T11:18:25.819Z,38.1767,-117.8231,7.9,0.8,ml,16,151.85,0.114,0.1678,nn,nn00841860,2022-06-28T23:06:22.716Z,"34 km SE of Mina, Nevada",earthquake,,2.5,1.06,5,reviewed,nn,nn
 2022-06-28T11:12:51.062Z,31.67607555,-104.4070286,8.033959961,2.2,ml,12,64,0.08026473453,0.1,tx,tx2022mobt,2022-06-28T17:37:12.918Z,"55 km S of Whites City, New Mexico",earthquake,1.035687104,1.303591626,0.1,7,reviewed,tx,tx
 2022-06-28T11:07:08.940Z,37.1506667,-121.5391667,5.78,1.61,md,54,50,0.06598,0.11,nc,nc73751991,2022-06-28T22:47:29.544Z,"10km NE of San Martin, CA",earthquake,0.16,0.44,0.235,51,reviewed,nc,nc
@@ -279,5 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-27T23:46:12.880Z,35.0298333,-117.679,-0.82,1.42,ml,24,58,0.09627,0.16,ci,ci40292656,2022-06-28T18:48:26.975Z,"4km NW of Boron, CA",quarry blast,0.41,31.61,0.104,24,reviewed,ci,ci
 2022-06-27T23:41:25.030Z,39.4288333,-110.3005,-1.55,1.36,ml,7,184,0.01963,0.14,uu,uu60503632,2022-06-28T15:38:56.710Z,"15 km SSE of Sunnyside, Utah",earthquake,1.57,1.21,0.132,4,reviewed,uu,uu
 2022-06-27T23:39:47.860Z,19.1736660003662,-155.494506835938,35.0200004577637,1.94000006,md,26,92,,0.150000006,hv,hv73058377,2022-06-27T23:42:51.890Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.59,0.930000007,0.569999993,9,automatic,hv,hv
-2022-06-27T23:36:12.690Z,19.3383331298828,-155.194000244141,2.88000011444092,1.82,ml,37,78,,0.140000001,hv,hv73058367,2022-06-27T23:41:43.330Z,"12 km SSE of Volcano, Hawaii",earthquake,0.37,0.860000014,0.17,4,automatic,hv,hv
-2022-06-27T23:28:11.666Z,62.9608,-148.4743,7,2.6,ml,,,,0.78,ak,ak02286rirpk,2022-06-28T00:04:14.040Z,"53 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
