@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-05T18:48:47.580Z,35.038,-119.264,9.38,1.06,ml,14,140,0.1566,0.26,ci,ci40297368,2022-07-05T18:52:26.274Z,"13km E of Maricopa, CA",earthquake,0.89,2.39,0.105,8,automatic,ci,ci
 2022-07-05T18:42:39.190Z,19.1601657867432,-155.497665405273,32.0200004577637,1.84000003,md,22,151,,0.140000001,hv,hv73065977,2022-07-05T18:45:46.550Z,"5 km SSW of Pāhala, Hawaii",earthquake,1.21,0.839999974,,4,automatic,hv,hv
 2022-07-05T18:35:01.680Z,35.5996667,-117.4175,5,0.9,ml,8,129,0.03873,0.17,ci,ci40297360,2022-07-05T18:38:44.166Z,"19km S of Trona, CA",earthquake,0.7,0.72,0.129,7,automatic,ci,ci
 2022-07-05T18:28:45.570Z,37.634,-118.8766667,-0.28,0.96,md,8,130,0.01852,0.02,nc,nc73754956,2022-07-05T18:45:11.340Z,"9km E of Mammoth Lakes, CA",earthquake,0.38,0.69,0.07,5,reviewed,nc,nc
-2022-07-05T18:17:51.190Z,37.4361667,-118.801,6.63,0.59,md,9,266,0.1552,0.02,nc,nc73754951,2022-07-05T18:42:20.700Z,"18km SW of Toms Place, CA",earthquake,1.23,3.86,0.064,6,reviewed,nc,nc
+2022-07-05T18:17:51.190Z,37.4361667,-118.801,6.63,0.59,md,9,266,0.1552,0.02,nc,nc73754951,2022-07-05T18:48:11.354Z,"18km SW of Toms Place, CA",earthquake,1.23,3.86,0.064,6,reviewed,nc,nc
 2022-07-05T18:05:31.251Z,62.1323,-152.0714,114.1,1.7,ml,,,,0.79,ak,ak0228jwphqd,2022-07-05T18:07:37.033Z,"38 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-05T18:02:15.922Z,62.1876,-150.0168,20.3,0.9,ml,,,,0.63,ak,ak0228jwoteg,2022-07-05T18:04:27.653Z,"9 km WNW of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-05T18:00:03.886Z,59.9506,-152.8411,88.3,1.4,ml,,,,0.64,ak,ak0228jwod23,2022-07-05T18:02:38.352Z,"59 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -248,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T19:09:10.450Z,19.1803340911865,-155.483840942383,34.75,2.5,ml,42,75,,0.109999999,hv,hv73064907,2022-07-04T21:11:04.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.57,0.709999979,4.11,18,automatic,hv,hv
 2022-07-04T19:08:10.080Z,35.5446667,-120.8238333,5.68,1.4,md,36,58,0.08364,0.09,nc,nc73754446,2022-07-05T18:35:11.275Z,"11km W of Templeton, CA",earthquake,0.19,0.44,0.161,25,reviewed,nc,nc
 2022-07-04T19:03:14.090Z,33.5815,-116.812,7.61,2.21,ml,81,21,0.04179,0.22,ci,ci40296496,2022-07-04T20:08:12.915Z,"13km WNW of Anza, CA",earthquake,0.19,0.5,0.196,25,automatic,ci,ci
-2022-07-04T18:53:17.519Z,62.743,-149.318,63.1,1.7,ml,,,,0.43,ak,ak0228i9gejr,2022-07-04T18:55:24.449Z,"51 km NE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
