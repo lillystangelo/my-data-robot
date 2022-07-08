@@ -1,15 +1,26 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-08T08:35:09.800Z,36.0340004,-120.5968323,3.12,1.37,md,18,116,0.03474,0.06,nc,nc73756241,2022-07-08T08:36:45.603Z,"21km NW of Parkfield, CA",earthquake,0.36,0.69,0.18,9,automatic,nc,nc
+2022-07-08T09:00:39.920Z,37.8746681,-122.2149963,7.18,1.28,md,21,68,0.01636,0.07,nc,nc73756261,2022-07-08T09:02:16.609Z,"3km W of Orinda, CA",earthquake,0.21,0.42,0.13,12,automatic,nc,nc
+2022-07-08T08:57:58.430Z,33.1863333,-115.6206667,7.57,2.05,ml,6,219,0.003571,0.13,ci,ci40299656,2022-07-08T09:01:43.310Z,"11km WSW of Niland, CA",earthquake,1.44,0.79,0.133,10,automatic,ci,ci
+2022-07-08T08:57:32.690Z,33.2311667,-116.1063333,8.16,2.75,ml,68,53,0.09127,0.22,ci,ci40299648,2022-07-08T09:03:48.040Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,1.1,0.152,25,automatic,ci,ci
+2022-07-08T08:55:58.330Z,37.8748322,-122.2166672,6.93,2.25,md,60,47,0.01503,0.07,nc,nc73756251,2022-07-08T09:03:52.467Z,"3km W of Orinda, CA",earthquake,0.13,0.26,0.13,51,automatic,nc,nc
+2022-07-08T08:47:16.440Z,38.6813316,-122.8746643,6.8,1.23,md,10,191,0.09004,0.07,nc,nc73756246,2022-07-08T08:56:09.880Z,"8km N of Healdsburg, CA",earthquake,0.54,1.41,0.03,5,automatic,nc,nc
+2022-07-08T08:45:06.530Z,33.1448333,-115.633,6.91,1.59,ml,30,74,0.03566,0.18,ci,ci40299640,2022-07-08T08:48:45.231Z,"11km W of Calipatria, CA",earthquake,0.32,0.62,0.233,29,automatic,ci,ci
+2022-07-08T08:43:13.680Z,34.083,-117.4916667,3.72,0.97,ml,27,60,0.02718,0.18,ci,ci40299632,2022-07-08T08:46:58.145Z,"4km WSW of Fontana, CA",earthquake,0.31,0.63,0.163,29,automatic,ci,ci
+2022-07-08T08:43:03.380Z,33.1446667,-115.6381667,5.78,1.67,ml,30,68,0.03778,0.23,ci,ci40299624,2022-07-08T08:46:55.216Z,"12km W of Calipatria, CA",earthquake,0.35,0.63,0.191,27,automatic,ci,ci
+2022-07-08T08:42:30.280Z,33.148,-115.6351667,5.9,1.32,ml,20,78,0.03365,0.2,ci,ci40299616,2022-07-08T08:46:04.138Z,"12km WNW of Calipatria, CA",earthquake,0.43,0.71,0.158,25,automatic,ci,ci
+2022-07-08T08:42:21.010Z,33.1426667,-115.6313333,7.27,1.31,ml,28,87,0.03712,0.24,ci,ci40299608,2022-07-08T08:53:31.440Z,"11km W of Calipatria, CA",earthquake,0.42,0.75,0.345,15,automatic,ci,ci
+2022-07-08T08:41:08.330Z,19.1871662139893,-155.502502441406,34.189998626709,2.06,ml,40,76,,0.140000001,hv,hv73069007,2022-07-08T08:46:39.590Z,"3 km SW of Pāhala, Hawaii",earthquake,0.55,0.889999986,5.61,3,automatic,hv,hv
+2022-07-08T08:35:09.800Z,36.0340004,-120.5968323,3.12,1.37,md,18,116,0.03474,0.06,nc,nc73756241,2022-07-08T08:59:15.897Z,"21km NW of Parkfield, CA",earthquake,0.36,0.69,0.18,9,automatic,nc,nc
 2022-07-08T08:33:47.445Z,38.1536,-117.9129,6.5,1.3,ml,9,160.51,0.039,0.1825,nn,nn00842408,2022-07-08T08:37:22.933Z,"31 km SSE of Mina, Nevada",earthquake,,0.5,0.25,7,automatic,nn,nn
 2022-07-08T08:25:42.130Z,19.5063323974609,-155.672668457031,1.80999994277954,2,ml,26,53,,0.340000004,hv,hv73068982,2022-07-08T08:31:13.000Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.59,1.34000003,3.84,7,automatic,hv,hv
 2022-07-08T08:24:50.650Z,19.4899997711182,-155.570999145508,-1.1599999666214,2.06,ml,10,94,,0.200000003,hv,hv73068977,2022-07-08T08:30:21.330Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.430000007,1,4,automatic,hv,hv
 2022-07-08T08:17:22.500Z,33.8656667,-117.1885,9.8,0.42,ml,16,103,0.01454,0.27,ci,ci40299600,2022-07-08T08:21:03.464Z,"8km ESE of March Air Reserve Base, CA",earthquake,0.7,1.1,0.12,7,automatic,ci,ci
 2022-07-08T08:16:26.840Z,51.4062,179.264,60.69,3.8,mb,39,216,0.528,0.66,us,us6000i0sv,2022-07-08T08:34:15.040Z,"288 km WSW of Adak, Alaska",earthquake,5.3,11,0.116,19,reviewed,us,us
-2022-07-08T08:03:50.020Z,37.618,-118.8563309,6.06,1,md,14,126,0.005351,0.02,nc,nc73756236,2022-07-08T08:11:11.612Z,"11km E of Mammoth Lakes, CA",earthquake,0.55,0.86,0.19,14,automatic,nc,nc
+2022-07-08T08:03:50.020Z,37.618,-118.8563309,6.06,1,md,14,126,0.005351,0.02,nc,nc73756236,2022-07-08T08:48:12.828Z,"11km E of Mammoth Lakes, CA",earthquake,0.55,0.86,0.19,14,automatic,nc,nc
 2022-07-08T07:40:51.580Z,38.8133316,-122.8156662,2.1,0.84,md,10,70,0.01096,0.02,nc,nc73756216,2022-07-08T08:14:12.627Z,"6km NW of The Geysers, CA",earthquake,0.39,0.91,,1,automatic,nc,nc
 2022-07-08T07:37:21.834Z,36.7631,-115.0352,9.9,1.1,ml,10,331.05,0.728,0.1902,nn,nn00842406,2022-07-08T07:40:42.889Z,"40 km WNW of Moapa Town, Nevada",earthquake,,3.2,0.24,2,automatic,nn,nn
 2022-07-08T07:36:46.860Z,38.8356667,-122.7955017,2.11,0.8,md,16,59,0.004871,0.01,nc,nc73756211,2022-07-08T08:03:13.565Z,"6km WNW of Cobb, CA",earthquake,0.27,0.54,0.26,3,automatic,nc,nc
-2022-07-08T07:36:28.060Z,38.8363342,-122.7955017,2.03,1.04,md,14,67,0.00453,0.01,nc,nc73756206,2022-07-08T07:51:13.656Z,"6km WNW of Cobb, CA",earthquake,0.3,0.53,0.15,2,automatic,nc,nc
+2022-07-08T07:36:28.060Z,38.8363342,-122.7955017,2.03,1.04,md,14,67,0.00453,0.01,nc,nc73756206,2022-07-08T08:53:10.861Z,"6km WNW of Cobb, CA",earthquake,0.3,0.53,0.15,2,automatic,nc,nc
 2022-07-08T07:23:29.392Z,36.36647034,-98.14755249,5.967051506,1.61,ml,12,101.5214157,0.1912466884,0.7370406491,ok,ok2022ngbf,2022-07-08T07:25:12.512Z,"3 km SE of Meno, Oklahoma",earthquake,4.151445688,4.362826638,,8,automatic,ok,ok
 2022-07-08T07:08:23.501Z,63.2937,-151.9484,0,1.3,ml,,,,0.55,ak,ak0228oose3y,2022-07-08T07:10:28.408Z,"29 km SSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-08T07:05:20.420Z,19.2298336029053,-155.429840087891,33.5,2,md,32,128,,0.119999997,hv,hv73068912,2022-07-08T07:08:40.160Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.65,1.04999995,1.59000003,6,automatic,hv,hv
@@ -31,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T05:14:32.215Z,-7.0469,148.4977,10,4.7,mb,54,64,4.621,0.5,us,us6000i0s6,2022-07-08T05:34:28.040Z,"90 km SE of Finschhafen, Papua New Guinea",earthquake,7.7,1.5,0.086,41,reviewed,us,us
 2022-07-08T05:08:18.190Z,34.0863333,-117.483,2.51,0.97,ml,19,119,0.03453,0.19,ci,ci40299544,2022-07-08T05:11:54.129Z,"3km WSW of Fontana, CA",earthquake,0.33,0.35,0.314,25,automatic,ci,ci
 2022-07-08T04:54:05.478Z,60.4409,-152.3555,91.3,1.6,ml,,,,0.66,ak,ak0228on9wub,2022-07-08T04:57:38.622Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-08T04:49:39.700Z,37.8754997,-122.2171631,6.84,2.37,md,61,46,0.01459,0.08,nc,nc73756181,2022-07-08T07:07:10.224Z,"3km W of Orinda, CA",earthquake,0.14,0.28,0.16,58,automatic,nc,nc
+2022-07-08T04:49:39.700Z,37.8754997,-122.2171631,6.84,2.37,md,61,46,0.01459,0.08,nc,nc73756181,2022-07-08T09:02:15.855Z,"3km W of Orinda, CA",earthquake,0.14,0.28,0.16,58,automatic,nc,nc
 2022-07-08T04:49:09.650Z,33.4703333,-116.909,9.5,0.55,ml,16,56,0.1672,0.14,ci,ci40299536,2022-07-08T04:52:47.958Z,"5km NW of Aguanga, CA",earthquake,0.26,1.66,0.169,12,automatic,ci,ci
 2022-07-08T04:42:53.885Z,61.5419,-147.2777,24,1.7,ml,,,,0.71,ak,ak0228on7fzg,2022-07-08T04:44:49.810Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-08T04:29:14.394Z,61.8249,-151.1784,71.4,1.7,ml,,,,0.27,ak,ak0228on4kmn,2022-07-08T04:31:15.713Z,"21 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -127,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T17:41:27.071Z,36.408,71.226,87.54,4.3,mb,39,76,0.886,0.87,us,us6000i0mu,2022-07-07T20:53:30.040Z,"41 km SW of Ashkāsham, Afghanistan",earthquake,5.4,7.9,0.104,26,reviewed,us,us
 2022-07-07T17:37:20.320Z,19.5026666666667,-155.659833333333,4.1,1.88,md,18,108,,0.1,hv,hv73068067,2022-07-07T21:11:03.680Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.64,0.103511782885915,8,reviewed,hv,hv
 2022-07-07T17:28:32.980Z,19.462,-155.605166666667,-1.37,2.2,md,21,87,,0.16,hv,hv73068052,2022-07-07T21:45:04.900Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.26,0.1518273454779,9,reviewed,hv,hv
-2022-07-07T17:27:46.910Z,19.173,-155.475333333333,32.52,1.78,md,26,159,,0.11,hv,hv73068047,2022-07-08T03:15:11.480Z,"Hawaii region, Hawaii",earthquake,0.55,0.69,0.0852777724721585,15,reviewed,hv,hv
+2022-07-07T17:27:46.910Z,19.173,-155.475333333333,32.52,1.78,md,26,159,,0.11,hv,hv73068047,2022-07-08T03:15:11.480Z,"3 km S of Pāhala, Hawaii",earthquake,0.55,0.69,0.0852777724721585,15,reviewed,hv,hv
 2022-07-07T17:25:54.310Z,39.4336667,-110.3153333,-1.07,1.61,md,6,192,0.01219,0.1,uu,uu60504842,2022-07-07T20:05:45.530Z,"14 km SSE of Sunnyside, Utah",earthquake,1.5,0.46,0.284,6,reviewed,uu,uu
 2022-07-07T17:23:57.189Z,61.0637,-148.4308,0,1.4,ml,,,,0.74,ak,ak0228n7ao1g,2022-07-07T18:26:20.394Z,"35 km NNE of Whittier, Alaska",ice quake,,0,,,reviewed,ak,ak
 2022-07-07T17:15:22.920Z,63.2987,-152.6868,15.8,0.9,ml,,,,0.39,ak,ak0228n78vms,2022-07-07T17:17:47.514Z,"55 km WSW of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -235,9 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T09:06:26.120Z,37.566,-118.9273333,8.63,0.33,md,16,155,0.06304,0.03,nc,nc73755771,2022-07-07T09:48:10.571Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.32,0.85,0.232,15,reviewed,nc,nc
 2022-07-07T09:05:39.311Z,61.2517,-149.2586,28.7,1,ml,,,,0.57,ak,ak0228n2fawb,2022-07-07T09:07:38.130Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-07T09:04:40.010Z,37.558,-118.9305,8.07,0.65,md,17,160,0.07141,0.08,nc,nc73755766,2022-07-07T16:01:16.747Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.32,0.92,0.134,14,reviewed,nc,nc
-2022-07-07T09:02:25.558Z,60.0779,-152.5107,85.1,1.2,ml,,,,0.31,ak,ak0228n2emor,2022-07-07T09:04:42.549Z,"45 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-07T08:57:48.710Z,37.5705,-118.9273333,7.54,0.73,md,16,221,0.05878,0.03,nc,nc73755761,2022-07-07T15:37:18.597Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.72,0.8,0.093,13,reviewed,nc,nc
-2022-07-07T08:57:06.360Z,37.6098328,-122.4873352,9.84,0.96,md,7,214,0.02615,0.03,nc,nc73755756,2022-07-07T09:09:11.493Z,"0km S of Pacifica, CA",earthquake,0.87,1.72,0.09,6,automatic,nc,nc
-2022-07-07T08:51:39.320Z,38.64,-122.7235,5.66,1.57,md,59,37,0.07543,0.06,nc,nc73755751,2022-07-08T01:56:14.392Z,"13km ENE of Healdsburg, CA",earthquake,0.16,0.47,0.188,31,reviewed,nc,nc
-2022-07-07T08:47:10.930Z,17.8615,-66.8761666666667,7.65,2.46,md,24,244,,0.2,pr,pr71357938,2022-07-07T09:07:21.500Z,"12 km SSE of Guánica, Puerto Rico",earthquake,0.53,0.39,0.139365928737398,16,reviewed,pr,pr
-2022-07-07T08:47:10.313Z,38.5523,-119.5199,7.7,0.5,ml,8,150.81,0.034,0.1294,nn,nn00842395,2022-07-08T02:40:50.665Z,"1 km SW of Coleville, California",earthquake,,1.6,0.13,4,reviewed,nn,nn
