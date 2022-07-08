@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-08T14:21:54.100Z,33.2535,-116.3351667,10.89,0.88,ml,26,77,0.07025,0.24,ci,ci40299808,2022-07-08T14:25:35.310Z,"4km E of Borrego Springs, CA",earthquake,0.36,0.61,0.176,19,automatic,ci,ci
 2022-07-08T13:56:34.700Z,35.9065,-117.7453333,9.39,1.13,ml,16,108,0.07267,0.14,ci,ci40299792,2022-07-08T14:00:08.147Z,"15km ESE of Little Lake, CA",earthquake,0.31,0.77,0.173,14,automatic,ci,ci
 2022-07-08T13:40:24.240Z,36.3071671,-121.8328323,8.35,1.69,md,14,231,0.09526,0.06,nc,nc73756341,2022-07-08T14:04:12.790Z,"6km E of Point Sur, CA",earthquake,2.65,0.99,0.24,8,automatic,nc,nc
 2022-07-08T13:34:14.410Z,19.4969997406006,-155.655334472656,-3.39000010490417,2.08,ml,35,58,,0.349999994,hv,hv73069237,2022-07-08T13:39:44.550Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.270000011,3.02,8,automatic,hv,hv
@@ -84,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T05:14:32.215Z,-7.0469,148.4977,10,4.7,mb,54,64,4.621,0.5,us,us6000i0s6,2022-07-08T05:34:28.040Z,"90 km SE of Finschhafen, Papua New Guinea",earthquake,7.7,1.5,0.086,41,reviewed,us,us
 2022-07-08T05:08:18.190Z,34.0863333,-117.483,2.51,0.97,ml,19,119,0.03453,0.19,ci,ci40299544,2022-07-08T05:11:54.129Z,"3km WSW of Fontana, CA",earthquake,0.33,0.35,0.314,25,automatic,ci,ci
 2022-07-08T04:54:05.478Z,60.4409,-152.3555,91.3,1.6,ml,,,,0.66,ak,ak0228on9wub,2022-07-08T04:57:38.622Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-08T04:49:39.700Z,37.8754997,-122.2171631,6.84,2.37,md,61,46,0.01459,0.08,nc,nc73756181,2022-07-08T13:45:40.312Z,"3km W of Orinda, CA",earthquake,0.14,0.28,0.16,58,automatic,nc,nc
+2022-07-08T04:49:39.700Z,37.8754997,-122.2171631,6.84,2.37,md,61,46,0.01459,0.08,nc,nc73756181,2022-07-08T14:31:26.323Z,"3km W of Orinda, CA",earthquake,0.14,0.28,0.16,58,automatic,nc,nc
 2022-07-08T04:49:09.650Z,33.4703333,-116.909,9.5,0.55,ml,16,56,0.1672,0.14,ci,ci40299536,2022-07-08T04:52:47.958Z,"5km NW of Aguanga, CA",earthquake,0.26,1.66,0.169,12,automatic,ci,ci
 2022-07-08T04:42:53.885Z,61.5419,-147.2777,24,1.7,ml,,,,0.71,ak,ak0228on7fzg,2022-07-08T04:44:49.810Z,"35 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-08T04:29:14.394Z,61.8249,-151.1784,71.4,1.7,ml,,,,0.27,ak,ak0228on4kmn,2022-07-08T04:31:15.713Z,"21 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -121,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T01:27:14.699Z,64.7638,-148.9713,10.3,0.5,ml,,,,0.52,ak,ak0228olbuel,2022-07-08T01:30:08.403Z,"19 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-08T01:21:33.830Z,38.7958336,-122.7975006,3.52,0.84,md,11,76,0.007944,0.08,nc,nc73756076,2022-07-08T01:38:14.279Z,"4km WNW of The Geysers, CA",earthquake,0.54,1.29,,1,automatic,nc,nc
 2022-07-08T01:13:58.302Z,70.8135,-6.2121,10,4.5,mb,45,107,9.348,0.91,us,us6000i0r1,2022-07-08T01:32:17.040Z,"92 km E of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.5,1.9,0.06,84,reviewed,us,us
-2022-07-08T01:01:44.451Z,-14.8643,167.1227,93.91,5.4,mww,61,39,0.584,0.64,us,us6000i0qx,2022-07-08T03:04:47.941Z,"20 km NNE of Port-Olry, Vanuatu",earthquake,10.4,6.1,0.098,10,reviewed,us,us
+2022-07-08T01:01:44.497Z,-14.8764,167.1657,94.77,5.4,mww,76,26,0.568,0.89,us,us6000i0qx,2022-07-08T14:33:14.040Z,"20 km NNE of Port-Olry, Vanuatu",earthquake,8.6,3.4,0.093,11,reviewed,us,us
 2022-07-08T00:50:34.608Z,62.2092,-150.1378,23.8,0.9,ml,,,,0.87,ak,ak0228okvdsu,2022-07-08T01:14:01.347Z,"12 km S of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-08T00:50:19.730Z,36.2465,-120.8255,6.43,2.61,md,75,109,0.03628,0.13,nc,nc73756056,2022-07-08T13:59:33.430Z,"22km NE of San Lucas, CA",earthquake,0.23,0.32,0.159,98,reviewed,nc,nc
 2022-07-08T00:09:21.790Z,18.5166,-65.1571,125,3.53,md,21,221,0.2542,0.43,pr,pr2022189000,2022-07-08T01:09:41.040Z,"28 km NNE of Culebra, Puerto Rico",earthquake,5.07,1.55,0.25,16,reviewed,pr,pr
@@ -226,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T14:38:37.190Z,39.4276667,-110.2895,-2.59,1.41,ml,10,201,0.0278,0.14,uu,uu60504802,2022-07-07T15:58:10.170Z,"16 km SSE of Sunnyside, Utah",earthquake,1.19,2.48,0.1,5,reviewed,uu,uu
 2022-07-07T14:38:11.116Z,58.1891,-153.8048,70,1.1,ml,,,,0.22,ak,ak0228n5lhdj,2022-07-07T14:41:05.011Z,"54 km WNW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-07T14:37:42.407Z,53.3022,-164.1333,10,3.4,ml,17,205,1.242,0.67,us,us6000i0jb,2022-07-07T16:34:28.040Z,"142 km SE of Akutan, Alaska",earthquake,4.8,2,0.081,20,reviewed,us,us
-2022-07-07T14:30:35.776Z,61.5675,-151.4207,74.2,2.4,ml,,,,0.52,ak,ak0228n5jtk5,2022-07-07T14:55:05.040Z,"47 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-07T14:30:21.300Z,34.8418333,-119.0038333,14.49,1.44,ml,10,78,0.0723,0.18,ci,ci40298992,2022-07-07T14:34:01.867Z,"6km WNW of Frazier Park, CA",earthquake,0.6,1.25,0.532,12,automatic,ci,ci
