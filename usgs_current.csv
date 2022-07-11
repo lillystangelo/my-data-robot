@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T07:34:36.740Z,17.9685,-66.9808333333333,6.61,1.93,md,5,186,,0.12,pr,pr71358623,2022-07-10T08:47:28.980Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.57,1.14,0.0887700027744325,5,reviewed,pr,pr
 2022-07-10T07:16:39.672Z,-9.5508,112.9129,49.61,4.5,mb,27,117,1.628,0.46,us,us6000i1cn,2022-07-10T07:39:55.040Z,"148 km SSW of Kencong, Indonesia",earthquake,7.2,9.7,0.171,11,reviewed,us,us
 2022-07-10T07:10:29.435Z,61.6087,-141.0625,7.8,1.4,ml,,,,0.53,ak,ak0228rzvizj,2022-07-10T07:12:49.154Z,"100 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-10T06:52:32.810Z,18.8736,-68.3085,125,4.01,md,18,248,0.9628,0.28,pr,pr2022191005,2022-07-10T08:43:52.910Z,"33 km NNE of Punta Cana, Dominican Republic",earthquake,3.63,2.76,0.04,6,reviewed,pr,pr
