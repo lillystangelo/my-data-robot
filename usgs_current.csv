@@ -234,7 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T09:09:27.176Z,63.588,-147.928,17.1,1.1,ml,,,,0.52,ak,ak0228vc4val,2022-07-12T09:12:17.722Z,"51 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-12T09:08:13.913Z,61.7489,-147.5683,19.7,1.5,ml,,,,0.89,ak,ak0228vc4mjz,2022-07-12T09:11:13.469Z,"7 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-12T09:07:10.320Z,17.9926666666667,-66.8435,18.69,1.87,md,12,166,,0.06,pr,pr71359018,2022-07-12T10:51:30.040Z,"2 km W of Indios, Puerto Rico",earthquake,0.39,0.46,0.12112508173413,11,reviewed,pr,pr
-2022-07-12T09:01:23.089Z,-23.5797,-67.1264,237.32,4.7,mb,25,95,1.152,0.7,us,us6000i1s4,2022-07-12T09:23:23.040Z,"108 km NW of San Antonio de los Cobres, Argentina",earthquake,10.8,10,0.159,12,reviewed,us,us
-2022-07-12T08:59:01.610Z,17.9733333333333,-67.0101666666667,9.24,2.13,md,5,175,,0.08,pr,pr71359013,2022-07-12T09:28:05.160Z,"Puerto Rico region",earthquake,0.52,0.82,0.0915024361007437,5,reviewed,pr,pr
-2022-07-12T08:57:23.700Z,19.1825008392334,-155.475830078125,31.9500007629395,1.98000002,md,27,87,,0.180000007,hv,hv73073212,2022-07-12T09:00:33.250Z,"2 km S of Pāhala, Hawaii",earthquake,0.69,1.04999995,0.0299999993,9,automatic,hv,hv
-2022-07-12T08:53:07.155Z,38.7116,-116.1165,0,1.6,ml,8,154.84,0.84,0.1926,nn,nn00842679,2022-07-12T18:09:21.530Z,"89 km S of Eureka, Nevada",earthquake,,0,0.36,4,reviewed,nn,nn
