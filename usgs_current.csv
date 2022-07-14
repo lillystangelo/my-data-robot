@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-14T11:50:54.380Z,19.2386665344238,-155.395004272461,33.7400016784668,2.24,ml,43,139,,0.140000001,hv,hv73075017,2022-07-14T11:56:26.090Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.860000014,3.83,14,automatic,hv,hv
+2022-07-14T11:50:44.122Z,38.6312,-116.1805,0,1.6,ml,10,247.78,1.32,0.2811,nn,nn00842866,2022-07-14T11:54:35.888Z,"99 km S of Eureka, Nevada",earthquake,,7.2,0.23,7,automatic,nn,nn
 2022-07-14T11:36:39.530Z,33.2375,-116.0968333,8.17,1.46,ml,45,43,0.101,0.2,ci,ci40303608,2022-07-14T11:47:21.960Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.24,1.09,0.114,26,automatic,ci,ci
-2022-07-14T11:26:20.570Z,38.8255005,-122.8539963,2.62,0.36,md,11,100,0.003036,0.01,nc,nc73758536,2022-07-14T11:43:11.975Z,"10km WNW of The Geysers, CA",earthquake,0.46,0.73,,1,automatic,nc,nc
+2022-07-14T11:26:20.570Z,38.8255005,-122.8539963,2.62,0.36,md,11,100,0.003036,0.01,nc,nc73758536,2022-07-14T11:58:12.070Z,"10km WNW of The Geysers, CA",earthquake,0.46,0.73,,1,automatic,nc,nc
 2022-07-14T11:17:55.365Z,-16.8407,-172.9924,10,4.7,mb,23,148,3.14,0.81,us,us6000i2cu,2022-07-14T11:45:44.040Z,"130 km SE of Hihifo, Tonga",earthquake,12.6,1.9,0.073,57,reviewed,us,us
 2022-07-14T11:17:06.133Z,38.145,-118.0192,5.7,1.5,ml,15,139.86,0.047,0.0973,nn,nn00842864,2022-07-14T11:20:47.390Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.22,11,automatic,nn,nn
 2022-07-14T11:07:48.594Z,64.4709,-147.962,3.4,1,ml,,,,0.41,ak,ak0228yoe1pn,2022-07-14T11:10:19.210Z,"38 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-14T10:39:39.030Z,35.7325,-117.6231667,2.59,0.79,ml,8,123,0.08564,0.19,ci,ci40303592,2022-07-14T10:43:06.656Z,"13km NNE of Ridgecrest, CA",earthquake,0.86,1.47,0.311,6,automatic,ci,ci
+2022-07-14T10:14:27.906Z,31.67789258,-104.4102752,6.131567383,1.9,ml,17,56,0.07770576857,0.3,tx,tx2022nrfw,2022-07-14T11:55:04.926Z,"55 km S of Whites City, New Mexico",earthquake,1.276722438,1.337666667,0.1,13,reviewed,tx,tx
 2022-07-14T09:24:22.361Z,61.295,-150.5218,52.5,1.1,ml,,,,1.03,ak,ak0228ynarng,2022-07-14T09:28:41.349Z,"27 km S of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-14T09:19:48.620Z,35.527832,-120.7409973,0.41,1.21,md,7,144,0.1378,0.09,nc,nc73758526,2022-07-14T10:12:11.388Z,"4km SW of Templeton, CA",earthquake,0.74,6.58,0.01,6,automatic,nc,nc
 2022-07-14T09:15:05.500Z,32.6393333,-115.7306667,7.89,1.61,ml,18,72,0.0106,0.21,ci,ci40303576,2022-07-14T09:18:47.159Z,"15km WNW of Progreso, B.C., MX",earthquake,0.6,1.15,0.271,21,automatic,ci,ci
@@ -244,6 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T12:03:57.830Z,44.0361667,-115.1578333,10.85,2.06,ml,8,88,0.717,0.18,mb,mb80551224,2022-07-13T20:29:00.870Z,"26 km SW of Stanley, Idaho",earthquake,0.58,1.64,0.165,10,reviewed,mb,mb
 2022-07-13T11:59:43.019Z,63.0609,-148.4698,66.9,0.7,ml,,,,0.28,ak,ak0228x15t91,2022-07-13T17:10:10.083Z,"44 km SSE of Cantwell, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-07-13T11:58:55.310Z,33.5221667,-116.5288333,14.39,1.18,ml,41,33,0.03529,0.12,ci,ci40302960,2022-07-13T17:30:49.760Z,"14km ESE of Anza, CA",earthquake,0.13,0.21,0.123,16,reviewed,ci,ci
-2022-07-13T11:54:35.970Z,33.665,-116.676,16.44,0.51,ml,24,68,0.004302,0.15,ci,ci40302944,2022-07-13T17:22:05.725Z,"9km SSE of Idyllwild, CA",earthquake,0.25,0.37,0.135,7,reviewed,ci,ci
-2022-07-13T11:54:09.109Z,38.6879,-116.1137,3.9,1.7,ml,7,153.07,0.846,0.2173,nn,nn00842804,2022-07-13T20:44:28.258Z,"92 km S of Eureka, Nevada",earthquake,,4.1,0.24,3,reviewed,nn,nn
-2022-07-13T11:49:26.010Z,33.6548333,-116.6848333,14.99,1.77,ml,56,25,0.06128,0.2,ci,ci40302936,2022-07-13T13:20:44.770Z,"10km SSE of Idyllwild, CA",earthquake,0.19,0.4,0.157,26,reviewed,ci,ci
