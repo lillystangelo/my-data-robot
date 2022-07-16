@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T20:08:41.780Z,33.66,-116.7416667,13.28,0.76,ml,25,73,0.05595,0.16,ci,ci40064055,2022-07-15T20:12:21.156Z,"9km SSW of Idyllwild, CA",earthquake,0.31,0.48,0.147,22,automatic,ci,ci
 2022-07-15T20:01:03.990Z,58.5796666666667,-154.396333333333,9.05,-0.35,ml,5,300,,0.06,av,av91066173,2022-07-16T07:24:56.750Z,"98 km SSE of Kokhanok, Alaska",earthquake,0.9,0.91,0.269340935409945,5,reviewed,av,av
 2022-07-15T19:58:56.984Z,38.73,-116.1331,8,1.8,ml,6,156.23,0.824,0.1674,nn,nn00842995,2022-07-15T20:55:07.215Z,"88 km S of Eureka, Nevada",earthquake,,4.7,0.25,3,reviewed,nn,nn
-2022-07-15T19:47:11.430Z,18.04,-66.8268333333333,21.34,2.7,md,13,129,,0.11,pr,pr71359673,2022-07-16T14:59:19.314Z,"2 km ENE of Yauco, Puerto Rico",earthquake,0.41,0.73,0.0512766989349773,6,reviewed,pr,pr
