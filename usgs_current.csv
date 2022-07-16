@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-16T15:00:04.999Z,13.696,144.0205,194.37,5,mww,70,51,0.831,0.78,us,us6000i31v,2022-07-16T15:20:08.088Z,"76 km WNW of Agat Village, Guam",earthquake,8.5,4.3,0.098,10,reviewed,us,us
 2022-07-16T14:41:32.300Z,19.2019996643066,-155.418838500977,33.2400016784668,2.07999992,md,43,156,,0.129999995,hv,hv73076952,2022-07-16T14:44:50.280Z,"6 km E of Pāhala, Hawaii",earthquake,0.48,0.540000021,1.08000004,20,automatic,hv,hv
 2022-07-16T14:33:39.420Z,19.1480007171631,-155.473831176758,32.3699989318848,2.19000006,md,38,168,,0.159999996,hv,hv73076942,2022-07-16T14:37:02.190Z,"6 km S of Pāhala, Hawaii",earthquake,0.64,0.970000029,0.829999983,19,automatic,hv,hv
 2022-07-16T14:26:25.640Z,38.7555008,-122.722168,1.51,0.86,md,8,117,0.006437,0.01,nc,nc73759311,2022-07-16T14:44:11.020Z,"3km SW of Anderson Springs, CA",earthquake,0.52,0.43,0.03,2,automatic,nc,nc
@@ -202,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T20:08:41.780Z,33.66,-116.7416667,13.28,0.76,ml,25,73,0.05595,0.16,ci,ci40064055,2022-07-15T20:12:21.156Z,"9km SSW of Idyllwild, CA",earthquake,0.31,0.48,0.147,22,automatic,ci,ci
 2022-07-15T20:01:03.990Z,58.5796666666667,-154.396333333333,9.05,-0.35,ml,5,300,,0.06,av,av91066173,2022-07-16T07:24:56.750Z,"98 km SSE of Kokhanok, Alaska",earthquake,0.9,0.91,0.269340935409945,5,reviewed,av,av
 2022-07-15T19:58:56.984Z,38.73,-116.1331,8,1.8,ml,6,156.23,0.824,0.1674,nn,nn00842995,2022-07-15T20:55:07.215Z,"88 km S of Eureka, Nevada",earthquake,,4.7,0.25,3,reviewed,nn,nn
-2022-07-15T19:47:11.430Z,18.04,-66.8268333333333,21.34,2.7,md,13,129,,0.11,pr,pr71359673,2022-07-15T20:11:15.390Z,"2 km ENE of Yauco, Puerto Rico",earthquake,0.41,0.73,0.0512766989349773,6,reviewed,pr,pr
+2022-07-15T19:47:11.430Z,18.04,-66.8268333333333,21.34,2.7,md,13,129,,0.11,pr,pr71359673,2022-07-16T14:59:19.314Z,"2 km ENE of Yauco, Puerto Rico",earthquake,0.41,0.73,0.0512766989349773,6,reviewed,pr,pr
 2022-07-15T19:40:49.790Z,38.574501,-119.4628296,5.85,3.13,ml,11,123,0.04614,0.02,nc,nc73758971,2022-07-16T07:47:52.659Z,"7km NNE of Walker, CA",earthquake,0.39,0.42,0.439,22,automatic,nc,nc
 2022-07-15T19:37:21.087Z,-44.5696,-79.7528,10,6.4,mww,109,108,5.671,0.97,us,us6000i2v0,2022-07-16T06:31:49.166Z,"Off the coast of Aisen, Chile",earthquake,9.9,1.9,0.05,38,reviewed,us,us
 2022-07-15T19:35:52.390Z,44.3723333,-110.7811667,2.65,1.31,ml,8,96,0.08817,0.08,uu,uu60505927,2022-07-15T20:08:07.110Z,"41 km SE of West Yellowstone, Montana",earthquake,0.32,1.42,0.286,2,reviewed,uu,uu
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T15:30:06.890Z,44.2895,-114.8191667,6.01,1.31,ml,5,133,0.784,0.24,mb,mb80551484,2022-07-15T22:00:50.950Z,"12 km NE of Stanley, Idaho",earthquake,0.75,13.98,0.158,6,reviewed,mb,mb
 2022-07-15T15:28:47.140Z,19.3148333333333,-155.251833333333,5.8,1.66,md,41,90,,0.12,hv,hv73076012,2022-07-16T03:12:34.020Z,"14 km S of Volcano, Hawaii",earthquake,0.26,0.53,0.252755337457047,17,reviewed,hv,hv
 2022-07-15T15:24:24.630Z,44.2858333,-114.8275,3.87,1.82,ml,7,124,0.574,0.28,mb,mb80551479,2022-07-15T21:55:02.910Z,"11 km NE of Stanley, Idaho",earthquake,0.71,18.64,0.133,8,reviewed,mb,mb
-2022-07-15T15:15:35.240Z,34.164,-80.72,3.25,1.62,md,5,144,0.0339,0.24,se,se60156643,2022-07-16T13:31:34.560Z,"6 km E of Elgin, South Carolina",earthquake,1.51,1.93,0.149,4,reviewed,se,se
