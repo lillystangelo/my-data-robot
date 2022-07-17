@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-17T22:42:28.360Z,38.822834,-122.9251633,4.4,1.53,md,25,102,0.02229,0.03,nc,nc73760026,2022-07-17T22:44:05.573Z,"8km ENE of Cloverdale, CA",earthquake,0.31,0.58,0.12,6,automatic,nc,nc
+2022-07-17T22:42:28.360Z,38.822834,-122.9251633,4.4,1.53,md,25,102,0.02229,0.03,nc,nc73760026,2022-07-17T22:52:10.817Z,"8km ENE of Cloverdale, CA",earthquake,0.31,0.58,0.12,6,automatic,nc,nc
 2022-07-17T22:08:19.660Z,35.0541667,-118.374,7.13,1.31,ml,28,39,0.06878,0.2,ci,ci40065543,2022-07-17T22:11:52.152Z,"11km SE of Tehachapi, CA",earthquake,0.34,1,0.137,26,automatic,ci,ci
 2022-07-17T21:58:43.430Z,17.9815,-66.9841666666667,4.83,2.24,md,10,162,,0.05,pr,pr71360008,2022-07-17T22:06:03.500Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.28,0.84,0.082994973680977,5,reviewed,pr,pr
 2022-07-17T21:39:18.310Z,33.2758333,-115.9846667,2.11,1.4,ml,40,72,0.1022,0.24,ci,ci40065519,2022-07-17T21:50:13.400Z,"4km SW of Salton City, CA",earthquake,0.33,0.99,0.146,26,automatic,ci,ci
@@ -289,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T23:07:51.210Z,35.7048333,-117.5736667,10.44,0.8,ml,10,150,0.1124,0.13,ci,ci40064807,2022-07-17T13:42:30.397Z,"13km NE of Ridgecrest, CA",earthquake,0.35,0.64,0.123,9,reviewed,ci,ci
 2022-07-16T23:05:50.290Z,37.6043333,-122.4593333,8.01,0.76,md,11,97,0.03503,0.08,nc,nc73759426,2022-07-16T23:43:11.345Z,"3km ESE of Pacifica, CA",earthquake,0.29,0.52,0.19,8,reviewed,nc,nc
 2022-07-16T22:57:19.187Z,51.3832,178.1068,41.6,2,ml,,,,0.2,ak,ak022926b1b3,2022-07-16T23:57:55.045Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,4.4,,,reviewed,ak,ak
-2022-07-16T22:56:49.960Z,38.8293343,-122.8069992,1.82,0.34,md,8,113,0.006399,0.01,nc,nc73759421,2022-07-17T00:40:10.775Z,"7km NW of The Geysers, CA",earthquake,0.41,0.67,0.34,2,automatic,nc,nc
