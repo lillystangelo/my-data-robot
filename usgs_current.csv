@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-21T06:37:39.810Z,17.9881666666667,-66.738,13.91,1.98,md,10,167,,0.18,pr,pr71360498,2022-07-21T06:45:33.680Z,"2 km WSW of Tallaboa, Puerto Rico",earthquake,1.07,0.49,0.167729556139793,9,reviewed,pr,pr
 2022-07-21T06:06:02.160Z,38.69,-122.7998333,6.05,0.98,md,33,97,0.03917,0.04,nc,nc73761171,2022-07-21T10:07:16.766Z,"10km SSW of The Geysers, CA",earthquake,0.26,0.32,0.033,8,reviewed,nc,nc
 2022-07-21T06:00:53.344Z,31.6815264,-104.4167688,1.915454102,3.1,ml,10,95,0.07277044444,0.1,tx,tx2022odsa,2022-07-21T07:18:02.438Z,"54 km S of Whites City, New Mexico",earthquake,0.8936330841,1.655880925,0.1,8,reviewed,tx,tx
-2022-07-21T05:48:27.762Z,31.68519578,-104.4178794,1.915454102,3.1,ml,8,98,0.07259039657,0.2,tx,tx2022odrp,2022-07-21T06:37:00.066Z,"54 km S of Whites City, New Mexico",earthquake,1.234707459,1.625858938,0.1,6,reviewed,tx,tx
-2022-07-21T05:48:17.285Z,40.1045,-119.7129,13.7,0.2,ml,3,159.95,0.067,0.027,nn,nn00843357,2022-07-21T20:17:00.530Z,"19 km NNW of Sutcliffe, Nevada",earthquake,,8.1,0.24,3,reviewed,nn,nn
