@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T20:49:33.190Z,40.4671669,-124.7994995,13.04,2.53,md,38,240,0.3526,0.16,nc,nc73763836,2022-07-28T20:56:10.838Z,"46km WNW of Petrolia, CA",earthquake,1.84,1.37,0.15,11,automatic,nc,nc
 2022-07-28T20:46:01.570Z,33.872,-117.4971667,-0.53,1.03,ml,16,71,0.06962,0.22,ci,ci40071375,2022-07-28T22:31:46.700Z,"2km ESE of Home Gardens, CA",quarry blast,0.5,31.61,0.122,18,reviewed,ci,ci
 2022-07-28T20:40:08.540Z,33.1661667,-115.6371667,2.73,1.78,ml,40,42,0.02088,0.21,ci,ci40071351,2022-07-28T21:00:18.154Z,"12km WNW of Calipatria, CA",earthquake,0.23,0.27,0.16,47,reviewed,ci,ci
-2022-07-28T20:37:28.570Z,38.7966652,-122.7809982,3.25,0.62,md,16,70,0.006431,0.02,nc,nc73763831,2022-07-28T20:55:15.833Z,"3km NW of The Geysers, CA",earthquake,0.32,0.66,0.22,4,automatic,nc,nc
+2022-07-28T20:37:28.570Z,38.7966652,-122.7809982,3.25,0.62,md,16,70,0.006431,0.02,nc,nc73763831,2022-07-28T22:44:17.500Z,"3km NW of The Geysers, CA",earthquake,0.32,0.66,0.22,4,automatic,nc,nc
 2022-07-28T20:32:38.120Z,34.3205,-118.4846667,5.12,1.03,ml,24,39,0.01543,0.21,ci,ci40071343,2022-07-28T20:51:53.936Z,"4km WNW of Sylmar, CA",earthquake,0.31,0.45,0.156,12,reviewed,ci,ci
 2022-07-28T20:27:49.350Z,38.770668,-122.7108307,1.58,0.86,md,9,107,0.009366,0.01,nc,nc73763826,2022-07-28T22:19:16.376Z,"2km WSW of Anderson Springs, CA",earthquake,0.38,0.47,0.01,3,automatic,nc,nc
 2022-07-28T20:11:01.730Z,39.4185,-110.2881667,-2.66,1.59,md,7,203,0.02915,0.22,uu,uu60507387,2022-07-28T20:43:04.760Z,"17 km SSE of Sunnyside, Utah",earthquake,0.79,1.78,0.237,5,reviewed,uu,uu
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T23:00:52.305Z,64.9787,-147.3094,0.1,1.4,ml,,,,0.98,ak,ak0229kdh9n7,2022-07-27T23:04:10.194Z,"14 km E of Fox, Alaska",earthquake,,24.2,,,automatic,ak,ak
 2022-07-27T23:00:06.570Z,44.802,-110.5363333,5.81,1.03,md,7,261,0.0861,0.11,uu,uu60507227,2022-07-28T15:18:46.620Z,"23 km SE of Mammoth, Wyoming",earthquake,1.86,31.61,0.331,3,reviewed,uu,uu
 2022-07-27T22:52:25.730Z,38.8186684,-122.8008347,3.47,0.84,md,11,78,0.008624,0.01,nc,nc73763531,2022-07-27T23:14:16.365Z,"6km NW of The Geysers, CA",earthquake,0.44,1.17,,1,automatic,nc,nc
-2022-07-27T22:45:21.600Z,19.2728328704834,-155.114669799805,40.5499992370605,1.72000003,md,39,228,,0.109999999,hv,hv73089817,2022-07-27T22:48:33.270Z,"21 km S of Fern Forest, Hawaii",earthquake,0.69,0.74000001,0.920000017,7,automatic,hv,hv
