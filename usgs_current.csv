@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-28T10:22:46.240Z,35.858,-117.6911667,7.08,1.34,ml,19,116,0.0776,0.14,ci,ci40071015,2022-07-28T10:33:54.970Z,"21km ESE of Little Lake, CA",earthquake,0.32,0.86,0.154,14,automatic,ci,ci
+2022-07-28T10:18:24.388Z,35.69609451,-96.97400665,3.888771057,1.5,ml,20,73.15411377,0.1522976458,0.4019663787,ok,ok2022oqva,2022-07-28T10:21:20.348Z,"2 km ENE of Warwick, Oklahoma",earthquake,2.809700167,2.310204365,,15,automatic,ok,ok
 2022-07-28T10:00:15.840Z,38.8338318,-122.7955017,2.42,0.85,md,8,86,0.006092,0.02,nc,nc73763696,2022-07-28T10:17:16.734Z,"6km WNW of Cobb, CA",earthquake,0.49,1.61,,1,automatic,nc,nc
 2022-07-28T09:54:17.280Z,33.3843333,-116.9595,5.16,1.17,ml,42,32,0.06069,0.22,ci,ci40071007,2022-07-28T10:04:46.730Z,"9km WNW of Palomar Observatory, CA",earthquake,0.24,0.74,0.138,26,automatic,ci,ci
 2022-07-28T09:49:36.289Z,64.7095,-147.301,8.2,0.5,ml,,,,0.28,ak,ak0229lsz0jg,2022-07-28T09:51:58.595Z,"5 km SSE of North Pole, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-28T09:39:01.020Z,34.0981667,-116.3991667,6.66,0.85,ml,22,87,0.02979,0.17,ci,ci40070999,2022-07-28T09:42:38.485Z,"4km ESE of Yucca Valley, CA",earthquake,0.35,0.52,0.15,20,automatic,ci,ci
 2022-07-28T09:25:04.550Z,33.6856667,-116.7651667,13.17,0.17,ml,10,140,0.04954,0.14,ci,ci40070991,2022-07-28T09:28:31.969Z,"7km SW of Idyllwild, CA",earthquake,0.6,0.96,0.092,6,automatic,ci,ci
-2022-07-28T09:23:16.405Z,12.4114,-87.6919,57.99,5.2,mww,115,117,0.713,1.07,us,us6000i64e,2022-07-28T10:09:36.023Z,"45 km SW of Jiquilillo, Nicaragua",earthquake,5.7,5.1,0.048,41,reviewed,us,us
+2022-07-28T09:23:16.405Z,12.4114,-87.6919,57.99,5.2,mww,115,117,0.713,1.07,us,us6000i64e,2022-07-28T10:20:40.458Z,"45 km SW of Jiquilillo, Nicaragua",earthquake,5.7,5.1,0.048,41,reviewed,us,us
 2022-07-28T09:12:48.680Z,33.673,-116.7708333,11.03,0.68,ml,24,72,0.06067,0.14,ci,ci40070983,2022-07-28T09:16:21.131Z,"9km SSW of Idyllwild, CA",earthquake,0.29,0.47,0.144,19,automatic,ci,ci
 2022-07-28T09:12:16.185Z,14.8178,57.9268,10,4.5,mb,29,183,10.204,0.42,us,us6000i64d,2022-07-28T09:28:16.040Z,"Owen Fracture Zone region",earthquake,9.9,1.9,0.116,22,reviewed,us,us
 2022-07-28T08:55:36.821Z,31.6679,-104.3784,5,2.7,ml,26,117,0.104,0.25,us,us6000i649,2022-07-28T09:29:08.040Z,"56 km S of Whites City, New Mexico",earthquake,1.1,1.9,0.052,76,reviewed,us,us
@@ -193,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T10:48:10.850Z,37.6613333,-118.9545,1.21,-0.03,md,8,225,0.04587,0.05,nc,nc73763341,2022-07-27T17:13:50.922Z,"4km NE of Mammoth Lakes, CA",earthquake,1.08,1.09,0.076,5,reviewed,nc,nc
 2022-07-27T10:43:36.797Z,60.2568,-152.2102,95.1,1.2,ml,,,,0.24,ak,ak0229k5zte7,2022-07-27T10:45:12.682Z,"37 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-27T10:40:45.434Z,38.5724,-119.4539,9.2,0.7,ml,14,64.24,0.053,0.1255,nn,nn00843751,2022-07-28T02:40:15.653Z,"4 km E of Coleville, California",earthquake,,1.4,0.23,4,reviewed,nn,nn
-2022-07-27T10:39:15.216Z,63.1869,-150.4947,94.7,1.2,ml,,,,0.48,ak,ak0229k5ywsk,2022-07-27T10:41:48.615Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-07-27T10:22:11.789Z,57.5385,-155.8279,9.1,1.5,ml,,,,0.24,ak,ak0229k5v9ec,2022-07-27T10:32:54.023Z,"82 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-27T10:21:28.060Z,17.9175,-66.8433333333333,7.89,2.67,md,20,229,,0.18,pr,pr71361268,2022-07-27T10:44:56.780Z,"8 km SE of Maria Antonia, Puerto Rico",earthquake,0.6,0.26,0.061363715906831,8,reviewed,pr,pr
