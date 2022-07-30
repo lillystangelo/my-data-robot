@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-30T21:34:30.017Z,35.01385117,-97.83815002,2.091114521,2.18,ml,40,47.94913483,0.07403426617,0.7846949494,ok,ok2022ovij,2022-07-30T21:35:58.507Z,"9 km ESE of Chickasha, Oklahoma",earthquake,1.937526817,1.56697852,,16,automatic,ok,ok
 2022-07-30T21:22:03.014Z,38.1768,-117.8097,3.9,1.3,ml,9,192.31,0.124,0.1912,nn,nn00843873,2022-07-30T21:25:32.334Z,"35 km SE of Mina, Nevada",earthquake,,2,0.38,6,automatic,nn,nn
 2022-07-30T21:03:22.107Z,63.097,-151.3326,0,1.4,ml,,,,0.78,ak,ak0229pax0r6,2022-07-30T21:06:45.464Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-30T20:58:44.170Z,38.8306656,-122.8006668,1.93,0.85,md,9,82,0.01033,0.01,nc,nc73764461,2022-07-30T21:19:20.229Z,"7km W of Cobb, CA",earthquake,0.46,1.13,,1,automatic,nc,nc
@@ -68,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T11:56:23.681Z,38.5774,-119.454,8,0.8,ml,10,146.15,0.052,0.1612,nn,nn00843871,2022-07-30T12:00:48.373Z,"4 km ENE of Coleville, California",earthquake,,0.8,0.45,4,automatic,nn,nn
 2022-07-30T11:53:37.222Z,61.5167,-149.9359,32.2,1.3,ml,,,,0.58,ak,ak0229p59foa,2022-07-30T11:55:10.544Z,"1 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-30T11:53:10.000Z,18.7603333333333,-66.6866666666667,6.87,2.87,md,24,246,,0.29,pr,pr71361648,2022-07-30T13:55:16.650Z,"32 km N of Arecibo, Puerto Rico",earthquake,0.89,1.18,0.107023368239491,13,reviewed,pr,pr
-2022-07-30T11:41:13.890Z,34.1655,-80.7193333,3.63,1.78,md,6,142,0.03475,0.32,se,se60157943,2022-07-30T20:06:41.067Z,"6 km E of Elgin, South Carolina",earthquake,1.41,2,0.085,4,reviewed,se,se
+2022-07-30T11:41:13.890Z,34.1655,-80.7193333,3.63,1.78,md,6,142,0.03475,0.32,se,se60157943,2022-07-30T21:32:40.385Z,"6 km E of Elgin, South Carolina",earthquake,1.41,2,0.085,4,reviewed,se,se
 2022-07-30T11:25:40.907Z,38.5811,-119.4465,7.6,1.2,ml,12,61.39,0.058,0.169,nn,nn00843868,2022-07-30T11:28:40.201Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.29,9,automatic,nn,nn
 2022-07-30T11:25:16.920Z,17.9843333333333,-66.8383333333333,15.75,2.41,md,15,165,,0.17,pr,pr71361638,2022-07-30T11:50:33.500Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.53,0.54,0.0507899633576141,5,reviewed,pr,pr
 2022-07-30T11:17:06.639Z,61.7155,-151.7827,96.9,1.3,ml,,,,0.52,ak,ak0229p51njb,2022-07-30T11:19:11.493Z,"36 km SSW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T21:56:38.511Z,61.1537,-146.8966,14.5,1.2,ml,,,,0.33,ak,ak0229nnp2h7,2022-07-29T21:58:50.841Z,"29 km W of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-29T21:46:58.019Z,63.3763,-147.6694,24.8,0.8,ml,,,,1.09,ak,ak0229nnmytl,2022-07-29T21:49:21.258Z,"64 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-29T21:39:52.020Z,63.3565,-147.719,19.3,0.8,ml,,,,0.62,ak,ak0229nnlgbz,2022-07-29T21:43:08.017Z,"61 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-29T21:30:13.310Z,33.7946667,-116.128,1.49,1.37,ml,49,38,0.07791,0.17,ci,ci40071983,2022-07-29T22:20:09.560Z,"12km NE of Indio, CA",earthquake,0.15,0.3,0.116,27,reviewed,ci,ci
