@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T10:55:42.390Z,17.9756666666667,-66.9456666666667,8.15,2.5,md,6,172,,0.13,pr,pr71361508,2022-07-29T11:54:26.390Z,"3 km WSW of Fuig, Puerto Rico",earthquake,0.57,1.22,0.156618937945658,5,reviewed,pr,pr
 2022-07-29T10:54:47.320Z,33.28,-115.9888333,3.67,1.41,ml,68,62,0.002501,0.18,ci,ci40071663,2022-07-29T19:34:28.190Z,"4km SW of Salton City, CA",earthquake,0.12,0.21,0.141,24,reviewed,ci,ci
 2022-07-29T10:53:29.071Z,60.023,-152.0686,72.3,0.9,ml,,,,0.48,ak,ak0229nh4my3,2022-07-29T10:55:42.053Z,"20 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-29T10:46:09.460Z,36.6751667,-121.3456667,0.78,0.98,md,12,67,0.03224,0.09,nc,nc73764001,2022-07-29T19:28:13.414Z,"13km S of Tres Pinos, CA",earthquake,0.25,0.77,0.349,11,reviewed,nc,nc
-2022-07-29T10:45:24.590Z,31.9096667,-116.7838333,13.44,1.66,ml,17,228,0.1098,0.18,ci,ci40071655,2022-07-29T20:38:34.924Z,"10km W of El Sauzal, B.C., MX",earthquake,0.67,0.44,0.18,8,reviewed,ci,ci
