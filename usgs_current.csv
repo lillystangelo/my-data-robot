@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-31T18:50:26.590Z,37.6501656,-119.3886642,16.47,1.83,md,9,118,0.2462,0.08,nc,nc73764776,2022-07-31T19:00:10.103Z,"20km ESE of Yosemite Valley, CA",earthquake,0.46,1.95,0.21,6,automatic,nc,nc
 2022-07-31T18:50:13.215Z,32.5466,142.4977,10,5.4,mb,72,63,2.329,0.76,us,us6000i70n,2022-07-31T19:19:12.735Z,"Izu Islands, Japan region",earthquake,9,1.9,0.031,347,reviewed,us,us
+2022-07-31T18:48:29.148Z,32.6186,142.4534,10,5.4,mb,63,94,2.276,0.86,us,us6000i70w,2022-07-31T19:30:59.132Z,"Izu Islands, Japan region",earthquake,9.3,1.9,0.028,443,reviewed,us,us
 2022-07-31T18:48:11.236Z,17.3344,120.7665,10,5.2,mww,70,109,5.463,0.63,us,us6000i70q,2022-07-31T19:18:52.137Z,"10 km SE of San Ramon, Philippines",earthquake,9,1.9,0.089,12,reviewed,us,us
 2022-07-31T18:45:09.190Z,35.804,-117.6128333,11.25,0.87,ml,15,97,0.0171,0.2,ci,ci40072991,2022-07-31T18:48:35.905Z,"19km WNW of Searles Valley, CA",earthquake,0.45,0.79,0.169,8,automatic,ci,ci
 2022-07-31T18:43:56.699Z,62.3444,-148.7097,23.6,0.9,ml,,,,0.46,ak,ak0229qwwpqt,2022-07-31T18:46:48.376Z,"62 km NNW of Chickaloon, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-31T14:31:08.825Z,-14.9747,-72.311,102.04,4.4,mb,35,123,3.761,0.55,us,us6000i6zg,2022-07-31T15:01:55.040Z,"32 km N of Orcopampa, Peru",earthquake,4.8,8.3,0.108,25,reviewed,us,us
 2022-07-31T14:19:43.510Z,33.9535,-116.796,16.34,0.76,ml,25,61,0.08203,0.17,ci,ci40072855,2022-07-31T14:23:09.133Z,"4km NNW of Cabazon, CA",earthquake,0.29,0.64,0.202,19,automatic,ci,ci
 2022-07-31T14:09:19.300Z,34.406,-119.4166667,18.67,1.35,ml,17,145,0.07257,0.3,ci,ci40072847,2022-07-31T14:12:57.277Z,"9km E of Carpinteria, CA",earthquake,0.65,1.09,0.237,28,automatic,ci,ci
-2022-07-31T14:04:54.538Z,52.1921,-171.1878,22.85,4.4,mb,100,86,1.012,0.57,us,us6000i6zb,2022-07-31T18:49:08.037Z,"178 km WSW of Nikolski, Alaska",earthquake,5.6,5.1,0.042,167,reviewed,us,us
+2022-07-31T14:04:52.322Z,52.1675,-171.2521,10,4.4,mb,110,82,1.058,0.48,us,us6000i6zb,2022-07-31T19:31:46.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,3.4,1.8,0.042,167,reviewed,us,us
 2022-07-31T14:04:51.028Z,38.642,-119.5916,0.8,1.4,ml,14,184.97,0.079,0.2009,nn,nn00843888,2022-07-31T14:07:57.053Z,"6 km WNW of Topaz, California",earthquake,,10,0.3,12,automatic,nn,nn
 2022-07-31T14:04:50.210Z,33.4476667,-116.6385,6.24,0.42,ml,15,104,0.05587,0.14,ci,ci40072839,2022-07-31T14:08:21.015Z,"12km SSE of Anza, CA",earthquake,0.26,0.66,0.225,8,automatic,ci,ci
 2022-07-31T13:52:16.963Z,25.1473,63.4376,10,5.1,mb,69,84,6.563,0.62,us,us6000i6z0,2022-07-31T14:56:43.095Z,"13 km SSW of Pasni, Pakistan",earthquake,9.5,1.9,0.043,183,reviewed,us,us
@@ -93,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-31T09:10:18.770Z,19.1868324279785,-155.502838134766,32.7999992370605,1.88,md,34,89,,0.119999997,hv,hv73093307,2022-07-31T09:13:26.410Z,"3 km SW of Pāhala, Hawaii",earthquake,0.58,0.970000029,0.769999981,11,automatic,hv,hv
 2022-07-31T09:05:41.403Z,62.8415,-151.057,98.8,1.5,ml,,,,0.29,ak,ak0229qrbmws,2022-07-31T09:08:12.320Z,"41 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-07-31T08:48:04.528Z,-31.5463,-68.5111,10,3.4,ml,22,127,0.147,0.52,us,us6000i6xs,2022-07-31T13:24:04.712Z,"1 km WSW of Santa Lucía, Argentina",earthquake,5.3,2,0.053,46,reviewed,us,us
-2022-07-31T08:45:14.630Z,38.6243333,-119.6091667,2.01,1.73,md,15,80,0.07979,0.07,nc,nc73764616,2022-07-31T17:57:16.735Z,"17km NW of Walker, CA",earthquake,0.32,1.39,0.294,15,reviewed,nc,nc
+2022-07-31T08:45:14.630Z,38.6243333,-119.6091667,2.01,1.73,md,15,80,0.07979,0.07,nc,nc73764616,2022-07-31T19:31:10.289Z,"17km NW of Walker, CA",earthquake,0.32,1.39,0.294,15,reviewed,nc,nc
 2022-07-31T08:33:25.634Z,-21.3504,-69.4904,72.34,4.4,mb,32,88,0.305,0.53,us,us6000i6xr,2022-07-31T08:53:10.040Z,"110 km NE of Tocopilla, Chile",earthquake,3.1,4.4,0.093,35,reviewed,us,us
 2022-07-31T08:32:58.030Z,33.6708333,-116.7345,12.94,0.62,ml,9,170,0.04365,0.1,ci,ci40072751,2022-07-31T08:46:58.975Z,"8km S of Idyllwild, CA",earthquake,0.86,0.48,0.082,6,automatic,ci,ci
 2022-07-31T08:24:08.881Z,60.2105,-151.2537,70.7,1.4,ml,,,,0.72,ak,ak0229qqu7eg,2022-07-31T08:26:10.292Z,"8 km ESE of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
