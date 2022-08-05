@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-05T19:21:01.246Z,60.2047,-151.7496,63.8,1.2,ml,,,,0.38,ak,ak0229z721sc,2022-08-05T19:23:04.653Z,"17 km NNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-05T19:05:51.550Z,33.7126667,-116.7571667,16.17,1.1,ml,35,64,0.03587,0.18,ci,ci40075991,2022-08-05T19:09:25.533Z,"5km SW of Idyllwild, CA",earthquake,0.32,0.45,0.18,28,automatic,ci,ci
 2022-08-05T19:04:41.500Z,33.8643333,-116.879,2.93,1.13,ml,12,149,0.1019,0.21,ci,ci40075983,2022-08-05T19:08:11.387Z,"7km S of Banning, CA",earthquake,0.76,2.91,0.176,33,automatic,ci,ci
+2022-08-05T19:04:00.020Z,36.5506668,-89.6559982,9.8,1.33,md,10,82,0.103,0.13,nm,nm60403372,2022-08-05T19:13:48.940Z,"5 km NW of Marston, Missouri",earthquake,0.75,1.19,0.23,3,reviewed,nm,nm
 2022-08-05T18:55:56.350Z,34.9995,-118.1923333,0.28,1.3,ml,18,52,0.1228,0.32,ci,ci40075975,2022-08-05T18:59:33.429Z,"6km SSW of Mojave, CA",earthquake,0.55,31.61,0.131,30,automatic,ci,ci
 2022-08-05T18:47:16.523Z,61.5021,-149.9366,49.5,1.1,ml,,,,0.42,ak,ak0229z6m7z8,2022-08-05T18:50:38.341Z,"2 km SSE of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-08-05T18:11:02.916Z,63.1671,-150.0775,81.4,1.1,ml,,,,0.46,ak,ak0229z6eh6s,2022-08-05T18:13:22.362Z,"61 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -265,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T19:30:07.340Z,38.770668,-122.7181702,1.75,1.28,md,12,106,0.01046,0.04,nc,nc73764150,2022-08-04T23:29:20.147Z,"2km WSW of Anderson Springs, CA",earthquake,0.32,0.49,0.14,6,automatic,nc,nc
 2022-08-04T19:29:25.515Z,32.5301,142.415,10,4.4,mb,40,150,2.267,0.44,us,us6000i856,2022-08-05T16:50:09.040Z,"Izu Islands, Japan region",earthquake,9.21,1.931,0.105,30,reviewed,us,us
 2022-08-04T19:27:00.340Z,58.3646666666667,-155.143833333333,14.67,0.36,ml,8,89,,0.19,av,av91654461,2022-08-04T20:06:47.690Z,"95 km ESE of King Salmon, Alaska",earthquake,0.57,0.89,0.233530787000817,8,reviewed,av,av
-2022-08-04T19:19:43.290Z,33.9985,-116.984,15.86,0.93,ml,16,93,0.06211,0.14,ci,ci40075239,2022-08-04T19:23:11.863Z,"6km E of Calimesa, CA",earthquake,0.34,0.84,0.149,27,automatic,ci,ci
-2022-08-04T19:15:36.930Z,32.6063333,-116.9713333,3.33,1.47,ml,24,187,0.03475,0.26,ci,ci40075223,2022-08-04T22:36:20.770Z,"8km ESE of Chula Vista, CA",quarry blast,0.84,0.53,0.12,13,reviewed,ci,ci
