@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-05T20:20:40.230Z,33.8473333,-117.4936667,2.22,1.62,ml,35,51,0.0503,0.24,ci,ci40076047,2022-08-05T20:24:18.937Z,"4km SE of Home Gardens, CA",quarry blast,0.29,0.49,0.1,32,automatic,ci,ci
 2022-08-05T20:05:10.380Z,36.8916664,-121.6173325,0.67,2.05,md,8,86,0.02157,0.06,nc,nc73764660,2022-08-05T20:19:19.155Z,"2km E of Aromas, CA",earthquake,0.29,0.78,0.41,7,automatic,nc,nc
 2022-08-05T20:03:24.870Z,33.5639992,-117.4988327,-0.47,1.06,ml,21,129,0.04956,0.21,ci,ci40076039,2022-08-05T20:06:55.734Z,"9km ESE of Coto De Caza, CA",earthquake,0.67,1.58,0.163,3,automatic,ci,ci
 2022-08-05T19:57:28.727Z,62.3416,-148.1777,41.9,1.1,ml,,,,0.54,ak,ak0229z79ton,2022-08-05T19:59:54.423Z,"62 km NNE of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -260,6 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T20:44:12.140Z,39.4823333,-122.9381667,7.17,1.98,md,24,55,0.1828,0.12,nc,nc73764170,2022-08-05T01:21:15.840Z,"8km NNE of Lake Pillsbury, CA",earthquake,0.24,1.23,0.13,27,reviewed,nc,nc
 2022-08-04T20:43:55.440Z,18.9686660766602,-155.432159423828,16.1000003814697,1.8,ml,22,283,,0.300000012,hv,hv73098872,2022-08-04T20:49:26.210Z,"19 km SE of Naalehu, Hawaii",earthquake,1.65,22.8700008,4.74,3,automatic,hv,hv
 2022-08-04T20:37:10.810Z,39.4318333,-110.3258333,-0.87,1.55,md,6,158,0.007744,0.03,uu,uu60508447,2022-08-04T21:39:06.660Z,"14 km SSE of Sunnyside, Utah",earthquake,0.89,0.2,0.228,6,reviewed,uu,uu
-2022-08-04T20:31:27.697Z,60.8919,-146.8448,27.4,1.4,ml,,,,0.62,ak,ak0229xk6c3l,2022-08-04T20:33:34.861Z,"9 km WNW of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-08-04T20:29:05.959Z,60.5868,-141.2157,28.8,1.2,ml,,,,0.34,ak,ak0229xk5uzn,2022-08-04T20:33:40.400Z,"131 km SE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-04T20:28:02.526Z,60.6124,-141.3562,7.6,1.3,ml,,,,0.59,ak,ak0229xk5n0c,2022-08-04T20:29:57.724Z,"124 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
