@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-09T05:22:08.840Z,35.1525,-119.0008333,13.17,1.77,ml,24,127,0.1422,0.24,ci,ci40077975,2022-08-09T05:25:42.828Z,"14km SSW of Lamont, CA",earthquake,0.65,1.27,0.132,27,automatic,ci,ci
+2022-08-09T05:39:31.038Z,38.5928,-119.4204,1.7,1.2,ml,14,76.06,0.078,0.2637,nn,nn00844513,2022-08-09T05:42:39.788Z,"8 km ENE of Coleville, California",earthquake,,7.4,0.27,10,automatic,nn,nn
+2022-08-09T05:22:08.840Z,35.1525,-119.0008333,13.17,1.77,ml,24,127,0.1422,0.24,ci,ci40077975,2022-08-09T05:33:11.500Z,"14km SSW of Lamont, CA",earthquake,0.65,1.27,0.132,27,automatic,ci,ci
 2022-08-09T05:20:12.605Z,58.2936,-155.0154,0,1.6,ml,,,,0.42,ak,ak022a5kv6gc,2022-08-09T05:21:45.030Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-08-09T05:11:37.600Z,33.7113333,-117.0316667,12.52,0.28,ml,15,104,0.02533,0.2,ci,ci40077967,2022-08-09T05:15:08.000Z,"5km E of Winchester, CA",earthquake,0.58,0.61,0.193,7,automatic,ci,ci
 2022-08-09T05:11:03.130Z,33.2315,-116.7323333,11.55,0.36,ml,19,40,0.02259,0.17,ci,ci40077959,2022-08-09T05:14:34.997Z,"3km ESE of Lake Henshaw, CA",earthquake,0.32,0.55,0.144,6,automatic,ci,ci
@@ -265,8 +266,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T07:09:53.860Z,38.7546654,-122.7324982,2.54,0.36,md,6,142,0.009138,0.05,nc,nc73765350,2022-08-08T09:22:17.872Z,"3km SE of The Geysers, CA",earthquake,1.08,0.71,0.04,2,automatic,nc,nc
 2022-08-08T07:06:50.100Z,18.223,-68.3301,55,3.64,md,15,166,0.2954,0.54,pr,pr2022220003,2022-08-08T10:30:37.318Z,"34 km ESE of Boca de Yuma, Dominican Republic",earthquake,3.09,3.65,0.23,12,reviewed,pr,pr
 2022-08-08T07:06:23.550Z,35.06316667,-95.899,6,1.75,ml,92,74,0.2762457912,0.28,ok,ok2022pkrg,2022-08-08T12:30:55.489Z,"14 km NNE of Arpelar, Oklahoma",earthquake,,0.8,0.22,22,reviewed,ok,ok
-2022-08-08T06:50:52.900Z,51.915,-176.904,13.07,0.09,ml,7,153,,0.14,av,av91067878,2022-08-09T01:32:37.720Z,"19 km WNW of Adak, Alaska",earthquake,1.09,1.42,0.185039953804297,7,reviewed,av,av
-2022-08-08T06:47:36.680Z,51.9033333333333,-176.886166666667,4.26,0.33,ml,8,145,,0.16,av,av91067873,2022-08-09T05:09:42.790Z,"17 km W of Adak, Alaska",earthquake,0.97,1.29,0.202720527824062,8,reviewed,av,av
+2022-08-08T06:50:52.900Z,51.915,-176.904,13.07,0.09,ml,7,153,,0.14,av,av91067878,2022-08-09T05:43:26.240Z,"19 km WNW of Adak, Alaska",earthquake,1.09,1.42,0.185039953804297,7,reviewed,av,av
+2022-08-08T06:47:36.680Z,51.9033333333333,-176.886166666667,4.26,0.33,ml,8,145,,0.16,av,av91067873,2022-08-09T05:44:08.480Z,"17 km W of Adak, Alaska",earthquake,0.97,1.29,0.202720527824062,8,reviewed,av,av
 2022-08-08T06:40:01.455Z,32.44171143,-102.0635242,8.82816569,2,ml,23,58,0.2299443037,0.2,tx,tx2022pkqj,2022-08-08T19:27:40.790Z,"33 km SSW of Los Ybanez, Texas",earthquake,1.576830583,2.741085851,0.2,11,reviewed,tx,tx
 2022-08-08T06:32:48.810Z,37.7540016,-122.1433334,7.15,1.88,md,38,59,0.03537,0.08,nc,nc73765345,2022-08-08T08:29:24.563Z,"3km NNE of San Leandro, CA",earthquake,0.19,0.37,0.19,30,automatic,nc,nc
 2022-08-08T06:31:21.290Z,18.8103,-64.4605,23,3.75,md,22,323,0.675,0.48,pr,pr2022220002,2022-08-08T19:06:32.437Z,"63 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.01,28.76,0.12,15,reviewed,pr,pr
@@ -280,5 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T05:48:22.960Z,17.982,-66.8311666666667,16.06,2.94,md,40,154,,0.15,pr,pr71363728,2022-08-08T09:11:46.040Z,"1 km SW of Indios, Puerto Rico",earthquake,0.27,0.23,0.0901770839060423,18,reviewed,pr,pr
 2022-08-08T05:45:37.420Z,33.7931667,-117.6591667,1.82,1.78,ml,50,35,0.04178,0.22,ci,ci40077311,2022-08-08T19:11:18.903Z,"12km N of Foothill Ranch, CA",earthquake,0.22,0.35,0.097,29,automatic,ci,ci
 2022-08-08T05:45:26.070Z,33.6573333,-116.6838333,14.2,0.39,ml,18,114,0.05935,0.22,ci,ci40077303,2022-08-08T13:35:30.718Z,"10km SSE of Idyllwild, CA",earthquake,0.79,0.61,0.156,9,reviewed,ci,ci
-2022-08-08T05:39:26.920Z,19.1938333333333,-155.391333333333,30.58,1.49,md,18,180,,0.1,hv,hv73102552,2022-08-09T00:12:31.060Z,"9 km E of Pāhala, Hawaii",earthquake,0.84,0.89,0.120436838865583,13,reviewed,hv,hv
-2022-08-08T05:37:17.319Z,-5.5246,151.6305,35,5.6,mww,86,52,1.427,0.68,us,us6000i904,2022-08-09T01:18:03.315Z,"148 km SSW of Kokopo, Papua New Guinea",earthquake,7.51,1.885,0.066,22,reviewed,us,us
