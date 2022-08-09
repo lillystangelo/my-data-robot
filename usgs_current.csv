@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T06:51:37.880Z,39.4223333,-110.293,-2.2,1.61,md,7,184,0.02493,0.11,uu,uu60509022,2022-08-09T15:39:56.740Z,"16 km SSE of Sunnyside, Utah",earthquake,0.9,0.91,0.16,6,reviewed,uu,uu
 2022-08-09T06:50:19.990Z,17.9376666666667,-66.8246666666667,14.76,1.94,md,6,236,,0.12,pr,pr71364278,2022-08-09T07:13:12.950Z,"6 km S of Indios, Puerto Rico",earthquake,1.1,0.73,0.0519270271496111,4,reviewed,pr,pr
 2022-08-09T06:49:39.110Z,35.1336667,-118.9755,15.48,1.26,ml,16,152,0.1194,0.19,ci,ci40078023,2022-08-09T06:53:10.310Z,"15km SSW of Lamont, CA",earthquake,0.59,1.21,0.142,16,automatic,ci,ci
-2022-08-09T06:46:51.820Z,33.8175,-116.9278333,12.53,0.35,ml,8,164,0.1252,0.14,ci,ci40078015,2022-08-09T06:50:18.603Z,"5km NE of San Jacinto, CA",earthquake,1.1,1.8,0.157,6,automatic,ci,ci
+2022-08-09T06:46:52.260Z,33.7738333,-116.9268333,13.25,0.24,ml,19,106,0.04828,0.11,ci,ci40078015,2022-08-09T20:02:12.539Z,"3km ESE of San Jacinto, CA",earthquake,0.38,0.47,0.126,5,reviewed,ci,ci
 2022-08-09T06:44:11.955Z,50.8414,175.8123,10,3.1,ml,,,,0.41,ak,ak022a5llt99,2022-08-09T16:17:17.877Z,"287 km SE of Attu Station, Alaska",earthquake,,15,,,reviewed,ak,ak
 2022-08-09T06:42:13.700Z,44.778,-110.8073333,4.37,0.88,ml,12,101,0.03243,0.12,uu,uu60509017,2022-08-09T12:53:41.430Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.35,0.61,0.415,3,reviewed,uu,uu
 2022-08-09T06:39:42.440Z,33.2313333,-116.7343333,11.49,0.47,ml,34,32,0.02099,0.14,ci,ci40078007,2022-08-09T18:58:53.237Z,"3km ESE of Lake Henshaw, CA",earthquake,0.17,0.38,0.16,9,reviewed,ci,ci
@@ -160,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T06:36:08.160Z,-8.3291,117.0957,10,4.6,mb,28,50,0.836,0.46,us,us6000i9ap,2022-08-09T07:19:15.315Z,"40 km WNW of Sumbawa Besar, Indonesia",earthquake,4.51,1.792,0.129,18,reviewed,us,us
 2022-08-09T06:14:04.615Z,62.4824,-151.3017,77.6,1.6,ml,,,,0.53,ak,ak022a5lfb59,2022-08-09T06:16:06.703Z,"27 km W of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-09T06:04:39.590Z,44.4463333,-110.3278333,3.56,1.23,md,9,135,0.07869,0.08,uu,uu60030774,2022-08-09T14:34:38.810Z,"65 km SSE of Mammoth, Wyoming",earthquake,0.43,1.34,0.142,6,reviewed,uu,uu
-2022-08-09T05:59:51.740Z,34.1086667,-80.6846667,6.85,1.64,md,6,173,0.02983,0.35,se,se60158748,2022-08-09T18:37:04.276Z,"9 km W of Boykin, South Carolina",earthquake,2.31,0.75,0.04,5,reviewed,se,se
+2022-08-09T05:59:51.740Z,34.1086667,-80.6846667,6.85,1.64,md,6,173,0.02983,0.35,se,se60158748,2022-08-09T20:07:07.135Z,"9 km W of Boykin, South Carolina",earthquake,2.31,0.75,0.04,5,reviewed,se,se
 2022-08-09T05:58:02.345Z,31.63100062,-104.3767558,6.157275391,2.6,ml,15,78,0.1036877837,0.2,tx,tx2022pmkm,2022-08-09T15:24:02.115Z,"60 km S of Whites City, New Mexico",earthquake,1.14486511,1.400937525,0.2,11,reviewed,tx,tx
 2022-08-09T05:53:36.060Z,38.822834,-122.786499,2.34,0.84,md,8,95,0.01058,0.01,nc,nc73765840,2022-08-09T06:10:15.430Z,"6km W of Cobb, CA",earthquake,0.73,1.71,,1,automatic,nc,nc
 2022-08-09T05:47:11.610Z,36.0491667,-117.3776667,-0.15,1.32,ml,22,110,0.1755,0.15,ci,ci40077983,2022-08-09T18:51:33.771Z,"31km N of Searles Valley, CA",earthquake,0.26,0.66,0.196,10,reviewed,ci,ci
@@ -187,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T04:03:33.859Z,38.5873,-119.4552,7.1,1.1,ml,9,62.29,0.051,0.0861,nn,nn00844508,2022-08-09T04:06:37.990Z,"5 km ENE of Coleville, California",earthquake,,0.9,0.2,7,automatic,nn,nn
 2022-08-09T03:58:46.550Z,38.7486649,-122.7149963,0.76,0.66,md,9,130,0.01504,0.08,nc,nc73765795,2022-08-09T04:25:15.847Z,"4km SW of Anderson Springs, CA",earthquake,0.39,0.57,0.27,2,automatic,nc,nc
 2022-08-09T03:56:52.230Z,38.8204994,-122.7866669,1.85,1.49,md,29,42,0.008609,0.02,nc,nc73765785,2022-08-09T05:59:25.367Z,"6km NNW of The Geysers, CA",earthquake,0.18,0.31,0.09,7,automatic,nc,nc
-2022-08-09T03:55:24.530Z,38.5868333,-119.4543333,5.82,2.28,md,14,91,0.05136,0.08,nc,nc73765790,2022-08-09T19:36:14.325Z,"8km NNE of Walker, CA",earthquake,0.47,0.61,0.331,25,reviewed,nc,nc
+2022-08-09T03:55:24.530Z,38.5868333,-119.4543333,5.82,2.28,md,14,91,0.05136,0.08,nc,nc73765790,2022-08-09T19:58:54.296Z,"8km NNE of Walker, CA",earthquake,0.47,0.61,0.331,25,reviewed,nc,nc
 2022-08-09T03:48:06.215Z,38.5974,-119.4335,2.2,1.1,ml,14,78.11,0.068,0.0866,nn,nn00844502,2022-08-09T03:51:08.132Z,"7 km ENE of Coleville, California",earthquake,,1.3,0.22,9,automatic,nn,nn
 2022-08-09T03:45:36.390Z,39.4273333,-110.2938333,-2.47,1.5,ml,14,184,0.02443,0.14,uu,uu60508992,2022-08-09T13:50:18.650Z,"15 km SSE of Sunnyside, Utah",earthquake,0.47,1.25,0.08,5,reviewed,uu,uu
 2022-08-09T03:42:37.060Z,17.9561666666667,-66.8786666666667,10.76,2.33,md,8,222,,0.07,pr,pr71364248,2022-08-09T04:05:20.650Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.68,0.46,0.0826363403178756,5,reviewed,pr,pr
@@ -302,9 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T20:21:18.310Z,37.5651667,-118.9255,9.16,1.76,md,26,60,0.04756,0.02,nc,nc73765560,2022-08-09T00:15:16.371Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.24,0.56,0.091,25,reviewed,nc,nc
 2022-08-08T20:15:56.670Z,34.38116667,-96.85783333,0,1.67,ml,42,87,0.3536306056,0.34,ok,ok2022plrh,2022-08-09T13:50:55.091Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.5,0.2,8,reviewed,ok,ok
 2022-08-08T20:12:30.819Z,62.1071,-151.1171,80.8,1.4,ml,,,,0.53,ak,ak022a467npl,2022-08-08T20:14:31.796Z,"19 km NE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-08T20:06:25.660Z,37.5663333,-118.9256667,9.38,1.71,md,26,101,0.04644,0.03,nc,nc73765550,2022-08-08T23:21:16.006Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.26,0.56,0.135,24,reviewed,nc,nc
-2022-08-08T20:03:46.110Z,17.8521666666667,-66.8976666666667,13.29,2.04,md,10,253,,0.07,pr,pr71364128,2022-08-08T20:11:14.710Z,"13 km S of Guánica, Puerto Rico",earthquake,0.55,0.35,0.0730950417141654,7,reviewed,pr,pr
-2022-08-08T20:02:16.224Z,38.5606,-119.5299,6.9,1.4,ml,14,70.67,0.027,0.1417,nn,nn00844412,2022-08-09T02:39:37.567Z,"2 km WSW of Coleville, California",earthquake,,1,0.36,6,reviewed,nn,nn
-2022-08-08T20:00:52.420Z,32.8241667,-117.075,-0.17,0.77,ml,18,105,0.06651,0.22,ci,ci40077663,2022-08-09T19:15:35.268Z,"8km NW of La Mesa, CA",quarry blast,0.8,31.61,0.114,5,reviewed,ci,ci
-2022-08-08T19:56:12.870Z,45.828,-123.61516666666667,-0.44,1.3800000000000001,ml,7,147,0.1283,0.38,uw,uw61861152,2022-08-08T22:46:19.060Z,"24 km ENE of Nehalem, Oregon",explosion,1.05,31.61,0.1423473406598117,4,reviewed,uw,uw
-2022-08-08T19:56:06.840Z,33.8443333,-116.1866667,8.55,0.79,ml,23,77,0.08166,0.13,ci,ci40077647,2022-08-09T18:57:12.141Z,"14km N of Indio, CA",earthquake,0.22,0.66,0.109,11,reviewed,ci,ci
