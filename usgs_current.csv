@@ -275,7 +275,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T08:27:01.714Z,38.5929,-119.4495,6.6,0.6,ml,9,88.5,0.055,0.0773,nn,nn00844540,2022-08-09T08:30:10.547Z,"5 km ENE of Coleville, California",earthquake,,1.3,0.39,3,automatic,nn,nn
 2022-08-09T08:24:04.260Z,33.4828333,-116.4798333,8.77,0.43,ml,15,70,0.1029,0.19,ci,ci40078063,2022-08-09T13:35:36.261Z,"20km ESE of Anza, CA",earthquake,0.4,1.18,0.117,11,reviewed,ci,ci
 2022-08-09T08:22:55.546Z,61.5324,-151.1901,9.6,1.2,ml,,,,0.71,ak,ak022a5mo00i,2022-08-09T08:25:02.670Z,"36 km W of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-09T08:16:38.230Z,38.8175,-122.8178333,2.67,0.39,md,27,47,0.008449,0.02,nc,nc73765860,2022-08-10T07:29:39.807Z,"7km NW of The Geysers, CA",earthquake,0.18,0.38,0.153,5,reviewed,nc,nc
+2022-08-09T08:16:38.230Z,38.8175,-122.8178333,2.67,0.39,md,27,47,0.008449,0.02,nc,nc73765860,2022-08-10T07:33:10.972Z,"7km NW of The Geysers, CA",earthquake,0.18,0.38,0.153,5,reviewed,nc,nc
 2022-08-09T08:15:53.150Z,37.2613333,-122.2906667,-0.06,0.49,md,6,146,0.0688,0.08,nc,nc73765865,2022-08-09T09:45:14.764Z,"14km SSW of Portola Valley, CA",earthquake,0.44,0.69,0.111,6,reviewed,nc,nc
 2022-08-09T08:14:51.350Z,32.9738333,-115.544,7.62,1.62,ml,34,76,0.07171,0.25,ci,ci40078055,2022-08-09T20:33:56.389Z,"1km WSW of Brawley, CA",earthquake,0.29,0.61,0.229,27,reviewed,ci,ci
 2022-08-09T08:09:03.050Z,38.8361667,-122.8086667,2.37,0.11,md,21,52,0.0128,0.02,nc,nc73765855,2022-08-10T07:14:10.863Z,"8km WNW of Cobb, CA",earthquake,0.19,0.45,0.124,3,reviewed,nc,nc
@@ -290,6 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T07:50:39.721Z,62.2211,-149.9793,20,1.5,ml,,,,0.49,ak,ak022a5m8j8k,2022-08-09T07:52:15.680Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-09T07:50:00.991Z,40.2002,-119.7845,5.2,1.7,ml,12,209.39,0.05,0.1085,nn,nn00844529,2022-08-09T19:12:08.062Z,"30 km ENE of Herlong, California",earthquake,,1.2,0.13,9,reviewed,nn,nn
 2022-08-09T07:47:32.405Z,38.5653,-119.4606,9.5,1,ml,12,130.02,0.051,0.1382,nn,nn00844526,2022-08-09T07:50:30.445Z,"4 km E of Coleville, California",earthquake,,0.9,0.19,10,automatic,nn,nn
-2022-08-09T07:35:06.220Z,39.425,-110.2908333,-2.66,1.58,ml,11,202,0.02656,0.14,uu,uu60509032,2022-08-09T13:02:28.160Z,"16 km SSE of Sunnyside, Utah",earthquake,0.92,1.98,0.123,5,reviewed,uu,uu
-2022-08-09T07:34:30.087Z,60.3389,-151.6716,56.7,1.9,ml,,,,0.68,ak,ak022a5m531c,2022-08-09T07:36:12.515Z,"19 km NW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-08-09T07:32:26.730Z,33.2316667,-116.7296667,11.43,0.64,ml,36,34,0.02476,0.15,ci,ci40078039,2022-08-09T20:19:37.684Z,"3km ESE of Lake Henshaw, CA",earthquake,0.18,0.41,0.154,12,reviewed,ci,ci
