@@ -215,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-10T11:47:59.830Z,36.5556667,-121.137,8.29,2.02,md,36,63,0.02507,0.11,nc,nc73766275,2022-08-10T23:18:13.329Z,"3km NNE of Pinnacles, CA",earthquake,0.27,0.46,0.233,36,reviewed,nc,nc
 2022-08-10T11:46:26.300Z,35.7226667,-117.563,10.1,0.88,ml,22,131,0.09702,0.15,ci,ci40079063,2022-08-10T17:48:02.768Z,"15km WSW of Searles Valley, CA",earthquake,0.31,0.54,0.114,8,reviewed,ci,ci
 2022-08-10T11:45:08.520Z,33.8821667,-116.8346667,10.88,0.23,ml,18,86,0.05754,0.2,ci,ci40079055,2022-08-10T17:41:26.124Z,"6km SW of Cabazon, CA",earthquake,0.4,0.91,0.074,6,reviewed,ci,ci
-2022-08-10T11:32:58.400Z,33.6755,-116.01,10.34,0.73,ml,26,88,0.02623,0.12,ci,ci40079047,2022-08-10T17:37:23.524Z,"13km ENE of Thermal, CA",earthquake,0.22,0.34,0.138,11,reviewed,ci,ci
-2022-08-10T11:29:38.650Z,34.1405,-117.8853333,14.69,1.76,ml,75,41,0.02272,0.18,ci,ci40079039,2022-08-10T17:32:08.570Z,"2km WNW of Glendora, CA",earthquake,0.14,0.24,0.187,20,reviewed,ci,ci
