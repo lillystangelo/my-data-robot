@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-12T06:54:06.670Z,38.7736664,-122.7149963,2.05,0.87,md,12,94,0.01345,0.03,nc,nc73767190,2022-08-12T06:55:40.627Z,"2km W of Anderson Springs, CA",earthquake,0.28,0.48,0.04,5,automatic,nc,nc
+2022-08-12T06:47:54.669Z,38.5875,-119.4337,0,1.2,ml,12,67.93,0.067,0.2905,nn,nn00844824,2022-08-12T06:51:07.989Z,"6 km ENE of Coleville, California",earthquake,,0.5,0.29,10,automatic,nn,nn
 2022-08-12T06:31:57.527Z,35.09683609,-95.52946472,1.792191267,1.78,ml,14,111.0352936,0.1878164262,0.8689806892,ok,ok2022pryc,2022-08-12T06:34:44.688Z,"13 km ESE of Crowder, Oklahoma",earthquake,4.027066715,3.271222026,,11,automatic,ok,ok
 2022-08-12T06:21:06.182Z,39.7267,-119.8583,13.2,1.1,ml,10,85.69,0.143,0.1106,nn,nn00844823,2022-08-12T06:23:57.290Z,"10 km N of Lemmon Valley, Nevada",earthquake,,1,0.12,9,automatic,nn,nn
 2022-08-12T06:19:27.480Z,33.2386667,-116.1011667,6.18,0.93,ml,28,55,0.09989,0.22,ci,ci40324056,2022-08-12T06:22:57.548Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.35,1.87,0.105,19,automatic,ci,ci
@@ -257,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-11T07:11:59.327Z,66.2116,-150.4105,15.5,1.2,ml,,,,0.74,ak,ak022a8x2wt8,2022-08-11T07:13:55.445Z,"63 km WNW of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-11T07:07:56.122Z,38.583,-119.4363,3,0.8,ml,10,91.5,0.065,0.1159,nn,nn00844736,2022-08-11T07:10:41.790Z,"Central California",earthquake,,1,0.16,6,automatic,nn,nn
 2022-08-11T07:05:44.110Z,38.8308334,-122.815834,1.96,0.77,md,18,54,0.008684,0.02,nc,nc73766750,2022-08-11T07:22:23.281Z,"8km NW of The Geysers, CA",earthquake,0.25,0.56,0.49,2,automatic,nc,nc
-2022-08-11T06:58:54.259Z,65.0747,-147.8945,13.4,0.3,ml,,,,0.35,ak,ak022a8wrj8m,2022-08-11T15:49:19.772Z,"18 km NW of Fox, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2022-08-11T06:55:44.160Z,35.7151667,-117.562,6.81,0.84,ml,21,71,0.1044,0.14,ci,ci40079655,2022-08-11T18:12:20.674Z,"15km NE of Ridgecrest, CA",earthquake,0.2,0.56,0.05,8,reviewed,ci,ci
