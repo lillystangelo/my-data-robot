@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-14T09:44:19.630Z,19.173999786377,-155.350830078125,27.3099994659424,1.95000005,md,44,186,,0.119999997,hv,hv73108697,2022-08-14T09:47:38.370Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.54,0.860000014,1.38999999,18,automatic,hv,hv
+2022-08-14T09:40:03.740Z,33.1906667,-115.524,7.77,2.65,ml,38,96,0.07797,0.23,ci,ci40325256,2022-08-14T09:48:12.040Z,"6km S of Niland, CA",earthquake,0.39,0.78,0.183,25,automatic,ci,ci
 2022-08-14T09:35:50.870Z,33.6861667,-116.7583333,14.66,0.47,ml,20,137,0.04447,0.16,ci,ci40325248,2022-08-14T09:39:23.719Z,"7km SSW of Idyllwild, CA",earthquake,0.5,0.4,0.091,10,automatic,ci,ci
 2022-08-14T09:22:43.210Z,36.4575,-117.9715,5.29,1.83,ml,18,129,0.1644,0.21,ci,ci40325240,2022-08-14T09:32:57.070Z,"17km SSE of Lone Pine, CA",earthquake,0.66,3.47,0.229,18,automatic,ci,ci
 2022-08-14T09:18:45.217Z,60.9094,-150.7988,2.5,2,ml,,,,0.67,ak,ak022adwxafd,2022-08-14T09:20:28.055Z,"6 km WSW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T02:57:06.330Z,17.9605,-66.8315,21.46,2.44,md,8,204,,0.1,pr,pr71365733,2022-08-14T03:12:58.800Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.54,0.63,0.043782412398442,4,reviewed,pr,pr
 2022-08-14T02:54:17.200Z,33.2561667,-115.9958333,3.22,1,ml,28,56,0.08384,0.24,ci,ci40325120,2022-08-14T02:57:42.671Z,"6km SW of Salton City, CA",earthquake,0.41,0.81,0.118,21,automatic,ci,ci
 2022-08-14T02:47:49.450Z,33.1935,-115.5165,6.08,1.2,ml,11,160,0.08954,0.13,ci,ci40325104,2022-08-14T02:51:18.921Z,"5km S of Niland, CA",earthquake,0.55,1.42,0.124,17,automatic,ci,ci
-2022-08-14T02:47:46.768Z,1.8151,126.3654,30.459,5.7,mww,92,32,1.441,1.01,us,us6000iamw,2022-08-14T04:50:57.423Z,"158 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,5.79,4.233,0.093,11,reviewed,us,us
+2022-08-14T02:47:46.768Z,1.8151,126.3654,30.459,5.7,mww,92,32,1.441,1.01,us,us6000iamw,2022-08-14T09:44:34.310Z,"158 km ENE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,5.79,4.233,0.093,11,reviewed,us,us
 2022-08-14T02:44:49.450Z,33.678,-116.7786667,11.03,0.48,ml,20,91,0.06314,0.11,ci,ci40325096,2022-08-14T02:48:20.511Z,"9km SW of Idyllwild, CA",earthquake,0.28,0.47,0.152,9,automatic,ci,ci
 2022-08-14T02:30:25.800Z,38.7858333,-119.7183333,4.34,2.49,md,23,60,0.1209,0.09,nc,nc73767850,2022-08-14T06:45:14.172Z,"8km E of Mesa Vista, CA",earthquake,0.19,0.99,0.208,42,reviewed,nc,nc
 2022-08-14T02:29:19.210Z,48.58833333333333,-123.039,9.72,0.74,ml,6,123,0.06263,0.13,uw,uw61863217,2022-08-14T05:02:56.310Z,"6 km NNW of Friday Harbor, Washington",earthquake,0.62,1.16,0.059157772975865996,4,reviewed,uw,uw
@@ -200,7 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T10:25:33.580Z,34.0043333,-116.6836667,14.04,1.82,ml,67,36,0.0452,0.2,ci,ci40324736,2022-08-13T10:36:34.300Z,"11km WSW of Morongo Valley, CA",earthquake,0.19,0.41,0.185,26,automatic,ci,ci
 2022-08-13T10:25:22.127Z,61.3558,-146.5583,17.9,2.2,ml,,,,0.63,ak,ak022aca0tro,2022-08-13T10:27:15.639Z,"27 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-13T10:19:44.029Z,38.186,-117.8922,13.7,0.5,ml,9,175.01,0.177,0.2366,nn,nn00844890,2022-08-13T10:24:17.602Z,"29 km SE of Mina, Nevada",earthquake,,1.6,0.5,6,automatic,nn,nn
-2022-08-13T10:16:53.260Z,34.9801667,-86.6185,13.14,2.66,md,15,57,0.6101,0.29,se,se60404562,2022-08-14T04:19:31.154Z,"6 km NW of Hazel Green, Alabama",earthquake,0.54,2.14,0.123,13,reviewed,se,se
+2022-08-13T10:16:53.260Z,34.9801667,-86.6185,13.14,2.66,md,15,57,0.6101,0.29,se,se60404562,2022-08-14T09:43:32.831Z,"6 km NW of Hazel Green, Alabama",earthquake,0.54,2.14,0.123,13,reviewed,se,se
 2022-08-13T10:13:56.950Z,33.1931667,-115.5101667,4.38,1.42,ml,16,127,0.08982,0.18,ci,ci40324728,2022-08-13T10:17:31.668Z,"5km S of Niland, CA",earthquake,0.49,1.35,0.159,28,automatic,ci,ci
 2022-08-13T10:10:01.170Z,17.9815,-66.84,16.76,2.41,md,6,249,,0.08,pr,pr71365528,2022-08-13T11:18:11.990Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.77,0.6,0.00373740166904835,4,reviewed,pr,pr
 2022-08-13T10:06:08.650Z,34.001,-117.0068333,3.12,0.87,ml,13,203,0.2413,0.18,ci,ci40324720,2022-08-13T10:09:42.793Z,"4km ENE of Calimesa, CA",earthquake,1.16,2.78,0.251,13,automatic,ci,ci
