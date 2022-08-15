@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-15T07:47:58.540Z,33.6673333,-116.7106667,16.76,0.23,ml,17,94,0.04382,0.11,ci,ci40325688,2022-08-15T07:51:28.893Z,"8km S of Idyllwild, CA",earthquake,0.35,0.45,0.182,7,automatic,ci,ci
+2022-08-15T07:47:02.650Z,33.6625,-116.6945,12.49,0.6,ml,16,108,0.05124,0.32,ci,ci40325680,2022-08-15T07:50:29.487Z,"9km SSE of Idyllwild, CA",earthquake,0.78,1.15,0.124,19,automatic,ci,ci
+2022-08-15T07:44:30.938Z,57.428,-155.6679,0,1.9,ml,,,,0.43,ak,ak022afjfb85,2022-08-15T07:46:42.809Z,"74 km WSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-15T07:41:53.074Z,63.0826,-149.7172,83.9,1.1,ml,,,,0.19,ak,ak022afjepsb,2022-08-15T07:43:51.407Z,"51 km SW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-15T07:40:41.110Z,35.7133333,-117.5356667,10.69,1.15,ml,16,155,0.1139,0.21,ci,ci40325672,2022-08-15T07:44:13.452Z,"13km WSW of Searles Valley, CA",earthquake,0.59,1.02,0.063,10,automatic,ci,ci
 2022-08-15T07:13:00.477Z,34.88023376,-97.67588806,2.453253031,1.66,ml,18,87.95545959,0.07299786061,0.6861342414,ok,ok2022pxlz,2022-08-15T07:15:30.173Z,"2 km E of Bradley, Oklahoma",earthquake,2.77797431,2.306863683,,14,automatic,ok,ok
@@ -231,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T08:04:19.478Z,61.0823,-152.4697,102.7,1.6,ml,,,,0.47,ak,ak022adw8svj,2022-08-14T15:31:13.332Z,"71 km W of Tyonek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-08-14T07:58:22.380Z,17.9531666666667,-66.8425,13.66,2.37,md,6,285,,0.09,pr,pr71365808,2022-08-14T08:08:17.500Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.63,0.58,0.101791576571937,4,reviewed,pr,pr
 2022-08-14T07:56:53.719Z,57.9256,-155.0639,211.7,-0.3,ml,,,,0.76,ak,ak022advyq3b,2022-08-14T07:59:34.523Z,"53 km NW of Karluk, Alaska",earthquake,,5.1,,,automatic,ak,ak
-2022-08-14T07:50:28.424Z,61.4064,-146.7767,39.5,1.7,ml,,,,0.17,ak,ak022advx8u2,2022-08-14T07:51:37.831Z,"38 km NW of Valdez, Alaska",earthquake,,1.7,,,automatic,ak,ak
