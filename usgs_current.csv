@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-20T18:00:54.310Z,34.498,-118.3383333,4.43,1.07,ml,18,132,0.07407,0.14,ci,ci40328880,2022-08-20T18:04:27.097Z,"1km W of Agua Dulce, CA",earthquake,0.41,0.61,0.162,25,automatic,ci,ci
 2022-08-20T17:40:15.494Z,62.5628,-149.3308,49.8,1.5,ml,,,,0.72,ak,ak022anz1hot,2022-08-20T17:42:34.642Z,"41 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-20T17:25:46.900Z,38.838501,-122.8215027,1.84,1.04,md,19,82,0.01092,0.02,nc,nc73770125,2022-08-20T17:48:12.185Z,"9km WNW of Cobb, CA",earthquake,0.23,0.4,0.16,5,automatic,nc,nc
 2022-08-20T17:21:03.810Z,38.8248329,-122.8125,2.16,0.85,md,8,79,0.002378,0.01,nc,nc73770120,2022-08-20T17:37:13.119Z,"7km NW of The Geysers, CA",earthquake,0.46,1.5,,1,automatic,nc,nc
@@ -192,7 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T18:18:56.081Z,40.0237,-119.6349,8.3,2.2,ml,16,103.63,0.164,0.1596,nn,nn00845456,2022-08-19T19:11:24.028Z,"8 km NNW of Sutcliffe, Nevada",earthquake,,1.4,0.37,9,reviewed,nn,nn
 2022-08-19T18:17:31.103Z,-8.8821,119.2939,122.09,4.6,mb,65,72,1.501,0.96,us,us6000ic76,2022-08-19T19:15:40.040Z,"38 km SW of Komodo, Indonesia",earthquake,6.37,6.697,0.077,54,reviewed,us,us
 2022-08-19T18:07:04.883Z,60.6885,-145.2186,10.3,1.4,ml,,,,0.73,ak,ak022ambwhby,2022-08-19T22:13:28.929Z,"33 km ENE of Cordova, Alaska",earthquake,,2.7,,,reviewed,ak,ak
-2022-08-19T18:00:55.010Z,36.8021667,-121.5406667,6.75,2.07,md,59,40,0.03233,0.17,nc,nc73769720,2022-08-20T09:30:16.225Z,"5km S of San Juan Bautista, CA",earthquake,0.25,0.44,0.181,56,reviewed,nc,nc
-2022-08-19T17:59:51.290Z,34.0231667,-117.2146667,14.61,0.84,ml,14,92,0.1368,0.09,ci,ci40328456,2022-08-19T18:11:10.518Z,"5km SW of Redlands, CA",earthquake,0.25,0.55,0.043,5,reviewed,ci,ci
-2022-08-19T17:52:47.960Z,33.0628333,-115.0051667,-0.2,1.52,ml,16,83,0.09318,0.28,ci,ci40328440,2022-08-19T18:06:03.942Z,"45km NE of Holtville, CA",quarry blast,0.61,31.61,0.134,8,reviewed,ci,ci
-2022-08-19T17:51:56.605Z,-57.9978,-25.7048,57.153,5.2,mb,112,51,7.08,0.63,us,us6000ic6u,2022-08-20T16:31:26.040Z,"South Sandwich Islands region",earthquake,5.66,5.399,0.056,105,reviewed,us,us
