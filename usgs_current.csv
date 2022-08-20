@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-20T07:31:05.410Z,35.9643326,-117.3721695,-0.91,1.47,ml,21,98,0.1028,0.2,ci,ci40328704,2022-08-20T07:33:34.094Z,"22km N of Searles Valley, CA",earthquake,0.41,0.79,0.099,4,automatic,ci,ci
 2022-08-20T07:18:16.979Z,64.531,-149.2776,11.8,1.1,ml,,,,0.4,ak,ak022ansyg01,2022-08-20T07:20:59.731Z,"9 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-20T06:50:56.324Z,63.2834,-150.395,117.2,1.5,ml,,,,0.19,ak,ak022ansjycg,2022-08-20T06:53:01.628Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-20T06:50:20.659Z,38.1603,-117.8664,11.6,1.2,ml,13,135.5,0.076,0.1653,nn,nn00845523,2022-08-20T06:53:42.700Z,"33 km SE of Mina, Nevada",earthquake,,0.7,0.16,8,automatic,nn,nn
