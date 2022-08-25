@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-25T14:33:20.247Z,38.1746,-117.9233,11.4,2.5,ml,24,124.33,0.045,0.2776,nn,nn00845826,2022-08-25T14:36:46.709Z,"28 km SE of Mina, Nevada",earthquake,,0.3,0.41,12,automatic,nn,nn
 2022-08-25T14:30:20.623Z,38.6976,-119.3618,4.4,0.9,ml,10,181.94,0.433,0.3294,nn,nn00845824,2022-08-25T14:34:27.157Z,"9 km S of Smith Valley, Nevada",earthquake,,3.8,0.16,4,automatic,nn,nn
-2022-08-25T14:23:40.160Z,37.6443329,-122.0475006,4.63,1.59,md,9,120,0.07521,0.05,nc,nc73771770,2022-08-25T14:34:11.635Z,"3km E of Hayward, CA",earthquake,0.38,0.89,0.16,5,automatic,nc,nc
+2022-08-25T14:23:40.160Z,37.6443329,-122.0475006,4.63,1.59,md,9,120,0.07521,0.05,nc,nc73771770,2022-08-25T14:47:13.718Z,"3km E of Hayward, CA",earthquake,0.38,0.89,0.16,5,automatic,nc,nc
 2022-08-25T14:21:37.539Z,58.9825,-153.0846,74.6,1.5,ml,,,,0.26,ak,ak022aw6twft,2022-08-25T14:23:22.999Z,"78 km WSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-25T14:02:16.335Z,63.1928,-151.3396,0,0.9,ml,,,,1.01,ak,ak022aw6ps75,2022-08-25T14:11:13.532Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-25T13:59:34.697Z,62.2007,-150.0047,26.7,1.3,ml,,,,0.14,ak,ak022aw6gltr,2022-08-25T14:02:25.637Z,"9 km WNW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-25T08:19:13.200Z,17.866,-66.9163333333333,11.24,2.13,md,5,290,,0.09,pr,pr71367833,2022-08-25T08:29:00.230Z,"11 km S of Guánica, Puerto Rico",earthquake,0.69,1.63,0.229447483401779,5,reviewed,pr,pr
 2022-08-25T08:16:36.910Z,33.3256667,-116.3355,10.78,0.9,ml,31,122,0.04254,0.22,ci,ci40331368,2022-08-25T13:27:44.480Z,"9km NNE of Borrego Springs, CA",earthquake,0.35,0.6,0.134,22,reviewed,ci,ci
 2022-08-25T07:47:59.330Z,33.3253333,-116.3423333,9.47,0.88,ml,29,80,0.04599,0.21,ci,ci40331360,2022-08-25T07:51:29.665Z,"8km NNE of Borrego Springs, CA",earthquake,0.33,0.61,0.137,23,automatic,ci,ci
-2022-08-25T07:45:24.000Z,37.729332,-121.979332,8.93,1.44,md,15,167,0.06835,0.07,nc,nc73771650,2022-08-25T10:28:11.113Z,"5km NW of Dublin, CA",earthquake,0.45,0.4,0.13,7,automatic,nc,nc
+2022-08-25T07:45:24.000Z,37.729332,-121.979332,8.93,1.44,md,15,167,0.06835,0.07,nc,nc73771650,2022-08-25T14:47:50.967Z,"5km NW of Dublin, CA",earthquake,0.45,0.4,0.13,7,automatic,nc,nc
 2022-08-25T07:44:49.240Z,33.3193333,-116.353,2.71,1.13,ml,41,62,0.07408,0.31,ci,ci40331352,2022-08-25T07:48:25.590Z,"7km NNE of Borrego Springs, CA",earthquake,0.41,0.91,0.137,26,automatic,ci,ci
 2022-08-25T07:43:53.470Z,33.323,-116.3311667,9.87,0.76,ml,23,120,0.04322,0.22,ci,ci40331344,2022-08-25T13:27:37.677Z,"8km NNE of Borrego Springs, CA",earthquake,0.42,0.7,0.175,15,reviewed,ci,ci
 2022-08-25T07:36:43.300Z,33.3178333,-116.3271667,11.09,0.27,ml,12,135,0.04679,0.15,ci,ci40331328,2022-08-25T13:28:02.320Z,"8km NNE of Borrego Springs, CA",earthquake,0.51,0.7,0.172,4,reviewed,ci,ci
@@ -250,7 +250,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T15:24:03.790Z,34.31,-118.6206667,8.18,1.04,ml,4,154,0.03392,0.12,ci,ci40330896,2022-08-24T18:48:51.533Z,"6km NNW of Chatsworth, CA",earthquake,0.57,1.23,0.113,2,reviewed,ci,ci
 2022-08-24T15:19:08.160Z,46.8355,-121.901,10.45,1.01,ml,20,88,0.03344,0.11,uw,uw61865717,2022-08-24T18:48:51.460Z,"13 km NE of Ashford, Washington",earthquake,0.29,0.47,0.19069031839117528,15,reviewed,uw,uw
 2022-08-24T15:17:44.597Z,63.1031,-149.3588,66.8,1.4,ml,,,,0.55,ak,ak022aujv58b,2022-08-24T15:19:59.121Z,"38 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-08-24T15:14:03.202Z,38.1481,-118.0271,9.8,0.2,ml,13,144.98,0.054,0.1055,nn,nn00845755,2022-08-24T20:07:28.827Z,"California-Nevada border region",earthquake,,1.6,0.36,3,reviewed,nn,nn
+2022-08-24T15:14:03.202Z,38.1481,-118.0271,9.8,0.2,ml,13,144.98,0.054,0.1055,nn,nn00845755,2022-08-24T20:07:28.827Z,"27 km SSE of Mina, Nevada",earthquake,,1.6,0.36,3,reviewed,nn,nn
 2022-08-24T15:03:32.820Z,38.7965012,-122.7991638,0.67,0.84,md,7,97,0.008715,0.02,nc,nc73771370,2022-08-24T15:20:10.076Z,"4km WNW of The Geysers, CA",earthquake,0.33,0.62,,1,automatic,nc,nc
 2022-08-24T15:03:01.590Z,38.796833,-122.7978363,-0.47,1.17,md,19,75,0.02118,0.03,nc,nc73771365,2022-08-24T17:39:12.911Z,"4km WNW of The Geysers, CA",earthquake,0.17,0.68,0.04,4,automatic,nc,nc
 2022-08-24T14:59:48.700Z,38.7965,-122.798,0.12,1.61,md,46,47,0.008548,0.05,nc,nc73771360,2022-08-24T23:28:12.997Z,"4km WNW of The Geysers, CA",earthquake,0.11,0.2,0.143,17,reviewed,nc,nc
@@ -259,8 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-24T14:57:46.110Z,47.174166666666665,-121.1085,10.79,1.07,ml,17,135,0.1671,0.32,uw,uw61865712,2022-08-24T18:37:33.720Z,"8 km SE of Easton, Washington",earthquake,0.75,5.9,0.18986761095680926,15,reviewed,uw,uw
 2022-08-24T14:56:42.294Z,60.0546,-152.9787,123.6,2.1,ml,,,,0.52,ak,ak022auji2c6,2022-08-24T14:58:53.974Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-24T14:56:22.990Z,38.796833,-122.8001633,0.03,0.89,md,18,66,0.008793,0.04,nc,nc73771345,2022-08-24T16:48:13.824Z,"4km WNW of The Geysers, CA",earthquake,0.2,0.38,0.27,4,automatic,nc,nc
-2022-08-24T14:48:29.300Z,19.2466659545898,-155.420501708984,35.6199989318848,1.83000004,md,39,125,,0.150000006,hv,hv73119852,2022-08-24T14:51:38.970Z,"7 km NE of Pāhala, Hawaii",earthquake,0.61,0.860000014,1.34000003,7,automatic,hv,hv
-2022-08-24T14:47:20.367Z,62.3586,-149.1928,0,1.2,ml,,,,0.75,ak,ak022aujg38k,2022-08-24T14:49:16.931Z,"40 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-24T14:44:54.041Z,59.6061,-152.4032,78.6,1.5,ml,,,,0.18,ak,ak022aujfios,2022-08-24T14:46:46.651Z,"37 km WSW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-24T14:43:28.920Z,56.8575,-158.171166666667,1.41,-0.84,ml,5,103,,0.17,av,av91069158,2022-08-25T10:10:56.540Z,"29 km ESE of Port Heiden, Alaska",earthquake,0.42,1.05,0.493890758880468,5,reviewed,av,av
-2022-08-24T14:40:21.474Z,62.3656,-149.1449,1.1,1.3,ml,,,,0.77,ak,ak022aujelb7,2022-08-24T14:42:11.165Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
