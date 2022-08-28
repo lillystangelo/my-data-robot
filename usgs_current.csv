@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-28T16:46:50.170Z,36.8380013,-121.5266647,3.41,1.14,md,7,221,0.02688,0.04,nc,nc73772760,2022-08-28T16:48:27.102Z,"1km SE of San Juan Bautista, CA",earthquake,0.85,0.64,0.22,7,automatic,nc,nc
+2022-08-28T17:08:30.672Z,61.4646,-146.3762,32.1,1,ml,,,,0.75,ak,ak022b175fwb,2022-08-28T17:10:24.248Z,"37 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-28T17:08:09.360Z,19.1184997558594,-155.406326293945,30.7399997711182,2.6500001,md,45,188,,0.109999999,hv,hv73124262,2022-08-28T17:11:31.950Z,"12 km SE of Pāhala, Hawaii",earthquake,0.62,0.879999995,1.45000005,35,automatic,hv,hv
+2022-08-28T16:46:50.170Z,36.8380013,-121.5266647,3.41,1.14,md,7,221,0.02688,0.04,nc,nc73772760,2022-08-28T17:03:12.413Z,"1km SE of San Juan Bautista, CA",earthquake,0.85,0.64,0.22,7,automatic,nc,nc
 2022-08-28T16:45:05.050Z,33.4835,-116.7406667,-0.26,0.15,ml,15,176,0.1116,0.36,ci,ci40333304,2022-08-28T16:48:39.879Z,"10km SW of Anza, CA",earthquake,1.43,31.61,0.146,3,automatic,ci,ci
 2022-08-28T16:26:30.258Z,35.33378983,-97.86437988,3.170998096,1.6,ml,14,86.35102123,0.07037238777,0.6621146215,ok,ok2022qvxu,2022-08-28T16:28:43.021Z,"6 km NW of Tuttle, Oklahoma",earthquake,3.639788318,3.159374921,,12,automatic,ok,ok
 2022-08-28T16:14:19.909Z,61.3567,-151.7277,88.2,1.6,ml,,,,0.65,ak,ak022b16l9ra,2022-08-28T16:17:04.003Z,"42 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -31,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T13:34:21.055Z,38.1891,-117.9755,3.2,0.3,ml,9,148.08,0.012,0.0491,nn,nn00846004,2022-08-28T13:38:18.532Z,"25 km SSE of Mina, Nevada",earthquake,,0.4,0.39,4,automatic,nn,nn
 2022-08-28T13:30:46.895Z,38.2082,-117.9476,0,1.9,ml,18,132.34,0.031,0.3544,nn,nn00845997,2022-08-28T13:34:04.083Z,"24 km SE of Mina, Nevada",earthquake,,0.3,0.78,11,automatic,nn,nn
 2022-08-28T13:26:53.260Z,18.4835,-66.4106666666667,25.07,2.95,md,20,187,,0.33,pr,pr71368393,2022-08-28T14:12:34.600Z,"4 km NNW of Vega Baja, Puerto Rico",earthquake,1.02,1.59,0.0521759204600722,7,reviewed,pr,pr
+2022-08-28T13:22:51.990Z,46.821666666666665,-122.84233333333333,61.3,1.02,ml,20,86,0.1489,0.18,uw,uw61866787,2022-08-28T16:54:02.020Z,"3 km NE of Bucoda, Washington",earthquake,0.7,0.76,0.17502992581600185,13,reviewed,uw,uw
 2022-08-28T13:21:09.261Z,-21.357,-178.8435,564.753,5.1,mww,70,48,3.4,0.68,us,us7000i33u,2022-08-28T14:10:01.040Z,"Fiji region",earthquake,12.41,7.137,0.098,10,reviewed,us,us
 2022-08-28T13:20:19.596Z,35.32589722,-97.88591003,1.885950446,1.76,ml,25,58.67108154,0.06878958642,0.7557604062,ok,ok2022qvrq,2022-08-28T13:23:07.414Z,"5 km ENE of Minco, Oklahoma",earthquake,2.444319472,2.048589556,,19,automatic,ok,ok
 2022-08-28T13:04:11.638Z,38.1813,-117.9717,2.8,3.4,ml,22,73.53,0.021,0.168,nn,nn00845990,2022-08-28T16:32:23.071Z,"26 km SSE of Mina, Nevada",earthquake,,1.1,0.31,8,reviewed,nn,nn
@@ -216,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-27T17:28:07.330Z,38.8008347,-122.7785034,2.42,0.25,md,14,71,0.01061,0.04,nc,nc73772455,2022-08-27T17:39:10.762Z,"3km NW of The Geysers, CA",earthquake,0.31,0.59,0.15,4,automatic,nc,nc
 2022-08-27T17:20:39.310Z,36.0181667,-120.8516667,8.89,0.79,md,30,55,0.0312,0.08,nc,nc73772445,2022-08-27T17:45:10.665Z,"5km E of San Ardo, CA",earthquake,0.21,0.4,0.122,15,reviewed,nc,nc
 2022-08-27T17:18:39.359Z,62.6607,-150.3346,67.4,1.5,ml,,,,0.35,ak,ak022azjo98f,2022-08-27T17:20:56.836Z,"26 km NNW of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-08-27T17:11:44.730Z,34.558,-119.7948333,3.74,1.68,ml,20,109,0.05726,0.24,ci,ci40332736,2022-08-27T17:15:28.213Z,"14km NNE of Goleta, CA",earthquake,0.56,1.22,0.253,28,automatic,ci,ci
-2022-08-27T17:08:10.650Z,34.5265,-118.0943333,7.89,0.82,ml,15,93,0.04155,0.23,ci,ci40332728,2022-08-27T17:11:48.062Z,"4km NE of Vincent, CA",earthquake,0.53,0.83,0.231,18,automatic,ci,ci
-2022-08-27T16:53:47.070Z,56.9039,-155.4693,25,1.6,ml,,,,0.57,ak,ak022azjaajo,2022-08-27T22:58:56.781Z,"79 km W of Akhiok, Alaska",earthquake,,16786.4,,,reviewed,ak,ak
