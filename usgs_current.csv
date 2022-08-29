@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-29T11:39:28.990Z,35.9308319,-117.6758347,3.01,1.2,ml,15,74,0.1166,0.1,ci,ci40333736,2022-08-29T11:41:34.542Z,"21km E of Little Lake, CA",earthquake,0.45,1.23,0.126,4,automatic,ci,ci
+2022-08-29T11:35:49.371Z,62.8625,-150.7281,106,1.2,ml,,,,0.46,ak,ak022b2ra0jd,2022-08-29T11:38:41.107Z,"40 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-08-29T11:32:14.278Z,60.44,-152.4631,91.7,1,ml,,,,0.42,ak,ak022b2r9aoj,2022-08-29T11:34:10.966Z,"61 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-08-29T11:02:02.368Z,31.7035,-104.0942,3.896,2.7,ml,32,102,0.237,0.33,us,us7000i3bs,2022-08-29T11:17:41.040Z,"46 km W of Mentone, Texas",earthquake,1.38,4.021,0.043,72,reviewed,us,us
+2022-08-29T11:01:11.511Z,-1.0396,98.6624,19.552,4.5,mb,36,175,2.569,0.31,us,us7000i3bu,2022-08-29T11:33:53.040Z,"168 km WSW of Pariaman, Indonesia",earthquake,9.57,5.722,0.118,21,reviewed,us,us
 2022-08-29T10:58:37.926Z,0.0193,123.8654,107.63,4.9,mb,38,33,1.519,0.77,us,us7000i3bt,2022-08-29T11:18:37.040Z,"106 km ESE of Gorontalo, Indonesia",earthquake,7.92,7.468,0.098,33,reviewed,us,us
 2022-08-29T10:50:19.764Z,62.137,-147.9671,31.4,1.6,ml,,,,0.43,ak,ak022b2qrqe0,2022-08-29T10:51:46.290Z,"40 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-08-29T10:48:28.990Z,38.833168,-122.793335,1.59,0.85,md,10,50,0.005731,0.02,nc,nc73773090,2022-08-29T11:28:12.177Z,"6km WNW of Cobb, CA",earthquake,0.38,0.99,,1,automatic,nc,nc
+2022-08-29T10:48:28.990Z,38.833168,-122.793335,1.59,0.85,md,10,50,0.005731,0.02,nc,nc73773090,2022-08-29T11:35:11.222Z,"6km WNW of Cobb, CA",earthquake,0.38,0.99,,1,automatic,nc,nc
 2022-08-29T10:33:25.010Z,35.6473333,-118.3188333,7.93,1.06,ml,16,76,0.05474,0.13,ci,ci40333728,2022-08-29T10:36:53.770Z,"14km ESE of Wofford Heights, CA",earthquake,0.29,0.57,0.255,14,automatic,ci,ci
 2022-08-29T10:22:30.870Z,32.7235,-115.5533333,1.16,1.41,ml,9,110,0.1213,0.26,ci,ci40333720,2022-08-29T10:26:03.473Z,"2km WSW of Heber, CA",earthquake,0.67,1.18,0.218,14,automatic,ci,ci
 2022-08-29T10:17:20.420Z,60.1949,-140.7245,7,2,ml,,,,0.71,ak,ak022b2qknt6,2022-08-29T10:19:34.760Z,"91 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -51,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T04:54:22.831Z,61.2227,-141.6798,15.6,2,ml,,,,0.21,ak,ak022b2n7zuz,2022-08-29T04:55:36.286Z,"70 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-29T04:53:19.545Z,-5.7647,145.396,91.812,5.1,mb,86,66,6.921,0.78,us,us7000i3a1,2022-08-29T06:17:23.540Z,"35 km N of Goroka, Papua New Guinea",earthquake,7.37,5.615,0.047,146,reviewed,us,us
 2022-08-29T04:47:04.550Z,60.9478,-149.4603,30.4,1.3,ml,,,,0.77,ak,ak022b2n6gfr,2022-08-29T04:48:49.725Z,"7 km NNW of Sunrise, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-29T04:40:26.370Z,35.6418333,-118.32,7.46,1.84,ml,29,51,0.05916,0.17,ci,ci40333624,2022-08-29T04:51:15.900Z,"14km E of Lake Isabella, CA",earthquake,0.27,0.65,0.248,25,automatic,ci,ci
+2022-08-29T04:40:26.370Z,35.6418333,-118.32,7.46,1.84,ml,29,51,0.05916,0.17,ci,ci40333624,2022-08-29T11:39:23.645Z,"14km E of Lake Isabella, CA",earthquake,0.27,0.65,0.248,25,automatic,ci,ci
 2022-08-29T04:34:34.350Z,38.8151665,-122.7764969,1.34,1,md,21,72,0.003786,0.04,nc,nc73773010,2022-08-29T05:00:11.733Z,"5km NNW of The Geysers, CA",earthquake,0.21,0.35,0.13,5,automatic,nc,nc
 2022-08-29T04:26:57.610Z,35.765,-117.7931667,11.2,0.83,ml,11,82,0.04918,0.18,ci,ci40333616,2022-08-29T04:30:29.301Z,"13km N of Inyokern, CA",earthquake,0.39,0.9,0.114,9,automatic,ci,ci
 2022-08-29T04:22:39.440Z,3.7206,127.2989,49.13,4.2,mb,14,157,2.93,0.67,us,us7000i39y,2022-08-29T05:16:26.040Z,"234 km NNW of Tobelo, Indonesia",earthquake,6.64,11.023,0.147,13,reviewed,us,us
@@ -89,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-29T01:42:11.561Z,35.3054657,-97.89261627,2.058487892,1.86,ml,15,72.77030182,0.08677922189,0.7190083836,ok,ok2022qwqc,2022-08-29T02:03:18.264Z,"4 km E of Minco, Oklahoma",earthquake,3.278327783,2.606583403,,13,automatic,ok,ok
 2022-08-29T01:37:40.999Z,56.6347,-149.6138,10,3.2,ml,21,250,1.984,0.46,us,us7000i38b,2022-08-29T02:38:27.040Z,"194 km SE of Chiniak, Alaska",earthquake,5.29,2.02,0.042,74,reviewed,us,us
 2022-08-29T01:34:09.020Z,38.8223343,-122.809166,1.17,0.99,md,18,39,0.01797,0.03,nc,nc73772925,2022-08-29T03:32:11.273Z,"7km NW of The Geysers, CA",earthquake,0.2,0.68,0.24,2,automatic,nc,nc
-2022-08-29T01:33:51.350Z,17.9686666666667,-67.0001666666667,7.82,2.29,md,5,186,,0.05,pr,pr71368533,2022-08-29T01:53:39.100Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.45,0.23,0.0942207234163333,4,reviewed,pr,pr
+2022-08-29T01:33:51.350Z,17.9686666666667,-67.0001666666667,7.82,2.29,md,5,186,,0.05,pr,pr71368533,2022-08-29T01:53:39.100Z,"Puerto Rico region",earthquake,0.45,0.23,0.0942207234163333,4,reviewed,pr,pr
 2022-08-29T01:28:37.410Z,19.2746658325195,-155.425994873047,31.7299995422363,1.72000003,md,37,173,,0.119999997,hv,hv73124642,2022-08-29T01:31:51.900Z,"9 km NE of Pāhala, Hawaii",earthquake,0.67,0.870000005,0.569999993,3,automatic,hv,hv
 2022-08-29T01:19:21.763Z,63.4076,-151.2947,0,1.1,ml,,,,0.61,ak,ak022b2l86wg,2022-08-29T01:21:02.962Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-29T01:18:18.447Z,4.3626,62.5554,10,4.8,mb,49,102,11.425,0.79,us,us7000i38a,2022-08-29T01:42:21.040Z,"Carlsberg Ridge",earthquake,11.74,1.89,0.069,64,reviewed,us,us
