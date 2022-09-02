@@ -253,6 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T21:33:25.070Z,36.558,-121.0938333,1.76,1.8,md,20,117,0.04823,0.06,nc,nc73774415,2022-09-02T16:49:11.901Z,"5km ENE of Pinnacles, CA",earthquake,0.22,0.48,0.302,19,reviewed,nc,nc
 2022-09-01T21:25:08.310Z,35.9885,-117.5015,5.72,0.74,ml,12,132,0.09687,0.1,ci,ci40094567,2022-09-02T00:34:56.281Z,"26km NNW of Searles Valley, CA",earthquake,0.28,0.69,0.147,5,reviewed,ci,ci
 2022-09-01T21:23:49.160Z,35.9868333,-117.4993333,4.21,1.29,ml,16,106,0.09747,0.11,ci,ci40094559,2022-09-02T00:31:53.306Z,"26km NNW of Searles Valley, CA",earthquake,0.26,0.58,0.124,14,reviewed,ci,ci
-2022-09-01T21:10:08.650Z,46.855666666666664,-121.76133333333334,2.83,0.22,ml,7,111,0.05757,0.06,uw,uw61867997,2022-09-02T17:50:16.700Z,"23 km ENE of Ashford, Washington",earthquake,0.42,1.72,0.0935956056937301,3,reviewed,uw,uw
-2022-09-01T21:07:11.760Z,45.93183333333333,-122.863,20.4,2.11,ml,49,46,0.06719,0.19,uw,uw61867992,2022-09-02T15:56:10.610Z,"1 km W of Deer Island, Oregon",earthquake,0.22,0.41,0.1654677560171669,37,reviewed,uw,uw
-2022-09-01T21:01:01.211Z,44.7014,-67.6293,5,1.9,ml,14,166,0.123,0.24,us,us7000i4ji,2022-09-02T04:58:31.929Z,"3 km E of Centerville, Maine",earthquake,1.55,1.991,0.128,8,reviewed,us,us
