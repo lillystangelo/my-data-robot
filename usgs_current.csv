@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T08:09:28.980Z,17.9383333333333,-66.8551666666667,11.83,2.49,md,13,181,,0.12,pr,pr71369953,2022-09-05T09:17:27.270Z,"Puerto Rico region",earthquake,0.61,0.51,0.204443660495599,10,reviewed,pr,pr
 2022-09-05T08:07:41.640Z,17.9498333333333,-66.943,10.77,2.21,md,7,215,,0.07,pr,pr71369948,2022-09-05T09:16:08.360Z,"Puerto Rico region",earthquake,0.44,0.64,0.137373501889216,6,reviewed,pr,pr
 2022-09-05T07:50:58.719Z,-33.4356,-72.2752,10,4.9,mwr,76,84,0.595,0.61,us,us7000i5bb,2022-09-05T08:33:47.531Z,"Off the coast of Valparaiso, Chile",earthquake,6.73,1.874,0.048,41,reviewed,us,us
-2022-09-05T07:49:58.638Z,-33.444,-72.3008,10,4.9,mb,75,84,0.611,0.55,us,us7000i5b9,2022-09-05T08:19:05.814Z,"offshore Valparaiso, Chile",earthquake,4.26,1.602,0.037,229,reviewed,us,us
+2022-09-05T07:49:58.638Z,-33.444,-72.3008,10,4.9,mb,75,84,0.611,0.55,us,us7000i5b9,2022-09-05T08:19:05.814Z,"65 km W of Cartagena, Chile",earthquake,4.26,1.602,0.037,229,reviewed,us,us
 2022-09-05T07:42:13.931Z,61.344,-150.0284,33.5,1,ml,,,,0.35,ak,ak022be9p4up,2022-09-05T07:43:39.592Z,"3 km WSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-05T07:37:11.060Z,38.8224983,-122.7886658,0.99,0.46,md,11,76,0.01113,0.01,nc,nc73775665,2022-09-05T07:53:12.536Z,"6km W of Cobb, CA",earthquake,0.3,0.77,0.39,2,automatic,nc,nc
 2022-09-05T07:29:12.210Z,19.1936664581299,-155.469329833984,34.0499992370605,2.26,ml,44,96,,0.129999995,hv,hv73131697,2022-09-05T07:34:43.030Z,"1 km SE of Pāhala, Hawaii",earthquake,0.56,0.660000026,4.06,15,automatic,hv,hv
