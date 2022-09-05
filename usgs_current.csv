@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-05T23:16:51.230Z,34.22,-116.8531667,2.24,1.46,ml,46,30,0.07011,0.19,ci,ci40096767,2022-09-05T23:20:33.955Z,"5km S of Big Bear City, CA",earthquake,0.24,0.6,0.13,29,automatic,ci,ci
+2022-09-05T23:35:27.030Z,38.7980003,-122.8024979,7.96,0.84,md,7,186,0.01143,0.08,nc,nc73775880,2022-09-05T23:45:10.300Z,"5km WNW of The Geysers, CA",earthquake,2.43,3.14,,1,automatic,nc,nc
+2022-09-05T23:24:05.010Z,17.962,-66.9706666666667,16.44,1.95,md,5,196,,0.05,pr,pr71369993,2022-09-05T23:35:32.850Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.59,0.78,0.0308029068474368,4,reviewed,pr,pr
+2022-09-05T23:16:51.230Z,34.22,-116.8531667,2.24,1.46,ml,46,30,0.07011,0.19,ci,ci40096767,2022-09-05T23:27:48.630Z,"5km S of Big Bear City, CA",earthquake,0.24,0.6,0.13,29,automatic,ci,ci
 2022-09-05T23:00:46.715Z,53.6578,-164.1563,4.681,2.6,ml,9,193,0.901,0.79,us,us7000i5hm,2022-09-05T23:11:27.040Z,"118 km ESE of Akutan, Alaska",earthquake,3.4,8.983,0.085,18,reviewed,us,us
 2022-09-05T23:00:03.590Z,35.6956667,-117.5493333,11.43,1.42,ml,17,91,0.1261,0.15,ci,ci40096759,2022-09-05T23:10:41.940Z,"14km NE of Ridgecrest, CA",earthquake,0.33,0.89,0.16,20,automatic,ci,ci
 2022-09-05T22:58:29.330Z,38.784832,-122.7505035,-0.84,0.46,md,11,84,0.01089,0.04,nc,nc73775870,2022-09-05T23:15:14.132Z,"1km NNE of The Geysers, CA",earthquake,0.19,2.1,0.41,2,automatic,nc,nc
@@ -229,7 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T23:57:58.260Z,38.8370018,-122.8031693,2.2,0.36,md,10,60,0.01011,0.01,nc,nc73775545,2022-09-05T00:14:14.762Z,"7km WNW of Cobb, CA",earthquake,0.36,1.53,,1,automatic,nc,nc
 2022-09-04T23:57:31.731Z,-56.0574,-124.4776,10,6.2,mww,70,69,28.252,0.72,us,us7000i585,2022-09-05T14:06:30.224Z,"southern East Pacific Rise",earthquake,13.22,1.815,0.063,24,reviewed,us,us
 2022-09-04T23:46:56.790Z,17.961,-66.7015,10.9,2.33,md,5,278,,0.24,pr,pr71369828,2022-09-04T23:57:04.930Z,"4 km SSE of Tallaboa, Puerto Rico",earthquake,1.54,1.22,0.083181731582274,3,reviewed,pr,pr
-2022-09-04T23:44:26.000Z,46.20783333333333,-122.19666666666667,7.73,0.12,ml,12,114,0.01088,0.19,uw,uw61869017,2022-09-05T18:02:17.100Z,"38 km NNE of Amboy, Washington",earthquake,0.56,0.48,0.19364683813157008,7,reviewed,uw,uw
-2022-09-04T23:44:11.690Z,33.092,-116.0416667,3.63,1.54,ml,37,44,0.09737,0.25,ci,ci40096335,2022-09-04T23:47:48.370Z,"10km SE of Ocotillo Wells, CA",earthquake,0.31,0.83,0.148,26,automatic,ci,ci
-2022-09-04T23:44:10.990Z,17.9571666666667,-67.014,8.9,1.91,md,5,212,,0.08,pr,pr71369823,2022-09-04T23:53:17.850Z,"3 km ESE of La Parguera, Puerto Rico",earthquake,0.53,0.76,0.0450123761759222,5,reviewed,pr,pr
-2022-09-04T23:34:38.660Z,35.0516667,-117.6601667,0.29,1.79,ml,19,94,0.1207,0.32,ci,ci40096327,2022-09-04T23:38:27.324Z,"6km N of Boron, CA",quarry blast,0.92,31.61,0.162,31,automatic,ci,ci
