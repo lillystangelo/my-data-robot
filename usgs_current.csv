@@ -178,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T09:06:53.710Z,17.8541666666667,-66.8858333333333,12.87,2.46,md,8,269,,0.08,pr,pr71370958,2022-09-10T09:31:39.940Z,"13 km S of Guánica, Puerto Rico",earthquake,0.67,0.52,0.252642068047048,6,reviewed,pr,pr
 2022-09-10T09:06:51.174Z,38.7059,-118.4611,4.1,0.8,ml,11,188.37,0.091,0.1619,nn,nn00846723,2022-09-10T09:10:19.792Z,"California-Nevada border region",earthquake,,3.6,0.44,6,automatic,nn,nn
 2022-09-10T09:00:59.470Z,38.8330002,-122.8151703,2.27,0.85,md,10,61,0.01038,0.03,nc,nc73780026,2022-09-10T09:22:12.748Z,"8km NW of The Geysers, CA",earthquake,0.35,1.44,,1,automatic,nc,nc
-2022-09-10T08:54:23.390Z,38.8296661,-122.8010025,1.77,0.85,md,13,76,0.009456,0.02,nc,nc73780021,2022-09-10T09:38:10.853Z,"7km W of Cobb, CA",earthquake,0.35,0.8,,1,automatic,nc,nc
