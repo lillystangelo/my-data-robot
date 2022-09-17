@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-17T14:45:10.770Z,32.8291667,-117.2488333,12.3,1.29,ml,16,233,0.1036,0.15,ci,ci40101631,2022-09-17T14:48:37.863Z,"3km SE of La Jolla, CA",earthquake,0.76,1.11,0.359,13,automatic,ci,ci
+2022-09-17T14:35:13.988Z,23.0891,121.2412,10,5.1,mww,55,99,0.308,0.99,us,us7000i8v0,2022-09-17T14:58:14.296Z,"79 km E of Yujing, Taiwan",earthquake,6.51,1.863,0.093,11,reviewed,us,us
 2022-09-17T14:30:13.330Z,64.1612,-148.4841,126.5,2.1,ml,,,,0.53,ak,ak022by88r8f,2022-09-17T14:32:00.509Z,"34 km ENE of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-17T14:24:34.140Z,19.1959991455078,-155.487838745117,31.3799991607666,2.42,ml,43,144,,0.129999995,hv,hv73142482,2022-09-17T14:30:05.610Z,"1 km SW of Pāhala, Hawaii",earthquake,0.47,0.779999971,3.6,22,automatic,hv,hv
 2022-09-17T14:03:49.620Z,17.9835,-66.8535,17.28,2.13,md,24,145,,0.13,pr,pr71372243,2022-09-17T14:46:57.200Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.32,0.46,0.1080072779751,14,reviewed,pr,pr
 2022-09-17T14:03:05.890Z,69.5282,-144.2901,0.3,2.8,ml,,,,0.66,ak,ak022by82ygl,2022-09-17T14:05:31.390Z,"72 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-17T13:49:13.749Z,60.2935,-143.3318,12,2.2,ml,,,,0.67,ak,ak022by7reem,2022-09-17T13:50:43.205Z,"128 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-17T13:42:37.585Z,-20.1807,-69.1546,97.749,5.1,mb,36,60,0.039,0.75,us,us7000i8uf,2022-09-17T14:45:58.144Z,"104 km E of Iquique, Chile",earthquake,5.05,5.514,0.041,190,reviewed,us,us
-2022-09-17T13:41:17.752Z,23.0962,121.4059,10,6.5,mww,187,37,0.409,0.93,us,us7000i8ui,2022-09-17T14:45:23.182Z,"Taiwan",earthquake,4.48,1.543,0.038,67,reviewed,us,us
+2022-09-17T13:42:37.585Z,-20.1807,-69.1546,97.749,5.1,mb,36,60,0.039,0.75,us,us7000i8uf,2022-09-17T14:51:28.300Z,"104 km E of Iquique, Chile",earthquake,5.05,5.514,0.041,190,reviewed,us,us
+2022-09-17T13:41:17.752Z,23.0962,121.4059,10,6.5,mww,187,37,0.409,0.93,us,us7000i8ui,2022-09-17T14:56:19.537Z,"Taiwan",earthquake,4.48,1.543,0.038,67,reviewed,us,us
 2022-09-17T13:29:42.260Z,33.5371667,-116.7025,16.9,0.85,ml,11,120,0.07631,0.24,ci,ci40101615,2022-09-17T13:33:11.605Z,"3km SW of Anza, CA",earthquake,1.02,1.93,0.455,14,automatic,ci,ci
 2022-09-17T13:29:33.710Z,33.6771667,-116.7236667,15.94,0.29,ml,11,188,0.08983,0.15,ci,ci40101607,2022-09-17T13:33:08.733Z,"7km S of Idyllwild, CA",earthquake,0.96,0.85,0.112,7,automatic,ci,ci
 2022-09-17T13:06:21.496Z,62.261,-149.6814,62.2,1.8,ml,,,,0.92,ak,ak022by7i77p,2022-09-17T13:08:16.227Z,"14 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -220,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T15:18:08.935Z,18.8476,-100.1822,36.614,4.1,mb,19,260,1.064,1.18,us,us7000i8k1,2022-09-17T01:21:48.811Z,"5 km NW of San Miguel Ixtapan, Mexico",earthquake,7.78,19.468,0.083,40,reviewed,us,us
 2022-09-16T15:15:30.990Z,38.9858333,-111.2805,-3.42,1.26,ml,5,89,0.0622,0.2,uu,uu60515247,2022-09-16T15:48:49.190Z,"7 km NNW of Emery, Utah",earthquake,1.07,1.73,0.298,4,reviewed,uu,uu
 2022-09-16T15:12:29.430Z,63.115,-151.4488,9.9,1.5,ml,,,,0.83,ak,ak022bwl70u7,2022-09-16T15:14:33.057Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-16T14:57:48.180Z,39.428,-110.2941667,-2.85,1.93,ml,17,184,0.02427,0.17,uu,uu60515242,2022-09-16T15:46:43.330Z,"15 km SSE of Sunnyside, Utah",earthquake,0.72,1.89,0.137,6,reviewed,uu,uu
