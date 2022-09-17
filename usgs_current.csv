@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-17T15:00:10.686Z,23.0867,121.2539,10,4.7,mb,25,84,0.312,1.18,us,us7000i8vi,2022-09-17T16:21:34.040Z,"81 km E of Yujing, Taiwan",earthquake,7.33,1.917,0.159,12,reviewed,us,us
 2022-09-17T14:45:27.834Z,22.9716,121.2155,10,5.5,mww,37,85,0.198,1.07,us,us7000i8v9,2022-09-17T19:25:53.055Z,"79 km ESE of Yujing, Taiwan",earthquake,4.32,1.877,0.086,13,reviewed,us,us
 2022-09-17T14:45:10.770Z,32.8291667,-117.2488333,12.3,1.29,ml,16,233,0.1036,0.15,ci,ci40101631,2022-09-17T14:48:37.863Z,"3km SE of La Jolla, CA",earthquake,0.76,1.11,0.359,13,automatic,ci,ci
-2022-09-17T14:35:13.988Z,23.0891,121.2412,10,5.1,mww,55,99,0.308,0.99,us,us7000i8v0,2022-09-17T15:24:46.730Z,"79 km E of Yujing, Taiwan",earthquake,6.51,1.863,0.093,11,reviewed,us,us
+2022-09-17T14:35:14.181Z,23.112,121.2181,10,5.1,mww,67,98,0.319,1.02,us,us7000i8v0,2022-09-17T21:59:06.940Z,"Taiwan",earthquake,5.79,1.851,0.093,11,reviewed,us,us
 2022-09-17T14:30:13.330Z,64.1612,-148.4841,126.5,2.1,ml,,,,0.53,ak,ak022by88r8f,2022-09-17T16:15:37.040Z,"34 km ENE of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-17T14:26:53.790Z,38.8338333,-122.8196667,2.1,0.26,md,13,61,0.01284,0.01,nc,nc73782771,2022-09-17T17:48:06.662Z,"8km NW of The Geysers, CA",earthquake,0.27,0.52,0.31,2,reviewed,nc,nc
 2022-09-17T14:24:34.140Z,19.1959991455078,-155.487838745117,31.3799991607666,2.42,ml,43,144,,0.129999995,hv,hv73142482,2022-09-17T16:10:05.040Z,"1 km SW of Pāhala, Hawaii",earthquake,0.47,0.779999971,3.6,22,automatic,hv,hv
@@ -225,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T22:14:56.700Z,35.815,-117.6438333,8.73,0.61,ml,11,78,0.03766,0.09,ci,ci40101303,2022-09-16T23:23:51.301Z,"22km N of Ridgecrest, CA",earthquake,0.2,0.46,0.049,9,reviewed,ci,ci
 2022-09-16T22:04:59.840Z,37.2786667,-121.614,2.85,0.89,md,13,69,0.05109,0.07,nc,nc73782526,2022-09-16T22:38:42.146Z,"17km NNE of Morgan Hill, CA",earthquake,0.22,0.71,0.118,13,reviewed,nc,nc
 2022-09-16T22:00:55.950Z,17.941,-67.064,5.69,2.58,md,6,248,,0.04,pr,pr71372088,2022-09-16T22:24:47.670Z,"4 km SSW of La Parguera, Puerto Rico",earthquake,0.52,0.62,0.0629934092732396,4,reviewed,pr,pr
-2022-09-16T21:56:38.390Z,40.5116667,-124.2126667,20.38,2.09,md,25,108,0.1018,0.11,nc,nc73782521,2022-09-16T23:55:13.340Z,"8km SSE of Ferndale, CA",earthquake,0.38,0.29,0.191,28,reviewed,nc,nc
