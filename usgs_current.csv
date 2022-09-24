@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-24T10:39:41.420Z,34.0491667,-117.2485,15.98,1.72,ml,61,27,0.07154,0.18,ci,ci40105527,2022-09-24T10:43:18.378Z,"1km E of Loma Linda, CA",earthquake,0.2,0.46,0.134,25,automatic,ci,ci
+2022-09-24T10:39:41.420Z,34.0491667,-117.2485,15.98,1.72,ml,61,27,0.07154,0.18,ci,ci40105527,2022-09-24T10:50:18.310Z,"1km E of Loma Linda, CA",earthquake,0.2,0.46,0.134,25,automatic,ci,ci
 2022-09-24T10:26:26.587Z,35.24337006,-97.72457886,5.384104252,1.77,ml,14,48.20553589,0.09781773388,0.4634708213,ok,ok2022ssum,2022-09-24T10:29:05.798Z,"1 km NE of Bridge Creek, Oklahoma",earthquake,3.245946192,5.031186636,,12,automatic,ok,ok
 2022-09-24T10:15:19.604Z,18.6273,145.5162,215.23,4.4,mb,40,95,5.048,0.61,us,us7000iaqu,2022-09-24T10:40:48.040Z,"Pagan region, Northern Mariana Islands",earthquake,9.91,8.301,0.098,31,reviewed,us,us
 2022-09-24T10:09:03.450Z,17.9675,-66.8488333333333,14.27,1.83,md,7,221,,0.12,pr,pr71372903,2022-09-24T10:34:35.650Z,"4 km SW of Indios, Puerto Rico",earthquake,0.65,0.5,0.163234151930103,6,reviewed,pr,pr
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T02:39:40.480Z,38.1973,-117.7809,4,0.9,ml,11,188.47,0.133,0.1412,nn,nn00847832,2022-09-24T02:43:16.947Z,"35 km SE of Mina, Nevada",earthquake,,1.4,0.6,6,automatic,nn,nn
 2022-09-24T02:31:40.560Z,19.2614994049072,-155.410995483398,30.4899997711182,1.97000003,md,33,122,,0.109999999,hv,hv73150452,2022-09-24T02:34:45.680Z,"9 km NE of Pāhala, Hawaii",earthquake,0.74,0.949999988,1.60000002,6,automatic,hv,hv
 2022-09-24T02:30:11.350Z,35.679,-117.4721667,8.83,1.16,ml,16,115,0.1703,0.14,ci,ci40105383,2022-09-24T02:33:44.463Z,"12km SSW of Searles Valley, CA",earthquake,0.43,1.26,0.227,11,automatic,ci,ci
-2022-09-24T02:29:21.120Z,19.4321666666667,-155.604166666667,-0.62,2.29,md,12,90,,0.18,hv,hv73150447,2022-09-24T08:12:27.840Z,"Island of Hawaii, Hawaii",earthquake,0.37,0.48,0.155498576363404,6,reviewed,hv,hv
+2022-09-24T02:29:21.120Z,19.4321666666667,-155.604166666667,-0.62,2.29,md,12,90,,0.18,hv,hv73150447,2022-09-24T08:12:27.840Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.48,0.155498576363404,6,reviewed,hv,hv
 2022-09-24T02:28:50.400Z,19.4863333333333,-155.591333333333,-0.88,0.75,md,8,78,,0.12,hv,hv73150442,2022-09-24T08:07:28.360Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.25,0.132470387307696,4,reviewed,hv,hv
 2022-09-24T02:25:26.730Z,19.4201666666667,-155.4975,10.53,1.24,md,19,96,,0.11,hv,hv73150432,2022-09-24T08:04:12.540Z,"24 km N of Pāhala, Hawaii",earthquake,0.52,0.71,0.291598839606528,10,reviewed,hv,hv
 2022-09-24T02:24:41.770Z,33.6415,-116.6865,13.44,0.61,ml,24,103,0.07322,0.1,ci,ci40105375,2022-09-24T02:28:08.242Z,"10km N of Anza, CA",earthquake,0.25,0.37,0.14,12,automatic,ci,ci
@@ -278,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-23T11:17:07.110Z,58.4683333333333,-154.59,8.31,-0.25,ml,5,192,,0.27,av,av91072033,2022-09-23T19:52:35.860Z,"100 km N of Karluk, Alaska",earthquake,0.92,1.4,0.194419153281117,5,reviewed,av,av
 2022-09-23T11:13:41.930Z,36.2745,-120.4836667,4.73,1.39,md,21,112,0.1101,0.04,nc,nc73785036,2022-09-23T21:30:11.103Z,"19km NW of Coalinga, CA",earthquake,0.33,0.91,0.242,16,reviewed,nc,nc
 2022-09-23T11:01:26.020Z,53.7766666666667,-166.984666666667,8.82,-0.22,ml,5,323,,0.32,av,av91072028,2022-09-23T19:49:15.940Z,"31 km WSW of Unalaska, Alaska",earthquake,2.16,1.26,0.104188947799216,5,reviewed,av,av
-2022-09-23T10:53:55.550Z,35.8273333,-117.6658333,7.96,0.74,ml,15,94,0.05672,0.09,ci,ci40104991,2022-09-23T20:37:38.984Z,"23km N of Ridgecrest, CA",earthquake,0.19,0.42,0.199,7,reviewed,ci,ci
