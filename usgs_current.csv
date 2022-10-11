@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-11T12:23:02.356Z,60.0376,-152.0671,83.6,1.4,ml,,,,0.34,ak,ak022d1vwp5n,2022-10-11T12:24:51.985Z,"21 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-10-11T12:18:44.221Z,62.2708,-150.3401,22.3,1.2,ml,,,,0.23,ak,ak022d1vvpt2,2022-10-11T12:20:09.403Z,"7 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-10-11T12:03:11.675Z,37.8624,-117.5038,0,0.9,ml,13,155.72,0.187,0.14,nn,nn00848995,2022-10-11T12:06:34.537Z,"16 km NE of Silver Peak, Nevada",earthquake,,11,0.38,5,automatic,nn,nn
 2022-10-11T11:35:05.480Z,63.5356,-147.3476,2,1.5,ml,,,,0.39,ak,ak022d1vdudw,2022-10-11T11:37:32.670Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-11T11:26:21.200Z,33.6556667,-116.7058333,14.12,0.23,ml,12,118,0.05579,0.06,ci,ci40359080,2022-10-11T11:29:56.138Z,"10km S of Idyllwild, CA",earthquake,0.37,0.31,0.148,6,automatic,ci,ci
 2022-10-11T11:24:46.660Z,33.657,-116.708,14.75,0.6,ml,19,100,0.05427,0.12,ci,ci40359072,2022-10-11T11:28:08.643Z,"9km S of Idyllwild, CA",earthquake,0.34,0.45,0.238,16,automatic,ci,ci
@@ -183,9 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-10T12:42:19.520Z,19.2391662597656,-155.398330688477,32.7700004577637,1.71000004,md,37,137,,0.129999995,hv,hv73173497,2022-10-10T12:45:25.450Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.959999979,1.85000002,4,automatic,hv,hv
 2022-10-10T12:37:19.658Z,38.4928,45.0641,10,4.3,mb,53,49,1.586,0.56,us,us6000ishr,2022-10-10T13:06:48.040Z,"11 km ESE of Khowy, Iran",earthquake,4.33,1.897,0.089,36,reviewed,us,us
 2022-10-10T12:33:29.673Z,31.57149327,-104.1665201,7.905419922,2.2,ml,17,94,0.1307542992,0.2,tx,tx2022twet,2022-10-11T04:41:13.054Z,"western Texas",earthquake,1.373885138,1.942099075,0.2,16,reviewed,tx,tx
-2022-10-10T12:23:40.776Z,62.8851,-151.0157,104,1.9,ml,,,,0.3,ak,ak022d08dfml,2022-10-10T12:26:19.704Z,"Central Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-10-10T12:17:48.468Z,23.4801,121.6296,10,4.7,mwr,83,73,0.318,0.63,us,us6000ishl,2022-10-10T19:49:09.570Z,"Taiwan",earthquake,3.92,1.824,0.062,25,reviewed,us,us
-2022-10-10T12:14:17.890Z,38.7493324,-122.7118301,0.82,0.55,md,7,130,0.01593,0.01,nc,nc73791791,2022-10-10T12:15:54.223Z,"3km SSW of Anderson Springs, CA",earthquake,0.94,0.57,0.18,3,automatic,nc,nc
-2022-10-10T12:08:33.890Z,19.1299991607666,-155.430999755859,32.0699996948242,1.70000005,md,25,176,,0.119999997,hv,hv73173477,2022-10-10T12:18:35.943Z,"9 km SSE of Pāhala, Hawaii",earthquake,0.62,1.10000002,0.569999993,3,automatic,hv,hv
-2022-10-10T12:01:06.080Z,19.4246666666667,-155.614,-1.66,2.33,ml,39,66,,0.22,hv,hv73173462,2022-10-10T21:26:49.890Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.36,0.146504194980917,16,reviewed,hv,hv
-2022-10-10T11:53:58.025Z,-15.6813,167.7545,133.157,4.5,mb,35,153,0.58,0.44,us,us6000ishj,2022-10-10T12:21:46.040Z,"57 km NE of Norsup, Vanuatu",earthquake,8.4,4.508,0.105,27,reviewed,us,us
