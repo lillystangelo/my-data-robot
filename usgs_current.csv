@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-28T10:42:19.910Z,36.9449997,-121.3365021,4.54,1.03,md,6,150,0.07433,0.03,nc,nc73800241,2022-10-28T10:46:58.817Z,"12km NNE of Hollister, CA",earthquake,1.16,3.28,0.07,7,automatic,nc,nc
+2022-10-28T10:40:37.010Z,36.9423332,-121.3304977,7.91,2.96,md,61,54,0.07423,0.12,nc,nc73800236,2022-10-28T10:50:49.196Z,"12km NNE of Hollister, CA",earthquake,0.2,0.44,0.13,90,automatic,nc,nc
 2022-10-28T10:28:30.660Z,19.496000289917,-155.591339111328,-1.03999996185303,1.9,ml,20,59,,0.370000005,hv,hv73198177,2022-10-28T10:34:00.760Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.479999989,3.71,6,automatic,hv,hv
 2022-10-28T10:28:23.458Z,59.8613,-152.8172,111.3,1.6,ml,,,,0.12,ak,ak022dtyvujt,2022-10-28T10:29:44.523Z,"56 km W of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-10-28T10:17:49.180Z,38.8336678,-122.8170013,1.34,0.8,md,16,69,0.0116,0.04,nc,nc73800231,2022-10-28T10:35:17.186Z,"8km NW of The Geysers, CA",earthquake,0.23,0.6,0.26,3,automatic,nc,nc
