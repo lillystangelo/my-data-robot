@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-28T09:18:21.720Z,37.6118317,-118.8600006,1.99,0.97,md,12,139,0.007523,0.01,nc,nc73800211,2022-10-28T09:19:55.277Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.35,0.67,0.2,12,automatic,nc,nc
+2022-10-28T09:34:41.890Z,35.6173333,-117.5736667,9.58,0.88,ml,13,123,0.1623,0.19,ci,ci40126079,2022-10-28T09:38:15.857Z,"9km E of Ridgecrest, CA",earthquake,0.55,1.31,0.16,10,automatic,ci,ci
+2022-10-28T09:18:21.720Z,37.6118317,-118.8600006,1.99,0.97,md,12,139,0.007523,0.01,nc,nc73800211,2022-10-28T09:27:10.749Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.35,0.67,0.2,12,automatic,nc,nc
+2022-10-28T09:11:53.315Z,-14.5055,-76.2346,10.616,4.9,mb,45,161,2.572,0.85,us,us7000ikw8,2022-10-28T09:33:07.040Z,"66 km WSW of Santiago, Peru",earthquake,8.29,5.205,0.062,84,reviewed,us,us
 2022-10-28T09:07:43.236Z,34.52035904,-97.23336029,5,2.33,ml,26,101.2270279,0.112009421,0.7301669648,ok,ok2022vcuz,2022-10-28T09:11:19.265Z,"10 km W of Davis, Oklahoma",earthquake,3.5133632,,,19,automatic,ok,ok
 2022-10-28T09:05:09.340Z,19.3866672515869,-155.872833251953,9.67000007629395,1.84000003,md,18,160,,0.140000001,hv,hv73198107,2022-10-28T09:14:25.915Z,"7 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.57,0.639999986,1.52999997,6,automatic,hv,hv
 2022-10-28T08:58:02.264Z,63.1386,-150.4663,98.6,1.7,ml,,,,0.64,ak,ak022dtxvd6q,2022-10-28T09:00:24.715Z,"73 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T07:57:21.740Z,19.4926662445068,-155.57600402832,-3.72000002861023,2.08,ml,23,51,,0.300000012,hv,hv73198062,2022-10-28T08:02:52.050Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.479999989,2.89,8,automatic,hv,hv
 2022-10-28T07:53:19.180Z,35.9876667,-117.6595,-0.08,1,ml,9,213,0.1212,0.19,ci,ci40126071,2022-10-28T07:56:51.548Z,"23km ENE of Little Lake, CA",earthquake,1.25,31.61,0.106,9,automatic,ci,ci
 2022-10-28T07:51:07.687Z,34.53436279,-97.36309052,0.686923027,2.49,ml,54,70.93952942,0.0109268399,0.8302859087,ok,ok2022vcsl,2022-10-28T08:42:24.687Z,"5 km S of Katie, Oklahoma",earthquake,2.096424109,1.256756184,,24,automatic,ok,ok
-2022-10-28T07:43:47.460Z,38.8149986,-122.7608337,1.93,0.83,md,18,113,0.01438,0.03,nc,nc73800181,2022-10-28T08:18:16.341Z,"3km WSW of Cobb, CA",earthquake,0.24,0.42,0.31,3,automatic,nc,nc
+2022-10-28T07:43:47.460Z,38.8149986,-122.7608337,1.93,0.83,md,18,113,0.01438,0.03,nc,nc73800181,2022-10-28T09:36:14.928Z,"3km WSW of Cobb, CA",earthquake,0.24,0.42,0.31,3,automatic,nc,nc
 2022-10-28T07:30:35.511Z,-19.0106,-177.5605,562.856,4.4,mb,53,47,3.085,0.55,us,us7000ikvu,2022-10-28T07:49:33.040Z,"Fiji region",earthquake,13.86,9.687,0.081,44,reviewed,us,us
 2022-10-28T07:17:58.780Z,33.9871667,-116.8318333,3.51,0.63,ml,12,110,0.05186,0.12,ci,ci40126063,2022-10-28T07:21:26.884Z,"8km NNE of Banning, CA",earthquake,0.32,0.65,0.206,11,automatic,ci,ci
 2022-10-28T07:11:29.118Z,61.1693,-148.1782,7.7,1,ml,,,,0.81,ak,ak022dtwzwzz,2022-10-28T07:13:26.825Z,"50 km SE of Knik River, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T09:58:33.906Z,58.2438,-155.1168,1.1,0.8,ml,,,,0.42,ak,ak022dsaxiqm,2022-10-28T00:02:39.170Z,"84 km NNW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-10-27T09:53:40.749Z,63.9587,-149.7942,11.8,1.8,ml,,,,0.38,ak,ak022dsawgoq,2022-10-27T09:56:24.011Z,"33 km WSW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-27T09:50:42.840Z,41.2795,-122.0828333,6.82,2.16,md,33,60,0.02998,0.14,nc,nc73799711,2022-10-28T01:14:12.690Z,"5km ENE of McCloud, CA",earthquake,0.23,0.42,0.166,33,reviewed,nc,nc
-2022-10-27T09:28:00.310Z,40.74,-112.052,4.89,0.68,md,11,106,0.01789,0.18,uu,uu60522097,2022-10-27T13:09:53.350Z,"5 km NE of Magna, Utah",earthquake,0.39,1.06,0.214,5,reviewed,uu,uu
