@@ -219,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T11:15:14.515Z,64.886,-148.7059,1.1,1.7,ml,,,,0.73,ak,ak022dtzeh5n,2022-10-28T11:17:53.891Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-28T11:13:31.150Z,36.9376678,-121.3399963,1.11,1.44,md,15,84,0.08203,0.07,nc,nc73800251,2022-10-28T12:59:14.044Z,"11km NNE of Hollister, CA",earthquake,0.23,3.02,0.2,9,automatic,nc,nc
 2022-10-28T10:56:47.353Z,-14.5375,-76.3637,20.445,4.5,mb,39,157,2.577,0.51,us,us7000ikwq,2022-10-28T11:22:41.040Z,"74 km S of Paracas, Peru",earthquake,9.6,6.436,0.118,21,reviewed,us,us
-2022-10-28T10:51:44.391Z,39.7952,-120.0083,10.4,1.3,ml,8,104.41,0.191,0.0774,nn,nn00850195,2022-10-28T10:54:30.735Z,"11 km E of Chilcoot-Vinton, California",earthquake,,2.2,0.33,6,automatic,nn,nn
-2022-10-28T10:42:19.910Z,36.9449997,-121.3365021,4.54,1.03,md,6,150,0.07433,0.03,nc,nc73800241,2022-10-28T12:05:12.732Z,"12km NNE of Hollister, CA",earthquake,1.16,3.28,0.07,7,automatic,nc,nc
-2022-10-28T10:40:37.010Z,36.9423332,-121.3304977,7.91,2.96,md,61,54,0.07423,0.12,nc,nc73800236,2022-10-29T04:22:29.778Z,"12km NNE of Hollister, CA",earthquake,0.2,0.44,0.13,90,automatic,nc,nc
