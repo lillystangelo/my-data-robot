@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-30T23:37:07.270Z,40.409668,-121.3593369,5.6,2.2,md,9,164,0.1328,0.08,nc,nc73801406,2022-10-30T23:43:13.046Z,"16km NW of Chester, CA",earthquake,0.56,1.89,0.05,6,automatic,nc,nc
+2022-10-30T23:26:16.480Z,19.4923324584961,-155.441833496094,-0.0500000007450581,2.17,ml,29,108,,0.189999998,hv,hv73201347,2022-10-30T23:31:45.550Z,"22 km WNW of Volcano, Hawaii",earthquake,0.43,0.790000021,0.22,3,automatic,hv,hv
 2022-10-30T22:57:38.620Z,19.4028339385986,-155.269500732422,0.0799999982118607,2.08,ml,17,46,,0.119999997,hv,hv73201327,2022-10-30T23:03:09.330Z,"5 km SW of Volcano, Hawaii",earthquake,0.14,0.25,0.28,7,automatic,hv,hv
 2022-10-30T22:32:04.400Z,40.4124985,-121.3594971,5.6,2.06,md,8,163,0.1316,0.08,nc,nc73801391,2022-10-30T23:28:15.957Z,"16km NW of Chester, CA",earthquake,0.87,2.35,0.17,5,automatic,nc,nc
 2022-10-30T22:26:59.768Z,38.1808,-117.8122,10.1,1.1,ml,12,186.67,0.123,0.1416,nn,nn00850253,2022-10-30T22:30:03.321Z,"34 km SE of Mina, Nevada",earthquake,,0.8,0.37,5,automatic,nn,nn
@@ -155,6 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T01:24:49.980Z,33.1555,-116.5953333,7.45,2.01,ml,56,36,0.06158,0.21,ci,ci40127055,2022-10-30T14:01:01.540Z,"9km N of Julian, CA",earthquake,0.23,0.71,0.184,25,reviewed,ci,ci
 2022-10-30T01:21:49.870Z,19.3618335723877,-155.498168945312,7.28000020980835,2.13,ml,47,61,,0.189999998,hv,hv73200437,2022-10-30T01:27:20.100Z,"17 km N of Pāhala, Hawaii",earthquake,0.36,0.720000029,4.44,7,automatic,hv,hv
 2022-10-30T01:02:52.270Z,38.8256683,-122.8103333,1.52,0.85,md,7,106,0.002279,0.03,nc,nc73800996,2022-10-30T02:41:11.489Z,"7km NW of The Geysers, CA",earthquake,0.69,0.99,,1,automatic,nc,nc
+2022-10-30T00:57:37.350Z,58.2513333333333,-155.089333333333,4.81,0.01,ml,8,150,,0.18,av,av91705661,2022-10-30T23:40:29.260Z,"Alaska Peninsula",earthquake,0.45,0.82,0.164224332341275,8,reviewed,av,av
 2022-10-30T00:47:03.870Z,38.8395004,-122.8366699,1.41,0.37,md,10,113,0.001297,0.02,nc,nc73800991,2022-10-30T02:13:13.294Z,"10km NW of The Geysers, CA",earthquake,0.32,0.6,,2,automatic,nc,nc
 2022-10-30T00:43:11.150Z,33.1428333,-116.5703333,6.72,0.71,ml,15,111,0.06578,0.23,ci,ci40127039,2022-10-30T00:46:42.968Z,"8km NNE of Julian, CA",earthquake,0.63,1.14,0.171,8,automatic,ci,ci
 2022-10-30T00:33:14.190Z,33.1533333,-116.5848333,9,0.95,ml,26,87,0.0695,0.19,ci,ci40127031,2022-10-30T00:36:45.834Z,"8km N of Julian, CA",earthquake,0.39,0.76,0.212,19,automatic,ci,ci
@@ -163,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T00:13:07.250Z,33.2208333,-83.2128333,6.89,2.19,md,8,88,0.285,0.18,se,se60164643,2022-10-30T22:34:47.540Z,"15 km N of Milledgeville, Georgia",earthquake,0.43,1.3,0.112,8,reviewed,se,se
 2022-10-30T00:11:34.140Z,38.7978325,-122.75383,1.76,0.85,md,9,158,0.005376,0.03,nc,nc73800981,2022-10-30T00:38:17.728Z,"2km N of The Geysers, CA",earthquake,0.44,0.9,,1,automatic,nc,nc
 2022-10-29T23:59:36.460Z,32.9626667,-115.5691667,4.12,1.18,ml,16,46,0.06144,0.27,ci,ci40127007,2022-10-30T00:03:14.391Z,"4km WSW of Brawley, CA",earthquake,0.49,1.58,0.153,11,automatic,ci,ci
-2022-10-29T23:35:54.613Z,-42.0027,172.6562,76.305,4.5,mwr,54,56,0.304,0.85,us,us7000il8u,2022-10-30T01:00:40.331Z,"74 km SSW of Wakefield, New Zealand",earthquake,3.88,3.917,0.049,40,reviewed,us,us
