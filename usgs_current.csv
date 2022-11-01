@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-01T07:32:36.790Z,19.4008331298828,-155.292327880859,1.42999994754791,2.18000007,md,8,77,,0.0900000036,hv,hv73203137,2022-11-01T07:35:33.220Z,"7 km SW of Volcano, Hawaii",earthquake,0.5,0.389999986,2.38000011,4,automatic,hv,hv
+2022-11-01T07:31:45.440Z,38.8269997,-122.8546677,2.46,0.87,md,9,98,0.001807,0.03,nc,nc73801991,2022-11-01T07:33:22.260Z,"10km WNW of The Geysers, CA",earthquake,0.51,1.45,,1,automatic,nc,nc
+2022-11-01T07:20:16.570Z,32.9935,-116.3868333,9.76,1.31,ml,44,59,0.08016,0.21,ci,ci40127991,2022-11-01T07:30:51.920Z,"22km ESE of Julian, CA",earthquake,0.23,0.7,0.169,25,automatic,ci,ci
 2022-11-01T07:07:32.002Z,38.1642,-117.9061,5.2,0.9,ml,10,155.32,0.049,0.2141,nn,nn00850376,2022-11-01T07:11:10.421Z,"Nevada",earthquake,,1,0.23,7,automatic,nn,nn
 2022-11-01T06:58:59.430Z,36.9053,-104.82,3.248,2.6,ml,23,71,0.109,0.46,us,us7000iln8,2022-11-01T07:10:46.040Z,"25 km SSW of Segundo, Colorado",earthquake,5.28,6.596,0.05,52,reviewed,us,us
 2022-11-01T06:43:06.880Z,19.4713325500488,-155.601165771484,-2.3199999332428,1.94000006,md,14,81,,0.310000002,hv,hv73203102,2022-11-01T06:46:01.430Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.409999996,1.01999998,8,automatic,hv,hv
@@ -218,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T08:06:00.440Z,37.0644989,-121.4998322,4.82,1.66,md,27,46,0.04093,0.19,nc,nc73801616,2022-10-31T11:08:10.173Z,"9km NE of Gilroy, CA",earthquake,0.37,0.91,0.21,22,automatic,nc,nc
 2022-10-31T07:50:09.510Z,35.7068333,-117.511,7.17,1.47,ml,29,85,0.1265,0.14,ci,ci40127519,2022-10-31T19:09:49.820Z,"12km SW of Searles Valley, CA",earthquake,0.19,0.67,0.159,21,reviewed,ci,ci
 2022-10-31T07:41:50.370Z,33.879,-116.5085,13.76,0.6,ml,17,74,0.065,0.08,ci,ci40127511,2022-10-31T19:02:49.409Z,"4km SE of Garnet, CA",earthquake,0.21,0.48,0.135,11,reviewed,ci,ci
-2022-10-31T07:20:59.580Z,37.315834,-121.6808319,6.95,2.86,md,71,49,0.03992,0.06,nc,nc73801601,2022-11-01T06:21:53.960Z,"14km ESE of Alum Rock, CA",earthquake,0.13,0.29,0.13,101,automatic,nc,nc
-2022-10-31T07:16:05.030Z,36.5666656,-121.154335,4.35,1.72,md,11,118,0.02551,0.12,nc,nc73801596,2022-10-31T10:09:10.803Z,"4km NNW of Pinnacles, CA",earthquake,0.5,0.91,0.08,10,automatic,nc,nc
