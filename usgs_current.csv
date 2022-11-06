@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-06T10:43:11.330Z,33.8943333,-116.23,7.52,1.1,ml,34,49,0.05638,0.16,ci,ci40129591,2022-11-06T10:53:59.280Z,"17km ENE of Thousand Palms, CA",earthquake,0.21,0.63,0.167,28,automatic,ci,ci
 2022-11-06T10:29:37.445Z,62.9186,-150.3136,14.5,1.6,ml,,,,0.44,ak,ak022e8uq7sg,2022-11-06T10:31:47.822Z,"52 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-06T10:12:24.690Z,33.6391667,-116.6995,12.61,0.63,ml,22,80,0.07045,0.12,ci,ci40129583,2022-11-06T10:15:49.111Z,"10km NNW of Anza, CA",earthquake,0.28,0.42,0.172,16,automatic,ci,ci
 2022-11-06T10:05:28.035Z,60.4451,-152.8614,17.9,1.8,ml,,,,0.72,ak,ak022e8ul1vn,2022-11-06T10:07:04.545Z,"79 km WNW of Ninilchik, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -127,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T20:39:33.340Z,33.8278333,-118.2765,8.05,2.65,ml,54,69,0.06137,0.31,ci,ci40129359,2022-11-06T09:26:55.162Z,"1km SE of Carson, CA",earthquake,0.43,1.14,0.242,27,automatic,ci,ci
 2022-11-05T20:32:53.267Z,38.1797,-117.8775,6.4,1.4,ml,13,168.38,0.076,0.1258,nn,nn00850668,2022-11-05T20:36:17.762Z,"30 km SE of Mina, Nevada",earthquake,,0.6,0.14,8,automatic,nn,nn
 2022-11-05T20:09:30.830Z,38.1483,-117.8435,13.4,0.4,ml,8,171.69,0.092,0.1837,nn,nn00850667,2022-11-05T20:12:46.022Z,"35 km SE of Mina, Nevada",earthquake,,1.1,0.35,3,automatic,nn,nn
-2022-11-05T20:07:55.127Z,61.8907,-151.1941,88.9,1.9,ml,,,,0.35,ak,ak022e7d0iyg,2022-11-05T20:09:55.346Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-11-05T20:07:55.127Z,61.8907,-151.1941,88.9,1.9,ml,,,,0.35,ak,ak022e7d0iyg,2022-11-05T20:09:55.346Z,"15 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-05T19:41:29.025Z,0.1134,127.3296,147.333,4.9,mb,38,106,0.655,0.77,us,us7000imrl,2022-11-05T19:54:21.040Z,"Halmahera, Indonesia",earthquake,8.27,7.321,0.104,29,reviewed,us,us
 2022-11-05T19:37:27.100Z,38.8271675,-122.8105011,1.36,0.85,md,8,79,0.003782,0.02,nc,nc73804006,2022-11-05T19:51:10.559Z,"7km NW of The Geysers, CA",earthquake,0.37,1.1,,1,automatic,nc,nc
 2022-11-05T19:27:30.757Z,36.6961,-116.0478,3.7,-0.4,ml,7,147.74,0.041,0.0366,nn,nn00850673,2022-11-06T02:41:44.248Z,"36 km WNW of Indian Springs, Nevada",earthquake,,3.1,0.1,2,reviewed,nn,nn
@@ -204,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T13:18:42.160Z,38.1606,-117.9441,8.7,0.2,ml,8,145.58,0.159,0.0531,nn,nn00850649,2022-11-05T13:22:12.504Z,"Nevada",earthquake,,2.8,0.6,5,automatic,nn,nn
 2022-11-05T12:42:20.151Z,58.2509,-155.1053,0,1.5,ml,,,,0.57,ak,ak022e78ghhb,2022-11-05T12:43:52.663Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-05T12:38:23.331Z,62.041,-150.1034,25.1,1.1,ml,,,,0.33,ak,ak022e78fmv1,2022-11-05T12:57:15.350Z,"18 km SW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-05T12:32:09.273Z,-28.7196,30.8441,9.779,4.6,mb,24,53,4.912,0.37,us,us7000impz,2022-11-06T09:26:36.128Z,"South Africa",earthquake,6.5,5.215,0.207,7,reviewed,us,us
+2022-11-05T12:32:09.273Z,-28.7196,30.8441,9.779,4.6,mb,24,53,4.912,0.37,us,us7000impz,2022-11-06T10:48:26.097Z,"South Africa",earthquake,6.5,5.215,0.207,7,reviewed,us,us
 2022-11-05T12:27:24.858Z,63.073,-150.4844,103.9,1.7,ml,,,,0.32,ak,ak022e78da3p,2022-11-05T12:30:33.543Z,"65 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-05T12:22:47.380Z,37.5415,-118.8475,7.35,0.09,md,6,223,0.0506,0.01,nc,nc73803811,2022-11-05T16:21:10.458Z,"15km W of Toms Place, CA",earthquake,1.56,3.85,0.106,5,reviewed,nc,nc
 2022-11-05T12:20:54.092Z,35.9997,27.5159,10,4,mb,27,129,0.535,0.8,us,us7000impm,2022-11-05T13:12:59.040Z,"39 km SW of Émponas, Greece",earthquake,3.93,1.989,0.173,9,reviewed,us,us
