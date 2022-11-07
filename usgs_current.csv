@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-06T08:40:51.168Z,38.5208,-119.5002,7.2,0.8,ml,5,119.84,0.051,0.0704,nn,nn00850698,2022-11-07T02:41:31.594Z,"2 km WNW of Walker, California",earthquake,,2.2,0.06,2,reviewed,nn,nn
 2022-11-06T08:36:16.154Z,57.8792,-154.75,60.9,2.4,ml,,,,0.28,ak,ak022e8tksy7,2022-11-06T08:48:54.040Z,"38 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-06T08:31:19.075Z,38.1654,-117.901,9.7,0.6,ml,8,167.63,0.053,0.1243,nn,nn00850679,2022-11-06T08:34:46.088Z,"Nevada",earthquake,,0.5,0.34,4,automatic,nn,nn
-2022-11-06T07:50:13.730Z,35.6865,-117.4918333,6.83,1.13,ml,25,97,0.1255,0.11,ci,ci40129567,2022-11-06T19:43:10.650Z,"12km SW of Searles Valley, CA",earthquake,0.16,0.54,0.137,11,reviewed,ci,ci
