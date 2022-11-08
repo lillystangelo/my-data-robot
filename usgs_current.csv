@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-08T06:03:25.990Z,39.6964989,-123.6051636,2.64,1.92,md,8,144,0.02029,0.05,nc,nc73802665,2022-11-08T06:13:09.946Z,"10km W of Laytonville, CA",earthquake,0.41,0.41,0.2,3,automatic,nc,nc
 2022-11-08T05:48:01.895Z,63.0508,-151.5369,0,2.1,ml,,,,0.84,ak,ak022ec2xqm5,2022-11-08T05:50:21.091Z,"55 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-08T05:04:50.270Z,38.8381653,-122.8383331,1.21,1.35,md,17,82,0.01525,0.01,nc,nc73802650,2022-11-08T05:22:15.643Z,"10km NW of The Geysers, CA",earthquake,0.19,0.45,0.2,4,automatic,nc,nc
 2022-11-08T05:00:36.391Z,63.0582,-151.5312,0,1.9,ml,,,,0.89,ak,ak022ec2niwn,2022-11-08T05:02:38.568Z,"54 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -192,7 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T06:34:26.160Z,33.602,-116.6356667,8,-0.29,ml,12,135,0.03332,0.14,ci,ci40129895,2022-11-07T17:25:56.388Z,"6km NE of Anza, CA",earthquake,0.39,0.68,0.37,4,reviewed,ci,ci
 2022-11-07T06:29:20.729Z,59.9811,-139.5574,3.7,2,ml,,,,1.12,ak,ak022eafvsk6,2022-11-07T06:31:45.886Z,"49 km N of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-07T06:27:08.440Z,17.8938333333333,-66.8368333333333,8.02,2.41,md,7,236,0.09031,0.08,pr,pr71381093,2022-11-07T06:44:49.790Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.57,1.99,0.104229325612652,5,reviewed,pr,pr
-2022-11-07T06:10:41.220Z,38.8236656,-122.8440018,2.2,1.13,md,12,92,0.00703,0.01,nc,nc73804596,2022-11-07T06:53:16.468Z,"9km NW of The Geysers, CA",earthquake,0.28,0.48,0.17,4,automatic,nc,nc
-2022-11-07T06:09:33.474Z,36.5438,-98.9722,5,2.4,mb_lg,36,111,0.356,0.38,us,us7000in0i,2022-11-07T09:32:54.040Z,"9 km WSW of Waynoka, Oklahoma",earthquake,1.41,1.868,0.111,21,reviewed,us,us
-2022-11-07T06:08:06.603Z,61.9485,-149.302,19.5,1.5,ml,,,,0.55,ak,ak022eafr9g4,2022-11-07T06:09:58.210Z,"23 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-07T05:58:51.200Z,33.038,-116.4208333,8.45,0.87,ml,23,66,0.1291,0.19,ci,ci40129887,2022-11-07T14:17:36.795Z,"18km ESE of Julian, CA",earthquake,0.32,1.48,0.13,15,reviewed,ci,ci
