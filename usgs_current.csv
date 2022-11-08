@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-08T14:38:45.588Z,52.3791,-179.4024,204.546,4.6,mb,108,58,0.671,0.86,us,us7000inai,2022-11-08T14:57:04.040Z,"197 km WNW of Adak, Alaska",earthquake,7.85,6.14,0.037,228,reviewed,us,us
+2022-11-08T14:30:00.731Z,15.3074,120.856,169.471,5.4,mww,88,104,7.474,0.53,us,us7000inah,2022-11-08T14:56:14.040Z,"0 km N of San Antonio, Philippines",earthquake,9.77,6.517,0.098,10,reviewed,us,us
 2022-11-08T14:20:39.460Z,33.9601667,-116.6423333,12.04,0.94,ml,23,62,0.05872,0.24,ci,ci40130183,2022-11-08T14:24:11.457Z,"11km NW of Garnet, CA",earthquake,0.45,0.92,0.221,29,automatic,ci,ci
 2022-11-08T14:04:17.550Z,19.4466667175293,-155.600830078125,-1.33000004291534,1.9,ml,10,87,,0.170000002,hv,hv73213027,2022-11-08T14:09:48.110Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.36,0.419999987,0.3,4,automatic,hv,hv
 2022-11-08T13:48:52.086Z,61.6999,-148.1414,24.7,0.9,ml,,,,0.14,ak,ak022ec7pbbs,2022-11-08T13:50:33.708Z,"20 km ESE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -50,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-08T08:05:43.160Z,33.3698333,-116.9611667,13.15,1.01,ml,18,145,0.2158,0.35,ci,ci40130127,2022-11-08T08:09:29.375Z,"9km W of Palomar Observatory, CA",earthquake,1.23,3.82,0.188,24,automatic,ci,ci
 2022-11-08T07:56:02.138Z,62.9254,-149.4733,90,1.6,ml,,,,0.09,ak,ak022ec46bkl,2022-11-08T07:57:57.249Z,"58 km SSW of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-11-08T07:31:42.929Z,-31.9824,-179.3467,121.878,4.7,mb,38,75,2.977,0.62,us,us7000in8v,2022-11-08T07:59:38.040Z,"Kermadec Islands region",earthquake,10.09,6.029,0.099,31,reviewed,us,us
-2022-11-08T07:27:44.840Z,19.2474994659424,-155.381164550781,30.8500003814697,2.36,ml,44,190,,0.100000001,hv,hv73212667,2022-11-08T07:35:44.065Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.59,0.639999986,3.76,22,automatic,hv,hv
+2022-11-08T07:27:44.840Z,19.2474994659424,-155.381164550781,30.8500003814697,2.36,ml,44,190,,0.100000001,hv,hv73212667,2022-11-08T14:54:20.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.59,0.639999986,3.76,22,automatic,hv,hv
 2022-11-08T07:23:37.740Z,38.8266678,-122.8066635,2.38,0.74,md,21,42,0.004216,0.02,nc,nc73802685,2022-11-08T10:01:12.298Z,"7km NW of The Geysers, CA",earthquake,0.22,0.61,0.15,3,automatic,nc,nc
 2022-11-08T07:21:41.600Z,38.8248329,-122.8041687,0.81,1.77,md,8,108,0.01821,0.04,nc,nc73802675,2022-11-08T09:06:11.975Z,"7km NW of The Geysers, CA",earthquake,0.42,0.83,,1,automatic,nc,nc
 2022-11-08T07:00:26.346Z,61.7111,-141.8148,4.3,1.3,ml,,,,0.35,ak,ak022ec3udca,2022-11-08T07:02:33.244Z,"66 km ENE of McCarthy, Alaska",earthquake,,10.2,,,automatic,ak,ak
@@ -175,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T15:15:03.059Z,31.65042268,-104.3196088,7.982543944999999,3.6,ml,50,60,0.05124247791,0.3,tx,tx2022vvod,2022-11-07T17:17:16.780Z,"58 km S of Whites City, New Mexico",earthquake,0.9512662094,1.043668789,0.2,32,reviewed,tx,tx
 2022-11-07T15:02:24.630Z,38.7900009,-122.7353363,2.3,0.9,md,10,196,0.006841,0.02,nc,nc73804726,2022-11-07T17:17:15.395Z,"2km NE of The Geysers, CA",earthquake,0.58,0.8,0.25,3,automatic,nc,nc
 2022-11-07T15:02:21.842Z,63.4496,-146.2954,22.4,1.5,ml,,,,1.34,ak,ak022eal2wrs,2022-11-07T15:04:09.282Z,"52 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-07T14:57:23.161Z,59.6679,-152.7569,74.6,1.6,ml,,,,0.76,ak,ak022eakt9ng,2022-11-07T14:59:29.521Z,"53 km WSW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
