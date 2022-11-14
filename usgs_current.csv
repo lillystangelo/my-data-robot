@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-14T06:56:20.160Z,38.8371658,-122.795166,1.79,0.46,md,11,73,0.003965,0.01,nc,nc73804940,2022-11-14T07:14:11.192Z,"6km WNW of Cobb, CA",earthquake,0.37,0.74,0.39,2,automatic,nc,nc
+2022-11-14T08:02:31.401Z,63.2867,-150.385,108.1,1.6,ml,,,,1.21,ak,ak022em1obqc,2022-11-14T08:04:47.540Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-11-14T06:56:20.160Z,38.8371658,-122.795166,1.79,0.46,md,11,73,0.003965,0.01,nc,nc73804940,2022-11-14T07:57:10.419Z,"6km WNW of Cobb, CA",earthquake,0.37,0.74,0.39,2,automatic,nc,nc
 2022-11-14T06:50:42.370Z,17.9336666666667,-66.8166666666667,11.65,2.56,md,9,222,0.07242,0.08,pr,pr71382263,2022-11-14T07:22:39.290Z,"6 km S of Indios, Puerto Rico",earthquake,0.6,0.39,0.0256046202084808,4,reviewed,pr,pr
 2022-11-14T06:18:52.880Z,18.0283333333333,-66.8975,18.38,2.8,md,12,87,0.0396,0.08,pr,pr71382258,2022-11-14T06:48:17.060Z,"1 km SE of Lluveras, Puerto Rico",earthquake,0.38,0.35,0.142307769563786,6,reviewed,pr,pr
-2022-11-14T06:09:05.850Z,18.0205,-66.8931666666667,17.38,3.02,md,33,68,0.03406,0.12,pr,pr71382248,2022-11-14T07:11:25.290Z,"2 km WNW of Palomas, Puerto Rico",earthquake,0.32,0.28,0.0588628493364707,12,reviewed,pr,pr
+2022-11-14T06:09:05.850Z,18.0205,-66.8931666666667,17.38,3.02,md,33,68,0.03406,0.12,pr,pr71382248,2022-11-14T07:55:44.040Z,"2 km WNW of Palomas, Puerto Rico",earthquake,0.32,0.28,0.0588628493364707,12,reviewed,pr,pr
 2022-11-14T05:57:41.850Z,34.6518333,-119.5346667,14.75,1.72,ml,8,125,0.1401,0.2,ci,ci40132199,2022-11-14T06:01:23.709Z,"26km NNE of Montecito, CA",earthquake,0.87,1.5,0.349,8,automatic,ci,ci
 2022-11-14T05:52:25.560Z,34.6643333,-119.5348333,10.36,1.11,ml,10,89,0.1337,0.23,ci,ci40132183,2022-11-14T05:55:53.673Z,"27km NNE of Montecito, CA",earthquake,0.69,1.38,0.247,10,automatic,ci,ci
 2022-11-14T05:23:51.650Z,38.8305016,-122.8509979,1.79,0.61,md,14,76,0.005457,0.02,nc,nc73804925,2022-11-14T05:50:10.682Z,"10km NW of The Geysers, CA",earthquake,0.27,0.48,0.25,2,automatic,nc,nc
@@ -76,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-13T20:34:53.930Z,33.4885,-116.4636667,16.22,0.56,ml,21,68,0.04709,0.2,ci,ci40132087,2022-11-13T20:38:32.319Z,"21km ESE of Anza, CA",earthquake,0.45,0.72,0.179,14,automatic,ci,ci
 2022-11-13T20:27:40.430Z,17.9558333333333,-66.9551666666667,10.62,2.12,md,6,205,0.07474,0.07,pr,pr71382138,2022-11-13T20:41:26.630Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.6,0.77,0.0455316519510953,5,reviewed,pr,pr
 2022-11-13T20:17:32.334Z,58.0175,-155.9417,2.8,0.7,ml,,,,0.74,ak,ak022ekldcn7,2022-11-13T23:21:05.904Z,"85 km SSE of King Salmon, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2022-11-13T20:14:23.626Z,61.2741,-146.3794,0,2.2,ml,,,,0.93,ak,ak022eklcqhm,2022-11-13T20:16:44.067Z,"16 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-13T20:14:23.626Z,61.2741,-146.3794,0,2.2,ml,,,,0.93,ak,ak022eklcqhm,2022-11-13T20:16:44.067Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-13T20:10:08.743Z,63.1089,-151.1101,40.1,1.9,ml,,,,0.87,ak,ak022eklbuh6,2022-11-13T20:12:01.430Z,"57 km SSE of Denali National Park, Alaska",earthquake,,9.6,,,automatic,ak,ak
 2022-11-13T19:57:47.860Z,33.31,-116.7868333,12.94,0.62,ml,13,88,0.07748,0.19,ci,ci40132079,2022-11-13T20:01:18.844Z,"8km NNW of Lake Henshaw, CA",earthquake,0.54,1.72,0.165,13,automatic,ci,ci
 2022-11-13T19:37:37.560Z,32.9188333,-115.5293333,6.34,1.39,ml,14,89,0.03157,0.22,ci,ci40132063,2022-11-13T19:41:10.734Z,"7km S of Brawley, CA",earthquake,0.54,0.99,0.179,22,automatic,ci,ci
