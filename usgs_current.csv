@@ -13,8 +13,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T17:43:09.780Z,33.1383333,-115.6243333,6.24,1.4,ml,12,91,0.03971,0.14,ci,ci40132775,2022-11-15T17:46:36.302Z,"10km W of Calipatria, CA",earthquake,0.43,0.77,0.236,10,automatic,ci,ci
 2022-11-15T17:38:56.140Z,33.212,-116.7558333,10.58,0.86,ml,30,38,0.02404,0.21,ci,ci40132767,2022-11-15T17:42:32.118Z,"3km SSE of Lake Henshaw, CA",earthquake,0.34,0.61,0.143,22,automatic,ci,ci
 2022-11-15T17:26:21.214Z,-30.6359,-71.3494,49.635,4.8,mb,87,74,0.249,0.7,us,us7000ipwx,2022-11-15T18:34:51.040Z,"14 km WSW of Ovalle, Chile",earthquake,4.55,4.45,0.068,72,reviewed,us,us
-2022-11-15T17:25:37.450Z,36.7548332,-121.4286652,9.65,1.77,md,15,156,0.0175,0.12,nc,nc73807821,2022-11-15T17:42:13.393Z,"8km SW of Ridgemark, CA",earthquake,1.06,1.21,0.14,12,automatic,nc,nc
+2022-11-15T17:25:37.450Z,36.7548332,-121.4286652,9.65,1.77,md,15,156,0.0175,0.12,nc,nc73807821,2022-11-15T19:13:13.010Z,"8km SW of Ridgemark, CA",earthquake,1.06,1.21,0.14,12,automatic,nc,nc
 2022-11-15T17:22:08.074Z,-6.9782,105.4291,40.41,4.9,mww,113,53,3.459,1.38,us,us7000ipww,2022-11-15T18:14:31.040Z,"79 km SW of Labuan, Indonesia",earthquake,6.24,5.46,0.089,12,reviewed,us,us
+2022-11-15T17:21:11.096Z,-7.0628,105.3135,57.278,4.6,mb,84,51,3.386,0.59,us,us7000ipwy,2022-11-15T19:15:33.040Z,"94 km SW of Labuan, Indonesia",earthquake,6.68,3.338,0.07,68,reviewed,us,us
 2022-11-15T17:05:58.626Z,-7.3258,128.2513,153.522,4.3,mb,28,59,3.09,0.79,us,us7000ipws,2022-11-15T18:47:15.040Z,"191 km NE of Lospalos, Timor Leste",earthquake,8.28,9.351,0.105,30,reviewed,us,us
 2022-11-15T17:02:03.030Z,35.05,-119.0028333,-0.49,1.61,ml,20,95,0.1611,0.22,ci,ci40132751,2022-11-15T17:05:44.748Z,"14km NNW of Grapevine, CA",earthquake,0.47,31.61,0.178,28,automatic,ci,ci
 2022-11-15T16:58:08.330Z,38.8364983,-122.793663,1.76,0.85,md,8,63,0.003219,0.02,nc,nc73807811,2022-11-15T18:03:14.508Z,"6km WNW of Cobb, CA",earthquake,0.4,1.02,,1,automatic,nc,nc
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T14:48:50.280Z,44.7791667,-110.8161667,5.26,0.43,md,8,192,0.02611,0.1,uu,uu60525157,2022-11-15T18:28:44.040Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.98,1.15,0.049,2,reviewed,uu,uu
 2022-11-15T14:47:44.500Z,44.7965,-110.8045,8.1,1.03,md,12,210,0.03376,0.14,uu,uu60525152,2022-11-15T18:25:05.850Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.05,0.99,0.273,7,reviewed,uu,uu
 2022-11-15T14:47:34.496Z,-31.6459,-69.7009,125.498,4.2,ml,23,107,0.873,0.72,us,us7000ipv9,2022-11-15T15:10:15.040Z,"43 km SW of Calingasta, Argentina",earthquake,5.28,2.791,0.048,58,reviewed,us,us
-2022-11-15T14:41:40.690Z,35.504,-118.3811667,4.1,0.91,ml,10,99,0.1922,0.18,ci,ci40132671,2022-11-15T14:45:14.579Z,"14km SE of Bodfish, CA",earthquake,0.4,1.34,0.091,7,automatic,ci,ci
+2022-11-15T14:41:40.510Z,35.5035,-118.3915,8.78,0.89,ml,20,70,0.1726,0.12,ci,ci40132671,2022-11-15T19:14:23.550Z,"13km SE of Bodfish, CA",earthquake,0.18,0.62,0.087,6,reviewed,ci,ci
 2022-11-15T14:40:23.120Z,44.8381667,-110.7298333,10.45,0.09,md,8,158,0.0993,0.04,uu,uu60525147,2022-11-15T18:20:24.260Z,"15 km S of Mammoth, Wyoming",earthquake,0.9,1.03,0.101,4,reviewed,uu,uu
 2022-11-15T14:40:08.650Z,44.7948333,-110.7875,2.44,-0.08,md,6,236,0.04533,0.06,uu,uu60032109,2022-11-15T18:23:30.830Z,"21 km SSW of Mammoth, Wyoming",earthquake,2.2,3.47,0.188,4,reviewed,uu,uu
 2022-11-15T14:38:44.810Z,44.7971667,-110.8031667,7.57,0.13,md,8,211,0.03484,0.09,uu,uu60525142,2022-11-15T18:15:43.700Z,"Yellowstone National Park, Wyoming",earthquake,0.83,1.09,0.181,4,reviewed,uu,uu
@@ -148,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T02:26:11.000Z,35.5071667,-118.3876667,7.97,1,ml,27,66,0.1705,0.13,ci,ci40132527,2022-11-15T15:46:51.765Z,"13km SE of Bodfish, CA",earthquake,0.18,0.74,0.113,8,reviewed,ci,ci
 2022-11-15T02:25:09.360Z,35.9591667,-117.6903333,2.25,0.92,ml,16,94,0.07564,0.14,ci,ci37466204,2022-11-15T15:43:18.614Z,"20km E of Little Lake, CA",earthquake,0.24,0.32,0.076,7,reviewed,ci,ci
 2022-11-15T02:25:03.390Z,35.769,-117.5768333,7.92,0.57,ml,9,150,0.04958,0.15,ci,ci40132535,2022-11-15T15:41:36.301Z,"16km W of Searles Valley, CA",earthquake,0.48,1.01,0.219,3,reviewed,ci,ci
-2022-11-15T02:23:33.739Z,45.7043,-73.7123,9.807,3,mb_lg,28,82,0.213,0.57,us,us7000iprx,2022-11-15T19:09:45.396Z,"5 km NE of Bois-des-Filion, Canada",earthquake,3.66,7.821,0.074,49,reviewed,us,us
+2022-11-15T02:23:33.739Z,45.7043,-73.7123,9.807,3,mb_lg,28,82,0.213,0.57,us,us7000iprx,2022-11-15T19:14:56.544Z,"5 km NE of Bois-des-Filion, Canada",earthquake,3.66,7.821,0.074,49,reviewed,us,us
 2022-11-15T02:15:06.580Z,35.28316667,-98.0185,7.03,1.46,ml,68,75,0.08008428473,0.3,ok,ok2022wjel,2022-11-15T14:05:25.886Z,"7 km WSW of Minco, Oklahoma",earthquake,,0.5,0.26,35,reviewed,ok,ok
 2022-11-15T02:09:47.660Z,37.0986667,-119.8276667,27.53,2.09,md,9,100,0.05685,0.13,nc,nc73807611,2022-11-15T18:59:11.038Z,"11km SSW of Yosemite Lakes, CA",earthquake,0.6,1.02,0.122,11,reviewed,nc,nc
 2022-11-15T02:08:58.856Z,38.1881,-117.867,10.1,0.6,ml,12,141.59,0.088,0.1965,nn,nn00851309,2022-11-15T15:44:38.582Z,"30 km SE of Mina, Nevada",earthquake,,2,0.29,2,reviewed,nn,nn
