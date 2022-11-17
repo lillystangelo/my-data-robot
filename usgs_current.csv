@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-17T22:43:20.618Z,64.4635,-147.2303,0,1.4,ml,,,,0.74,ak,ak022er8v77h,2022-11-17T22:45:35.413Z,"17 km WSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-11-17T22:42:20.651Z,64.4511,-147.3019,7,0.8,ml,,,,0.59,ak,ak022er8uzht,2022-11-17T22:45:43.525Z,"20 km WSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-11-17T22:40:48.522Z,64.4681,-147.278,10.7,2,ml,,,,0.44,ak,ak022er8uk7l,2022-11-17T22:43:40.122Z,"19 km WSW of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-17T22:34:43.742Z,64.6522,-147.2863,4.7,2.6,ml,,,,0.92,ak,ak022er8thxb,2022-11-17T22:38:11.117Z,"9 km SW of Moose Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-17T22:34:40.997Z,64.4825,-147.2934,9.9,3.9,ml,,,,0.78,ak,ak022er8tbc2,2022-11-17T22:36:26.071Z,"19 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-17T22:23:50.409Z,58.2179,-151.3636,24.9,2.2,ml,,,,1.14,ak,ak022er8qz6o,2022-11-17T22:28:04.315Z,"74 km ENE of Ouzinkie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-11-17T22:34:41.144Z,64.4847,-147.2961,11.8,4.1,ml,,,,0.71,ak,ak022er8tbc2,2022-11-17T22:48:28.623Z,"19 km WSW of Salcha, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2022-11-17T22:23:50.409Z,58.2179,-151.3636,24.9,2.2,ml,,,,1.14,ak,ak022er8qz6o,2022-11-17T22:41:31.996Z,"74 km ENE of Ouzinkie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-17T22:23:23.700Z,19.466833114624,-155.612670898438,-3.6800000667572,2.31,ml,39,48,,0.349999994,hv,hv73226122,2022-11-17T22:28:54.920Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,0.379999995,3.89,14,automatic,hv,hv
 2022-11-17T22:17:05.690Z,33.1831667,-116.0285,5.13,1.07,ml,25,82,0.04365,0.22,ci,ci40377264,2022-11-17T22:32:34.601Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.36,0.76,0.083,24,reviewed,ci,ci
 2022-11-17T22:16:58.249Z,38.6661,-117.114,9.4,1.5,ml,9,231.63,0.751,0.2291,nn,nn00851491,2022-11-17T22:20:52.832Z,"60 km S of Kingston, Nevada",earthquake,,1.2,0.25,5,automatic,nn,nn
@@ -194,11 +197,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-17T04:39:51.941Z,58.5864,-150.3914,18,2.5,ml,,,,0.41,ak,ak022eqy4kny,2022-11-17T04:42:50.380Z,"118 km SE of Port Graham, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2022-11-17T04:38:31.981Z,31.63563504,-103.9872129,8.625244141,3.8,ml,61,57,0.03050261862,0.2,tx,tx2022wnac,2022-11-17T18:01:05.277Z,"37 km WSW of Mentone, Texas",earthquake,0.4565236274,0.5781065249000001,0.2,33,reviewed,tx,tx
 2022-11-17T04:37:52.307Z,31.61514651,-103.9981476,8.548120117,2.1,ml,22,87,0.01736662409,0.1,tx,tx2022wnaa,2022-11-17T15:30:41.882Z,"38 km NNW of Toyah, Texas",earthquake,0.6227557116,0.4644690446,0.2,19,reviewed,tx,tx
+2022-11-17T04:28:42.341Z,41.9712,-119.55,0,2,ml,5,129.09,0.564,0.1364,nn,nn00851494,2022-11-17T22:49:09.482Z,"51 km ENE of Fort Bidwell, California",earthquake,,4,0.67,5,reviewed,nn,nn
 2022-11-17T04:27:17.672Z,61.9861,-150.9126,69.9,1.6,ml,,,,0.09,ak,ak022eqy1ymv,2022-11-17T04:36:41.177Z,"25 km E of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-17T04:19:50.756Z,-1.9207,-78.0808,141.391,5.2,mb,154,45,2.176,0.66,us,us7000iqb6,2022-11-17T22:31:51.046Z,"27 km SSW of Palora, Ecuador",earthquake,8.35,3.979,0.021,723,reviewed,us,us
 2022-11-17T04:13:28.380Z,19.3448333740234,-155.304000854492,3.1800000667572,2.17,ml,35,59,,0.129999995,hv,hv73224932,2022-11-17T04:18:59.450Z,"13 km SW of Volcano, Hawaii",earthquake,0.26,0.639999986,0.21,8,automatic,hv,hv
 2022-11-17T04:10:34.450Z,38.8056679,-122.8073349,1.13,0.84,md,8,94,0.009677,0.02,nc,nc73808351,2022-11-17T05:17:14.303Z,"5km NW of The Geysers, CA",earthquake,0.47,0.9,,1,automatic,nc,nc
 2022-11-17T04:04:09.870Z,42.2165,-111.0866667,7,1.78,ml,25,99,0.1974,0.18,uu,uu60525552,2022-11-17T14:40:21.780Z,"southern Idaho",earthquake,0.43,1.19,0.221,5,reviewed,uu,uu
+2022-11-17T04:03:35.420Z,39.1156,-119.7425,10.1,0.4,ml,5,110.85,0.114,0.1474,nn,nn00851493,2022-11-17T22:39:51.192Z,"4 km NE of Indian Hills, Nevada",earthquake,,4.7,0,1,reviewed,nn,nn
 2022-11-17T03:58:05.750Z,18.181,-65.7613333333333,14.65,2.67,md,18,106,0.03727,0.21,pr,pr71382778,2022-11-17T12:01:25.004Z,"2 km NW of Punta Santiago, Puerto Rico",earthquake,0.4,0.51,0.143525772285627,6,reviewed,pr,pr
 2022-11-17T03:54:13.276Z,38.196,-117.8503,8.3,1.8,ml,17,131.8,0.103,0.1351,nn,nn00851455,2022-11-17T17:16:58.008Z,"31 km SE of Mina, Nevada",earthquake,,1.6,0.41,6,reviewed,nn,nn
 2022-11-17T03:54:04.621Z,31.61754658,-103.9669554,7.005639647999999,2.4,ml,19,88,0.08157702656,0.2,tx,tx2022wmys,2022-11-17T15:16:41.410Z,"36 km WSW of Mentone, Texas",earthquake,0.8586702955999999,1.085262125,0.2,15,reviewed,tx,tx
@@ -271,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-16T23:02:04.195Z,61.4178,-150.0938,33.2,1.4,ml,,,,0.41,ak,ak022eplogmm,2022-11-16T23:12:13.165Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-16T22:51:19.008Z,36.749,-116.2847,7.1,-0.2,ml,11,98.55,0.014,0.1133,nn,nn00851448,2022-11-17T00:25:19.580Z,"45 km ESE of Beatty, Nevada",earthquake,,1.3,0.32,9,reviewed,nn,nn
 2022-11-16T22:50:36.340Z,31.6073499,-103.9932696,8.496704102000002,2.6,ml,33,57,0.0211088339,0.2,tx,tx2022wmor,2022-11-17T15:47:18.277Z,"37 km NNW of Toyah, Texas",earthquake,0.5514440741,0.5139176089,0.2,18,reviewed,tx,tx
-2022-11-16T22:48:26.600Z,37.5093333,-119.3925,17.07,1.22,md,18,98,0.2154,0.16,nc,nc73808311,2022-11-17T11:53:13.450Z,"30km NE of Oakhurst, CA",earthquake,0.58,1.6,0.146,12,reviewed,nc,nc
-2022-11-16T22:40:21.377Z,41.9445,-119.5351,0.9,1.6,ml,5,212.68,0.573,0.1461,nn,nn00851447,2022-11-17T00:09:47.880Z,"51 km E of Fort Bidwell, California",earthquake,,2.7,0.66,3,reviewed,nn,nn
