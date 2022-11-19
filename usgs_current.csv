@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-19T19:53:34.560Z,35.5025,-118.3983333,4.25,1.52,ml,25,41,0.1714,0.13,ci,ci40378168,2022-11-19T20:04:21.290Z,"13km SE of Bodfish, CA",earthquake,0.21,0.85,0.239,24,automatic,ci,ci
 2022-11-19T19:50:34.974Z,59.4374,-151.9236,57.6,2.5,ml,,,,0.73,ak,ak022eui74ft,2022-11-19T19:53:22.138Z,"9 km N of Nanwalek, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-11-19T19:50:11.450Z,19.1844997406006,-155.398834228516,31.2600002288818,1.98000002,md,31,186,,0.0900000036,hv,hv73228612,2022-11-19T19:53:33.150Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.62,0.579999983,1.58000004,6,automatic,hv,hv
 2022-11-19T19:16:47.660Z,17.9446666666667,-66.9541666666667,10.46,2.32,md,7,217,0.07744,0.06,pr,pr71383208,2022-11-19T19:24:46.930Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.62,0.71,0.0591804547517873,6,reviewed,pr,pr
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T15:25:36.380Z,38.8278351,-122.8215027,1.8,0.75,md,18,42,0.009967,0.01,nc,nc73809306,2022-11-19T16:37:14.662Z,"8km NW of The Geysers, CA",earthquake,0.24,0.52,0.11,2,automatic,nc,nc
 2022-11-19T15:17:20.400Z,37.4155,-118.6373333,12.78,1.14,md,11,115,0.08575,0.03,nc,nc73809296,2022-11-19T18:56:12.461Z,"4km W of Round Valley, CA",earthquake,1.44,2.58,0.293,9,reviewed,nc,nc
 2022-11-19T15:12:50.180Z,38.815834,-122.803833,-0.01,0.99,md,10,78,0.008987,0.02,nc,nc73809291,2022-11-19T16:09:14.466Z,"6km NW of The Geysers, CA",earthquake,0.22,0.6,0.23,2,automatic,nc,nc
-2022-11-19T15:03:04.560Z,38.6,-122.8046667,7.06,1.14,md,34,46,0.0554,0.08,nc,nc73809286,2022-11-19T18:46:13.401Z,"6km ESE of Healdsburg, CA",earthquake,0.13,0.33,0.2,14,reviewed,nc,nc
+2022-11-19T15:03:04.560Z,38.6,-122.8046667,7.06,1.14,md,34,46,0.0554,0.08,nc,nc73809286,2022-11-19T20:14:10.916Z,"6km ESE of Healdsburg, CA",earthquake,0.13,0.33,0.2,14,reviewed,nc,nc
 2022-11-19T14:52:02.365Z,60.2111,-150.8453,49.7,1.8,ml,,,,0.27,ak,ak022euf87xw,2022-11-19T14:54:07.776Z,"27 km ESE of Kasilof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-19T14:47:57.026Z,57.3861,-154.9721,75.6,1.9,ml,,,,0.14,ak,ak022euf7d12,2022-11-19T14:50:46.023Z,"Kodiak Island region, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-11-19T14:44:53.600Z,32.0143333,-116.3071667,27.04,2.48,ml,11,171,0.3053,0.11,ci,ci40378120,2022-11-19T16:12:43.040Z,"34km ENE of Ensenada, B.C., MX",earthquake,0.66,0.83,0.178,30,automatic,ci,ci
@@ -260,6 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T20:22:08.110Z,37.629,-118.0097,5.4,2.4,ml,23,73.34,0.393,0.17,nn,nn00851554,2022-11-18T20:46:12.467Z,"6 km SE of Dyer, Nevada",earthquake,,1.8,0.38,8,reviewed,nn,nn
 2022-11-18T20:21:46.584Z,31.55345937,-104.0868348,6.568603515999999,2.5,ml,40,63,0.03291418644,0.2,tx,tx2022wqau,2022-11-19T16:10:47.040Z,"38 km NW of Toyah, Texas",earthquake,0.666250405,0.6955354633,0.1,24,reviewed,tx,tx
 2022-11-18T20:18:02.880Z,51.8591666666667,-177.994333333333,3.12,1.41,ml,6,104,,0.17,av,av91718111,2022-11-19T07:59:25.120Z,"93 km W of Adak, Alaska",earthquake,0.43,1.09,0.164206192526207,6,reviewed,av,av
-2022-11-18T20:09:32.570Z,51.8585,-177.996166666667,3,1.37,ml,6,102,,0.15,av,av91718106,2022-11-19T07:57:08.470Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.36,0.99,0.170288024640143,6,reviewed,av,av
-2022-11-18T19:59:40.360Z,33.0423333,-116.4405,15.5,1.03,ml,36,40,0.03492,0.17,ci,ci40377680,2022-11-19T01:28:48.435Z,"16km ESE of Julian, CA",earthquake,0.21,0.42,0.138,20,reviewed,ci,ci
-2022-11-18T19:57:14.274Z,64.46,-147.3068,3.4,1.1,ml,,,,0.39,ak,ak022esup8f7,2022-11-18T19:58:42.746Z,"20 km WSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
