@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-20T07:13:29.183Z,31.6644,-104.5143,5,2.8,ml,19,126,0.012,0.24,us,us7000ir40,2022-11-20T07:20:14.040Z,"58 km SSW of Whites City, New Mexico",earthquake,1.47,1.347,0.058,64,reviewed,us,us
+2022-11-20T07:44:37.610Z,19.5559997558594,-155.566162109375,4.76999998092651,2.57999992,md,7,170,,0.200000003,hv,hv73229127,2022-11-20T07:47:32.510Z,"33 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,1.36,1.13,1.10000002,3,automatic,hv,hv
+2022-11-20T07:13:29.473Z,31.67776004,-104.4958718,6.131567383,2.8,ml,38,69,0.01008127177,0.2,tx,tx2022wsru,2022-11-20T07:45:00.862Z,"western Texas",earthquake,0.9535537067,0.520838484,0.1,23,reviewed,tx,tx
 2022-11-20T07:10:01.470Z,33.2806667,-116.7836667,15.88,0.73,ml,20,66,0.04921,0.26,ci,ci40378352,2022-11-20T07:13:38.513Z,"5km NNW of Lake Henshaw, CA",earthquake,0.48,1.1,0.157,12,automatic,ci,ci
 2022-11-20T07:05:47.040Z,19.1906661987305,-155.387329101562,32.4000015258789,2.32,ml,48,164,,0.129999995,hv,hv73229092,2022-11-20T07:33:27.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.64,0.870000005,3.67,10,automatic,hv,hv
 2022-11-20T07:05:27.670Z,17.9636666666667,-66.9621666666667,8.87,2.28,md,6,194,0.07831,0.1,pr,pr71383278,2022-11-20T07:29:28.340Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.6,1.1,0.0712819793288149,4,reviewed,pr,pr
@@ -243,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T08:05:20.540Z,59.8883,-153.0355,128.4,2.8,ml,,,,0.46,ak,ak022eubdoja,2022-11-19T08:34:16.040Z,"61 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-19T08:03:46.510Z,38.827,-122.8555,1.93,0.33,md,18,95,0.001203,0.04,nc,nc73809141,2022-11-19T20:32:13.026Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.52,0.152,2,reviewed,nc,nc
 2022-11-19T08:02:27.380Z,38.8083344,-122.8355026,-0.67,1.61,md,13,57,0.004831,0.21,nc,nc73809136,2022-11-19T10:36:12.382Z,"8km WNW of The Geysers, CA",earthquake,0.52,1.24,0.8,3,automatic,nc,nc
-2022-11-19T07:44:36.465Z,-32.4294,-71.8273,23.736,4.4,mb,29,171,0.611,0.63,us,us7000iqy7,2022-11-19T11:36:26.018Z,"56 km W of La Ligua, Chile",earthquake,4.66,9.383,0.268,4,reviewed,us,us
-2022-11-19T07:41:31.960Z,35.9690018,-120.5236664,6.81,0.82,md,13,89,0.02331,0.05,nc,nc73809131,2022-11-19T07:53:11.425Z,"11km NW of Parkfield, CA",earthquake,0.49,0.49,0.2,4,automatic,nc,nc
