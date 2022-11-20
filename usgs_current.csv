@@ -208,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T11:46:04.620Z,19.1826667785645,-155.387832641602,33.3199996948242,1.84000003,md,29,192,,0.129999995,hv,hv73228282,2022-11-19T11:49:15.560Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.8,0.959999979,1.84000003,4,automatic,hv,hv
 2022-11-19T11:42:23.030Z,18.025,-65.0151666666667,7.95,2.96,md,11,129,0.3304,0.29,pr,pr71383138,2022-11-19T12:02:54.860Z,"Puerto Rico region",earthquake,0.65,1.38,0.136178309491747,8,reviewed,pr,pr
 2022-11-19T11:38:24.530Z,38.774,-122.712,1.93,1.26,md,43,40,0.007596,0.05,nc,nc73809221,2022-11-19T21:47:17.488Z,"2km W of Anderson Springs, CA",earthquake,0.24,0.25,0.194,10,reviewed,nc,nc
-2022-11-19T11:37:24.298Z,60.8585,-150.3921,41.4,1.7,ml,,,,0.74,ak,ak022eudcuj1,2022-11-19T11:39:12.983Z,"17 km ESE of Point Possession, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2022-11-19T11:33:59.810Z,33.2175,-116.7468333,11.11,0.86,ml,30,35,0.02097,0.15,ci,ci40378040,2022-11-19T11:37:31.034Z,"3km SSE of Lake Henshaw, CA",earthquake,0.25,0.59,0.112,24,automatic,ci,ci
-2022-11-19T11:32:35.009Z,63.6025,-152.8307,11,1.6,ml,,,,0.87,ak,ak022eudbsuh,2022-11-19T11:35:44.138Z,"40 km SW of Lake Minchumina, Alaska",earthquake,,0.7,,,automatic,ak,ak
