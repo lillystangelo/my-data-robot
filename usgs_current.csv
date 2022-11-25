@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-25T08:18:32.624Z,59.5242,-152.975,85,2.1,ml,,,,0.27,ak,ak022f48okpq,2022-11-25T08:20:30.124Z,"62 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-11-25T08:11:54.721Z,58.0259,-155.9381,22.6,1.1,ml,,,,0.17,ak,ak022f48n4eo,2022-11-25T08:13:15.130Z,"85 km SSE of King Salmon, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-11-25T08:07:59.205Z,38.179,-118.1711,8.3,1,ml,8,129.39,0.171,0.0528,nn,nn00852025,2022-11-25T08:11:58.726Z,"24 km SSW of Mina, Nevada",earthquake,,3.5,0.31,4,automatic,nn,nn
 2022-11-25T08:07:51.466Z,61.5718,-146.3802,22.5,1.9,ml,,,,0.69,ak,ak022f48m9ai,2022-11-25T08:09:41.313Z,"49 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-11-25T07:58:48.708Z,51.3323,-179.3139,37.067,4.3,mb,77,188,0.582,0.81,us,us7000isa3,2022-11-25T08:14:30.040Z,"195 km WSW of Adak, Alaska",earthquake,7.79,11.696,0.069,59,reviewed,us,us
 2022-11-25T07:40:50.040Z,19.4046669006348,-155.28450012207,1.5,1.7,ml,15,51,,0.150000006,hv,hv73235217,2022-11-25T07:46:21.830Z,"6 km SW of Volcano, Hawaii",earthquake,0.25,0.310000002,3.07,5,automatic,hv,hv
 2022-11-25T07:29:32.552Z,61.652,-150.3372,25,1.7,ml,,,,0.67,ak,ak022f485hzb,2022-11-25T07:32:15.114Z,"15 km NE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-25T07:25:07.802Z,36.4245,-116.1143,4.1,1.1,ml,23,158.33,0.138,0.2028,nn,nn00852021,2022-11-25T07:27:41.654Z,"26 km NNW of Pahrump, Nevada",earthquake,,0.9,0.81,16,automatic,nn,nn
@@ -87,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T20:15:09.053Z,61.8004,-151.2521,56.9,2.7,ml,,,,1.67,ak,ak022f2s9qkj,2022-11-24T20:18:40.311Z,"22 km SSE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-24T20:14:55.520Z,38.8334999,-122.8831635,1.97,0.39,md,10,128,0.004722,0.05,nc,nc73811111,2022-11-24T21:04:13.756Z,"12km ENE of Cloverdale, CA",earthquake,0.41,0.65,0.23,3,automatic,nc,nc
 2022-11-24T20:11:51.440Z,61.4447,-146.975,8.6,3.7,ml,,,,0.94,ak,ak022f2s8yw9,2022-11-24T23:36:26.906Z,"48 km NW of Valdez, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2022-11-24T20:08:08.728Z,63.7893,-149.0801,9,1.7,ml,,,,0.63,ak,ak022f2s88h4,2022-11-24T20:11:06.211Z,"9 km SW of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-24T20:08:08.728Z,63.7893,-149.0801,9,1.7,ml,,,,0.63,ak,ak022f2s88h4,2022-11-24T20:11:06.211Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-24T20:03:52.790Z,17.9711666666667,-66.8361666666667,10.96,2.25,md,24,180,0.0412,0.12,pr,pr71383898,2022-11-24T21:01:31.730Z,"3 km SW of Indios, Puerto Rico",earthquake,0.34,0.26,0.396339197584249,21,reviewed,pr,pr
 2022-11-24T19:51:31.200Z,18.0086666666667,-67.0388333333333,13.56,2.13,md,12,103,0.03781,0.07,pr,pr71383888,2022-11-24T20:42:53.420Z,"3 km NNE of La Parguera, Puerto Rico",earthquake,0.36,0.27,0.128559356193196,5,reviewed,pr,pr
 2022-11-24T19:46:20.570Z,33.1583333,-115.7118333,1.14,1.35,ml,6,157,0.07885,0.24,ci,ci40380480,2022-11-24T19:50:03.534Z,"16km NNW of Westmorland, CA",earthquake,1.05,31.61,0.312,16,automatic,ci,ci
@@ -177,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T08:44:45.189Z,39.558,-120.5523,15.1,0.5,ml,7,246.62,0.273,0.2393,nn,nn00852007,2022-11-24T16:17:33.126Z,"7 km E of Sierra City, California",earthquake,,1.8,0.22,3,reviewed,nn,nn
 2022-11-24T08:40:59.190Z,17.868,-66.8566666666667,18.09,2.4,md,9,247,0.1086,0.1,pr,pr71383793,2022-11-24T08:51:01.680Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,0.77,0.5,0.0895997703885234,7,reviewed,pr,pr
 2022-11-24T08:40:01.990Z,38.7953339,-122.8089981,2.94,1.32,md,27,74,0.008392,0.03,nc,nc73810891,2022-11-24T09:26:13.491Z,"5km WNW of The Geysers, CA",earthquake,0.26,0.43,0.1,2,automatic,nc,nc
-2022-11-24T08:14:31.300Z,17.9643333333333,-66.9806666666667,10.01,2.09,md,6,192,0.06071,0.03,pr,pr71383788,2022-11-24T08:49:42.980Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.48,0.71,0.0317758567492641,3,reviewed,pr,pr
