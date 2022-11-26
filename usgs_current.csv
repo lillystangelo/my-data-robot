@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-26T19:51:42.260Z,19.406665802002,-155.307495117188,1.66999995708466,1.77999997,md,10,247,,0.170000002,hv,hv73237122,2022-11-26T19:54:34.700Z,"8 km WSW of Volcano, Hawaii",earthquake,0.59,0.239999995,0.330000013,9,automatic,hv,hv
 2022-11-26T19:25:20.400Z,18.9296666666667,-67.1806666666667,16.86,3.18,md,15,270,0.4644,0.24,pr,pr71384143,2022-11-26T19:42:44.180Z,"49 km N of San Antonio, Puerto Rico",earthquake,0.86,1.48,0.05768023204203,11,reviewed,pr,pr
 2022-11-26T19:11:49.970Z,17.9281666666667,-66.8555,11.82,2.58,md,11,219,0.05183,0.07,pr,pr71384138,2022-11-26T19:35:45.280Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.52,0.44,0.108428700789364,6,reviewed,pr,pr
 2022-11-26T19:03:17.870Z,17.9531666666667,-67.1058333333333,11.31,2.56,md,16,238,0.05307,0.15,pr,pr71384123,2022-11-26T19:23:29.260Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.54,0.25,0.0668007556285093,9,reviewed,pr,pr
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T18:04:35.160Z,19.1721668243408,-155.501327514648,34.6300010681152,2.29,ml,46,106,,0.140000001,hv,hv73237002,2022-11-26T18:16:27.040Z,"4 km SW of Pāhala, Hawaii",earthquake,0.64,0.930000007,3.98,9,automatic,hv,hv
 2022-11-26T18:02:52.970Z,33.2135,-116.7478333,8.57,0.61,ml,17,62,0.02422,0.34,ci,ci40381280,2022-11-26T18:06:28.643Z,"3km SSE of Lake Henshaw, CA",earthquake,0.74,1.52,0.16,10,automatic,ci,ci
 2022-11-26T17:54:11.150Z,38.7996674,-122.7511673,2.63,0.86,md,8,170,0.006745,0.02,nc,nc73811831,2022-11-26T18:22:14.108Z,"2km N of The Geysers, CA",earthquake,0.51,0.92,,1,automatic,nc,nc
-2022-11-26T17:51:42.700Z,38.5121651,-122.5913315,5.42,1.86,md,16,145,0.135,0.05,nc,nc73811826,2022-11-26T19:14:09.423Z,"8km S of Calistoga, CA",earthquake,0.39,1.77,0.14,10,automatic,nc,nc
+2022-11-26T17:51:42.700Z,38.5121651,-122.5913315,5.42,1.86,md,16,145,0.135,0.05,nc,nc73811826,2022-11-26T19:56:13.697Z,"8km S of Calistoga, CA",earthquake,0.39,1.77,0.14,10,automatic,nc,nc
 2022-11-26T17:45:57.920Z,32.4496,142.5084,18.799,4.9,mb,93,98,2.365,1.25,us,us7000isl1,2022-11-26T18:05:52.040Z,"Izu Islands, Japan region",earthquake,8.28,4.15,0.047,146,reviewed,us,us
 2022-11-26T17:38:03.705Z,23.8146,121.6785,39.051,5.1,mb,165,25,0.366,1.2,us,us7000iskz,2022-11-26T18:18:42.036Z,"19 km SSE of Hualien City, Taiwan",earthquake,3.58,2.531,0.041,203,reviewed,us,us
 2022-11-26T17:37:09.992Z,38.1748,-117.8318,3,1.5,ml,13,139.64,0.107,0.192,nn,nn00852080,2022-11-26T17:40:18.229Z,"34 km SE of Mina, Nevada",earthquake,,0.6,0.33,7,automatic,nn,nn
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T20:27:06.660Z,33.2668333,-116.423,4.3,1.44,ml,41,43,0.005079,0.23,ci,ci40380872,2022-11-25T20:37:44.010Z,"5km WNW of Borrego Springs, CA",earthquake,0.3,0.51,0.146,27,automatic,ci,ci
 2022-11-25T20:03:53.192Z,38.3355,-118.1749,10,1.3,ml,8,164.5,0.117,0.0918,nn,nn00852046,2022-11-25T20:07:03.108Z,"8 km SW of Mina, Nevada",earthquake,,0.9,0.29,3,automatic,nn,nn
 2022-11-25T20:00:34.312Z,38.2749,-119.1275,0.8,1.3,ml,8,182.14,0.256,0.1472,nn,nn00852043,2022-11-25T20:04:14.055Z,"California-Nevada border region",earthquake,,51,0.24,4,automatic,nn,nn
-2022-11-25T19:55:05.470Z,33.1603333,-116.018,3.14,1.46,ml,31,39,0.03622,0.21,ci,ci40380856,2022-11-25T20:06:16.210Z,"11km E of Ocotillo Wells, CA",earthquake,0.32,0.73,0.078,25,automatic,ci,ci
