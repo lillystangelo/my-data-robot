@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-26T22:19:29.140Z,19.2434997558594,-155.398666381836,30.7299995422363,2.58999991,md,45,135,,0.140000001,hv,hv73237272,2022-11-26T22:22:50.470Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.600000024,1.35000002,31,automatic,hv,hv
+2022-11-26T22:27:23.920Z,19.1870002746582,-155.381332397461,31.0499992370605,1.82000005,md,39,166,,0.129999995,hv,hv73237282,2022-11-26T22:30:51.970Z,"10 km E of Pāhala, Hawaii",earthquake,0.64,0.970000029,0.50999999,16,automatic,hv,hv
+2022-11-26T22:19:29.140Z,19.2434997558594,-155.398666381836,30.7299995422363,2.43,ml,45,135,,0.140000001,hv,hv73237272,2022-11-26T22:25:00.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.600000024,3.37,7,automatic,hv,hv
 2022-11-26T22:16:36.450Z,36.7733345,-121.5025024,8.24,2.43,md,48,47,0.02159,0.15,nc,nc73811886,2022-11-26T22:24:12.578Z,"9km SSE of San Juan Bautista, CA",earthquake,0.28,0.52,0.11,38,automatic,nc,nc
 2022-11-26T22:06:19.409Z,59.4814,-155.9307,2.6,2.2,ml,,,,0.55,ak,ak022f64he2c,2022-11-26T22:08:06.802Z,"17 km N of Igiugig, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-26T22:05:11.600Z,62.263,-150.919,66.2,2,ml,,,,0.53,ak,ak022f64h5qw,2022-11-26T22:07:32.932Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
