@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-01T11:52:55.690Z,33.1689987,-116.4384995,12.37,1.75,ml,50,38,0.09145,0.2,ci,ci40383096,2022-12-01T11:55:20.531Z,"11km SSW of Borrego Springs, CA",earthquake,0.22,0.7,0.279,25,automatic,ci,ci
 2022-12-01T11:32:40.810Z,35.9593333,-117.9461667,3.89,0.94,ml,12,82,0.1047,0.08,ci,ci40383088,2022-12-01T11:36:11.170Z,"4km NW of Little Lake, CA",earthquake,0.21,0.59,0.087,12,automatic,ci,ci
 2022-12-01T11:29:50.690Z,19.1433334350586,-155.500503540039,33.689998626709,2.16000009,md,46,154,,0.109999999,hv,hv73249257,2022-12-01T11:32:52.410Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.64,1,0.939999998,20,automatic,hv,hv
 2022-12-01T11:29:36.726Z,61.5009,-146.4416,32.1,2,ml,,,,0.51,ak,ak022fe7rboo,2022-12-01T11:31:01.896Z,"41 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -201,7 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T15:17:41.452Z,26.8769,55.2238,4.681,5.7,mww,113,25,2.117,0.73,us,us6000j5sn,2022-11-30T17:50:45.296Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,6.72,3.908,0.048,42,reviewed,us,us
 2022-11-30T15:15:20.979Z,58.2552,-155.1013,1.1,1.1,ml,,,,0.33,ak,ak022fcmiocy,2022-12-01T04:16:36.200Z,"85 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-11-30T15:15:06.160Z,38.7793333,-122.7173333,1.59,0.95,md,27,104,0.01203,0.04,nc,nc71129409,2022-12-01T11:29:13.042Z,"2km WNW of Anderson Springs, CA",earthquake,0.26,0.4,0.087,3,reviewed,nc,nc
-2022-11-30T15:15:02.770Z,38.7583333,-122.4206667,5.34,1.44,md,8,64,0.05175,0.1,nc,nc73813141,2022-12-01T11:27:10.911Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.43,2.41,0.117,7,reviewed,nc,nc
+2022-11-30T15:15:02.770Z,38.7583333,-122.4206667,5.34,1.44,md,8,64,0.05175,0.1,nc,nc73813141,2022-12-01T11:52:13.070Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.43,2.41,0.117,7,reviewed,nc,nc
 2022-11-30T15:13:44.280Z,38.7541667,-122.4295,4.38,1.84,md,49,57,0.05335,0.11,nc,nc73813136,2022-11-30T21:48:13.087Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.15,0.68,0.111,30,reviewed,nc,nc
 2022-11-30T15:13:22.420Z,19.4723333333333,-155.588166666667,-1.06,1.66,md,9,163,,0.1,hv,hv73247122,2022-11-30T23:17:49.330Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.64,0.23,0.279336094132277,5,reviewed,hv,hv
 2022-11-30T15:11:46.960Z,18.0153333333333,-66.7776666666667,14.67,2.82,md,27,140,0.007731,0.12,pr,pr71384743,2022-11-30T22:06:12.040Z,"0 km WSW of Magas Arriba, Puerto Rico",earthquake,0.37,0.27,0.164062170878239,15,reviewed,pr,pr
@@ -258,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T12:09:32.900Z,39.0408333,-123.0861667,3.76,2.72,md,81,58,,0.12,nc,nc73813076,2022-12-01T07:16:24.701Z,"12km SE of Talmage, CA",earthquake,0.12,0.68,0.242,62,reviewed,nc,nc
 2022-11-30T12:01:37.410Z,19.4701666666667,-155.593833333333,-1.28,1.93,md,8,117,,0.12,hv,hv73246807,2022-11-30T23:38:52.200Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.68,0.35,0.0298009797348013,5,reviewed,hv,hv
 2022-11-30T11:56:20.970Z,33.2523333,-117.4425,16.41,1.37,ml,44,126,0.0763,0.13,ci,ci40382632,2022-11-30T18:45:38.650Z,"6km WNW of Camp Pendleton South, CA",earthquake,0.21,0.34,0.237,23,reviewed,ci,ci
-2022-11-30T11:53:38.069Z,61.7913,-148.4718,36,1.1,ml,,,,0.74,ak,ak022fckd4ha,2022-11-30T11:55:31.772Z,"0 km SW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
