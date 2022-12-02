@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T10:04:36.000Z,60.1701,-152.7057,97.5,1.7,ml,,,,0.58,ak,ak022ffujvm8,2022-12-02T10:06:15.031Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-12-02T10:00:11.730Z,19.0268325805664,-155.413162231445,32.4799995422363,1.89999998,md,24,209,,0.140000001,hv,hv73251797,2022-12-02T10:03:28.470Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.74,1.22000003,0.629999995,3,automatic,hv,hv
+2022-12-02T09:56:35.620Z,19.3953342437744,-155.276672363281,1.53999996185303,2.21,ml,20,45,,0.150000006,hv,hv73251792,2022-12-02T10:02:05.720Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.219999999,0.3,8,automatic,hv,hv
 2022-12-02T09:42:18.061Z,61.6931,-150.0177,25.5,1.7,ml,,,,0.62,ak,ak022ffu6ju6,2022-12-02T09:44:06.217Z,"6 km S of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-02T08:55:15.079Z,-0.0254,123.2367,155.166,5,mb,91,44,1.112,0.62,us,us6000j696,2022-12-02T09:11:50.040Z,"65 km SSE of Gorontalo, Indonesia",earthquake,7.87,6.74,0.073,60,reviewed,us,us
 2022-12-02T08:49:33.336Z,12.8988,-88.8052,57.762,4.2,mb,41,119,0.736,0.87,us,us6000j694,2022-12-02T09:07:56.040Z,"offshore El Salvador",earthquake,6.43,5.819,0.113,22,reviewed,us,us
@@ -267,6 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T10:27:13.220Z,19.1176662445068,-155.391006469727,30.1700000762939,1.94000006,md,45,187,,0.119999997,hv,hv73249132,2022-12-01T10:30:28.830Z,"13 km SE of Pāhala, Hawaii",earthquake,0.58,1.09000003,1.34000003,16,automatic,hv,hv
 2022-12-01T10:26:27.290Z,38.8058333,-122.8063333,1.54,1.09,md,35,50,0.008878,0.04,nc,nc73813396,2022-12-01T18:40:12.552Z,"5km NW of The Geysers, CA",earthquake,0.12,0.22,0.179,7,reviewed,nc,nc
 2022-12-01T10:19:30.002Z,62.4942,-151.4569,91.5,2.2,ml,,,,0.61,ak,ak022fe73qeg,2022-12-01T10:21:50.160Z,"35 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-01T10:12:50.940Z,19.24049949646,-155.393325805664,30.7999992370605,2,md,40,139,,0.170000002,hv,hv73249117,2022-12-01T10:16:05.750Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.75,0.910000026,0.119999997,9,automatic,hv,hv
-2022-12-01T10:04:15.240Z,44.4595,-110.5743333,3.82,1.28,md,6,142,0.02453,0.03,uu,uu60032249,2022-12-01T16:56:01.030Z,"47 km ESE of West Yellowstone, Montana",earthquake,0.77,1.18,0.663,3,reviewed,uu,uu
-2022-12-01T10:04:07.130Z,44.4566667,-110.569,2.52,0.49,md,16,57,0.02391,0.14,uu,uu60526762,2022-12-01T16:56:34.410Z,"48 km ESE of West Yellowstone, Montana",earthquake,0.32,0.79,0.213,5,reviewed,uu,uu
