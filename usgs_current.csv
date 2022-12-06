@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-06T14:31:00.301Z,60.2382,-152.2484,92.5,2.1,ml,,,,0.21,ak,ak022fmj8pla,2022-12-06T14:32:34.743Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-12-06T14:27:34.280Z,19.4331665039062,-155.604507446289,-0.75,1.71000004,md,17,69,,0.300000012,hv,hv73261977,2022-12-06T14:30:37.760Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.860000014,0.219999999,5,automatic,hv,hv
 2022-12-06T14:06:48.417Z,59.9968,-152.716,93.5,1.6,ml,,,,0.38,ak,ak022fmj3geh,2022-12-06T14:09:13.557Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-06T13:45:04.250Z,19.280834197998,-155.419998168945,34.9900016784668,2.01999998,md,40,213,,0.119999997,hv,hv73261932,2022-12-06T13:48:18.690Z,"10 km NE of Pāhala, Hawaii",earthquake,0.66,0.709999979,0.270000011,21,automatic,hv,hv
 2022-12-06T13:42:37.742Z,60.0103,-153.35,105.1,1.9,ml,,,,0.57,ak,ak022fmippr0,2022-12-06T13:45:40.713Z,"49 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -247,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-05T14:43:28.999Z,43.5137,12.4487,4.111,4.2,mb,30,97,0.257,0.34,us,us6000j70x,2022-12-05T17:04:54.584Z,"5 km NNW of Monte Grimano, Italy",earthquake,3.47,7.018,0.214,6,reviewed,us,us
 2022-12-05T14:43:00.090Z,38.6043333,-112.5725,0.02,1.81,ml,12,119,0.09831,0.1,uu,uu60527327,2022-12-05T17:03:24.990Z,"Utah",earthquake,0.43,0.69,0.237,5,reviewed,uu,uu
 2022-12-05T14:35:24.210Z,57.6914,-154.9961,68.3,2.4,ml,,,,0.41,ak,ak022fkvq9rj,2022-12-05T15:06:38.040Z,"35 km WNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-05T14:31:18.597Z,61.6963,-149.6759,30.6,1.8,ml,,,,0.62,ak,ak022fkvpeib,2022-12-05T14:32:52.642Z,"8 km NNW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-05T14:30:17.270Z,38.7891655,-122.7668304,2.13,1.32,md,16,78,0.01272,0.02,nc,nc73814791,2022-12-05T15:45:12.056Z,"2km NW of The Geysers, CA",earthquake,0.3,0.56,0.16,16,automatic,nc,nc
