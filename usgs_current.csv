@@ -246,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T20:58:47.661Z,65.1291,-149.2434,1.1,1.5,ml,,,,1.53,ak,ak022foaijpa,2022-12-07T21:00:42.742Z,"5 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-07T20:52:12.150Z,19.422,-155.278833333333,0.14,1.98000002,md,14,130,,0.09,hv,hv73263277,2022-12-07T23:58:33.450Z,"5 km WSW of Volcano, Hawaii",earthquake,0.15,0.19,0.170000002,9,reviewed,hv,hv
 2022-12-07T20:50:29.790Z,34.0078333,-117.1893333,12.33,0.98,ml,38,74,0.06185,0.17,ci,ci40143231,2022-12-07T21:29:55.293Z,"5km S of Redlands, CA",earthquake,0.2,0.52,0.131,14,reviewed,ci,ci
-2022-12-07T20:45:21.007Z,61.1456,-147.3673,6.5,1.8,ml,,,,0.55,ak,ak022foafpc4,2022-12-07T20:47:02.171Z,"48 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
