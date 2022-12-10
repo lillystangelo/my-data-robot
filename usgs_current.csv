@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T06:41:28.703Z,-23.114,-68.1298,114.205,5.6,mww,73,53,0.167,0.57,us,us6000j8cw,2022-12-10T16:31:38.436Z,"Antofagasta, Chile",earthquake,4.52,5.007,0.039,63,reviewed,us,us
 2022-12-10T06:30:25.060Z,38.7841682,-122.7528305,-0.6,1.09,md,9,76,0.01262,0.3,nc,nc73816881,2022-12-10T06:54:13.671Z,"1km NNE of The Geysers, CA",earthquake,1.8,11.5,0.16,9,automatic,nc,nc
 2022-12-10T06:28:20.260Z,17.961,-66.8545,9.27,2.18,md,7,216,0.0274,0.08,pr,pr71386398,2022-12-10T06:38:24.800Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.54,0.57,0.0718610508135775,5,reviewed,pr,pr
-2022-12-10T06:27:32.440Z,39.6556667,-123.8715,4.62,2.81,md,25,164,0.09302,0.13,nc,nc73816876,2022-12-10T17:39:51.656Z,"9km SSW of Cape Vizcaino, CA",earthquake,0.28,0.67,0.15,26,reviewed,nc,nc
+2022-12-10T06:27:32.440Z,39.6556667,-123.8715,4.62,2.81,md,25,164,0.09302,0.13,nc,nc73816876,2022-12-10T20:27:52.744Z,"9km SSW of Cape Vizcaino, CA",earthquake,0.28,0.67,0.15,26,reviewed,nc,nc
 2022-12-10T06:22:39.010Z,32.6776667,-115.823,5.59,1.16,ml,13,102,0.08626,0.16,ci,ci40144303,2022-12-10T06:26:13.824Z,"17km ESE of Ocotillo, CA",earthquake,0.45,0.67,0.141,10,automatic,ci,ci
 2022-12-10T06:20:24.210Z,33.1555,-116.4578333,7.34,1.31,ml,44,45,0.1175,0.21,ci,ci40144295,2022-12-10T06:31:09.220Z,"14km SW of Borrego Springs, CA",earthquake,0.28,1.27,0.174,25,automatic,ci,ci
 2022-12-10T06:13:14.454Z,31.6382,-104.2449,5,2.5,ml,27,103,0.22,0.4,us,us6000j8cq,2022-12-10T06:24:42.040Z,"55 km NW of Toyah, Texas",earthquake,1.2,1.808,0.045,64,reviewed,us,us
@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T20:44:42.740Z,35.109,-97.91183333,6.95,1.85,ml,90,32,0.106179164,0.63,ok,ok2022yclc,2022-12-09T20:55:35.854Z,"6 km SSW of Amber, Oklahoma",earthquake,,1.1,0.23,33,reviewed,ok,ok
 2022-12-09T20:41:24.460Z,17.9576666666667,-66.9015,10.91,1.93,md,7,206,0.01598,0.09,pr,pr71386293,2022-12-09T21:58:14.390Z,"1 km SSE of Guánica, Puerto Rico",earthquake,0.67,0.48,0.218641701943733,3,reviewed,pr,pr
 2022-12-09T20:35:59.800Z,19.2011661529541,-155.468002319336,33.9000015258789,1.82000005,md,24,205,,0.119999997,hv,hv73264797,2022-12-09T20:41:08.240Z,"1 km E of Pāhala, Hawaii",earthquake,0.9,1.11000001,1.83000004,4,automatic,hv,hv
-2022-12-09T20:25:52.770Z,61.4219,-148.221,25.9,1.6,ml,,,,0.89,ak,ak022frle6gd,2022-12-09T20:27:46.146Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-09T20:20:39.924Z,64.5487,-149.8015,9.9,1.7,ml,,,,0.51,ak,ak022frld2vs,2022-12-09T20:23:24.606Z,"33 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
