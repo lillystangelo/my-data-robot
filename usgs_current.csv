@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-10T19:38:02.270Z,19.4185009002686,-155.265838623047,0.419999986886978,1.90999997,md,12,57,,0.129999995,hv,hv73265652,2022-12-10T19:41:08.280Z,"4 km SW of Volcano, Hawaii",earthquake,0.19,0.330000013,1,11,automatic,hv,hv
+2022-12-10T19:37:25.340Z,38.8296661,-122.8030014,1.91,1.04,md,12,42,0.008351,0.01,nc,nc73817031,2022-12-10T19:39:00.156Z,"7km W of Cobb, CA",earthquake,0.27,0.78,0.2,15,automatic,nc,nc
 2022-12-10T19:34:47.199Z,60.5496,-151.3917,42.5,2.6,ml,,,,0.2,ak,ak022ft8e0cv,2022-12-10T19:36:16.218Z,"7 km W of Kenai, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-12-10T19:20:59.770Z,19.1458339691162,-155.363662719727,30.7099990844727,2.07,ml,44,184,,0.119999997,hv,hv73265642,2022-12-10T19:26:29.260Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.66,0.949999988,3.85,5,automatic,hv,hv
 2022-12-10T19:15:44.474Z,61.4449,-151.922,15.4,0.9,ml,,,,0.25,ak,ak022ft89xi8,2022-12-10T19:18:40.604Z,"56 km NW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -202,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T20:01:55.852Z,6.385,126.2235,68.045,5.6,mww,213,17,0.934,0.79,us,us6000j88f,2022-12-10T18:48:37.336Z,"5 km ENE of Pondaguitan, Philippines",earthquake,8.52,3.932,0.05,38,reviewed,us,us
 2022-12-09T19:48:38.076Z,38.1786,-117.8804,8.8,2,ml,17,132.44,0.074,0.155,nn,nn00853081,2022-12-10T02:42:15.294Z,"30 km SE of Mina, Nevada",earthquake,,1.3,0.45,5,reviewed,nn,nn
 2022-12-09T19:48:21.710Z,36.5625,-121.1048355,8.63,2.22,md,33,101,0.05491,0.09,nc,nc73816701,2022-12-09T23:05:12.947Z,"5km NE of Pinnacles, CA",earthquake,0.23,0.62,0.17,35,automatic,nc,nc
-2022-12-09T19:45:07.027Z,60.622,-147.6433,17,1.8,ml,,,,0.75,ak,ak022frkwxn2,2022-12-09T19:47:02.099Z,"59 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
