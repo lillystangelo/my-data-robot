@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-10T04:55:45.050Z,62.8136,-150.4975,80.4,1.4,ml,,,,0.59,ak,ak022fszl05l,2022-12-10T04:57:55.574Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-10T04:45:50.290Z,38.8223343,-122.7854996,1.41,1.04,md,12,101,0.009812,0.02,nc,nc73816861,2022-12-10T04:47:30.616Z,"5km W of Cobb, CA",earthquake,0.33,0.76,0.27,13,automatic,nc,nc
 2022-12-10T04:32:23.785Z,36.70086288,-97.66954803,2.114347935,2.08,ml,33,57.85498047,0.2185331136,0.5997381267,ok,ok2022ydan,2022-12-10T04:34:30.353Z,"Oklahoma",earthquake,2.162117745,1.726669953,,23,automatic,ok,ok
 2022-12-10T04:27:38.342Z,64.4022,-148.0321,16.9,1.6,ml,,,,0.08,ak,ak022fszezl6,2022-12-10T04:28:57.421Z,"46 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T05:11:54.160Z,33.0616667,-115.588,8.97,1.12,ml,24,51,0.0239,0.2,ci,ci40143879,2022-12-10T00:41:41.768Z,"4km NE of Westmorland, CA",earthquake,0.34,0.68,0.113,14,reviewed,ci,ci
 2022-12-09T05:06:41.677Z,6.4826,123.9745,9.372,4.6,mb,36,68,1.697,0.38,us,us6000j837,2022-12-09T20:22:26.216Z,"8 km SW of Bantogon, Philippines",earthquake,7.88,4.729,0.116,22,reviewed,us,us
 2022-12-09T05:06:24.240Z,40.3088341,-124.354332,12.89,2.5,md,10,245,0.05513,0.12,nc,nc73816421,2022-12-09T07:47:13.651Z,"6km WSW of Petrolia, CA",earthquake,1.71,0.77,0.09,9,automatic,nc,nc
-2022-12-09T04:57:11.340Z,34.4441667,-116.2238333,4.66,0.81,ml,11,111,0.2011,0.08,ci,ci40143871,2022-12-10T00:37:25.741Z,"31km S of Ludlow, CA",earthquake,0.21,0.66,0.104,9,reviewed,ci,ci
-2022-12-09T04:50:12.200Z,17.902,-67.1315,13.55,2.72,md,8,283,0.1059,0.05,pr,pr71386203,2022-12-09T05:49:28.030Z,"9 km SE of Pole Ojea, Puerto Rico",earthquake,0.57,0.39,0.143202423037614,4,reviewed,pr,pr
