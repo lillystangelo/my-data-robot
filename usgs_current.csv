@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-11T07:04:35.860Z,38.770668,-122.7851639,4.36,0.93,md,8,203,0.01518,0.28,nc,nc73817181,2022-12-11T07:06:13.741Z,"3km WSW of The Geysers, CA",earthquake,3.41,6.31,0.33,8,automatic,nc,nc
 2022-12-11T06:50:17.241Z,62.176,-150.0832,5.7,1.8,ml,,,,0.53,ak,ak022fuoa34s,2022-12-11T06:51:55.960Z,"12 km W of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-11T06:40:17.934Z,-58.7474,-25.4068,10,5.4,mb,71,69,7.584,0.62,us,us6000j8jd,2022-12-11T07:04:07.377Z,"South Sandwich Islands region",earthquake,5.75,1.759,0.048,148,reviewed,us,us
 2022-12-11T06:31:50.450Z,19.3933334350586,-155.271667480469,-0.239999994635582,2.32,ml,10,80,,0.25,hv,hv73266217,2022-12-11T06:37:27.260Z,"6 km SW of Volcano, Hawaii",earthquake,0.75,0.289999992,0.24,8,automatic,hv,hv
 2022-12-11T06:31:49.580Z,19.3888339996338,-155.278167724609,1.19000005722046,2.32,ml,26,45,,0.219999999,hv,hv73266212,2022-12-11T06:37:20.840Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.209999993,0.26,8,automatic,hv,hv
 2022-12-11T06:20:37.790Z,61.3777,-150.2315,41.8,1.4,ml,,,,0.55,ak,ak022fuo3p8j,2022-12-11T06:22:58.150Z,"13 km W of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -81,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T20:21:17.988Z,-10.2182,118.6966,44.02,4.5,mb,38,100,1.653,0.48,us,us6000j8gv,2022-12-11T00:51:57.040Z,"182 km WSW of Waingapu, Indonesia",earthquake,7.24,8.696,0.106,26,reviewed,us,us
 2022-12-10T20:11:29.018Z,65.021,-147.0379,5.1,1.2,ml,,,,1.09,ak,ak022ft8uh39,2022-12-10T20:13:37.343Z,"16 km N of Two Rivers, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-10T19:58:18.429Z,63.8163,-149.2927,29.2,2,ml,,,,1.24,ak,ak022ft8j3bm,2022-12-10T20:00:37.425Z,"16 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-10T19:52:45.597Z,-20.1126,-175.1414,119.597,4.9,mb,42,126,1.053,1.01,us,us6000j8gt,2022-12-10T20:10:59.040Z,"Tonga",earthquake,7.73,8.52,0.083,47,reviewed,us,us
+2022-12-10T19:52:45.597Z,-20.1126,-175.1414,119.597,4.9,mb,42,126,1.053,1.01,us,us6000j8gt,2022-12-10T20:10:59.040Z,"88 km WSW of Pangai, Tonga",earthquake,7.73,8.52,0.083,47,reviewed,us,us
 2022-12-10T19:48:51.830Z,19.2408332824707,-155.403167724609,30.8199996948242,2.11999989,md,30,134,,0.129999995,hv,hv73265667,2022-12-10T19:51:59.370Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.67,0.670000017,1.05999994,15,automatic,hv,hv
 2022-12-10T19:38:02.270Z,19.4185009002686,-155.265838623047,0.419999986886978,1.90999997,md,12,57,,0.129999995,hv,hv73265652,2022-12-10T19:41:08.280Z,"4 km SW of Volcano, Hawaii",earthquake,0.19,0.330000013,1,11,automatic,hv,hv
 2022-12-10T19:37:25.340Z,38.8296661,-122.8030014,1.91,1.04,md,12,42,0.008351,0.01,nc,nc73817031,2022-12-10T19:56:24.454Z,"7km W of Cobb, CA",earthquake,0.27,0.78,0.2,15,automatic,nc,nc
@@ -181,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-10T07:25:48.399Z,-33.6465,-72.0835,27.646,5.5,mww,72,72,0.391,0.5,us,us6000j8d7,2022-12-10T15:45:40.664Z,"44 km W of San Antonio, Chile",earthquake,4.01,4.352,0.062,25,reviewed,us,us
 2022-12-10T07:15:03.830Z,38.8359985,-122.8126678,2.19,1.17,md,9,108,0.01275,0.01,nc,nc73816896,2022-12-10T09:28:12.615Z,"8km WNW of Cobb, CA",earthquake,0.45,0.98,0.39,11,automatic,nc,nc
 2022-12-10T07:14:58.080Z,35.5085,-118.3963333,4.21,1.57,ml,26,51,0.1665,0.12,ci,ci40144311,2022-12-10T07:25:37.840Z,"12km SE of Bodfish, CA",earthquake,0.17,0.71,0.205,24,automatic,ci,ci
-2022-12-10T07:08:17.890Z,36.5661667,-121.0991667,9.57,1.54,md,23,122,0.04953,0.07,nc,nc73816886,2022-12-10T10:38:14.038Z,"6km NE of Pinnacles, CA",earthquake,0.28,0.27,0.311,24,reviewed,nc,nc
-2022-12-10T07:07:39.320Z,17.8708333333333,-66.93,7.65,2.28,md,7,262,0.1144,0.08,pr,pr71386423,2022-12-10T07:51:43.600Z,"11 km SSW of Guánica, Puerto Rico",earthquake,0.77,0.38,0.0930379292388328,7,reviewed,pr,pr
-2022-12-10T07:01:40.160Z,17.6703333333333,-65.9548333333333,29.69,3.07,md,13,203,0.3273,0.2,pr,pr71386413,2022-12-10T19:27:12.555Z,"34 km S of Lamboglia, Puerto Rico",earthquake,0.94,2.88,0.124244865379771,10,reviewed,pr,pr
