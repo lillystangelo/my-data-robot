@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-12T23:30:37.220Z,19.1746673583984,-155.507339477539,32.6399993896484,1.85000002,md,24,217,,0.119999997,hv,hv73267852,2022-12-12T23:33:44.190Z,"4 km SW of Pāhala, Hawaii",earthquake,1.64,1.07000005,1.85000002,4,automatic,hv,hv
 2022-12-12T23:07:35.532Z,59.3362,-152.6023,64.171,2.5,ml,9,158,0.582,0.34,us,us6000j8wn,2022-12-12T23:18:28.040Z,"Southern Alaska",earthquake,3.33,7.315,0.091,16,reviewed,us,us
-2022-12-12T23:06:44.070Z,39.3173332,-123.2396698,2.73,2.15,md,12,84,,0.08,nc,nc73817721,2022-12-12T23:13:09.896Z,"6km NNW of Redwood Valley, CA",earthquake,0.32,8.46,0.08,12,automatic,nc,nc
+2022-12-12T23:06:44.070Z,39.3173332,-123.2396698,2.73,2.15,md,12,84,,0.08,nc,nc73817721,2022-12-12T23:26:13.980Z,"6km NNW of Redwood Valley, CA",earthquake,0.32,8.46,0.08,12,automatic,nc,nc
 2022-12-12T22:50:42.092Z,37.2836,-97.9362,5,2.4,mb_lg,23,104,0.192,0.37,us,us6000j8wi,2022-12-12T23:13:56.040Z,"Kansas",earthquake,1.43,1.737,0.124,17,reviewed,us,us
 2022-12-12T22:36:07.230Z,33.0326667,-116.3965,9.19,0.93,ml,17,77,0.1104,0.26,ci,ci40145039,2022-12-12T22:39:39.023Z,"20km ESE of Julian, CA",earthquake,0.44,1.83,0.148,10,automatic,ci,ci
 2022-12-12T22:30:26.660Z,17.8993333333333,-66.8603333333333,14.29,2.05,md,6,292,0.07743,0.05,pr,pr71386938,2022-12-12T22:51:38.820Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.81,0.91,0.00558194269410994,2,reviewed,pr,pr
