@@ -217,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T21:06:10.710Z,35.9636667,-117.6921667,9.54,0.78,ml,12,98,0.07853,0.07,ci,ci40145007,2022-12-13T01:40:27.541Z,"20km E of Little Lake, CA",earthquake,0.19,0.46,0.144,5,reviewed,ci,ci
 2022-12-12T21:05:43.420Z,44.7985,-110.8401667,3.93,1.36,ml,13,108,0.01255,0.23,uu,uu60528057,2022-12-12T22:58:35.650Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.51,0.64,0.668,3,reviewed,uu,uu
 2022-12-12T21:00:22.810Z,19.3951666666667,-155.495833333333,6.35,2.22,ml,41,36,,0.15,hv,hv73267722,2022-12-12T23:14:10.770Z,"21 km N of Pāhala, Hawaii",earthquake,0.29,0.6,0.112189987535235,20,reviewed,hv,hv
-2022-12-12T20:52:49.926Z,64.6448,-147.6019,6.1,0.8,ml,,,,0.58,ak,ak022fwk601j,2022-12-12T21:36:55.543Z,"Central Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2022-12-12T20:51:19.210Z,58.1811666666667,-155.278833333333,0.19,0,ml,4,235,,0.04,av,av91079443,2022-12-13T03:37:12.010Z,"83 km NW of Karluk, Alaska",earthquake,0.6,2.58,0.291821934095962,4,reviewed,av,av
-2022-12-12T20:43:18.560Z,38.8241653,-122.8274994,2.12,0.81,md,17,51,0.005975,0.02,nc,nc73817706,2022-12-12T21:18:12.342Z,"8km NW of The Geysers, CA",earthquake,0.23,0.49,0.21,19,automatic,nc,nc
