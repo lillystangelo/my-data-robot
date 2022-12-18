@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-18T21:24:24.020Z,38.8321648,-122.8174973,1.89,0.69,md,12,80,0.0105,0.02,nc,nc73820426,2022-12-18T21:25:57.539Z,"8km NW of The Geysers, CA",earthquake,0.3,0.6,0.15,11,automatic,nc,nc
 2022-12-18T21:13:44.490Z,38.788166,-122.7681656,1.73,1.09,md,17,80,0.01409,0.02,nc,nc73820421,2022-12-18T21:15:17.284Z,"2km NW of The Geysers, CA",earthquake,0.24,0.44,0.18,18,automatic,nc,nc
 2022-12-18T21:01:04.390Z,38.7885017,-122.7678299,1.66,0.75,md,10,84,0.01367,0.02,nc,nc73820416,2022-12-18T21:15:24.785Z,"2km NW of The Geysers, CA",earthquake,0.31,0.57,0.45,12,automatic,nc,nc
 2022-12-18T20:53:54.590Z,19.2256660461426,-155.395004272461,32.1800003051758,1.88999999,md,25,147,,0.129999995,hv,hv73275417,2022-12-18T20:57:11.550Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.72,1.14999998,0.939999998,3,automatic,hv,hv
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T21:41:43.730Z,38.8358345,-122.807663,2.11,1.09,md,19,51,0.01256,0.01,nc,nc73819956,2022-12-17T22:07:15.330Z,"8km WNW of Cobb, CA",earthquake,0.23,0.47,0.19,20,automatic,nc,nc
 2022-12-17T21:38:59.748Z,60.8996,-151.9719,88.8,1.2,ml,,,,0.19,ak,ak022g4ud6uu,2022-12-17T21:47:42.526Z,"43 km WNW of Nikiski, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2022-12-17T21:36:01.136Z,61.7416,-148.1769,16.2,1.1,ml,,,,0.34,ak,ak022g4ucmwh,2022-12-17T21:37:46.732Z,"16 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-17T21:29:28.090Z,38.836834,-122.8134995,2.05,0.87,md,6,109,0.01368,0.01,nc,nc73819951,2022-12-17T22:07:15.470Z,"8km WNW of Cobb, CA",earthquake,0.9,1.58,0.43,8,automatic,nc,nc
