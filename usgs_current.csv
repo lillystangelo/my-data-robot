@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-20T07:50:50.250Z,38.8163338,-122.7963333,1.66,1.06,md,16,46,0.008392,0.02,nc,nc73820966,2022-12-20T07:52:26.396Z,"6km NW of The Geysers, CA",earthquake,0.24,0.52,0.2,18,automatic,nc,nc
+2022-12-20T08:04:55.720Z,35.6921667,-118.4095,7.66,1.07,ml,19,101,0.04704,0.15,ci,ci40392544,2022-12-20T08:08:21.976Z,"4km ESE of Wofford Heights, CA",earthquake,0.35,0.56,0.266,14,automatic,ci,ci
+2022-12-20T08:00:24.480Z,35.7188333,-117.5458333,9.6,1.03,ml,16,165,0.1054,0.18,ci,ci40392536,2022-12-20T08:03:48.185Z,"14km WSW of Searles Valley, CA",earthquake,0.47,0.98,0.19,8,automatic,ci,ci
+2022-12-20T07:57:56.120Z,34.028,-117.2285,15.53,0.69,ml,25,45,0.0978,0.25,ci,ci40392528,2022-12-20T08:01:30.599Z,"4km SE of Loma Linda, CA",earthquake,0.37,0.87,0.174,10,automatic,ci,ci
+2022-12-20T07:50:50.250Z,38.8163338,-122.7963333,1.66,1.06,md,16,46,0.008392,0.02,nc,nc73820966,2022-12-20T08:07:14.164Z,"6km NW of The Geysers, CA",earthquake,0.24,0.52,0.2,18,automatic,nc,nc
 2022-12-20T07:04:31.910Z,19.0965,-65.323,15,3.61,md,17,272,0.79,0.5,pr,pr2022354000,2022-12-20T07:35:01.306Z,"Puerto Rico region",earthquake,5.16,9.86,0.08,6,reviewed,pr,pr
 2022-12-20T06:51:01.627Z,38.1761,-117.9296,6.7,2,ml,21,128.34,0.044,0.2592,nn,nn00853751,2022-12-20T06:54:06.627Z,"28 km SSE of Mina, Nevada",earthquake,,0.3,0.4,13,automatic,nn,nn
 2022-12-20T06:40:56.187Z,63.3164,-145.3606,11.9,1.6,ml,,,,0.5,ak,ak022g9k25f6,2022-12-20T06:42:33.643Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -55,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-20T00:28:46.220Z,38.833168,-122.8191681,2.09,0.76,md,8,82,0.01207,0.02,nc,nc73820886,2022-12-20T01:20:12.702Z,"8km NW of The Geysers, CA",earthquake,0.39,1.59,0.54,9,automatic,nc,nc
 2022-12-20T00:28:45.917Z,61.5906,-148.2676,20.5,1.2,ml,,,,0.53,ak,ak022g9geyen,2022-12-20T00:30:42.779Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-20T00:27:08.387Z,58.1813,-154.5966,164.4,0.2,ml,,,,0.7,ak,ak022g9gep33,2022-12-20T00:29:10.527Z,"68 km N of Karluk, Alaska",earthquake,,5.4,,,automatic,ak,ak
-2022-12-20T00:07:01.742Z,60.3708,-142.8688,0,2.1,ml,,,,0.85,ak,ak022g9gacym,2022-12-20T00:09:05.848Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-20T00:07:01.742Z,60.3708,-142.8688,0,2.1,ml,,,,0.85,ak,ak022g9gacym,2022-12-20T00:09:05.848Z,"118 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-19T23:54:36.908Z,63.3682,-151.1817,0,1.8,ml,,,,1.39,ak,ak022g86q4pv,2022-12-19T23:57:12.696Z,"33 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-19T23:45:27.900Z,40.2346649,-124.133667,11.42,2.15,md,13,147,0.03162,0.13,nc,nc73820866,2022-12-20T01:09:15.643Z,"16km SE of Petrolia, CA",earthquake,0.76,0.84,0.02,9,automatic,nc,nc
 2022-12-19T23:41:26.810Z,48.08383333333333,-121.54833333333333,9.11,0.8300000000000001,ml,8,85,0.2772,0.2,uw,uw61899236,2022-12-20T01:07:21.360Z,"Washington",earthquake,0.39,16.39,0.040155392038457416,4,reviewed,uw,uw
@@ -85,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T20:10:50.358Z,-22.2814,-68.6127,115.493,5,mww,111,37,0.757,0.5,us,us6000jae1,2022-12-19T20:56:22.745Z,"Antofagasta, Chile",earthquake,5.97,4.845,0.093,11,reviewed,us,us
 2022-12-19T20:10:43.077Z,61.5232,-149.8834,34.4,1.6,ml,,,,0.52,ak,ak022g84oewj,2022-12-19T20:12:47.085Z,"3 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-19T19:51:34.730Z,19.3548336029053,-155.295333862305,9.23999977111816,1.90999997,md,10,67,,0.0799999982,hv,hv73276517,2022-12-19T19:54:32.290Z,"11 km SSW of Volcano, Hawaii",earthquake,0.61,1.49000001,1.41999996,5,automatic,hv,hv
-2022-12-19T19:48:00.238Z,31.6346,-104.3795,5,2.9,ml,28,62,0.05,0.44,us,us6000jadx,2022-12-19T21:21:34.040Z,"59 km S of Whites City, New Mexico",earthquake,0.72,1.545,0.046,62,reviewed,us,us
+2022-12-19T19:48:00.471Z,31.65878916,-104.3794213,6.080151367,2.8,ml,28,70,0.04493098109,0.2,tx,tx2022yuqg,2022-12-20T07:56:01.047Z,"57 km S of Whites City, New Mexico",earthquake,0.7734514566,0.832030136,0.1,14,reviewed,tx,tx
 2022-12-19T19:11:42.120Z,38.9763333,-111.309,-1.69,1.5,ml,5,94,0.04426,0.07,uu,uu60528307,2022-12-19T20:58:50.470Z,"7 km NW of Emery, Utah",earthquake,0.79,1.47,0.339,3,reviewed,uu,uu
 2022-12-19T19:08:06.440Z,19.158332824707,-155.498992919922,34.189998626709,1.78999996,md,18,245,,0.170000002,hv,hv73276502,2022-12-19T19:11:23.850Z,"5 km SSW of Pāhala, Hawaii",earthquake,1.45,1.21000004,1.78999996,4,automatic,hv,hv
 2022-12-19T19:03:18.300Z,33.0243333,-115.6036667,9.55,1.15,ml,17,58,0.02295,0.19,ci,ci40392368,2022-12-19T21:56:12.614Z,"2km SE of Westmorland, CA",earthquake,0.47,0.83,0.156,14,reviewed,ci,ci
@@ -223,9 +226,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T08:32:14.086Z,-8.6091,161.1872,10,4.5,mb,19,174,1.476,0.27,us,us6000jaa7,2022-12-19T10:08:44.040Z,"56 km ENE of Auki, Solomon Islands",earthquake,9.62,1.952,0.135,16,reviewed,us,us
 2022-12-19T08:30:26.377Z,58.2308,-155.2111,0,0.6,ml,,,,0.47,ak,ak022g7xngod,2022-12-20T02:51:03.690Z,"Alaska Peninsula",earthquake,,131.9,,,automatic,ak,ak
 2022-12-19T08:21:23.300Z,38.8209991,-122.7888336,1.38,0.94,md,14,46,0.01001,0.01,nc,nc73820601,2022-12-19T08:38:12.735Z,"6km NNW of The Geysers, CA",earthquake,0.25,0.41,0.16,15,automatic,nc,nc
-2022-12-19T08:14:00.422Z,62.8403,-150.2779,70,1.9,ml,,,,0.75,ak,ak022g7xjz7u,2022-12-19T08:16:05.050Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-19T08:06:42.450Z,42.721666666666664,-122.22433333333333,3.35,1.33,ml,8,166,0.1953,0.13,uw,uw61899136,2022-12-19T19:55:53.090Z,"21 km E of Prospect, Oregon",earthquake,0.44,2.5,0.20368514981893415,2,reviewed,uw,uw
-2022-12-19T08:05:55.630Z,51.8621666666667,-177.941166666667,2.64,1.15,ml,6,157,,0.17,av,av91733356,2022-12-20T02:46:52.050Z,"90 km W of Adak, Alaska",earthquake,0.46,1.46,0.244606745760914,6,reviewed,av,av
-2022-12-19T07:58:48.116Z,58.2403,-155.0808,1.3,0.5,ml,,,,0.21,ak,ak022g7x82sr,2022-12-20T02:41:07.950Z,"83 km NNW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
-2022-12-19T07:53:25.010Z,51.8575,-177.946666666667,2.03,0.47,ml,5,146,,0.2,av,av91080988,2022-12-20T02:26:57.910Z,"90 km W of Adak, Alaska",earthquake,0.49,2.47,0.293169478240415,5,reviewed,av,av
-2022-12-19T07:53:05.610Z,51.8535,-177.942666666667,-1.8,0.45,ml,5,146,,0.17,av,av91080993,2022-12-20T02:32:31.280Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.42,1.21,0.369824198725185,5,reviewed,av,av
+2022-12-19T08:14:00.422Z,62.8403,-150.2779,70,1.9,ml,,,,0.75,ak,ak022g7xjz7u,2022-12-19T08:16:05.050Z,"44 km NNW of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
