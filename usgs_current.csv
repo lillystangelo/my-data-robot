@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T14:47:26.965Z,61.5008,-149.9017,33.4,2.3,ml,,,,0.28,ak,ak022genh3i0,2022-12-23T14:48:59.748Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-12-23T14:42:56.580Z,38.8263321,-122.7988358,2.71,0.27,md,12,75,0.009255,0.01,nc,nc73823711,2022-12-23T14:44:33.821Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.15,13,automatic,nc,nc
 2022-12-23T14:37:00.310Z,19.4171657562256,-155.258666992188,1.12999999523163,2.48,ml,33,58,,0.140000001,hv,hv73279387,2022-12-23T14:42:32.400Z,"3 km SW of Volcano, Hawaii",earthquake,0.21,0.209999993,0.49,13,automatic,hv,hv
-2022-12-23T14:36:59.110Z,38.5091667,-122.7450027,1.32,2.6,md,47,34,0.1264,0.15,nc,nc73823706,2022-12-23T14:40:32.853Z,"1km SE of Larkfield-Wikiup, CA",earthquake,0.21,4.66,0.09,43,automatic,nc,nc
+2022-12-23T14:36:59.110Z,38.5091667,-122.7450027,1.32,2.6,md,47,34,0.1264,0.15,nc,nc73823706,2022-12-23T14:52:03.936Z,"1km SE of Larkfield-Wikiup, CA",earthquake,0.21,4.66,0.09,43,automatic,nc,nc
 2022-12-23T14:35:06.540Z,38.8354988,-122.7811661,0.33,0.77,md,12,78,0.007734,0.02,nc,nc73823701,2022-12-23T14:36:43.829Z,"5km WNW of Cobb, CA",earthquake,0.26,0.38,0.24,16,automatic,nc,nc
-2022-12-23T14:28:36.880Z,38.8201675,-122.796669,2.68,1.5,md,32,30,0.01096,0.03,nc,nc73823696,2022-12-23T14:31:45.204Z,"6km NW of The Geysers, CA",earthquake,0.21,0.38,0.12,31,automatic,nc,nc
+2022-12-23T14:28:36.880Z,38.8201675,-122.796669,2.68,1.5,md,32,30,0.01096,0.03,nc,nc73823696,2022-12-23T14:48:12.814Z,"6km NW of The Geysers, CA",earthquake,0.21,0.38,0.12,31,automatic,nc,nc
 2022-12-23T14:17:28.700Z,38.3474,-119.314,13.4,1.5,ml,16,127.44,0.099,0.3648,nn,nn00854061,2022-12-23T14:20:24.458Z,"12 km NW of Bridgeport, California",earthquake,,0.6,0.34,8,automatic,nn,nn
 2022-12-23T14:02:20.950Z,61.2291,-149.0421,27.3,2.2,ml,,,,0.76,ak,ak022gen7ftb,2022-12-23T14:04:01.219Z,"26 km SSW of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-23T13:31:11.840Z,33.2785,-115.9685,3.05,1.37,ml,40,43,0.105,0.25,ci,ci40149143,2022-12-23T13:42:06.290Z,"2km SSW of Salton City, CA",earthquake,0.33,0.96,0.204,27,automatic,ci,ci
@@ -116,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T00:28:01.922Z,20.0621,-156.0384,10.653,3,ml,11,336,0.694,1.13,us,us6000jb7x,2022-12-23T00:41:19.040Z,"23 km WNW of Puako, Hawaii",earthquake,7.57,4.722,0.105,12,reviewed,us,us
 2022-12-23T00:26:20.440Z,38.8356667,-122.8170013,1.48,0.62,md,12,70,0.0134,0.02,nc,nc73823396,2022-12-23T00:46:14.779Z,"8km W of Cobb, CA",earthquake,0.27,0.56,0.46,13,automatic,nc,nc
 2022-12-23T00:18:32.572Z,65.0403,-147.4522,0,1.7,ml,,,,1.01,ak,ak022geeytp5,2022-12-23T00:20:12.315Z,"12 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-23T00:18:28.660Z,19.2186660766602,-155.386505126953,32.0400009155273,1.87,md,32,155,,0.129999995,hv,hv73278727,2022-12-23T00:21:53.580Z,"9 km E of Pāhala, Hawaii",earthquake,0.63,0.899999976,1.01999998,16,automatic,hv,hv
+2022-12-23T00:18:28.660Z,19.2186660766602,-155.386505126953,32.0400009155273,1.87,md,32,155,,0.129999995,hv,hv73278727,2022-12-23T00:21:53.580Z,"Hawaii region, Hawaii",earthquake,0.63,0.899999976,1.01999998,16,automatic,hv,hv
 2022-12-23T00:18:00.920Z,38.8378334,-122.8105011,1.93,1.64,md,35,37,,0.03,nc,nc73823381,2022-12-23T00:35:16.715Z,"8km WNW of Cobb, CA",earthquake,0.16,0.29,0.2,33,automatic,nc,nc
 2022-12-23T00:12:33.660Z,19.3959999084473,-155.253005981445,7.21000003814697,2.67000008,md,9,218,,0.0900000036,hv,hv73278717,2022-12-23T00:15:36.240Z,"5 km SSW of Volcano, Hawaii",earthquake,1.12,0.75,1.33000004,3,automatic,hv,hv
 2022-12-23T00:09:48.160Z,51.7805,-178.438833333333,10.28,2.5,ml,8,156,,0.13,av,av91736636,2022-12-23T03:19:45.690Z,"124 km W of Adak, Alaska",earthquake,0.97,4.01,0.20446075459891,8,reviewed,av,av
@@ -216,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T14:57:33.617Z,38.1666,-117.8426,7.6,1,ml,13,173,0.096,0.1283,nn,nn00853972,2022-12-22T18:58:01.314Z,"34 km SE of Mina, Nevada",earthquake,,1.9,0.36,3,reviewed,nn,nn
 2022-12-22T14:56:55.730Z,35.4920006,-120.7808304,5.91,1.28,md,9,165,0.09357,0.28,nc,nc73823146,2022-12-22T16:30:10.870Z,"9km SW of Templeton, CA",earthquake,2.59,6.75,0.09,4,automatic,nc,nc
 2022-12-22T14:55:53.280Z,36.5491676,-121.0986633,2.73,2.16,md,13,109,0.05586,0.12,nc,nc73823141,2022-12-22T16:04:11.710Z,"4km ENE of Pinnacles, CA",earthquake,0.4,1.1,0.14,14,automatic,nc,nc
-2022-12-22T14:52:09.040Z,51.8638333333333,-177.861666666667,7.82,1.83,ml,7,150,,0.12,av,av91736146,2022-12-22T22:55:57.300Z,"84 km W of Adak, Alaska",earthquake,0.5,0.47,0.189717866444125,7,reviewed,av,av
-2022-12-22T14:48:54.140Z,38.8253326,-122.7958298,2.67,1.18,md,28,34,0.01129,0.02,nc,nc73823136,2022-12-22T15:49:11.624Z,"6km W of Cobb, CA",earthquake,0.21,0.4,0.16,28,automatic,nc,nc
-2022-12-22T14:45:08.660Z,37.6016667,-118.8085,3.83,0.32,md,10,238,0.02007,0.03,nc,nc73823131,2022-12-22T17:52:11.330Z,"12km WNW of Toms Place, CA",earthquake,0.56,0.74,0.274,9,reviewed,nc,nc
