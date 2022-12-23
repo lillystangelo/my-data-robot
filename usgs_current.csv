@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T23:28:42.060Z,38.814167,-122.8300018,1.47,1.08,md,16,48,0.00533,0.02,nc,nc73823871,2022-12-23T23:30:15.026Z,"8km WNW of The Geysers, CA",earthquake,0.21,0.52,0.24,18,automatic,nc,nc
 2022-12-23T22:49:10.050Z,38.7891655,-122.7331696,1.4,1.08,md,14,89,0.02369,0.03,nc,nc73823866,2022-12-23T23:09:12.961Z,"2km ENE of The Geysers, CA",earthquake,0.28,0.62,0.19,12,automatic,nc,nc
 2022-12-23T22:48:33.820Z,33.4405,-116.4426667,9.73,0.89,ml,32,69,0.08389,0.2,ci,ci40149231,2022-12-23T22:52:15.261Z,"22km NNW of Borrego Springs, CA",earthquake,0.3,0.7,0.127,24,automatic,ci,ci
 2022-12-23T22:44:53.880Z,17.9496666666667,-66.9141666666667,14.41,2.42,md,11,208,0.1091,0.12,pr,pr71388693,2022-12-23T22:55:17.210Z,"Puerto Rico region",earthquake,0.47,0.65,0.162527717595965,7,reviewed,pr,pr
@@ -67,9 +68,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T15:24:32.568Z,63.0846,-150.3754,94.2,2.3,ml,,,,0.34,ak,ak022genxm2g,2022-12-23T15:31:37.907Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-23T15:23:11.870Z,38.8276672,-122.8553314,2.24,0.78,md,16,72,0.00121,0.03,nc,nc73823716,2022-12-23T16:07:14.257Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.45,0.21,17,automatic,nc,nc
 2022-12-23T15:19:51.660Z,19.41,-155.297,2.38,2.12,ml,21,83,,0.08,hv,hv73279447,2022-12-23T17:45:50.430Z,"7 km WSW of Volcano, Hawaii",earthquake,0.22,0.21,0.124451519012554,14,reviewed,hv,hv
-2022-12-23T15:16:00.935Z,62.9239,-148.1682,113,2.3,ml,,,,0.99,ak,ak022genvq03,2022-12-23T15:26:56.596Z,"Central Alaska",earthquake,,3.8,,,automatic,ak,ak
-2022-12-23T15:11:12.849Z,57.2645,-154.6886,209,3.1,ml,,,,1.01,ak,ak022genus8k,2022-12-23T15:14:20.544Z,"36 km SSW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-23T15:11:09.133Z,57.844,-157.8264,216.9,3,ml,,,,1.23,ak,ak022genusly,2022-12-23T15:15:25.017Z,"34 km NNW of Pilot Point, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2022-12-23T15:16:14.920Z,63.8701,-147.2397,10.2,1.1,ml,,,,0.97,ak,ak022genvq03,2022-12-23T23:32:58.477Z,"64 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-12-23T15:11:14.712Z,56.668,-153.6244,58.4,3.3,ml,,,,1.51,ak,ak022genus8k,2022-12-23T23:29:02.897Z,"Kodiak Island region, Alaska",earthquake,,4,,,reviewed,ak,ak
 2022-12-23T14:47:26.965Z,61.5008,-149.9017,33.4,2.3,ml,,,,0.28,ak,ak022genh3i0,2022-12-23T20:43:40.021Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-23T14:45:01.320Z,58.2495,-155.065333333333,3.16,0.25,ml,4,155,,0.08,av,av91736961,2022-12-23T16:06:33.850Z,"83 km NNW of Karluk, Alaska",earthquake,1,1.57,0.109292260708458,4,reviewed,av,av
 2022-12-23T14:42:56.580Z,38.8263321,-122.7988358,2.71,0.27,md,12,75,0.009255,0.01,nc,nc73823711,2022-12-23T15:09:13.937Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.15,13,automatic,nc,nc
