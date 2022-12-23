@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T20:03:52.231Z,-45.5518,-76.6975,10.596,5.3,mww,69,103,2.282,0.88,us,us6000jbc1,2022-12-23T20:28:29.040Z,"Off the coast of Aisen, Chile",earthquake,8.29,3.485,0.086,13,reviewed,us,us
 2022-12-23T19:12:42.100Z,40.4980011,-124.3826675,17.48,2.11,md,6,315,0.1912,0.03,nc,nc73823781,2022-12-23T19:28:14.569Z,"13km SW of Ferndale, CA",earthquake,5.2,1.05,0.18,2,automatic,nc,nc
 2022-12-23T19:11:43.140Z,38.8263321,-122.8071671,0.08,0.27,md,8,98,0.003709,0.01,nc,nc73823776,2022-12-23T19:28:13.458Z,"7km NW of The Geysers, CA",earthquake,0.28,0.69,0.19,8,automatic,nc,nc
 2022-12-23T19:07:43.030Z,19.2600002288818,-155.412338256836,30.9300003051758,2.4,ml,44,121,,0.119999997,hv,hv73279652,2022-12-23T19:13:21.880Z,"9 km NE of Pāhala, Hawaii",earthquake,0.54,0.579999983,2.94,9,automatic,hv,hv
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T20:52:19.320Z,19.1883335113525,-155.464828491211,35.1800003051758,1.99000001,md,20,103,,0.100000001,hv,hv73278562,2022-12-22T20:55:28.370Z,"2 km SE of Pāhala, Hawaii",earthquake,0.65,1,2.03999996,4,automatic,hv,hv
 2022-12-22T20:48:07.070Z,51.8738333333333,-177.967333333333,3.38,1.17,ml,5,145,,0.22,av,av91736406,2022-12-23T00:55:48.440Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,1.48,0.114563514176869,5,reviewed,av,av
 2022-12-22T20:43:59.970Z,17.9991666666667,-66.9365,10.71,2.17,md,6,141,0.05952,0.09,pr,pr71388583,2022-12-22T21:00:27.470Z,"Puerto Rico",earthquake,0.33,0.59,0.0413318483684182,5,reviewed,pr,pr
-2022-12-22T20:28:41.313Z,36.6866,-116.3307,7.4,-0.4,ml,5,122.52,0.027,0.1406,nn,nn00854021,2022-12-23T02:43:11.186Z,"45 km ESE of Beatty, Nevada",earthquake,,5.1,0,1,reviewed,nn,nn
