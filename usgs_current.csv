@@ -2,7 +2,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T05:32:49.543Z,64.3628,-147.481,0,2.3,ml,,,,0.56,ak,ak022gei1122,2022-12-23T05:34:50.850Z,"33 km WSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-23T05:04:59.710Z,38.8241653,-122.8278351,2.07,0.8,md,7,106,0.005717,0.01,nc,nc73823496,2022-12-23T05:39:14.493Z,"8km NW of The Geysers, CA",earthquake,0.45,1.24,0.19,8,automatic,nc,nc
 2022-12-23T04:30:43.637Z,-6.2772,130.1256,145.341,4.4,mb,15,113,2.056,0.5,us,us6000jb8p,2022-12-23T04:46:32.040Z,"299 km WSW of Tual, Indonesia",earthquake,10.64,9.492,0.189,8,reviewed,us,us
+2022-12-23T04:23:07.460Z,58.2245,-155.204833333333,2.97,0.63,ml,4,166,,0.02,av,av91736781,2022-12-23T05:44:47.290Z,"Alaska Peninsula",earthquake,0.33,1.68,0.145194423330953,4,reviewed,av,av
 2022-12-23T04:12:34.607Z,-24.2612,-67.2402,216.801,4.3,mb,27,65,1.562,0.79,us,us6000jb8m,2022-12-23T04:29:49.040Z,"93 km W of San Antonio de los Cobres, Argentina",earthquake,9.88,9.673,0.217,6,reviewed,us,us
+2022-12-23T03:55:13.140Z,46.78366666666667,-120.66016666666667,8.66,1.58,ml,26,76,0.124,0.21,uw,uw61891142,2022-12-23T05:45:58.040Z,"6 km NNE of Naches, Washington",earthquake,0.27,0.4,0.15019970675910654,20,reviewed,uw,uw
 2022-12-23T03:45:05.083Z,63.0569,-150.9616,117.2,3.7,ml,,,,0.63,ak,ak022gegwuon,2022-12-23T04:11:52.731Z,"63 km N of Petersville, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-12-23T03:36:16.310Z,35.6601667,-117.4428333,5.67,1.63,ml,19,125,0.07518,0.21,ci,ci40149039,2022-12-23T03:46:33.190Z,"12km SSW of Searles Valley, CA",earthquake,0.47,1.51,0.123,22,automatic,ci,ci
 2022-12-23T03:28:33.640Z,34.4193333,-119.8241667,0.44,2.01,ml,21,90,0.1448,0.27,ci,ci40149031,2022-12-23T04:36:27.174Z,"2km S of Goleta, CA",earthquake,0.63,31.61,0.169,26,automatic,ci,ci
@@ -247,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T06:01:22.970Z,51.8581666666667,-177.965166666667,6.05,0.46,ml,5,132,,0.14,av,av91081493,2022-12-22T21:01:38.530Z,"91 km W of Adak, Alaska",earthquake,0.5,1.16,0.194437914334314,5,reviewed,av,av
 2022-12-22T06:01:10.200Z,51.8606666666667,-177.9815,6.34,0.99,ml,5,117,,0.14,av,av91735496,2022-12-22T20:59:17.750Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.54,0.96,0.195755573341705,5,reviewed,av,av
 2022-12-22T06:00:23.650Z,19.3055,-65.7618,79,3.57,md,15,266,1.1071,0.31,pr,pr2022356001,2022-12-22T06:37:08.670Z,"97 km N of Suárez, Puerto Rico",earthquake,3.74,6.82,0.08,6,reviewed,pr,pr
-2022-12-22T05:50:41.400Z,17.8805,-66.9075,12.96,2.41,md,19,244,0.09121,0.19,pr,pr71388503,2022-12-22T06:10:40.020Z,"Puerto Rico region",earthquake,0.64,0.42,0.121065092098539,6,reviewed,pr,pr
-2022-12-22T05:49:47.780Z,33.2308333,-116.7368333,11.67,0.59,ml,33,62,0.01908,0.17,ci,ci40148727,2022-12-22T16:54:11.313Z,"3km ESE of Lake Henshaw, CA",earthquake,0.23,0.6,0.258,8,reviewed,ci,ci
