@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T11:42:24.170Z,38.8300018,-122.8098297,1.96,0.97,md,20,43,0.0066,0.01,nc,nc73823631,2022-12-23T11:44:01.676Z,"8km NW of The Geysers, CA",earthquake,0.22,0.42,0.23,19,automatic,nc,nc
 2022-12-23T11:31:59.615Z,36.8464,-115.9694,0,-0.1,ml,8,157.4,0.052,0.2831,nn,nn00854050,2022-12-23T11:34:09.343Z,"40 km NW of Indian Springs, Nevada",earthquake,,0.6,0.07,3,automatic,nn,nn
 2022-12-23T11:25:38.217Z,38.1759,-117.8672,0.1,1,ml,10,179.17,0.081,0.2526,nn,nn00854049,2022-12-23T11:28:39.592Z,"31 km SE of Mina, Nevada",earthquake,,8.4,0.37,6,automatic,nn,nn
 2022-12-23T11:25:32.659Z,63.4401,-146.0664,3,1.6,ml,,,,0.69,ak,ak022gelk3dd,2022-12-23T11:27:06.656Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-23T11:20:26.810Z,19.3916664123535,-155.279998779297,1.35000002384186,1.9,ml,16,54,,0.0799999982,hv,hv73279217,2022-12-23T11:25:57.870Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.239999995,0.12,4,automatic,hv,hv
+2022-12-23T11:10:59.645Z,60.4956,60.0478,10,4.2,mb,23,109,4.212,0.44,us,us6000jba8,2022-12-23T11:44:29.040Z,"Ural Mountains region, Russia",earthquake,11.64,1.962,0.147,13,reviewed,us,us
 2022-12-23T11:07:18.627Z,35.27498245,-98.01886749,5,3.14,ml,65,37.84751892,0.07349966466,0.8644873248,ok,ok2022zbhc,2022-12-23T11:33:38.466Z,"7 km WSW of Minco, Oklahoma",earthquake,1.527286771,,,49,automatic,ok,ok
 2022-12-23T10:43:29.678Z,60.8201,-151.9027,95.8,2,ml,,,,0.35,ak,ak022gel2ifb,2022-12-23T10:45:24.184Z,"36 km WNW of Nikiski, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-12-23T10:41:33.870Z,38.1692,-118.1621,1.9,0.7,ml,9,155.53,0.264,0.0479,nn,nn00854048,2022-12-23T10:44:39.024Z,"25 km S of Mina, Nevada",earthquake,,11.5,0.21,4,automatic,nn,nn
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T10:27:14.220Z,38.8003349,-122.810997,0.39,1.19,md,7,170,0.0135,0.02,nc,nc73823621,2022-12-23T11:14:11.477Z,"5km WNW of The Geysers, CA",earthquake,0.43,0.91,0.13,10,automatic,nc,nc
 2022-12-23T10:24:14.390Z,19.2138328552246,-155.383331298828,31.3199996948242,1.75,md,35,165,,0.140000001,hv,hv73279167,2022-12-23T10:27:21.910Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.899999976,0.5,8,automatic,hv,hv
 2022-12-23T10:22:07.340Z,40.7298317,-124.0155029,7.6,1.96,md,13,247,0.2381,0.47,nc,nc73823616,2022-12-23T11:03:14.421Z,"12km E of Pine Hills, CA",earthquake,4.01,3.33,0.06,5,automatic,nc,nc
-2022-12-23T10:15:55.880Z,40.5690002,-124.3878326,16.16,2.31,md,7,306,0.2539,0.01,nc,nc73823606,2022-12-23T10:32:12.223Z,"10km W of Ferndale, CA",earthquake,3.66,0.47,0.05,3,automatic,nc,nc
+2022-12-23T10:15:55.880Z,40.5690002,-124.3878326,16.16,2.31,md,7,306,0.2539,0.01,nc,nc73823606,2022-12-23T11:46:10.808Z,"10km W of Ferndale, CA",earthquake,3.66,0.47,0.05,3,automatic,nc,nc
 2022-12-23T10:15:09.140Z,38.8344994,-122.810997,1.82,0.92,md,9,101,0.01111,0.01,nc,nc73823601,2022-12-23T10:32:12.366Z,"8km W of Cobb, CA",earthquake,0.68,0.48,0.73,9,automatic,nc,nc
 2022-12-23T10:11:50.820Z,33.0988333,-116.4035,9.86,0.87,ml,28,97,0.1565,0.22,ci,ci40149119,2022-12-23T10:15:20.336Z,"18km S of Borrego Springs, CA",earthquake,0.41,1.14,0.148,15,automatic,ci,ci
 2022-12-23T10:01:17.111Z,60.9452,-150.6412,44.9,2,ml,,,,0.18,ak,ak022gekthdr,2022-12-23T10:02:38.211Z,"3 km NE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -229,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T12:04:20.120Z,38.425,-122.242,4.49,1.44,md,28,58,0.01675,0.13,nc,nc73823046,2022-12-22T19:33:14.945Z,"11km ENE of Yountville, CA",earthquake,0.22,0.47,0.243,24,reviewed,nc,nc
 2022-12-22T12:01:29.250Z,19.2383327484131,-155.406005859375,31.8199996948242,2.25999999,md,43,134,,0.119999997,hv,hv73278242,2022-12-22T12:04:29.880Z,"Hawaii region, Hawaii",earthquake,0.56,0.709999979,1.5,19,automatic,hv,hv
 2022-12-22T11:49:55.860Z,40.3601667,-124.3346667,28.71,3.79,mw,30,206,0.05023,0.11,nc,nc73823036,2022-12-23T05:23:32.796Z,"6km NW of Petrolia, CA",earthquake,0.52,0.45,,3,reviewed,nc,nc
-2022-12-22T11:47:18.460Z,19.1616668701172,-155.494995117188,31.6200008392334,2.48,ml,44,153,,0.129999995,hv,hv73278227,2022-12-22T11:52:50.100Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.58,0.819999993,4,5,automatic,hv,hv
-2022-12-22T11:40:26.959Z,37.4642,-115.9791,15.3,1.1,ml,22,160.49,0.258,0.1636,nn,nn00854035,2022-12-23T02:43:20.677Z,"28 km SW of Rachel, Nevada",earthquake,,3.1,0.21,13,reviewed,nn,nn
