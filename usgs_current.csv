@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-24T14:51:39.950Z,37.6580009,-122.0680008,4.12,2.12,md,45,48,0.07757,0.12,nc,nc73824156,2022-12-24T14:58:11.560Z,"2km NNE of Hayward, CA",earthquake,0.18,0.64,0.12,40,automatic,nc,nc
+2022-12-24T14:47:26.070Z,32.9908333,-116.1693333,0.94,1.09,ml,21,66,0.1644,0.24,ci,ci40149399,2022-12-24T14:51:09.832Z,"17km SSW of Ocotillo Wells, CA",earthquake,0.39,31.61,0.168,19,automatic,ci,ci
 2022-12-24T14:43:08.285Z,61.7422,-151.7406,88.3,2,ml,,,,0.24,ak,ak022ggazjos,2022-12-24T14:44:32.661Z,"33 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-24T14:36:49.050Z,63.3698,-151.7682,8.6,1.9,ml,,,,0.67,ak,ak022ggay4tl,2022-12-24T14:40:25.131Z,"19 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-24T14:03:45.400Z,19.2013339996338,-155.380340576172,31.6700000762939,1.82000005,md,34,183,,0.119999997,hv,hv73280892,2022-12-24T14:07:20.630Z,"10 km E of Pāhala, Hawaii",earthquake,0.72,0.889999986,1.82000005,4,automatic,hv,hv
