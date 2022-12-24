@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-24T04:34:17.120Z,38.7866669,-122.7683334,2.58,0.71,md,11,102,0.01548,0.02,nc,nc73823991,2022-12-24T04:35:53.931Z,"2km NW of The Geysers, CA",earthquake,0.32,0.78,0.15,9,automatic,nc,nc
+2022-12-24T04:27:27.841Z,17.9212,-66.9438,15.064,3.8,ml,20,87,0.107,0.31,us,us6000jbe1,2022-12-24T04:35:46.817Z,"6 km SW of Guánica, Puerto Rico",earthquake,2.87,3.704,0.061,35,reviewed,us,us
+2022-12-24T04:24:55.440Z,19.4015007019043,-155.284164428711,-0.409999996423721,2.02999997,md,11,86,,0.289999992,hv,hv73280207,2022-12-24T04:27:57.570Z,"6 km SW of Volcano, Hawaii",earthquake,0.22,0.400000006,1.63,6,automatic,hv,hv
 2022-12-24T04:13:41.160Z,33.6708333,-116.7658333,10.33,0.52,ml,19,70,0.05894,0.12,ci,ci40149287,2022-12-24T04:17:18.196Z,"9km SSW of Idyllwild, CA",earthquake,0.24,0.4,0.105,11,automatic,ci,ci
+2022-12-24T04:13:31.771Z,59.9936,-152.1483,87.5,2.2,ml,,,,0.39,ak,ak022gg4utz0,2022-12-24T04:26:09.530Z,"23 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-24T04:00:29.616Z,-27.6183,-177.0612,12.588,5,mb,22,121,1.804,1.26,us,us6000jbdv,2022-12-24T04:22:21.040Z,"Kermadec Islands region",earthquake,11.02,3.264,0.102,31,reviewed,us,us
-2022-12-24T03:40:10.020Z,38.8040009,-122.7555008,0.72,1.11,md,13,65,,0.03,nc,nc73823971,2022-12-24T04:12:10.793Z,"3km N of The Geysers, CA",earthquake,0.25,0.59,0.22,13,automatic,nc,nc
+2022-12-24T03:40:10.020Z,38.8040009,-122.7555008,0.72,1.11,md,13,65,,0.03,nc,nc73823971,2022-12-24T04:33:13.901Z,"3km N of The Geysers, CA",earthquake,0.25,0.59,0.22,13,automatic,nc,nc
 2022-12-24T03:31:16.650Z,19.1189994812012,-155.424163818359,31.6900005340576,1.70000005,md,33,220,,0.109999999,hv,hv73280127,2022-12-24T03:34:37.670Z,"10 km SSE of Pāhala, Hawaii",earthquake,0.61,0.930000007,1.71000004,4,automatic,hv,hv
 2022-12-24T03:29:13.180Z,19.170166015625,-155.503829956055,30.3600006103516,1.91999996,md,28,153,,0.150000006,hv,hv73280122,2022-12-24T03:32:28.000Z,"4 km SW of Pāhala, Hawaii",earthquake,0.87,1.23000002,1.5,6,automatic,hv,hv
 2022-12-24T03:22:25.600Z,17.9891666666667,-67.0028333333333,10.13,2.19,md,6,148,0.04401,0.04,pr,pr71388728,2022-12-24T04:04:10.000Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.4,0.66,0.0487818893979357,4,reviewed,pr,pr
@@ -217,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T05:18:02.290Z,18.4836666666667,-66.641,15.19,2.86,md,15,244,0.1734,0.12,pr,pr71388633,2022-12-23T06:44:56.926Z,"4 km N of Animas, Puerto Rico",earthquake,0.36,0.43,0.083858599883192,8,reviewed,pr,pr
 2022-12-23T05:04:59.710Z,38.8241653,-122.8278351,2.07,0.8,md,7,106,0.005717,0.01,nc,nc73823496,2022-12-23T05:39:14.493Z,"8km NW of The Geysers, CA",earthquake,0.45,1.24,0.19,8,automatic,nc,nc
 2022-12-23T04:41:22.330Z,40.5286667,-124.3021667,17.23,1.71,md,18,179,0.05578,0.06,nc,nc73823491,2022-12-23T18:47:18.346Z,"6km SSW of Ferndale, CA",earthquake,0.61,0.3,0.112,10,reviewed,nc,nc
-2022-12-23T04:30:43.637Z,-6.2772,130.1256,145.341,4.4,mb,15,113,2.056,0.5,us,us6000jb8p,2022-12-23T04:46:32.040Z,"299 km WSW of Tual, Indonesia",earthquake,10.64,9.492,0.189,8,reviewed,us,us
