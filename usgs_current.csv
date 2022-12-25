@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-25T14:38:00.604Z,63.5566,-147.8474,0,2.1,ml,,,,0.79,ak,ak022ghyht0c,2022-12-25T14:39:47.941Z,"56 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-25T14:14:34.030Z,38.833168,-122.817337,1.79,0.66,md,12,56,0.01129,0.01,nc,nc73824691,2022-12-25T14:16:07.959Z,"8km NW of The Geysers, CA",earthquake,0.32,0.75,0.43,12,automatic,nc,nc
 2022-12-25T14:10:15.367Z,63.5624,-147.5305,1,1.6,ml,,,,0.61,ak,ak022ghybu3k,2022-12-25T14:12:03.317Z,"71 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-25T14:08:00.340Z,38.8203316,-122.7860031,1.84,1.08,md,15,55,0.008194,0.02,nc,nc73824686,2022-12-25T14:09:37.677Z,"5km NNW of The Geysers, CA",earthquake,0.27,0.51,0.29,15,automatic,nc,nc
 2022-12-25T14:05:50.970Z,38.8334999,-122.81633,1.81,0.88,md,14,57,0.01121,0.02,nc,nc73824681,2022-12-25T14:31:11.159Z,"8km NW of The Geysers, CA",earthquake,0.27,0.69,0.22,15,automatic,nc,nc
-2022-12-25T14:05:03.180Z,38.8321648,-122.81633,1.73,1.33,md,28,53,0.01003,0.02,nc,nc73824676,2022-12-25T14:20:11.091Z,"8km NW of The Geysers, CA",earthquake,0.17,0.32,0.11,27,automatic,nc,nc
+2022-12-25T14:05:03.180Z,38.8321648,-122.81633,1.73,1.33,md,28,53,0.01003,0.02,nc,nc73824676,2022-12-25T14:40:10.201Z,"8km NW of The Geysers, CA",earthquake,0.17,0.32,0.11,27,automatic,nc,nc
 2022-12-25T14:04:58.584Z,64.838,-148.9699,19.1,1.4,ml,,,,0.2,ak,ak022ghyan4y,2022-12-25T14:07:10.320Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-25T13:49:44.052Z,62.2646,-151.0743,74.1,1.8,ml,,,,0.13,ak,ak022ghxytmt,2022-12-25T13:51:32.210Z,"30 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-25T13:43:42.251Z,59.9673,-140.9401,18.1,1.8,ml,,,,0.56,ak,ak022ghxxj75,2022-12-25T13:45:36.270Z,"82 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T13:21:46.563Z,60.9693,-150.2585,44.9,1.6,ml,,,,0.79,ak,ak022ghxsts0,2022-12-25T13:23:36.093Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-25T13:09:12.550Z,33.0153333,-116.4316667,6.9,1.79,ml,53,44,0.1364,0.21,ci,ci40149727,2022-12-25T13:28:47.097Z,"17km ESE of Julian, CA",earthquake,0.21,0.93,0.142,26,automatic,ci,ci
 2022-12-25T12:56:43.520Z,19.1126670837402,-155.424499511719,32.7400016784668,2.02999997,md,32,183,,0.100000001,hv,hv73282337,2022-12-25T12:59:52.760Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.57,1.14999998,0.829999983,5,automatic,hv,hv
-2022-12-25T12:52:56.310Z,40.5188332,-124.3635025,14.99,2.54,md,12,216,0.04756,0.17,nc,nc73824656,2022-12-25T14:12:42.874Z,"11km SW of Ferndale, CA",earthquake,1.98,0.88,0.07,9,automatic,nc,nc
+2022-12-25T12:52:56.310Z,40.5188332,-124.3635025,14.99,2.54,md,12,216,0.04756,0.17,nc,nc73824656,2022-12-25T14:34:13.176Z,"11km SW of Ferndale, CA",earthquake,1.98,0.88,0.07,9,automatic,nc,nc
 2022-12-25T12:36:37.150Z,38.8235016,-122.7945023,2.72,0.85,md,17,50,0.01216,0.01,nc,nc73824651,2022-12-25T12:38:12.933Z,"6km NNW of The Geysers, CA",earthquake,0.27,0.65,0.2,18,automatic,nc,nc
 2022-12-25T12:29:57.570Z,40.5079994,-124.0268326,13.99,1.54,md,6,294,0.07555,0.01,nc,nc73824646,2022-12-25T14:19:12.220Z,"7km E of Rio Dell, CA",earthquake,3.91,2.26,,1,automatic,nc,nc
 2022-12-25T12:21:41.260Z,40.5316658,-124.3036652,15.18,2.16,md,8,290,0.1804,0.08,nc,nc73824641,2022-12-25T13:52:12.931Z,"6km SW of Ferndale, CA",earthquake,3.97,1.51,0.11,5,automatic,nc,nc
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T14:47:26.070Z,32.9908333,-116.1693333,0.94,1.09,ml,21,66,0.1644,0.24,ci,ci40149399,2022-12-24T14:51:09.832Z,"17km SSW of Ocotillo Wells, CA",earthquake,0.39,31.61,0.168,19,automatic,ci,ci
 2022-12-24T14:47:16.470Z,51.8398333333333,-178.031833333333,-1.19,1.25,ml,4,110,,0.32,av,av91081708,2022-12-25T06:24:22.390Z,"96 km W of Adak, Alaska",earthquake,0.78,2.14,0.48846293349626,4,reviewed,av,av
 2022-12-24T14:43:08.285Z,61.7422,-151.7406,88.3,2,ml,,,,0.24,ak,ak022ggazjos,2022-12-24T14:44:32.661Z,"33 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-24T14:36:49.050Z,63.3698,-151.7682,8.6,1.9,ml,,,,0.67,ak,ak022ggay4tl,2022-12-24T14:40:25.131Z,"19 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
