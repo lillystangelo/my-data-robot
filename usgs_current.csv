@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-26T02:17:17.790Z,40.5421677,-124.1963348,11.43,1.89,md,7,273,0.1375,0.07,nc,nc73825031,2022-12-26T02:18:54.674Z,"7km ESE of Ferndale, CA",earthquake,2.72,1.2,0.08,2,automatic,nc,nc
+2022-12-26T02:33:40.820Z,35.9098333,-116.927,0.2,2.05,ml,14,133,0.2899,0.13,ci,ci40150047,2022-12-26T02:37:07.272Z,"44km ENE of Trona, CA",earthquake,0.56,31.61,0.126,27,automatic,ci,ci
+2022-12-26T02:29:29.670Z,19.1468334197998,-155.351837158203,26.2299995422363,1.99000001,md,28,184,,0.180000007,hv,hv73283087,2022-12-26T02:32:41.300Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.64,1.28999996,0.99000001,14,automatic,hv,hv
+2022-12-26T02:29:25.200Z,19.1599998474121,-155.488830566406,26.7199993133545,2.96000004,md,21,227,,0.189999998,hv,hv73283082,2022-12-26T02:32:35.560Z,"4 km SSW of Pāhala, Hawaii",earthquake,1.15,1.48000002,2.96000004,4,automatic,hv,hv
+2022-12-26T02:17:17.790Z,40.5421677,-124.1963348,11.43,1.89,md,7,273,0.1375,0.07,nc,nc73825031,2022-12-26T02:40:13.381Z,"7km ESE of Ferndale, CA",earthquake,2.72,1.2,0.08,2,automatic,nc,nc
 2022-12-26T02:17:13.960Z,33.4135,-116.6353333,9.17,0.73,ml,27,64,0.08559,0.14,ci,ci40150039,2022-12-26T02:20:43.787Z,"15km N of Warner Springs, CA",earthquake,0.21,0.65,0.173,20,automatic,ci,ci
-2022-12-26T02:12:16.250Z,38.7558327,-122.7243347,2.73,1.91,md,36,49,,0.06,nc,nc73825026,2022-12-26T02:27:11.304Z,"4km SW of Anderson Springs, CA",earthquake,0.24,0.36,0.17,36,automatic,nc,nc
+2022-12-26T02:12:16.250Z,38.7558327,-122.7243347,2.73,1.91,md,36,49,,0.06,nc,nc73825026,2022-12-26T02:44:10.403Z,"4km SW of Anderson Springs, CA",earthquake,0.24,0.36,0.17,36,automatic,nc,nc
 2022-12-26T01:36:51.630Z,33.7468333,-115.9158333,6.03,1.24,ml,25,111,0.07835,0.19,ci,ci40150031,2022-12-26T01:47:49.460Z,"24km ENE of Thermal, CA",earthquake,0.34,1.31,0.17,26,automatic,ci,ci
 2022-12-26T01:24:30.804Z,60.0931,-151.4336,22.2,2.2,ml,,,,0.81,ak,ak022gje7ky0,2022-12-26T01:25:56.662Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-26T01:23:25.040Z,38.7820015,-122.7300034,0.48,0.78,md,10,78,0.005396,0.02,nc,nc73825006,2022-12-26T02:04:15.154Z,"2km ENE of The Geysers, CA",earthquake,0.29,0.77,0.21,10,automatic,nc,nc
@@ -215,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T03:11:41.260Z,32.665,-115.6776667,9.53,1.02,ml,14,125,0.04396,0.21,ci,ci40149551,2022-12-25T03:15:12.027Z,"13km NW of Progreso, B.C., MX",earthquake,0.53,0.78,0.253,9,automatic,ci,ci
 2022-12-25T03:04:44.016Z,61.7657,-149.5955,33.3,1.9,ml,,,,0.71,ak,ak022ghrqucx,2022-12-25T03:21:59.046Z,"15 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-25T02:57:33.593Z,60.3713,-150.7845,41.3,1.9,ml,,,,0.29,ak,ak022ghrgqwf,2022-12-25T02:59:20.072Z,"14 km S of Funny River, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-25T02:41:35.980Z,19.1805000305176,-155.498840332031,35.2700004577637,2.58,ml,40,94,,0.109999999,hv,hv73281637,2022-12-25T04:12:47.648Z,"3 km SW of Pāhala, Hawaii",earthquake,0.58,0.930000007,3.28,19,automatic,hv,hv
-2022-12-25T02:33:06.498Z,63.8711,-148.7323,109.9,2.2,ml,,,,0.23,ak,ak022ghrbjmh,2022-12-25T03:17:19.040Z,"11 km E of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-12-25T02:30:24.700Z,33.0413333,-116.4086667,2.16,0.8,ml,25,78,0.1237,0.19,ci,ci40149535,2022-12-25T02:34:07.756Z,"18km ESE of Julian, CA",earthquake,0.25,0.82,0.128,11,automatic,ci,ci
