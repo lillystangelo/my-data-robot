@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-28T15:15:20.558Z,59.3992,-153.0218,71.4,1.9,ml,,,,0.78,ak,ak022gmxke5z,2022-12-28T15:18:12.763Z,"62 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-28T14:59:18.656Z,63.7827,-150.1045,3.1,1.5,ml,,,,0.71,ak,ak022gmx8dx5,2022-12-28T15:01:04.126Z,"55 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-28T14:55:20.650Z,38.8363342,-122.81633,1.2,0.32,md,9,69,0.01381,0.01,nc,nc73825981,2022-12-28T15:11:15.641Z,"8km W of Cobb, CA",earthquake,0.38,1.06,0.22,12,automatic,nc,nc
+2022-12-28T14:55:20.650Z,38.8363342,-122.81633,1.2,0.32,md,9,69,0.01381,0.01,nc,nc73825981,2022-12-28T15:28:12.754Z,"8km W of Cobb, CA",earthquake,0.38,1.06,0.22,12,automatic,nc,nc
 2022-12-28T14:53:31.501Z,36.53846741,-98.96805573,2.844576597,2.65,ml,26,49.77682495,0.04899346456,0.5296105712,ok,ok2022zksb,2022-12-28T15:05:30.284Z,"9 km WSW of Waynoka, Oklahoma",earthquake,2.608140453,1.564899734,,19,automatic,ok,ok
 2022-12-28T14:41:46.728Z,61.5486,-149.8096,32.8,1.5,ml,,,,0.47,ak,ak022gmx4l74,2022-12-28T14:43:25.437Z,"8 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T14:13:49.290Z,32.6766667,-115.8263333,5.23,1.94,ml,24,81,0.08861,0.24,ci,ci40150863,2022-12-28T14:24:33.060Z,"17km ESE of Ocotillo, CA",earthquake,0.5,1.73,0.239,27,automatic,ci,ci
@@ -162,4 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T15:48:26.080Z,64.8888,-147.3547,15.4,0.7,ml,,,,0.27,ak,ak022gla84q8,2022-12-27T15:50:52.183Z,"13 km NE of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-27T15:43:08.500Z,34.5465,-119.1788333,2.05,1.69,ml,30,37,0.0863,0.27,ci,ci40150615,2022-12-27T15:54:00.440Z,"12km NNE of Ojai, CA",earthquake,0.33,0.93,0.204,30,automatic,ci,ci
 2022-12-27T15:29:36.307Z,61.6918,-146.5136,19.9,2.1,ml,,,,0.99,ak,ak022gla42wu,2022-12-27T15:31:32.715Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-27T15:28:25.360Z,33.2673333,-116.4221667,4.53,1.23,ml,30,50,0.004283,0.19,ci,ci40150607,2022-12-27T16:04:12.835Z,"5km WNW of Borrego Springs, CA",earthquake,0.29,0.69,0.17,27,reviewed,ci,ci
