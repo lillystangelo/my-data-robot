@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T21:00:30.320Z,33.857,-117.5066667,0.58,1.12,ml,29,48,0.04897,0.28,ci,ci40150911,2022-12-28T21:04:14.071Z,"3km SSE of Home Gardens, CA",quarry blast,0.49,31.61,0.237,30,automatic,ci,ci
 2022-12-28T20:52:09.050Z,38.7961655,-122.7621689,0.93,0.34,md,9,70,0.004849,0.03,nc,nc73826076,2022-12-28T21:20:12.895Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.59,0.12,9,automatic,nc,nc
 2022-12-28T20:48:09.099Z,60.204,-152.4996,98.8,1.8,ml,,,,0.44,ak,ak022gn0qlxp,2022-12-28T20:50:53.264Z,"49 km WNW of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2022-12-28T20:38:09.152Z,-30.6459,-71.2959,57.383,4.8,mb,34,79,0.294,1.12,us,us7000j0pf,2022-12-28T20:50:49.040Z,"10 km WSW of Ovalle, Chile",earthquake,6.16,6.828,0.154,13,reviewed,us,us
-2022-12-28T20:37:32.793Z,61.4598,-150.1689,16.5,2.6,ml,,,,0.74,ak,ak022gn0oaxr,2022-12-28T22:13:56.852Z,"13 km WSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
