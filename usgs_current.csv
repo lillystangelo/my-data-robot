@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-29T15:02:24.560Z,38.8390007,-122.8373337,1.14,1.95,md,33,83,,0.03,nc,nc73826406,2022-12-29T15:05:06.619Z,"10km NW of The Geysers, CA",earthquake,0.16,0.23,0.17,37,automatic,nc,nc
+2022-12-29T15:19:57.820Z,65.7897,-149.8437,3.1,1.5,ml,,,,0.63,ak,ak022gol4oee,2022-12-29T15:21:48.004Z,"35 km NNE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-12-29T15:18:43.690Z,38.7906685,-122.7606659,1.3,1.06,md,15,64,0.00997,0.02,nc,nc73826411,2022-12-29T15:20:21.629Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.46,0.18,15,automatic,nc,nc
+2022-12-29T15:02:24.560Z,38.8390007,-122.8373337,1.14,1.95,md,33,83,,0.03,nc,nc73826406,2022-12-29T15:18:13.781Z,"10km NW of The Geysers, CA",earthquake,0.16,0.23,0.17,37,automatic,nc,nc
 2022-12-29T14:59:42.978Z,63.3087,-152.2032,4.2,1.9,ml,,,,1.48,ak,ak022gokrsah,2022-12-29T15:02:11.645Z,"35 km SW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-29T14:55:38.442Z,58.2518,-155.1471,0,0.7,ml,,,,0.19,ak,ak022gokqx2s,2022-12-29T14:57:42.050Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
 2022-12-29T14:53:10.720Z,62.7036,-151.8771,4.6,1.8,ml,,,,0.46,ak,ak022gokqfi8,2022-12-29T14:54:55.948Z,"61 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
