@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-29T06:10:41.040Z,35.6236667,-117.4168333,5.37,1.83,ml,26,100,0.05236,0.14,ci,ci40150991,2022-12-29T06:14:07.885Z,"16km SSW of Trona, CA",earthquake,0.29,0.8,0.132,27,automatic,ci,ci
+2022-12-29T06:30:06.693Z,63.0542,-150.709,109,1.8,ml,,,,0.71,ak,ak022gofu0vx,2022-12-29T06:32:41.769Z,"62 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-29T06:10:51.440Z,-23.5885,-176.2934,133.175,5.2,mb,48,118,2.61,0.55,us,us7000j0sk,2022-12-29T06:30:20.040Z,"285 km SSW of ‘Ohonua, Tonga",earthquake,7.54,8.539,0.084,49,reviewed,us,us
+2022-12-29T06:10:41.040Z,35.6236667,-117.4168333,5.37,1.83,ml,26,100,0.05236,0.14,ci,ci40150991,2022-12-29T06:21:17.490Z,"16km SSW of Trona, CA",earthquake,0.29,0.8,0.132,27,automatic,ci,ci
 2022-12-29T06:05:45.959Z,59.9871,-152.9472,114.1,1.9,ml,,,,0.28,ak,ak022gofor0j,2022-12-29T06:07:29.583Z,"66 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-29T06:02:07.330Z,38.8279991,-122.8130035,2.12,1.24,md,27,42,0.005135,0.02,nc,nc73826256,2022-12-29T06:16:10.169Z,"8km NW of The Geysers, CA",earthquake,0.19,0.36,0.19,27,automatic,nc,nc
 2022-12-29T06:01:14.456Z,62.9787,-150.8161,101.2,2.4,ml,,,,0.65,ak,ak022gofntpx,2022-12-29T06:16:30.040Z,"53 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -200,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T06:56:51.482Z,58.2246,-154.8441,3.3,0.6,ml,,,,0.18,ak,ak022gmsgch2,2022-12-28T06:59:19.712Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2022-12-28T06:44:50.931Z,60.3722,-141.4154,16.2,2.3,ml,,,,0.56,ak,ak022gmsdrtx,2022-12-28T06:46:26.667Z,"131 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T06:44:12.707Z,60.1392,-152.7862,111.2,2.4,ml,,,,0.46,ak,ak022gmsdovh,2022-12-28T06:45:50.575Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-28T06:33:37.223Z,61.7522,-151.0038,62.1,1.5,ml,,,,0.24,ak,ak022gmsbdwa,2022-12-28T06:34:58.800Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-12-28T06:23:31.770Z,38.8264999,-122.8515015,1.85,0.63,md,8,149,0.004323,0.01,nc,nc73825916,2022-12-28T06:40:13.405Z,"10km WNW of The Geysers, CA",earthquake,0.63,0.9,0.47,8,automatic,nc,nc
