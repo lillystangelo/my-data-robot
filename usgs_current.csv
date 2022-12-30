@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T10:13:32.420Z,33.5235,-116.4586667,7.87,0.61,ml,24,71,0.06928,0.18,ci,ci40151447,2022-12-30T10:17:08.989Z,"20km E of Anza, CA",earthquake,0.29,0.76,0.124,15,automatic,ci,ci
 2022-12-30T09:45:15.250Z,33.6653333,-116.7573333,12.6,1.37,ml,46,35,0.05818,0.17,ci,ci40151431,2022-12-30T09:56:28.560Z,"9km SSW of Idyllwild, CA",earthquake,0.21,0.39,0.24,26,automatic,ci,ci
 2022-12-30T09:45:10.390Z,33.6085,-116.6893333,0.47,0.09,ml,16,48,0.05875,0.36,ci,ci40151439,2022-12-30T09:49:01.544Z,"6km NNW of Anza, CA",earthquake,0.61,0.97,0.402,4,automatic,ci,ci
-2022-12-30T09:42:04.853Z,-21.9068,-174.5002,10,5.4,mww,32,112,0.983,0.87,us,us7000j11e,2022-12-30T11:19:04.453Z,"78 km SE of ‘Ohonua, Tonga",earthquake,7.82,1.796,0.089,12,reviewed,us,us
+2022-12-30T09:42:04.853Z,-21.9068,-174.5002,10,5.4,mww,32,112,0.983,0.87,us,us7000j11e,2022-12-30T11:44:04.022Z,"78 km SE of ‘Ohonua, Tonga",earthquake,7.82,1.796,0.089,12,reviewed,us,us
 2022-12-30T09:37:27.320Z,38.809166,-122.8111649,3.73,0.75,md,10,94,0.01245,0.02,nc,nc73826716,2022-12-30T10:07:14.282Z,"6km NW of The Geysers, CA",earthquake,0.75,1.64,0.19,12,automatic,nc,nc
 2022-12-30T09:36:49.860Z,19.1863327026367,-155.489669799805,29.4400005340576,1.83000004,md,32,151,,0.119999997,hv,hv73287517,2022-12-30T09:40:01.460Z,"Hawaii region, Hawaii",earthquake,0.59,1.05999994,1.37,6,automatic,hv,hv
 2022-12-30T09:09:50.617Z,62.2555,-151.0647,73.1,1.8,ml,,,,0.45,ak,ak022gq519jp,2022-12-30T09:12:28.454Z,"30 km SSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
