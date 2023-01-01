@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T04:27:07.790Z,33.9598333,-116.6365,14.53,1.1,ml,36,61,0.05419,0.18,ci,ci40151615,2022-12-31T04:30:45.618Z,"11km NW of Garnet, CA",earthquake,0.23,0.57,0.153,26,automatic,ci,ci
 2022-12-31T04:14:33.170Z,19.4021666666667,-155.283166666667,1.18,0.25,md,11,87,,0.13,hv,hv73288427,2022-12-31T08:46:02.070Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.44,0.0100555364548378,2,reviewed,hv,hv
 2022-12-31T04:11:06.310Z,19.4033333333333,-155.270833333333,0.49,0.49,md,12,66,,0.09,hv,hv73288422,2022-12-31T08:42:14.720Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.32,0.180918825860521,2,reviewed,hv,hv
-2022-12-31T03:57:50.697Z,63.8512,-148.7568,0.7,1.9,ml,,,,0.47,ak,ak022grpaasd,2022-12-31T03:59:38.074Z,"10 km E of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
