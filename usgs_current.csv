@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T10:33:51.760Z,40.550499,-124.0016632,19.68,2.39,md,17,160,0.1612,0.1,nc,nc73827486,2023-01-01T10:35:29.718Z,"8km E of Hydesville, CA",earthquake,0.46,0.81,0.05,11,automatic,nc,nc
+2023-01-01T10:32:57.010Z,38.8333321,-122.8148346,1.81,0.77,md,13,73,0.0106,0.02,nc,nc73827481,2023-01-01T10:34:34.591Z,"8km NW of The Geysers, CA",earthquake,0.26,0.69,0.16,13,automatic,nc,nc
+2023-01-01T10:31:21.840Z,38.8330002,-122.8153305,1.74,1.04,md,16,73,0.01043,0.02,nc,nc73827476,2023-01-01T10:32:59.682Z,"8km NW of The Geysers, CA",earthquake,0.23,0.44,0.14,16,automatic,nc,nc
 2023-01-01T10:20:42.720Z,33.554,-116.6115,14.64,0.85,ml,24,63,0.002399,0.14,ci,ci40152615,2023-01-01T10:24:25.419Z,"6km E of Anza, CA",earthquake,0.29,0.39,0.14,19,automatic,ci,ci
 2023-01-01T10:19:20.460Z,33.5563333,-116.6065,15.24,0.95,ml,20,81,0.006936,0.16,ci,ci40152607,2023-01-01T10:22:48.857Z,"6km E of Anza, CA",earthquake,0.34,0.45,0.175,18,automatic,ci,ci
 2023-01-01T10:16:21.190Z,33.4018333,-116.38,2.18,0.82,ml,16,149,0.1369,0.21,ci,ci40152599,2023-01-01T10:20:00.032Z,"16km N of Borrego Springs, CA",earthquake,0.52,1.19,0.114,18,automatic,ci,ci
