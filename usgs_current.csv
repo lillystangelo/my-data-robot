@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-01T18:35:04.650Z,40.4124985,-123.9703369,27.77,4.94,ml,23,86,,0.07,nc,nc73827571,2023-01-01T18:39:03.552Z,"15km SE of Rio Dell, CA",earthquake,0.34,0.86,0.336,43,automatic,nc,nc
-2023-01-01T18:34:14.530Z,19.0860004425049,-156.228332519531,15.6300001144409,3.50999999,md,46,254,,0.330000013,hv,hv73290972,2023-01-01T18:38:45.770Z,"48 km W of Hawaiian Ocean View, Hawaii",earthquake,4.06,24.7000008,1.89999998,41,automatic,hv,hv
-2023-01-01T18:24:34.020Z,-2.5692,140.8021,44.062,5.4,mww,76,45,8.551,0.71,us,us7000j1g5,2023-01-01T18:39:38.040Z,"10 km ESE of Jayapura, Indonesia",earthquake,9.37,4.914,0.093,11,reviewed,us,us
+2023-01-01T18:47:36.160Z,38.8139992,-122.8271637,1.94,0.76,md,10,103,0.00536,0.02,nc,nc73827586,2023-01-01T18:49:11.610Z,"7km WNW of The Geysers, CA",earthquake,0.4,0.8,0.33,10,automatic,nc,nc
+2023-01-01T18:46:18.310Z,40.4368324,-124.0070038,24.43,1.84,md,11,196,0.08903,0.08,nc,nc73827581,2023-01-01T18:47:55.870Z,"11km SE of Rio Dell, CA",earthquake,1.54,2.43,0.1,6,automatic,nc,nc
+2023-01-01T18:43:49.350Z,40.4336662,-124.0121689,23.85,2.02,md,12,117,0.08451,0.07,nc,nc73827576,2023-01-01T18:45:26.209Z,"11km SE of Rio Dell, CA",earthquake,0.68,1.24,0.04,8,automatic,nc,nc
+2023-01-01T18:35:04.650Z,40.4124985,-123.9703369,27.77,5.41,mw,23,86,,0.07,nc,nc73827571,2023-01-01T18:46:50.474Z,"15km SE of Rio Dell, CA",earthquake,0.34,0.86,,4,reviewed,nc,nc
+2023-01-01T18:34:14.530Z,19.0860004425049,-156.228332519531,15.6300001144409,3.54,ml,46,254,,0.330000013,hv,hv73290972,2023-01-01T18:43:39.610Z,"48 km W of Hawaiian Ocean View, Hawaii",earthquake,4.06,24.7000008,3.92,29,automatic,hv,hv
+2023-01-01T18:24:34.020Z,-2.5692,140.8021,44.062,5.4,mww,76,45,8.551,0.71,us,us7000j1g5,2023-01-01T18:48:38.544Z,"10 km ESE of Jayapura, Indonesia",earthquake,9.37,4.914,0.093,11,reviewed,us,us
 2023-01-01T18:19:18.920Z,32.9141667,-116.2815,11.26,1.24,ml,17,101,0.04432,0.17,ci,ci40152751,2023-01-01T18:22:50.313Z,"25km ENE of Pine Valley, CA",earthquake,0.31,0.47,0.135,15,automatic,ci,ci
 2023-01-01T18:04:18.235Z,64.7185,-147.7765,14.5,1.4,ml,,,,0.33,ak,ak0231ya1jq,2023-01-01T18:07:31.896Z,"10 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-01T18:04:02.606Z,37.1661,-116.27,10,1.1,ml,10,157.92,0.066,0.1791,nn,nn00854398,2023-01-01T18:06:03.405Z,"Nevada",earthquake,,1.5,1.29,5,automatic,nn,nn
