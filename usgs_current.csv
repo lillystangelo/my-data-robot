@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T09:34:56.300Z,35.8081665,-121.3830032,8.74,2.06,md,16,209,0.2249,0.11,nc,nc73827471,2023-01-01T09:41:12.630Z,"25km NW of San Simeon, CA",earthquake,0.99,0.8,0.17,13,automatic,nc,nc
 2023-01-01T09:33:29.300Z,33.4021667,-116.3803333,2.22,1.14,ml,30,36,0.1267,0.22,ci,ci40152591,2023-01-01T09:37:10.325Z,"16km N of Borrego Springs, CA",earthquake,0.32,1.15,0.16,26,automatic,ci,ci
 2023-01-01T09:07:25.820Z,35.8204994,-121.3613358,3.13,2.7,md,36,182,0.2181,0.24,nc,nc73827466,2023-01-01T09:36:10.603Z,"25km NW of San Simeon, CA",earthquake,0.76,3,0.11,31,automatic,nc,nc
-2023-01-01T09:06:48.150Z,17.9266,-66.9146,14,3.81,md,27,225,0.06,0.12,pr,pr2023001001,2023-01-01T09:37:59.199Z,"5 km S of Guánica, Puerto Rico",earthquake,0.65,0.52,0.13,22,reviewed,pr,pr
+2023-01-01T09:06:48.150Z,17.9266,-66.9146,14,3.81,md,27,225,0.06,0.12,pr,pr2023001001,2023-01-01T09:45:23.043Z,"5 km S of Guánica, Puerto Rico",earthquake,0.65,0.52,0.13,22,reviewed,pr,pr
 2023-01-01T09:05:49.810Z,19.2533340454102,-155.401168823242,31.7399997711182,1.74000001,md,33,147,,0.129999995,hv,hv73290447,2023-01-01T09:09:01.550Z,"Island of Hawaii, Hawaii",earthquake,0.63,1.11000001,0.860000014,3,automatic,hv,hv
 2023-01-01T09:04:40.710Z,17.8303333333333,-65.9855,10.92,2.78,md,8,245,0.1773,0.14,pr,pr71390148,2023-01-01T09:28:26.140Z,"Puerto Rico region",earthquake,0.87,0.63,0.126662943848781,7,reviewed,pr,pr
 2023-01-01T08:58:03.190Z,17.9823333333333,-66.9993333333333,12.94,2.53,md,6,190,0.1021,0.14,pr,pr71390133,2023-01-01T09:29:02.140Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.65,0.49,0.0880066643267032,6,reviewed,pr,pr
@@ -240,6 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T10:38:57.620Z,19.4135,-155.2645,2.85,1.53,md,16,67,,0.12,hv,hv73288962,2022-12-31T12:31:39.290Z,"4 km SW of Volcano, Hawaii",earthquake,0.26,0.42,0.155636410326844,3,reviewed,hv,hv
 2022-12-31T10:17:48.200Z,33.3688333,-116.7095,8.65,0.35,ml,24,57,0.1251,0.17,ci,ci40151695,2022-12-31T12:43:36.158Z,"12km NW of Warner Springs, CA",earthquake,0.32,1.43,0.146,10,reviewed,ci,ci
 2022-12-31T10:06:28.190Z,17.9135,-66.7741666666667,6.04,2.35,md,15,234,0.09881,0.07,pr,pr71390003,2022-12-31T10:43:24.240Z,"10 km SSE of Indios, Puerto Rico",earthquake,0.46,0.22,0.189642574664345,9,reviewed,pr,pr
-2022-12-31T09:50:46.531Z,58.1711,-155.4053,1.1,0.5,ml,,,,0.14,ak,ak022grste31,2022-12-31T09:53:45.342Z,"87 km NW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2022-12-31T09:47:35.133Z,61.3165,-150.5136,31.9,1.4,ml,,,,1.12,ak,ak022grssq21,2022-12-31T09:51:11.346Z,"25 km S of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-31T09:47:12.510Z,33.4576667,-116.8235,13.93,0.56,ml,24,51,0.1294,0.18,ci,ci40151687,2022-12-31T12:43:42.142Z,"4km ENE of Aguanga, CA",earthquake,0.28,1.03,0.123,13,reviewed,ci,ci
