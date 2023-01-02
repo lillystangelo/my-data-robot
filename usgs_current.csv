@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-02T10:40:38.330Z,38.8061676,-122.8075027,0.83,1.06,md,8,186,0.0097,0.03,nc,nc73827911,2023-01-02T10:42:12.976Z,"6km NW of The Geysers, CA",earthquake,0.64,0.93,0.22,8,automatic,nc,nc
 2023-01-02T10:36:40.938Z,60.2572,-153.3922,163.7,2.6,ml,,,,0.46,ak,ak0233h8ty7,2023-01-02T10:38:47.517Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-02T10:30:56.680Z,59.26,-151.7362,25,2.1,ml,,,,0.54,ak,ak0233h7kw4,2023-01-02T10:34:34.144Z,"11 km SSE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-02T10:17:47.990Z,17.948,-66.9216666666667,13.59,1.99,md,6,225,0.04851,0.05,pr,pr71390428,2023-01-02T10:34:31.090Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.55,0.45,0.0713021862432009,4,reviewed,pr,pr
