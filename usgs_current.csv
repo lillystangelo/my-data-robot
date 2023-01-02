@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-02T17:20:15.131Z,61.472,-150.1786,29,1.8,ml,,,,0.61,ak,ak0233lbdrd,2023-01-02T17:22:04.544Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-02T17:13:59.027Z,63.3933,-149.6776,100.4,1.9,ml,,,,0.61,ak,ak0233l9z4u,2023-01-02T17:16:57.865Z,"36 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-01-02T17:12:06.380Z,38.8271675,-122.856163,2.52,0.73,md,16,96,0.0006706,0.02,nc,nc73828031,2023-01-02T17:13:39.117Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.53,0.11,17,automatic,nc,nc
+2023-01-02T17:12:06.380Z,38.8271675,-122.856163,2.52,0.73,md,16,96,0.0006706,0.02,nc,nc73828031,2023-01-02T17:28:13.196Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.53,0.11,17,automatic,nc,nc
 2023-01-02T17:11:11.210Z,19.1464996337891,-155.497833251953,31.8500003814697,2,md,37,150,,0.129999995,hv,hv73292097,2023-01-02T17:14:26.320Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.64,0.949999988,0.349999994,13,automatic,hv,hv
 2023-01-02T16:22:47.530Z,36.5683327,-121.1945038,5.87,1.39,md,12,86,0.008062,0.29,nc,nc73828026,2023-01-02T16:56:13.994Z,"6km NW of Pinnacles, CA",earthquake,1.15,1.82,0.16,8,automatic,nc,nc
 2023-01-02T16:07:30.887Z,-7.0731,125.3029,487.572,4.5,mb,61,69,2.855,0.57,us,us7000j1mi,2023-01-02T16:24:06.040Z,"166 km N of Dili, Timor Leste",earthquake,5.13,9.195,0.079,47,reviewed,us,us
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T13:58:26.230Z,38.791832,-122.75,1.57,1.54,md,29,44,,0.07,nc,nc73827956,2023-01-02T14:36:13.192Z,"2km NNE of The Geysers, CA",earthquake,0.23,0.35,0.14,30,automatic,nc,nc
 2023-01-02T13:56:33.100Z,33.1663333,-115.6215,3.42,1.51,ml,13,86,0.01215,0.09,ci,ci40153023,2023-01-02T14:00:10.732Z,"11km WNW of Calipatria, CA",earthquake,0.28,0.17,0.19,31,automatic,ci,ci
 2023-01-02T13:39:10.204Z,61.1806,-147.0158,27.5,1.8,ml,,,,0.76,ak,ak0233j1pkc,2023-01-02T13:40:55.924Z,"36 km W of Valdez, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-01-02T13:37:09.620Z,41.7871667,-111.9518333,-2.54,2.56,ml,32,62,0.08764,0.38,uu,uu60528987,2023-01-02T17:22:59.536Z,"1 km W of Benson, Utah",earthquake,0.59,5.47,0.056,8,reviewed,uu,uu
+2023-01-02T13:37:09.620Z,41.7871667,-111.9518333,-2.54,2.56,ml,32,62,0.08764,0.38,uu,uu60528987,2023-01-02T17:29:47.818Z,"1 km W of Benson, Utah",earthquake,0.59,5.47,0.056,8,reviewed,uu,uu
 2023-01-02T13:35:55.050Z,38.8043327,-122.8059998,1.05,1.32,md,22,51,0.009112,0.02,nc,nc73827951,2023-01-02T14:09:14.009Z,"5km NW of The Geysers, CA",earthquake,0.18,0.36,0.16,21,automatic,nc,nc
 2023-01-02T13:28:25.650Z,34.0941658,-117.8128357,14.01,1.54,ml,53,57,0.005316,0.18,ci,ci40153015,2023-01-02T13:31:55.263Z,"2km SSW of San Dimas, CA",earthquake,0.34,0.45,0.157,19,automatic,ci,ci
 2023-01-02T13:18:34.623Z,-20.4878,-178.4606,573.848,4.6,mb,84,69,3.121,0.61,us,us7000j1m2,2023-01-02T15:06:38.040Z,"Fiji region",earthquake,12.83,3.459,0.058,88,reviewed,us,us
@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T17:57:40.076Z,31.61560972,-104.1165053,6.080151367,2.4,ml,16,87,0.03830120932,0.2,tx,tx2023abjo,2023-01-01T22:49:26.370Z,"45 km NW of Toyah, Texas",earthquake,0.8645147371,0.7892477961,0.2,11,reviewed,tx,tx
 2023-01-01T17:56:48.960Z,33.2928352,-116.2788315,24.58,1.43,ml,12,224,0.07398,0.23,ci,ci40152743,2023-01-01T17:58:53.963Z,"10km ENE of Borrego Springs, CA",earthquake,1.28,1.62,0.212,15,automatic,ci,ci
 2023-01-01T17:40:21.880Z,17.979,-66.9971666666667,8.29,2.03,md,6,168,0.04579,0.11,pr,pr71390253,2023-01-01T17:49:59.870Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.41,1,0.0892489147948322,4,reviewed,pr,pr
-2023-01-01T17:30:48.630Z,19.2334995269775,-155.393997192383,31.7299995422363,2.16,ml,42,142,,0.119999997,hv,hv73290902,2023-01-01T17:36:18.700Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.649999976,3.38,10,automatic,hv,hv
-2023-01-01T17:27:50.273Z,60.1322,-152.2372,92.5,2.3,ml,,,,0.14,ak,ak0231xtlzn,2023-01-01T17:29:38.672Z,"32 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
