@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-03T09:38:24.020Z,38.8214989,-122.8544998,2.24,0.85,md,7,136,0.02151,0,nc,nc73828301,2023-01-03T09:58:13.648Z,"10km WNW of The Geysers, CA",earthquake,0.48,1.71,0.28,8,automatic,nc,nc
-2023-01-03T09:38:12.690Z,41.7933333,-111.9241667,5.63,2.67,ml,12,93,0.1066,0.18,uu,uu60529057,2023-01-03T10:06:12.527Z,"0 km NE of Benson, Utah",earthquake,0.71,1.33,0.084,10,reviewed,uu,uu
+2023-01-03T09:38:12.690Z,41.7933333,-111.9241667,5.63,2.67,ml,12,93,0.1066,0.18,uu,uu60529057,2023-01-03T10:23:57.210Z,"0 km NE of Benson, Utah",earthquake,0.71,1.33,0.084,10,reviewed,uu,uu
 2023-01-03T09:32:29.183Z,-3.9307,133.2745,30.815,4.8,mb,41,112,1.434,1.07,us,us7000j1sr,2023-01-03T09:48:30.040Z,"196 km NNE of Tual, Indonesia",earthquake,10.35,6.712,0.111,25,reviewed,us,us
 2023-01-03T09:31:47.850Z,34.027,-117.1526667,9,0.84,ml,13,122,0.03448,0.16,ci,ci40153271,2023-01-03T09:35:20.056Z,"4km SE of Redlands, CA",earthquake,0.41,0.84,0.147,15,automatic,ci,ci
 2023-01-03T09:28:49.510Z,38.7868347,-122.7665024,1.94,0.94,md,11,80,0.0161,0.02,nc,nc73828296,2023-01-03T09:46:14.579Z,"1km NW of The Geysers, CA",earthquake,0.34,0.73,0.31,11,automatic,nc,nc
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T10:39:59.892Z,5.4736,97.1091,10,5.1,mb,29,59,0.292,0.69,us,us7000j1l9,2023-01-02T12:06:38.524Z,"32 km N of Lhokseumawe, Indonesia",earthquake,5.64,1.903,0.134,18,reviewed,us,us
 2023-01-02T10:36:40.938Z,60.2572,-153.3922,163.7,2.6,ml,,,,0.46,ak,ak0233h8ty7,2023-01-03T07:50:02.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-02T10:30:56.680Z,59.26,-151.7362,25,2.1,ml,,,,0.54,ak,ak0233h7kw4,2023-01-02T10:34:34.144Z,"11 km SSE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-02T10:17:47.990Z,17.948,-66.9216666666667,13.59,1.99,md,6,225,0.04851,0.05,pr,pr71390428,2023-01-02T10:34:31.090Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.55,0.45,0.0713021862432009,4,reviewed,pr,pr
