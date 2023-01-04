@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T02:11:43.120Z,37.5279999,-121.8336639,3.17,1.48,md,9,161,0.04447,0.12,nc,nc73828596,2023-01-04T02:54:12.724Z,"10km SSE of Sunol, CA",earthquake,0.58,1.23,0.07,5,automatic,nc,nc
 2023-01-04T02:08:00.462Z,53.8966,-35.0678,10,5.3,mww,76,52,9.155,0.81,us,us7000j1zj,2023-01-04T02:19:57.040Z,"Reykjanes Ridge",earthquake,9.65,1.891,0.098,10,reviewed,us,us
 2023-01-04T02:07:10.820Z,33.1348333,-116.0648333,4.83,1.87,ml,53,37,0.08261,0.23,ci,ci40153447,2023-01-04T02:18:05.310Z,"6km E of Ocotillo Wells, CA",earthquake,0.29,0.97,0.145,27,automatic,ci,ci
-2023-01-04T02:02:11.228Z,0.0339,169.9776,10,5.4,mb,53,80,15.625,0.84,us,us7000j1zi,2023-01-04T02:38:19.292Z,"Gilbert Islands, Kiribati region",earthquake,8.84,1.74,0.049,144,reviewed,us,us
+2023-01-04T02:02:10.862Z,0.064,169.968,10,5.4,mb,50,80,15.652,0.85,us,us7000j1zi,2023-01-04T03:33:34.040Z,"Gilbert Islands, Kiribati region",earthquake,12.7,1.87,0.047,152,reviewed,us,us
 2023-01-04T01:53:56.540Z,36.5993347,-121.2044983,9.08,1.29,md,8,125,0.03157,0.01,nc,nc73828591,2023-01-04T02:27:14.568Z,"9km NW of Pinnacles, CA",earthquake,0.81,1.06,0.31,7,automatic,nc,nc
 2023-01-04T01:49:29.658Z,61.4956,-146.5847,30.1,1.7,ml,,,,0.79,ak,ak0236n1dyd,2023-01-04T01:51:25.976Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-04T01:39:42.379Z,-2.4491,140.7725,27.023,4.9,mb,36,62,8.527,0.78,us,us7000j1zc,2023-01-04T03:22:29.040Z,"11 km NNE of Jayapura, Indonesia",earthquake,8.41,4.748,0.082,47,reviewed,us,us
@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T03:49:10.304Z,58.2361,-155.2159,1.2,0.6,ml,,,,0.36,ak,ak02350ov6e,2023-01-03T03:51:13.076Z,"86 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-01-03T03:41:41.923Z,57.4449,-155.4614,68.5,1.8,ml,,,,0.1,ak,ak02350n7wo,2023-01-03T03:45:21.590Z,"61 km WSW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-03T03:38:27.820Z,38.7956657,-122.7491684,2.02,1.09,md,14,94,0.009613,0.03,nc,nc73828186,2023-01-03T03:55:11.970Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.51,0.18,15,automatic,nc,nc
-2023-01-03T03:28:03.220Z,19.1089992523193,-155.427169799805,30.4200000762939,1.95000005,md,34,184,,0.109999999,hv,hv73292642,2023-01-03T03:31:16.100Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.56,0.829999983,0.670000017,5,automatic,hv,hv
-2023-01-03T03:27:17.640Z,19.2253333333333,-66.5016666666667,22.79,3.43,md,22,260,0.9061,0.19,pr,pr71390623,2023-01-03T05:36:01.920Z,"Puerto Rico region",earthquake,0.77,31.61,0.0665715180354485,14,reviewed,pr,pr
