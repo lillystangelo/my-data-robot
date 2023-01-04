@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-04T23:23:46.328Z,-19.1894,-69.0508,132.229,5.2,mww,73,71,0.495,1.2,us,us7000j25w,2023-01-04T23:37:58.040Z,"Tarapaca, Chile",earthquake,5.56,5.098,0.054,33,reviewed,us,us
 2023-01-04T23:13:14.490Z,17.9483333333333,-66.9653333333333,10.7,1.74,md,6,215,0.07797,0.09,pr,pr71390973,2023-01-04T23:21:30.170Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.85,0.173103970598206,4,reviewed,pr,pr
 2023-01-04T23:02:52.660Z,17.9141666666667,-66.8676666666667,15.09,2.01,md,8,246,0.06155,0.14,pr,pr71390963,2023-01-04T23:21:36.630Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.9,0.69,0.047857012049241,5,reviewed,pr,pr
 2023-01-04T22:24:22.310Z,32.5935,-116.9973333,2.57,1.7,ml,15,248,0.1491,0.21,ci,ci40153719,2023-01-04T22:27:50.394Z,"6km SE of Chula Vista, CA",quarry blast,1.15,1.04,0.117,23,automatic,ci,ci
@@ -177,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T00:09:59.660Z,19.144832611084,-155.505493164062,29.8700008392334,2.1099999,md,20,149,,0.140000001,hv,hv73294232,2023-01-04T00:13:05.050Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.69,1.75,1.39999998,3,automatic,hv,hv
 2023-01-03T23:58:42.476Z,-57.7963,-25.0813,47.548,5,mb,42,83,7.293,0.8,us,us7000j1yq,2023-01-04T00:19:33.040Z,"South Sandwich Islands region",earthquake,12,6.871,0.098,33,reviewed,us,us
 2023-01-03T23:41:05.640Z,37.6531667,-119.0145,-1.08,1.24,md,6,112,0.005208,0.05,nc,nc73828556,2023-01-04T14:01:12.739Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.38,0.26,0.257,5,reviewed,nc,nc
-2023-01-03T23:31:50.459Z,42.4188,64.4013,10.584,4.4,mb,34,111,4.551,0.67,us,us7000j1yn,2023-01-03T23:50:35.040Z,"232 km NNW of Nurota, Uzbekistan",earthquake,8.64,2.242,0.134,16,reviewed,us,us
