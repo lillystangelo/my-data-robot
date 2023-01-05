@@ -115,6 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T01:48:31.040Z,19.3926666666667,-155.279666666667,1.85,2.48,ml,27,56,,0.1,hv,hv73295327,2023-01-05T02:05:42.240Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.14,0.235858534519592,11,reviewed,hv,hv
 2023-01-05T01:43:36.825Z,58.215,-155.0949,2,1.2,ml,,,,0.14,ak,ak0238ajgpe,2023-01-05T01:44:30.936Z,"81 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-05T01:27:21.839Z,60.1426,-152.8281,122.9,2,ml,,,,0.42,ak,ak0238ag0no,2023-01-05T01:30:18.913Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-01-05T01:25:37.520Z,39.3125,-111.9338333,5.45,1.66,md,10,129,0.1956,0.16,uu,uu60529152,2023-01-05T15:42:47.710Z,"11 km NW of Fayette, Utah",earthquake,0.56,2.88,0.236,6,reviewed,uu,uu
 2023-01-05T01:12:34.048Z,64.0098,-148.8086,4.7,1.6,ml,,,,1.13,ak,ak0238actak,2023-01-05T01:14:26.474Z,"15 km E of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-05T01:11:33.957Z,59.9238,-153.0081,94.2,2,ml,,,,0.26,ak,ak0238acm1s,2023-01-05T01:14:31.688Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-01-05T01:11:21.377Z,64.8342,-148.9891,17.5,1.3,ml,,,,0.44,ak,ak0238ackll,2023-01-05T01:13:08.744Z,"26 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -167,6 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T15:56:13.140Z,38.7558327,-122.7470016,0.59,0.81,md,7,125,0.003657,0.01,nc,nc73828771,2023-01-04T16:14:11.497Z,"2km SSE of The Geysers, CA",earthquake,0.26,0.51,0.23,8,automatic,nc,nc
 2023-01-04T15:51:14.190Z,33.6325,-116.6916667,12.31,0.68,ml,21,64,0.07178,0.16,ci,ci40153655,2023-01-04T19:10:22.451Z,"9km N of Anza, CA",earthquake,0.36,0.63,0.15,17,reviewed,ci,ci
 2023-01-04T15:48:14.400Z,33.2965,-116.7551667,7.52,0.85,ml,29,41,0.06043,0.19,ci,ci40153647,2023-01-04T19:10:45.786Z,"6km N of Lake Henshaw, CA",earthquake,0.3,0.88,0.146,19,reviewed,ci,ci
-2023-01-04T15:41:39.880Z,36.6463318,-121.2614975,6.29,2.32,md,20,135,0.05881,0.06,nc,nc73828766,2023-01-04T16:41:12.661Z,"16km NW of Pinnacles, CA",earthquake,0.29,0.97,0.1,20,automatic,nc,nc
-2023-01-04T15:40:34.460Z,39.5123333,-112.0131667,3.63,1.93,ml,22,59,0.1537,0.21,uu,uu60529117,2023-01-04T19:48:45.560Z,"Utah",earthquake,0.45,1.02,0.036,7,reviewed,uu,uu
-2023-01-04T15:37:30.590Z,40.5275002,-124.1133347,4.8,2.2,md,4,261,0.2433,0.11,nc,nc73828761,2023-01-04T16:26:11.564Z,"3km SSW of Hydesville, CA",earthquake,3.69,11.8,,1,automatic,nc,nc
