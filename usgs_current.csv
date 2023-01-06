@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-06T06:42:30.289Z,58.2569,-155.0892,3.4,0.7,ml,,,,0.37,ak,ak023a11r04,2023-01-06T06:43:52.258Z,"85 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-01-06T06:32:55.880Z,36.378334,-120.958168,9.71,1.69,md,16,67,0.05805,0.09,nc,nc73829241,2023-01-06T06:34:33.148Z,"24km SE of Pinnacles, CA",earthquake,0.3,0.8,0.16,13,automatic,nc,nc
+2023-01-06T06:32:55.880Z,36.378334,-120.958168,9.71,1.69,md,16,67,0.05805,0.09,nc,nc73829241,2023-01-06T06:48:11.274Z,"24km SE of Pinnacles, CA",earthquake,0.3,0.8,0.16,13,automatic,nc,nc
 2023-01-06T06:26:37.570Z,33.2928333,-116.7411667,11.79,1.61,ml,42,27,0.05858,0.19,ci,ci40154063,2023-01-06T06:37:40.040Z,"6km NNE of Lake Henshaw, CA",earthquake,0.22,0.73,0.17,26,automatic,ci,ci
 2023-01-06T06:10:25.770Z,19.1231670379639,-155.399505615234,28.5799999237061,1.79999995,md,34,184,,0.140000001,hv,hv73297852,2023-01-06T06:13:26.370Z,"12 km SE of Pāhala, Hawaii",earthquake,0.69,1.22000003,1.53999996,10,automatic,hv,hv
 2023-01-06T05:52:55.200Z,38.8256683,-122.7884979,1.13,0.78,md,9,124,0.0128,0.02,nc,nc73829231,2023-01-06T05:54:29.104Z,"6km W of Cobb, CA",earthquake,0.41,0.78,0.62,10,automatic,nc,nc
@@ -235,6 +235,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T07:36:13.700Z,33.661,-116.7583333,13.91,1.21,ml,43,44,0.0656,0.22,ci,ci40153815,2023-01-05T14:16:31.698Z,"10km SSW of Idyllwild, CA",earthquake,0.28,0.48,0.244,27,reviewed,ci,ci
 2023-01-05T07:36:08.100Z,33.67,-116.7548333,15.17,0.77,ml,23,61,0.05671,0.19,ci,ci40153807,2023-01-05T14:16:40.587Z,"8km SSW of Idyllwild, CA",earthquake,0.37,0.62,0.093,6,reviewed,ci,ci
 2023-01-05T07:14:56.580Z,38.8188324,-122.80233,1.56,1.75,md,25,67,0.007573,0.02,nc,nc73828951,2023-01-05T07:49:10.920Z,"6km NW of The Geysers, CA",earthquake,0.19,0.32,0.28,25,automatic,nc,nc
-2023-01-05T07:00:46.788Z,-14.9683,166.8464,24.394,5.3,mww,96,22,0.588,0.79,us,us7000j28m,2023-01-05T07:23:18.040Z,"Vanuatu",earthquake,6.62,3.858,0.098,10,reviewed,us,us
+2023-01-05T07:00:46.788Z,-14.9683,166.8464,24.394,5.3,mww,96,22,0.588,0.79,us,us7000j28m,2023-01-06T06:50:46.040Z,"Vanuatu",earthquake,6.62,3.858,0.098,10,reviewed,us,us
 2023-01-05T06:59:31.850Z,32.8876667,-116.2791667,3.2,1.5,ml,40,68,0.1806,0.22,ci,ci40153799,2023-01-05T07:03:08.317Z,"24km ENE of Pine Valley, CA",earthquake,0.24,1.21,0.199,27,automatic,ci,ci
-2023-01-05T06:44:55.810Z,19.229,-155.393333333333,33.54,3.51,ml,53,145,,0.13,hv,hv73295577,2023-01-05T10:18:14.777Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.45,0.53,0.233307932794424,39,reviewed,hv,hv
