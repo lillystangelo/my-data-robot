@@ -2,8 +2,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T22:30:49.170Z,33.5538333,-116.4103333,11.24,0.59,ml,10,169,0.06923,0.15,ci,ci40154167,2023-01-06T22:34:21.404Z,"15km SW of La Quinta, CA",earthquake,0.68,1.29,0.172,8,automatic,ci,ci
 2023-01-06T22:16:14.397Z,57.8547,-153.8357,37.6,1.7,ml,,,,0.47,ak,ak023aaf2u7,2023-01-06T22:25:14.991Z,"36 km NNE of Larsen Bay, Alaska",earthquake,,7.5,,,automatic,ak,ak
 2023-01-06T22:15:22.110Z,38.8240013,-122.8105011,0.95,0.92,md,8,84,0.0006913,0.02,nc,nc73829441,2023-01-06T22:16:55.564Z,"7km NW of The Geysers, CA",earthquake,0.34,0.77,0.25,9,automatic,nc,nc
-2023-01-06T22:15:00.480Z,38.8236656,-122.8098297,0.92,1.71,md,34,35,,0.03,nc,nc73829436,2023-01-06T22:17:58.532Z,"7km NW of The Geysers, CA",earthquake,0.15,0.26,0.16,32,automatic,nc,nc
-2023-01-06T22:13:41.580Z,38.8233337,-122.8061676,1.95,1.34,md,17,41,0.003052,0.08,nc,nc73829431,2023-01-06T22:28:10.680Z,"7km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,18,automatic,nc,nc
+2023-01-06T22:15:00.480Z,38.8236656,-122.8098297,0.92,1.71,md,34,35,,0.03,nc,nc73829436,2023-01-06T22:35:10.727Z,"7km NW of The Geysers, CA",earthquake,0.15,0.26,0.16,32,automatic,nc,nc
+2023-01-06T22:13:41.580Z,38.8233337,-122.8061676,1.95,1.34,md,17,41,0.003052,0.08,nc,nc73829431,2023-01-06T22:38:11.749Z,"7km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,18,automatic,nc,nc
 2023-01-06T22:11:39.147Z,64.464,-149.4768,11.1,1.3,ml,,,,0.17,ak,ak023aae262,2023-01-06T22:13:08.702Z,"19 km NW of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-06T22:04:24.459Z,37.2661,-117.012,4.1,0.3,ml,8,285.68,0.261,0.1337,nn,nn00854608,2023-01-06T22:06:40.291Z,"45 km NNW of Beatty, Nevada",earthquake,,2.3,1.16,6,automatic,nn,nn
 2023-01-06T21:57:29.621Z,65.1079,-150.3399,8.5,1.4,ml,,,,0.54,ak,ak023aa2grm,2023-01-06T21:59:56.657Z,"18 km NE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T10:34:05.220Z,19.4236666666667,-155.269833333333,-0.03,0.92,md,14,102,,0.08,hv,hv73297967,2023-01-06T20:56:03.230Z,"Hawaii region, Hawaii",earthquake,0.13,0.16,0.0538450914911602,3,reviewed,hv,hv
 2023-01-06T10:24:54.498Z,44.3772,-115.1396,10,2.5,ml,31,60,0.753,0.36,us,us7000j2i4,2023-01-06T13:35:58.040Z,"23 km NW of Stanley, Idaho",earthquake,2.56,1.997,0.05,52,reviewed,us,us
 2023-01-06T10:21:59.581Z,53.5216,-167.0348,5.5,1.7,ml,,,,0.45,ak,ak023a3b03d,2023-01-06T18:48:37.100Z,"51 km SW of Unalaska, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-01-06T10:10:47.748Z,31.60856591,-104.2434178,8.908032227,2.289444093,mlv,59,58,0.1048701528,0.2,tx,tx2023ajxr,2023-01-06T21:41:06.766Z,"western Texas",earthquake,0.8167793502000001,1.244122569,0.1853024995,40,reviewed,tx,tx
+2023-01-06T10:10:47.748Z,31.60856591,-104.2434178,8.908032227,2.3,ml,59,58,0.1048701528,0.2,tx,tx2023ajxr,2023-01-06T22:37:11.491Z,"53 km NW of Toyah, Texas",earthquake,0.8167793502000001,1.244122569,0.1,33,reviewed,tx,tx
 2023-01-06T10:08:28.253Z,62.7733,-150.5148,13.9,1.8,ml,,,,0.52,ak,ak023a386x5,2023-01-06T10:10:18.125Z,"33 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-06T09:44:38.338Z,62.1747,-149.4883,52.7,1.3,ml,,,,0.65,ak,ak023a2uhvd,2023-01-06T09:46:30.953Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-06T09:30:27.239Z,64.8014,-150.46,11.6,0.7,ml,,,,1.02,ak,ak023a2rgh0,2023-01-06T18:41:06.075Z,"23 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,reviewed,ak,ak
@@ -136,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T05:52:55.200Z,38.8256683,-122.7884979,1.13,0.78,md,9,124,0.0128,0.02,nc,nc73829231,2023-01-06T05:54:29.104Z,"6km W of Cobb, CA",earthquake,0.41,0.78,0.62,10,automatic,nc,nc
 2023-01-06T05:51:50.740Z,44.136,-110.4955,7.17,1.22,md,8,159,0.1301,0.1,uu,uu60529257,2023-01-06T15:52:45.860Z,"57 km N of Kelly, Wyoming",earthquake,0.6,1.89,0.31,4,reviewed,uu,uu
 2023-01-06T05:43:17.903Z,57.6835,-155.9217,9.6,0.8,ml,,,,0.27,ak,ak023a0gclb,2023-01-06T18:27:38.617Z,"88 km W of Karluk, Alaska",earthquake,,1,,,reviewed,ak,ak
-2023-01-06T05:37:04.125Z,31.60923672,-104.2469194,6.825683594,2.488225368,mlv,53,70,0.1079240971,0.2,tx,tx2023ajoq,2023-01-06T17:12:36.653Z,"54 km NW of Toyah, Texas",earthquake,0.8028260922000001,1.057550956,0.1912107578,40,reviewed,tx,tx
+2023-01-06T05:37:04.125Z,31.60923672,-104.2469194,6.825683594,2.4,ml,53,70,0.1079240971,0.2,tx,tx2023ajoq,2023-01-06T22:40:31.306Z,"54 km NW of Toyah, Texas",earthquake,0.8028260922000001,1.057550956,0.2,40,reviewed,tx,tx
 2023-01-06T05:36:05.518Z,-20.9535,168.9641,10,4.8,mb,24,117,2.172,0.72,us,us7000j2hm,2023-01-06T08:55:12.040Z,"130 km ENE of Tadine, New Caledonia",earthquake,10.35,1.906,0.124,20,reviewed,us,us
 2023-01-06T05:22:42.280Z,37.3636665,-119.9656677,18.8,2.3,md,6,94,0.1853,0.02,nc,nc73829221,2023-01-06T18:55:32.658Z,"13km SW of Bootjack, CA",earthquake,0.58,0.75,0.27,6,automatic,nc,nc
 2023-01-06T05:18:31.180Z,38.8338318,-122.879837,1.9,1.06,md,17,64,0.005216,0.03,nc,nc73829216,2023-01-06T05:20:09.402Z,"12km ENE of Cloverdale, CA",earthquake,0.26,0.39,0.11,18,automatic,nc,nc
@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T22:49:54.410Z,17.9105,-66.8531666666667,16.73,1.86,md,7,231,0.06884,0.14,pr,pr71391168,2023-01-05T23:02:14.940Z,"Puerto Rico region",earthquake,1.09,0.78,0.0683670202061543,6,reviewed,pr,pr
 2023-01-05T22:47:40.240Z,38.8101654,-122.8966675,5.4,1.16,md,9,176,0.02942,0.02,nc,nc73829051,2023-01-05T23:56:12.661Z,"10km E of Cloverdale, CA",earthquake,1.02,1.71,0.06,10,automatic,nc,nc
 2023-01-05T22:45:21.207Z,36.4559,68.7554,10,4.2,mb,32,109,1.925,0.91,us,us7000j2f5,2023-01-05T23:24:07.040Z,"31 km SSW of Kunduz, Afghanistan",earthquake,5.69,1.891,0.124,18,reviewed,us,us
-2023-01-05T22:43:54.470Z,44.1425,-110.5076667,9.02,1.05,md,8,181,0.1223,0.19,uu,uu60529237,2023-01-05T23:45:32.170Z,"58 km N of Kelly, Wyoming",earthquake,0.82,1.93,0.162,4,reviewed,uu,uu
-2023-01-05T22:42:41.160Z,64.5882,-149.4817,23,1.1,ml,,,,0.32,ak,ak0238n1d10,2023-01-05T22:45:19.502Z,"17 km W of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
