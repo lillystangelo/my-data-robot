@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T08:27:30.186Z,61.543,-141.2867,3.7,1.8,ml,,,,0.47,ak,ak023dd83ga,2023-01-08T08:30:34.225Z,"87 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-08T08:22:45.143Z,63.1963,-148.6591,63,1.7,ml,,,,0.48,ak,ak023dd720y,2023-01-08T08:24:56.751Z,"26 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-08T08:18:04.360Z,61.6829,-149.992,24.8,1.7,ml,,,,0.78,ak,ak023dd640k,2023-01-08T08:20:36.758Z,"7 km SSE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-08T08:12:28.392Z,58.152,-155.5857,19.1,0.7,ml,,,,1.28,ak,ak023dd4vkn,2023-01-08T08:14:11.477Z,"86 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-01-08T08:12:28.392Z,58.152,-155.5857,19.1,0.7,ml,,,,1.28,ak,ak023dd4vkn,2023-01-08T08:14:11.477Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-01-08T08:11:14.207Z,59.8527,-153.2253,117,1.9,ml,,,,0.39,ak,ak023dd4mrg,2023-01-08T08:13:47.686Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-08T07:44:38.562Z,-9.1375,-108.3746,10,4.7,mb,55,113,26.05,0.53,us,us7000j2xu,2023-01-08T08:28:45.040Z,"central East Pacific Rise",earthquake,14.42,1.943,0.064,75,reviewed,us,us
 2023-01-08T07:42:56.600Z,38.7941666,-122.7473297,-0.63,2.66,md,7,143,,0.25,nc,nc73829906,2023-01-08T10:04:12.171Z,"2km NNE of The Geysers, CA",earthquake,2.79,3.54,0.14,7,automatic,nc,nc
@@ -191,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T12:16:47.412Z,59.9754,-153.3929,129,2.5,ml,,,,1.03,ak,ak023bs05u1,2023-01-07T12:19:54.659Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-07T12:01:43.550Z,38.774334,-122.7166672,1.77,1.89,md,14,93,0.01424,0.02,nc,nc73829661,2023-01-07T12:35:16.497Z,"2km W of Anderson Springs, CA",earthquake,0.28,0.37,0.2,15,automatic,nc,nc
 2023-01-07T11:58:47.459Z,-10.0489,161.8872,121.188,4.6,mb,20,101,2.006,0.61,us,us7000j2sp,2023-01-07T13:41:40.880Z,"45 km N of Kirakira, Solomon Islands",earthquake,14.92,15.02,0.129,18,reviewed,us,us
-2023-01-07T11:43:41.119Z,61.0213,-149.3956,28.5,1.6,ml,,,,0.45,ak,ak023brki2n,2023-01-07T11:45:43.725Z,"15 km N of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-07T11:42:13.230Z,33.0375,-116.401,4.12,0.93,ml,34,65,0.1693,0.21,ci,ci40154279,2023-01-07T11:45:52.409Z,"19km ESE of Julian, CA",earthquake,0.36,1.01,0.098,18,automatic,ci,ci
