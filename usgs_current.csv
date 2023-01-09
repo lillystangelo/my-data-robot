@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-09T13:21:46.130Z,38.8371658,-122.8195038,1.76,0.91,md,6,162,0.01256,0.04,nc,nc73830276,2023-01-09T13:23:21.810Z,"8km WNW of Cobb, CA",earthquake,0.59,0.7,0.55,6,automatic,nc,nc
+2023-01-09T13:38:48.410Z,33.4296667,-116.6375,5.41,0.23,ml,25,96,0.07126,0.21,ci,ci40154943,2023-01-09T13:42:26.459Z,"14km SSE of Anza, CA",earthquake,0.37,1.08,0.158,4,automatic,ci,ci
+2023-01-09T13:35:32.083Z,63.2286,-151.4328,10.7,1.5,ml,,,,0.46,ak,ak023f3sbug,2023-01-09T13:38:47.656Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-09T13:21:46.130Z,38.8371658,-122.8195038,1.76,0.91,md,6,162,0.01256,0.04,nc,nc73830276,2023-01-09T13:40:11.710Z,"8km WNW of Cobb, CA",earthquake,0.59,0.7,0.55,6,automatic,nc,nc
 2023-01-09T12:54:37.109Z,63.3027,-145.3473,7.6,2,ml,,,,0.09,ak,ak023f3az8e,2023-01-09T12:55:51.858Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-01-09T12:46:16.830Z,17.9733333333333,-66.9815,7.08,2.05,md,4,179,0.05983,0.06,pr,pr71391778,2023-01-09T13:34:43.030Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.48,0.92,0.133025755931796,3,reviewed,pr,pr
 2023-01-09T12:32:45.190Z,18.9173333333333,-65.144,23.52,3.14,md,7,265,0.5894,0.21,pr,pr71391783,2023-01-09T13:18:10.000Z,"Puerto Rico region",earthquake,1.43,17.73,0.0702242233035277,6,reviewed,pr,pr
 2023-01-09T12:26:31.350Z,-9.057,111.1211,55.39,5.2,mww,78,124,1.282,0.65,us,us7000j34c,2023-01-09T13:16:30.347Z,"126 km SSW of Trenggalek, Indonesia",earthquake,6.16,6.458,0.089,12,reviewed,us,us
 2023-01-09T12:14:18.140Z,19.1611671447754,-155.488998413086,31.8299999237061,1.78999996,md,35,241,,0.119999997,hv,hv73299967,2023-01-09T12:17:28.030Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.72,1.14999998,1.78999996,4,automatic,hv,hv
