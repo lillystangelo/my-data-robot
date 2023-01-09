@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-09T10:37:17.690Z,35.1433333,-118.2346667,5.3,0.78,ml,11,74,0.1758,0.12,ci,ci40154911,2023-01-09T10:40:57.300Z,"12km NNW of Mojave, CA",earthquake,0.3,3.16,0.202,7,automatic,ci,ci
 2023-01-09T10:21:00.220Z,19.1673336029053,-155.492004394531,35.7400016784668,2.00999999,md,41,109,,0.119999997,hv,hv73299902,2023-01-09T10:24:21.640Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.68,0.879999995,0.800000012,13,automatic,hv,hv
 2023-01-09T10:19:31.755Z,59.6009,-152.6602,80.8,1.7,ml,,,,0.65,ak,ak023f1wljr,2023-01-09T10:21:25.801Z,"49 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-09T10:07:40.350Z,33.4078333,-116.3825,0.91,0.78,ml,26,100,0.1423,0.2,ci,ci40154903,2023-01-09T10:11:13.807Z,"17km N of Borrego Springs, CA",earthquake,0.33,0.6,0.111,17,automatic,ci,ci
@@ -157,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T10:50:10.290Z,38.7895012,-122.7610016,1.43,1.08,md,13,103,0.01115,0.02,nc,nc73829941,2023-01-08T11:06:12.566Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.55,0.4,12,automatic,nc,nc
 2023-01-08T10:44:37.752Z,64.3595,-149.6283,17,1.4,ml,,,,0.3,ak,ak023deimf3,2023-01-08T10:46:44.106Z,"21 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-08T10:44:34.281Z,58.5724,-152.3836,33.9,2,ml,,,,0.8,ak,ak023deim5g,2023-01-08T10:47:10.103Z,"64 km NNE of Aleneva, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-01-08T10:42:49.160Z,17.9188333333333,-66.918,10.05,1.93,md,9,241,0.05382,0.14,pr,pr71391658,2023-01-08T11:01:13.690Z,"5 km S of Guánica, Puerto Rico",earthquake,0.63,0.75,0.227445397425269,5,reviewed,pr,pr
