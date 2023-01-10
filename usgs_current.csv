@@ -182,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T11:31:48.858Z,23.4009,121.3509,17.209,4.2,mwr,20,96,0.05,0.73,us,us7000j344,2023-01-09T11:52:55.040Z,"Taiwan",earthquake,2.07,2.469,0.066,22,reviewed,us,us
 2023-01-09T11:12:21.298Z,-4.4396,149.9622,550.25,4.3,mb,35,93,2.209,0.67,us,us7000j342,2023-01-10T05:49:34.040Z,"Bismarck Sea",earthquake,13.21,10.153,0.104,26,reviewed,us,us
 2023-01-09T11:05:28.493Z,-6.8093,129.5281,149.654,4.4,mb,16,88,2.108,0.4,us,us7000j33z,2023-01-10T05:47:17.040Z,"Banda Sea",earthquake,9.21,12.237,0.178,9,reviewed,us,us
-2023-01-09T10:58:41.120Z,38.8274994,-122.8538361,2.32,1.78,md,23,72,0.002373,0.02,nc,nc73830256,2023-01-09T12:35:13.346Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.36,0.2,23,automatic,nc,nc
-2023-01-09T10:53:31.300Z,61.5047,-149.8643,33.4,1.7,ml,,,,0.62,ak,ak023f23vuy,2023-01-09T10:56:06.268Z,"5 km ESE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-09T10:53:18.180Z,33.343,-115.6983333,1.52,1.34,ml,25,165,0.03395,0.35,ci,ci40154935,2023-01-09T10:56:56.928Z,"3km ESE of Bombay Beach, CA",earthquake,0.79,1.22,0.145,27,automatic,ci,ci
