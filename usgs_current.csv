@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T05:51:41.557Z,60.2701,-141.4634,0,1.6,ml,,,,0.53,ak,ak023ez4b6z,2023-01-09T05:53:22.897Z,"126 km NW of Yakutat, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-09T05:50:59.640Z,32.9608333,-115.5518333,4.57,1.31,ml,17,92,0.05967,0.24,ci,ci40154871,2023-01-09T05:54:35.484Z,"3km SW of Brawley, CA",earthquake,0.45,1.06,0.179,23,automatic,ci,ci
 2023-01-09T05:48:29.192Z,38.2361,-118.4374,7.7,-0.1,ml,7,237.71,0.055,0.0723,nn,nn00854679,2023-01-09T23:26:44.989Z,"33 km WSW of Mina, Nevada",earthquake,,7.2,0,1,reviewed,nn,nn
-2023-01-09T05:35:22.290Z,38.8359985,-122.7825012,1.8,1.49,md,20,65,,0.02,nc,nc73830186,2023-01-09T06:13:11.107Z,"5km WNW of Cobb, CA",earthquake,0.24,0.38,0.23,23,automatic,nc,nc
