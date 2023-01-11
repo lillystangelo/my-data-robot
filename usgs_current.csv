@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-11T05:22:05.610Z,19.2525005340576,-155.407165527344,27.6700000762939,1.98000002,md,12,151,,0.119999997,hv,hv73301317,2023-01-11T05:25:27.550Z,"9 km NE of Pāhala, Hawaii",earthquake,0.87,1.21000004,0.660000026,3,automatic,hv,hv
 2023-01-11T05:19:56.737Z,57.6693,-154.2448,35,1.8,ml,,,,0.76,ak,ak023ia06ft,2023-01-11T05:22:27.550Z,"16 km NE of Karluk, Alaska",earthquake,,29.4,,,automatic,ak,ak
 2023-01-11T05:09:53.422Z,58.3681,-154.4516,240.1,1.6,ml,,,,0.76,ak,ak023i9y10u,2023-01-11T05:13:32.380Z,"89 km N of Karluk, Alaska",earthquake,,6.1,,,automatic,ak,ak
-2023-01-11T04:50:15.752Z,40.8933,-111.6006,7.529,2.8,ml,31,84,0.267,0.84,us,us7000j3k6,2023-01-11T05:25:42.256Z,"16 km SSW of Henefer, Utah",earthquake,1.72,2.267,0.038,90,reviewed,us,us
+2023-01-11T04:50:15.752Z,40.8933,-111.6006,7.529,2.8,ml,31,84,0.267,0.84,us,us7000j3k6,2023-01-11T05:37:05.503Z,"16 km SSW of Henefer, Utah",earthquake,1.72,2.267,0.038,90,reviewed,us,us
 2023-01-11T04:49:44.370Z,34.0408333,-117.5493333,7.9,1.44,ml,43,53,0.03755,0.2,ci,ci40401328,2023-01-11T05:00:44.450Z,"6km NNW of Mira Loma, CA",earthquake,0.29,0.65,0.193,27,automatic,ci,ci
 2023-01-11T04:37:43.005Z,63.2598,-150.2912,96.1,1.7,ml,,,,0.82,ak,ak023i9iknw,2023-01-11T04:40:12.987Z,"68 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-11T04:28:23.160Z,17.9515,-66.8821666666667,10.01,2.08,md,6,265,0.02359,0.11,pr,pr71392198,2023-01-11T04:45:11.590Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.69,0.87,0.154610862521062,5,reviewed,pr,pr
