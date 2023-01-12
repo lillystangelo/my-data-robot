@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-12T06:41:40.540Z,61.2667,-149.2896,31.3,1.6,ml,,,,0.45,ak,ak023jy9n1i,2023-01-12T06:43:15.366Z,"16 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-12T06:23:44.091Z,63.3719,-149.58,106.8,1.8,ml,,,,0.32,ak,ak023jy5sfd,2023-01-12T06:25:57.856Z,"31 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-01-12T06:19:11.474Z,-30.636,-71.2294,56.702,5.5,mww,93,41,0.352,0.77,us,us7000j3ty,2023-01-12T06:44:34.375Z,"4 km SW of Ovalle, Chile",earthquake,3.28,4.548,0.051,37,reviewed,us,us
 2023-01-12T06:01:59.428Z,58.2831,-154.946,0.7,0.4,ml,,,,0.72,ak,ak023jy13uu,2023-01-12T06:12:31.273Z,"84 km NNW of Karluk, Alaska",earthquake,,81.6,,,automatic,ak,ak
 2023-01-12T05:38:43.491Z,-55.381,-127.0048,10,5.1,mb,51,78,37.099,0.87,us,us7000j3tv,2023-01-12T06:11:44.040Z,"Pacific-Antarctic Ridge",earthquake,14.55,1.787,0.09,40,reviewed,us,us
 2023-01-12T05:30:44.493Z,60.1683,-152.2994,101.9,2,ml,,,,0.21,ak,ak023jxluv5,2023-01-12T05:32:14.420Z,"37 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
