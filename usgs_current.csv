@@ -158,5 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-11T12:14:31.840Z,38.8256683,-122.7471695,-0.95,0.95,md,8,155,0.02686,0.06,nc,nc73831051,2023-01-11T12:32:11.771Z,"2km W of Cobb, CA",earthquake,0.33,2.02,0.14,10,automatic,nc,nc
 2023-01-11T12:04:22.080Z,34.817,-120.2746667,4.5,1.58,ml,19,60,0.05195,0.12,ci,ci40401648,2023-01-11T20:11:16.116Z,"8km N of Los Alamos, CA",earthquake,0.27,0.51,0.107,12,reviewed,ci,ci
 2023-01-11T12:03:30.689Z,-21.521,-68.5025,151.233,4.2,mb,16,67,1.034,0.23,us,us7000j3mp,2023-01-12T06:52:43.040Z,"Chile-Bolivia border region",earthquake,7.31,7.235,0.236,5,reviewed,us,us
-2023-01-11T11:54:05.422Z,59.5734,-152.2889,79.5,1.7,ml,,,,0.4,ak,ak023ids666,2023-01-11T11:55:54.942Z,"31 km NW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-11T11:53:27.170Z,-6.7725,131.4261,24.904,5,mb,45,114,1.209,0.8,us,us7000j3mn,2023-01-11T12:11:00.040Z,"193 km SW of Tual, Indonesia",earthquake,6.89,5.538,0.09,39,reviewed,us,us
