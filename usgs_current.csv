@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-14T22:20:30.632Z,59.9229,-141.3066,0,2,ml,,,,0.63,ak,ak023niqqwn,2023-01-14T22:22:49.932Z,"98 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-14T22:14:34.260Z,34.0003333,-116.5666667,12.17,1.04,ml,21,100,0.06488,0.27,ci,ci40402600,2023-01-14T22:17:58.321Z,"5km SSE of Morongo Valley, CA",earthquake,0.45,0.99,0.183,26,automatic,ci,ci
 2023-01-14T22:02:52.797Z,63.567,-147.355,14.5,1.4,ml,,,,0.8,ak,ak023nimxq7,2023-01-14T22:04:29.539Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-14T21:37:48.970Z,38.8359985,-122.7901688,2.11,2.24,md,36,46,,0.05,nc,nc73831951,2023-01-14T21:59:17.106Z,"6km WNW of Cobb, CA",earthquake,0.17,0.28,0.21,39,automatic,nc,nc
@@ -156,4 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T22:40:57.896Z,-5.2261,102.9725,35,5.3,mww,104,51,0.86,0.7,us,us7000j4a4,2023-01-14T07:58:01.933Z,"136 km SSW of Pagar Alam, Indonesia",earthquake,7.09,1.874,0.098,10,reviewed,us,us
 2023-01-13T22:37:53.971Z,59.912,-153.3158,140.3,2.1,ml,,,,0.8,ak,ak023lvb3eo,2023-01-13T22:40:37.068Z,"46 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-13T22:28:39.450Z,47.14783333333333,-123.1125,-0.23,1.4000000000000001,ml,18,50,0.09861,0.37,uw,uw61902496,2023-01-14T00:33:34.650Z,"7 km S of Shelton, Washington",explosion,0.63,31.61,0.06439789655558648,6,reviewed,uw,uw
-2023-01-13T22:25:43.963Z,-6.2709,130.1077,125.274,4.5,mb,39,68,2.071,0.45,us,us7000j4a2,2023-01-13T22:40:15.040Z,"Banda Sea",earthquake,4.59,9.702,0.104,27,reviewed,us,us
