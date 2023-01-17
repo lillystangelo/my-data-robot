@@ -25,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T18:46:00.820Z,35.49533333,-98.1055,7.86,1.23,ml,25,81,0.09448145951,0.46,ok,ok2023berf,2023-01-17T18:55:41.746Z,"11 km S of Calumet, Oklahoma",earthquake,,1.1,0.2,13,reviewed,ok,ok
 2023-01-17T18:42:34.190Z,38.8238335,-122.7978363,2.98,0.26,md,7,105,0.01597,0.01,nc,nc73833246,2023-01-17T19:00:13.443Z,"6km NW of The Geysers, CA",earthquake,0.48,1.46,0.14,8,automatic,nc,nc
 2023-01-17T18:40:00.409Z,-16.6678,-73.7684,47.886,4.3,mb,17,160,3.682,0.39,us,us7000j4yg,2023-01-17T19:52:20.040Z,"53 km SSW of Atico, Peru",earthquake,5.74,22.166,0.265,4,reviewed,us,us
+2023-01-17T18:39:22.230Z,14.3416,122.9821,10,4.6,mb,73,117,9.143,0.8,us,us7000j4z5,2023-01-17T21:47:21.040Z,"15 km NNE of Sabang Indan, Philippines",earthquake,6.3,1.844,0.07,61,reviewed,us,us
 2023-01-17T18:28:06.338Z,59.744,-153.1116,106.5,2.7,ml,,,,0.31,ak,ak023sf0ptj,2023-01-17T19:27:16.040Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T18:11:33.870Z,19.099666595459,-155.422836303711,29.1599998474121,1.98000002,md,29,187,,0.129999995,hv,hv73306017,2023-01-17T18:14:50.780Z,"12 km SSE of Pāhala, Hawaii",earthquake,0.66,0.970000029,1.79999995,10,automatic,hv,hv
 2023-01-17T18:05:42.309Z,-24.614,-70.0847,60.489,4.4,mb,44,70,0.291,0.9,us,us7000j4y9,2023-01-17T18:35:52.040Z,"96 km NNE of Taltal, Chile",earthquake,7.24,6.497,0.096,34,reviewed,us,us
@@ -72,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T11:56:10.210Z,38.8356667,-122.7991638,2.06,0.74,md,9,94,0.007412,0.01,nc,nc73833121,2023-01-17T12:28:12.225Z,"7km WNW of Cobb, CA",earthquake,0.34,1.08,0.23,12,automatic,nc,nc
 2023-01-17T11:54:53.860Z,38.8353348,-122.7983322,2.1,1.36,md,24,45,,0.02,nc,nc73833116,2023-01-17T12:39:12.140Z,"7km WNW of Cobb, CA",earthquake,0.2,0.4,0.17,25,automatic,nc,nc
 2023-01-17T11:53:26.414Z,-38.2009,-74.0126,21.649,4.4,mb,28,160,1.591,0.81,us,us7000j4vf,2023-01-17T13:12:08.040Z,"69 km SW of Cañete, Chile",earthquake,8.03,6.464,0.139,15,reviewed,us,us
-2023-01-17T11:50:52.950Z,33.419,-116.3811667,12.5,2.19,ml,67,27,0.1106,0.23,ci,ci40403272,2023-01-17T12:01:49.170Z,"18km N of Borrego Springs, CA",earthquake,0.22,0.59,0.162,25,automatic,ci,ci
+2023-01-17T11:50:52.860Z,33.4185,-116.3813333,13.41,2.16,ml,87,30,0.09229,0.18,ci,ci40403272,2023-01-17T21:56:32.891Z,"18km N of Borrego Springs, CA",earthquake,0.13,0.31,0.154,71,reviewed,ci,ci
 2023-01-17T11:50:04.980Z,38.8246651,-122.8105011,1.31,0.27,md,8,89,0.001311,0.02,nc,nc73833106,2023-01-17T12:07:12.143Z,"7km NW of The Geysers, CA",earthquake,0.38,0.88,0.19,8,automatic,nc,nc
 2023-01-17T11:38:32.374Z,32.20001221,-102.1385528,7.556518555000001,2,ml,23,55,0.07433582111,0.1,tx,tx2023bedc,2023-01-17T21:26:21.871Z,"23 km NNW of Midland, Texas",earthquake,0.5656754072,1.183612631,0.1,12,reviewed,tx,tx
 2023-01-17T11:35:38.530Z,17.9808333333333,-66.9115,13.76,2.59,md,16,103,0.009002,0.16,pr,pr71393043,2023-01-17T12:02:24.150Z,"0 km SSE of Fuig, Puerto Rico",earthquake,0.54,0.32,0.264150239867564,7,reviewed,pr,pr
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T22:10:54.683Z,59.97,-151.693,62.3,1.5,ml,,,,0.23,ak,ak023qtrcl8,2023-01-16T22:12:34.606Z,"3 km NE of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-16T22:08:28.660Z,35.00133333,-97.66083333,7,2.38,ml,101,33,0.09988040006,0.28,ok,ok2023bdcj,2023-01-17T00:05:33.291Z,"4 km SW of Dibble, Oklahoma",earthquake,,0.5,0.23,24,reviewed,ok,ok
 2023-01-16T21:57:38.829Z,14.4102,122.9956,10,5.2,mww,90,73,7.723,0.55,us,us7000j4sk,2023-01-16T23:25:06.543Z,"22 km NNE of Sabang Indan, Philippines",earthquake,4.36,1.776,0.098,10,reviewed,us,us
-2023-01-16T21:56:21.289Z,61.7056,-149.5089,36.7,1.6,ml,,,,0.4,ak,ak023qtfpcg,2023-01-16T21:58:24.020Z,"9 km NNW of Tanaina, Alaska",earthquake,,0.9,,,automatic,ak,ak
