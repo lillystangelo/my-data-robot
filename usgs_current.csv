@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-18T17:36:22.040Z,62.1124,-149.4459,42.8,1.7,ml,,,,0.68,ak,ak023u20dng,2023-01-18T17:38:08.173Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-18T17:23:09.180Z,38.7745018,-122.7281647,1.71,1.12,md,8,95,0.01099,0.02,nc,nc73833616,2023-01-18T17:42:12.558Z,"2km E of The Geysers, CA",earthquake,0.51,0.66,0.23,7,automatic,nc,nc
+2023-01-18T17:23:09.180Z,38.7745018,-122.7281647,1.71,1.12,md,8,95,0.01099,0.02,nc,nc73833616,2023-01-18T17:56:10.638Z,"2km E of The Geysers, CA",earthquake,0.51,0.66,0.23,7,automatic,nc,nc
 2023-01-18T16:27:48.105Z,-11.1287,111.6908,10,5.1,mww,71,91,3.397,0.77,us,us7000j59q,2023-01-18T16:45:57.040Z,"south of Java, Indonesia",earthquake,7.8,1.884,0.068,21,reviewed,us,us
 2023-01-18T16:25:06.170Z,58.2626,-154.707,39.7,0.7,ml,,,,0.88,ak,ak023u1cjy1,2023-01-18T16:26:36.278Z,"78 km N of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-01-18T16:19:31.246Z,61.9808,-150.7888,44.3,2,ml,,,,0.46,ak,ak023u1bbl0,2023-01-18T16:21:20.146Z,"31 km E of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -129,6 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T01:47:45.500Z,19.1669998168945,-155.480834960938,33.2799987792969,1.85000002,md,35,101,,0.119999997,hv,hv73306312,2023-01-18T01:51:05.670Z,"3 km S of Pāhala, Hawaii",earthquake,0.75,0.910000026,1.40999997,6,automatic,hv,hv
 2023-01-18T01:31:01.396Z,62.3702,-149.7315,8,1.8,ml,,,,0.55,ak,ak023tsgbsr,2023-01-18T01:32:38.376Z,"20 km ENE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-18T01:29:11.880Z,19.4188327789307,-155.276840209961,5.82000017166138,1.7,ml,25,38,,0.289999992,hv,hv73306292,2023-01-18T01:34:44.170Z,"5 km WSW of Volcano, Hawaii",earthquake,0.43,0.699999988,0.32,4,automatic,hv,hv
+2023-01-18T01:21:52.362Z,39.2919,-120.1563,9,0,ml,6,130.84,0.088,0.0801,nn,nn00854965,2023-01-18T17:51:22.692Z,"Northern California",earthquake,,2.2,0.4,3,reviewed,nn,nn
 2023-01-18T01:19:20.714Z,39.2929,-120.1571,9.1,0.2,ml,7,130.79,0.089,0.0878,nn,nn00854964,2023-01-18T17:45:02.483Z,"4 km SSE of Truckee, California",earthquake,,1.8,0.8,4,reviewed,nn,nn
 2023-01-18T00:57:57.220Z,38.8353348,-122.7703323,9.83,0.82,md,9,153,0.004868,0.08,nc,nc73833376,2023-01-18T00:59:35.297Z,"4km WNW of Cobb, CA",earthquake,1.16,0.66,0.45,12,automatic,nc,nc
 2023-01-18T00:56:58.140Z,17.9795,-66.7983333333333,12.15,2.19,md,7,202,0.07715,0.13,pr,pr71393098,2023-01-18T01:52:03.170Z,"2 km SE of Indios, Puerto Rico",earthquake,0.67,0.96,0.157693588379308,5,reviewed,pr,pr
