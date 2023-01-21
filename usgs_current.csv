@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T19:57:55.150Z,58.2483333333333,-155.142166666667,3.96,1.13,ml,11,77,,0.08,av,av91749976,2023-01-21T03:33:58.820Z,"85 km NNW of Karluk, Alaska",earthquake,0.21,0.47,0.235911285216013,11,reviewed,av,av
 2023-01-20T19:57:12.210Z,35.7574997,-121.2666702,5.9,2.17,md,30,182,0.1187,0.1,nc,nc73834691,2023-01-20T20:18:13.519Z,"14km NNW of San Simeon, CA",earthquake,0.44,1.13,0.09,27,automatic,nc,nc
 2023-01-20T19:32:16.690Z,33.4041667,-116.3736667,4.87,0.97,ml,31,92,0.06791,0.12,ci,ci40404464,2023-01-20T22:22:58.710Z,"16km N of Borrego Springs, CA",earthquake,0.2,0.43,0.109,23,reviewed,ci,ci
-2023-01-20T19:21:39.230Z,63.7864,-147.8346,75.8,1.2,ml,,,,0.21,ak,ak023xe6rfn,2023-01-20T19:23:23.246Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
