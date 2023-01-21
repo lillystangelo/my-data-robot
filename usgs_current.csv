@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-21T11:29:00.265Z,61.7673,-149.7299,41.3,1.9,ml,,,,0.21,ak,ak023yx09t6,2023-01-21T11:31:03.934Z,"15 km NNE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-01-21T11:26:56.360Z,38.6020012,-122.8069992,8.11,1.62,md,15,89,0.1153,0.04,nc,nc73835281,2023-01-21T11:28:32.132Z,"6km E of Healdsburg, CA",earthquake,0.3,1.15,0.16,15,automatic,nc,nc
 2023-01-21T11:14:43.110Z,34.6173333,-116.5745,8.7,1.33,ml,16,52,0.0489,0.16,ci,ci40404624,2023-01-21T11:18:16.135Z,"40km WSW of Ludlow, CA",earthquake,0.33,1.09,0.159,24,automatic,ci,ci
-2023-01-21T11:01:26.952Z,60.0205,-152.5031,91.9,3,ml,,,,0.47,ak,ak023ywubrv,2023-01-21T11:21:30.040Z,"43 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-01-21T11:01:26.952Z,60.0205,-152.5031,91.9,3,ml,,,,0.47,ak,ak023ywubrv,2023-01-21T11:29:39.923Z,"43 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-21T10:59:56.570Z,38.8260002,-122.7845001,0.59,0.42,md,7,138,0.01224,0.01,nc,nc73835271,2023-01-21T11:01:34.982Z,"5km W of Cobb, CA",earthquake,0.35,1.06,0.22,7,automatic,nc,nc
 2023-01-21T10:58:50.470Z,38.8253326,-122.7845001,0.88,0.75,md,11,68,0.01242,0.02,nc,nc73835266,2023-01-21T11:00:26.771Z,"5km W of Cobb, CA",earthquake,0.28,0.46,0.14,13,automatic,nc,nc
-2023-01-21T10:51:19.590Z,38.8326683,-122.879837,1.85,1.19,md,21,64,0.006224,0.02,nc,nc73835256,2023-01-21T11:05:11.868Z,"12km ENE of Cloverdale, CA",earthquake,0.23,0.35,0.15,23,automatic,nc,nc
+2023-01-21T10:51:19.590Z,38.8326683,-122.879837,1.85,1.19,md,21,64,0.006224,0.02,nc,nc73835256,2023-01-21T11:31:11.029Z,"12km ENE of Cloverdale, CA",earthquake,0.23,0.35,0.15,23,automatic,nc,nc
 2023-01-21T10:50:35.790Z,38.8321648,-122.8796692,2,0.7,md,12,128,0.006733,0.01,nc,nc73835251,2023-01-21T11:25:12.002Z,"12km ENE of Cloverdale, CA",earthquake,0.31,0.54,0.26,12,automatic,nc,nc
 2023-01-21T10:48:57.900Z,17.9463333333333,-67.0181666666667,7.94,2.63,md,7,228,0.0338,0.05,pr,pr71393653,2023-01-21T11:06:25.180Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.4,0.41,0.0984893388272425,5,reviewed,pr,pr
 2023-01-21T10:31:52.130Z,37.5226669,-118.7841644,6.32,1.88,md,21,113,0.07614,0.03,nc,nc73835241,2023-01-21T11:02:12.851Z,"10km WSW of Toms Place, CA",earthquake,0.34,0.98,0.13,23,automatic,nc,nc
