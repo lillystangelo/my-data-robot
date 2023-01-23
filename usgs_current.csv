@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-23T06:13:17.443Z,62.0318,-149.2468,46.2,1.5,ml,,,,1.01,ak,ak0231250en4,2023-01-23T06:16:01.740Z,"Central Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-01-23T06:12:28.890Z,38.8084984,-122.8001633,3.3,0.81,md,8,91,0.003834,0.01,nc,nc73836166,2023-01-23T06:14:02.710Z,"5km NW of The Geysers, CA",earthquake,0.69,1.44,0.11,9,automatic,nc,nc
+2023-01-23T06:05:23.228Z,60.1837,-151.6617,32.4,2,ml,,,,0.47,ak,ak023124yk9x,2023-01-23T06:07:24.702Z,"14 km N of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-23T05:40:18.704Z,61.8716,-149.9312,31,2,ml,,,,0.62,ak,ak023124krgu,2023-01-23T05:42:24.996Z,"14 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-23T05:25:34.340Z,33.4006667,-116.3771667,3.82,0.88,ml,23,128,0.1363,0.19,ci,ci40405008,2023-01-23T05:29:08.914Z,"16km N of Borrego Springs, CA",earthquake,0.34,0.97,0.168,22,automatic,ci,ci
 2023-01-23T05:18:32.420Z,38.7993317,-122.805336,1.29,1.07,md,20,57,0.01113,0.03,nc,nc73836151,2023-01-23T05:36:13.040Z,"5km WNW of The Geysers, CA",earthquake,0.21,0.39,0.16,19,automatic,nc,nc
@@ -161,7 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T06:42:07.533Z,2.7282,127.0041,61.864,4.6,mb,69,108,1.977,0.57,us,us7000j66q,2023-01-22T07:22:26.040Z,"157 km NW of Tobelo, Indonesia",earthquake,8.29,4.806,0.074,57,reviewed,us,us
 2023-01-22T06:25:23.060Z,34.4731667,-119.1856667,2.11,2.09,ml,70,26,0.05377,0.3,ci,ci40404808,2023-01-22T21:13:56.544Z,"6km ENE of Ojai, CA",earthquake,0.19,0.56,0.139,53,reviewed,ci,ci
 2023-01-22T06:21:52.370Z,19.1391658782959,-155.366333007812,29.6399993896484,1.75,md,40,185,,0.140000001,hv,hv73309897,2023-01-22T06:25:13.510Z,"Island of Hawaii, Hawaii",earthquake,0.7,1.29999995,1.55999994,6,automatic,hv,hv
-2023-01-22T06:17:16.610Z,38.8328323,-122.8161697,1.77,0.79,md,17,55,0.01056,0.01,nc,nc73835646,2023-01-22T06:35:12.658Z,"8km NW of The Geysers, CA",earthquake,0.22,0.57,0.17,18,automatic,nc,nc
-2023-01-22T06:16:02.773Z,-6.5137,129.4549,214.845,4.9,mb,75,57,2.34,0.86,us,us7000j66k,2023-01-22T06:33:47.040Z,"Banda Sea",earthquake,6.21,5.128,0.059,90,reviewed,us,us
-2023-01-22T06:07:27.622Z,-15.2559,-75.6919,23.472,4.5,mb,42,155,3.436,0.79,us,us7000j66j,2023-01-22T06:59:56.040Z,"58 km WNW of San Juan, Peru",earthquake,10.02,7.23,0.091,35,reviewed,us,us
-2023-01-22T06:04:51.301Z,61.073,-149.8267,18.7,2,ml,,,,0.64,ak,ak02310hf7be,2023-01-22T08:01:26.102Z,"16 km SSE of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
