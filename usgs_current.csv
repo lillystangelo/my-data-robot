@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-23T05:40:18.704Z,61.8716,-149.9312,31,2,ml,,,,0.62,ak,ak023124krgu,2023-01-23T05:42:24.996Z,"14 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-23T05:25:34.340Z,33.4006667,-116.3771667,3.82,0.88,ml,23,128,0.1363,0.19,ci,ci40405008,2023-01-23T05:29:08.914Z,"16km N of Borrego Springs, CA",earthquake,0.34,0.97,0.168,22,automatic,ci,ci
 2023-01-23T05:18:32.420Z,38.7993317,-122.805336,1.29,1.07,md,20,57,0.01113,0.03,nc,nc73836151,2023-01-23T05:36:13.040Z,"5km WNW of The Geysers, CA",earthquake,0.21,0.39,0.16,19,automatic,nc,nc
 2023-01-23T05:04:47.724Z,62.9504,-148.587,2.1,2,ml,,,,0.89,ak,ak023124d3xg,2023-01-23T05:07:22.476Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -164,6 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T06:16:02.773Z,-6.5137,129.4549,214.845,4.9,mb,75,57,2.34,0.86,us,us7000j66k,2023-01-22T06:33:47.040Z,"Banda Sea",earthquake,6.21,5.128,0.059,90,reviewed,us,us
 2023-01-22T06:07:27.622Z,-15.2559,-75.6919,23.472,4.5,mb,42,155,3.436,0.79,us,us7000j66j,2023-01-22T06:59:56.040Z,"58 km WNW of San Juan, Peru",earthquake,10.02,7.23,0.091,35,reviewed,us,us
 2023-01-22T06:04:51.301Z,61.073,-149.8267,18.7,2,ml,,,,0.64,ak,ak02310hf7be,2023-01-22T08:01:26.102Z,"16 km SSE of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-22T05:40:36.870Z,34.2356667,-116.4495,5.78,0.63,ml,12,94,0.05311,0.07,ci,ci40404800,2023-01-22T21:02:00.240Z,"14km N of Yucca Valley, CA",earthquake,0.22,0.55,0.096,9,reviewed,ci,ci
-2023-01-22T05:39:52.046Z,-2.8853,127.7646,41.986,4.6,mb,32,77,3.654,0.76,us,us7000j66h,2023-01-22T05:56:01.040Z,"100 km NNW of Ambon, Indonesia",earthquake,7.72,8.561,0.113,23,reviewed,us,us
-2023-01-22T05:38:42.600Z,38.1279,-118.0053,8.8,1.1,ml,13,125.34,0.073,0.2213,nn,nn00855137,2023-01-22T05:40:54.098Z,"30 km SSE of Mina, Nevada",earthquake,,0.8,0.19,7,automatic,nn,nn
