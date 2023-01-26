@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-26T04:20:14.820Z,38.3904991,-122.4189987,5.77,1.6,md,12,137,0.04052,0.07,nc,nc73837506,2023-01-26T04:21:47.615Z,"5km WSW of Yountville, CA",earthquake,0.51,0.85,0.23,11,automatic,nc,nc
+2023-01-26T04:36:28.760Z,38.8268318,-122.8251648,0.93,1.9,md,10,101,0.008553,0.03,nc,nc73837511,2023-01-26T04:37:59.130Z,"8km NW of The Geysers, CA",earthquake,0.31,0.76,0.59,3,automatic,nc,nc
+2023-01-26T04:32:15.710Z,18.9818325042725,-155.432495117188,36.5400009155273,2.12,ml,43,259,,0.140000001,hv,hv73313027,2023-01-26T04:37:46.490Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.64,1.32000005,3.85,3,automatic,hv,hv
+2023-01-26T04:20:14.820Z,38.3904991,-122.4189987,5.77,1.6,md,12,137,0.04052,0.07,nc,nc73837506,2023-01-26T04:37:15.758Z,"5km WSW of Yountville, CA",earthquake,0.51,0.85,0.23,11,automatic,nc,nc
+2023-01-26T04:16:06.492Z,16.6106,-25.6047,10,5.3,mb,58,72,9.064,0.68,us,us6000jjbh,2023-01-26T04:34:46.977Z,"73 km SW of Porto Novo, Cabo Verde",earthquake,10.44,1.864,0.026,488,reviewed,us,us
 2023-01-26T04:01:41.250Z,38.8371658,-122.8013306,2.24,0.78,md,9,67,0.00867,0.01,nc,nc73837501,2023-01-26T04:21:13.652Z,"7km WNW of Cobb, CA",earthquake,0.44,1.29,0.35,9,automatic,nc,nc
 2023-01-26T03:43:15.465Z,61.8364,-150.8749,32,1.6,ml,,,,0.75,ak,ak0231720kmy,2023-01-26T03:45:19.850Z,"32 km ESE of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-26T03:35:13.550Z,19.1781673431396,-155.346832275391,27.8099994659424,1.89999998,md,41,184,,0.140000001,hv,hv73313012,2023-01-26T03:38:18.530Z,"14 km E of Pāhala, Hawaii",earthquake,0.58,1.01999998,0.889999986,15,automatic,hv,hv
@@ -135,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:46:48.930Z,38.4785,-112.8426667,0.74,-0.69,md,9,113,0.02456,0.04,uu,uu60530307,2023-01-25T17:47:09.000Z,"17 km ENE of Milford, Utah",earthquake,0.26,1.75,0.37,3,reviewed,uu,uu
 2023-01-25T10:45:35.681Z,-20.2971,-177.6661,494.538,4.4,mb,36,132,2.463,0.6,us,us6000jj4m,2023-01-25T11:12:25.040Z,"272 km WNW of Haveluloto, Tonga",earthquake,18.74,12.204,0.103,27,reviewed,us,us
 2023-01-25T10:39:15.740Z,18.3958,-68.8306,140,3.84,md,11,237,0.4645,0.46,pr,pr2023025003,2023-01-25T12:19:27.040Z,"15 km ESE of La Romana, Dominican Republic",earthquake,5.34,2.16,0.11,6,reviewed,pr,pr
-2023-01-25T10:38:48.100Z,33.8978333,-118.6956667,13.44,2.75,ml,84,150,0.1409,0.21,ci,ci40161431,2023-01-26T03:47:42.845Z,"15km S of Malibu Beach, CA",earthquake,0.27,0.49,0.139,131,reviewed,ci,ci
+2023-01-25T10:38:48.100Z,33.8978333,-118.6956667,13.44,2.75,ml,84,150,0.1409,0.21,ci,ci40161431,2023-01-26T04:25:50.617Z,"15km S of Malibu Beach, CA",earthquake,0.27,0.49,0.139,131,reviewed,ci,ci
 2023-01-25T10:36:41.020Z,35.85016667,-97.1875,9.1,1.61,ml,92,46,0.08908251897,0.16,ok,ok2023bsrb,2023-01-25T13:47:50.831Z,"Oklahoma",earthquake,,0.8,0.25,51,reviewed,ok,ok
 2023-01-25T10:35:52.380Z,38.4795,-112.8453333,0.55,-0.64,md,8,109,0.02421,0.06,uu,uu60530302,2023-01-25T17:00:10.950Z,"17 km ENE of Milford, Utah",earthquake,0.21,1.5,0.119,3,reviewed,uu,uu
 2023-01-25T10:32:21.150Z,33.5668333,-116.6641667,8,0.58,ml,28,44,0.02806,0.09,ci,ci40161423,2023-01-25T18:24:58.660Z,"2km NNE of Anza, CA",earthquake,0.14,0.29,0.165,19,reviewed,ci,ci
@@ -149,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:09:09.290Z,35.9618333,-117.9138333,8.71,0.84,ml,10,139,0.07899,0.07,ci,ci40161391,2023-01-25T14:35:27.546Z,"3km NNW of Little Lake, CA",earthquake,0.28,0.6,0.214,10,reviewed,ci,ci
 2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-26T04:00:57.369Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
 2023-01-25T10:01:41.890Z,35.8515,-97.19116667,7.98,3.53,ml,84,46,0,0.12,ok,ok2023bspx,2023-01-26T02:28:34.594Z,"5 km ENE of Meridian, Oklahoma",earthquake,,0.3,0.26,43,reviewed,ok,ok
-2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T04:21:27.771Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
+2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T04:32:19.441Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
 2023-01-25T09:59:08.048Z,61.4313,-146.363,29.2,1.8,ml,,,,0.84,ak,ak02315i58no,2023-01-25T10:01:20.233Z,"33 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-25T09:54:20.360Z,38.8813324,-122.7841644,10.97,0.25,md,6,230,0.03915,0.05,nc,nc73836986,2023-01-25T12:24:12.264Z,"8km NW of Cobb, CA",earthquake,4.32,2.42,0.07,4,automatic,nc,nc
 2023-01-25T09:49:26.635Z,37.2144,-117.3541,1.7,1,ml,12,168.89,0.219,0.1891,nn,nn00855246,2023-01-25T22:22:07.306Z,"55 km S of Goldfield, Nevada",earthquake,,4,0.51,8,reviewed,nn,nn
@@ -199,8 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T04:48:06.735Z,-26.3612,-71.3386,19.321,4.3,mb,28,172,0.698,0.85,us,us6000jj2x,2023-01-26T00:30:10.040Z,"128 km W of Diego de Almagro, Chile",earthquake,5.24,2.962,0.306,3,reviewed,us,us
 2023-01-25T04:45:45.690Z,33.9941667,-116.8031667,8.52,0.42,ml,17,101,0.04106,0.07,ci,ci40161087,2023-01-25T18:17:36.621Z,"9km N of Cabazon, CA",earthquake,0.17,0.43,0.116,6,reviewed,ci,ci
 2023-01-25T04:39:09.460Z,32.954,-116.3103333,6.77,0.81,ml,25,73,0.005877,0.14,ci,ci40161079,2023-01-25T18:14:00.222Z,"25km NE of Pine Valley, CA",earthquake,0.22,0.39,0.106,10,reviewed,ci,ci
-2023-01-25T04:36:32.620Z,38.7921677,-122.7835007,-0.82,0.76,md,8,110,0.003597,0.26,nc,nc73836916,2023-01-25T05:27:14.812Z,"3km NW of The Geysers, CA",earthquake,0.58,2.68,0.06,8,automatic,nc,nc
-2023-01-25T04:36:25.080Z,18.43,-66.3895,112,3.68,md,18,182,0.1477,0.15,pr,pr2023025000,2023-01-26T01:28:09.040Z,"1 km S of Vega Baja, Puerto Rico",earthquake,1.22,0.67,0.04,15,reviewed,pr,pr
-2023-01-25T04:35:31.860Z,35.5294991,-120.8288345,7.23,1.6,md,14,111,0.0939,0.07,nc,nc73836911,2023-01-25T07:45:14.569Z,"11km NNE of Cayucos, CA",earthquake,0.63,1.36,0.1,9,automatic,nc,nc
-2023-01-25T04:35:02.530Z,33.9228333,-117.1746667,13.46,0.88,ml,45,46,0.02453,0.16,ci,ci40161071,2023-01-25T18:02:47.018Z,"5km E of Moreno Valley, CA",earthquake,0.17,0.38,0.119,17,reviewed,ci,ci
-2023-01-25T04:33:46.830Z,38.8103333,-122.824501,1.93,0.76,md,8,86,0.003936,0.03,nc,nc73836906,2023-01-25T07:15:13.418Z,"7km WNW of The Geysers, CA",earthquake,0.38,0.96,0.23,10,automatic,nc,nc
