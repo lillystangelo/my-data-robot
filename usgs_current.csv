@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T20:18:21.840Z,38.7943344,-122.7243347,1.74,1.83,md,32,55,0.01472,0.06,nc,nc73838881,2023-01-28T20:42:14.928Z,"3km S of Cobb, CA",earthquake,0.19,0.37,0.15,32,automatic,nc,nc
 2023-01-28T20:16:54.930Z,19.5878333333333,-66.3143333333333,36.89,3.44,md,7,307,1.263,0.37,pr,pr71394773,2023-01-28T20:43:42.760Z,"124 km N of Brenas, Puerto Rico",earthquake,3.23,24.04,0.00993633848569608,6,reviewed,pr,pr
 2023-01-28T20:13:37.180Z,38.8358345,-122.80867,0.63,1.08,md,20,51,0.01247,0.02,nc,nc73838876,2023-01-28T22:28:11.501Z,"8km WNW of Cobb, CA",earthquake,0.17,0.42,0.14,19,automatic,nc,nc
+2023-01-28T20:09:58.816Z,38.5084,44.8234,10,4.5,mb,29,83,1.4,0.91,us,us6000jk1j,2023-01-28T22:32:40.040Z,"12 km WSW of Khowy, Iran",earthquake,8,1.922,0.096,32,reviewed,us,us
 2023-01-28T19:56:27.051Z,58.1956,-155.3652,1.2,0.7,ml,,,,0.28,ak,ak0231amp0i9,2023-01-28T19:57:27.933Z,"88 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-28T19:45:26.980Z,33.3821667,-116.3888333,9.4,0.51,ml,13,71,0.06918,0.22,ci,ci40163439,2023-01-28T19:49:02.499Z,"14km N of Borrego Springs, CA",earthquake,0.5,1.37,0.144,6,automatic,ci,ci
 2023-01-28T19:38:02.516Z,65.9111,-148.5573,0,1.4,ml,,,,0.85,ak,ak0231aml3q3,2023-01-28T19:39:46.275Z,"26 km ESE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -194,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T22:58:45.040Z,38.8138351,-122.8199997,2.64,0.89,md,14,65,0.008719,0.02,nc,nc73838521,2023-01-27T23:56:14.436Z,"7km NW of The Geysers, CA",earthquake,0.33,0.67,0.2,15,automatic,nc,nc
 2023-01-27T22:56:48.326Z,64.5609,-147.8885,3.2,1.4,ml,,,,0.84,ak,ak023190y0gw,2023-01-27T22:58:19.613Z,"28 km S of South Van Horn, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-27T22:44:28.260Z,38.8433342,-122.841835,1.98,0.61,md,16,122,0.006858,0.01,nc,nc73838511,2023-01-27T23:45:12.373Z,"10km NW of The Geysers, CA",earthquake,0.31,0.48,0.38,18,automatic,nc,nc
-2023-01-27T22:37:49.790Z,17.958,-67.0098333333333,10.21,2.09,md,4,208,0.03465,0.06,pr,pr71394693,2023-01-27T23:04:06.670Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,2.17,0.72,0.0272956597788605,3,reviewed,pr,pr
-2023-01-27T22:36:43.090Z,17.9711666666667,-67.0108333333333,8.55,2.54,md,12,179,0.03183,0.16,pr,pr71394683,2023-01-27T22:58:19.980Z,"3 km E of La Parguera, Puerto Rico",earthquake,0.5,0.85,0.116600424779301,6,reviewed,pr,pr
-2023-01-27T22:30:10.980Z,38.8178329,-122.7811661,2.49,0.69,md,9,100,0.004583,0.04,nc,nc73838496,2023-01-27T23:34:12.299Z,"5km NNW of The Geysers, CA",earthquake,0.77,1.87,0.27,9,automatic,nc,nc
