@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-30T02:54:51.830Z,35.5085,-118.3961667,5.73,1.1,ml,18,67,0.1665,0.11,ci,ci40163927,2023-01-30T02:58:27.438Z,"12km SE of Bodfish, CA",earthquake,0.22,1.04,0.15,10,automatic,ci,ci
+2023-01-30T02:50:23.584Z,65.2381,-150.0772,0,1.4,ml,,,,0.51,ak,ak0231dnm1na,2023-01-30T02:52:22.311Z,"30 km S of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-30T02:36:19.755Z,61.958,-147.4731,30.9,1.3,ml,,,,0.74,ak,ak0231dnj1br,2023-01-30T02:38:06.005Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-30T02:30:13.932Z,62.3081,-150.0485,12.7,1.6,ml,,,,0.67,ak,ak0231dnhqkx,2023-01-30T02:32:07.834Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-30T02:20:10.123Z,63.5164,-147.4261,27.8,1.4,ml,,,,0.83,ak,ak0231dnfl4k,2023-01-30T02:26:56.777Z,"77 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -198,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T03:11:52.850Z,33.0496667,-116.425,5.62,0.8,ml,19,67,0.07857,0.23,ci,ci40163567,2023-01-29T03:15:23.536Z,"17km E of Julian, CA",earthquake,0.37,1.83,0.089,10,automatic,ci,ci
 2023-01-29T03:08:22.020Z,33.3903333,-116.8733333,4.85,0.63,ml,21,99,0.1326,0.21,ci,ci40163559,2023-01-29T03:12:00.879Z,"4km NNW of Palomar Observatory, CA",earthquake,0.3,1.56,0.096,17,automatic,ci,ci
 2023-01-29T03:05:32.480Z,58.1668,-155.367,0.4,1,ml,,,,0.52,ak,ak0231c0ei8t,2023-01-29T03:08:18.610Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
-2023-01-29T03:01:48.150Z,34.4321667,-119.3205,11.49,1.31,ml,15,153,0.03945,0.24,ci,ci40163551,2023-01-29T03:05:35.462Z,"7km WSW of Ojai, CA",earthquake,0.82,0.78,0.249,11,automatic,ci,ci
-2023-01-29T02:57:55.771Z,60.1321,-153.4253,139.5,2.7,ml,,,,0.59,ak,ak0231c049lc,2023-01-29T03:11:36.040Z,"50 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
