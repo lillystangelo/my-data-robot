@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-30T03:49:51.530Z,37.972168,-122.0531693,14.16,1.82,md,26,87,0.06204,0.15,nc,nc73839611,2023-01-30T03:51:28.906Z,"2km ESE of Pacheco, CA",earthquake,0.37,0.76,0.11,20,automatic,nc,nc
 2023-01-30T03:17:53.757Z,63.4903,-151.1315,2.5,1.6,ml,,,,0.64,ak,ak0231do0gy7,2023-01-30T03:20:31.990Z,"30 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-30T03:08:25.740Z,38.8059998,-122.81633,3.13,1.13,md,11,81,0.01044,0.02,nc,nc73839596,2023-01-30T03:26:12.363Z,"6km WNW of The Geysers, CA",earthquake,0.38,1.05,0.25,12,automatic,nc,nc
 2023-01-30T02:54:51.830Z,35.5085,-118.3961667,5.73,1.1,ml,18,67,0.1665,0.11,ci,ci40163927,2023-01-30T02:58:27.438Z,"12km SE of Bodfish, CA",earthquake,0.22,1.04,0.15,10,automatic,ci,ci
@@ -190,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T04:14:26.904Z,60.574,-151.7867,83.1,1.8,ml,,,,0.57,ak,ak0231c11uua,2023-01-29T04:16:34.176Z,"26 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-29T04:06:53.880Z,33.0613333,-116.4088333,13.14,1.77,ml,61,33,0.08929,0.22,ci,ci40163591,2023-01-29T15:13:22.010Z,"18km E of Julian, CA",earthquake,0.23,0.62,0.214,25,reviewed,ci,ci
 2023-01-29T04:06:36.190Z,33.0678333,-116.4028333,12.27,0.83,ml,18,48,0.09598,0.22,ci,ci40163583,2023-01-29T04:10:16.183Z,"19km E of Julian, CA",earthquake,0.42,1.23,0.186,13,automatic,ci,ci
-2023-01-29T03:48:10.405Z,38.6464,44.8532,10,4.1,mb,17,127,1.502,0.79,us,us6000jk3l,2023-01-29T04:10:42.040Z,"Turkey-Iran border region",earthquake,8.22,1.956,0.175,9,reviewed,us,us
-2023-01-29T03:44:41.370Z,18.8663333333333,-65.3226666666667,8.54,3.42,md,13,255,0.5572,0.31,pr,pr71394798,2023-01-29T04:13:17.320Z,"62 km N of Culebra, Puerto Rico",earthquake,1.11,1.45,0.03950717071256,5,reviewed,pr,pr
