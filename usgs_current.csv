@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-30T13:42:52.890Z,37.8003349,-122.1866684,4.11,1.32,md,10,110,0.02073,0.06,nc,nc73839791,2023-01-30T13:44:26.942Z,"4km E of Oakland, CA",earthquake,0.36,0.68,0.16,8,automatic,nc,nc
 2023-01-30T13:39:10.617Z,63.2051,-151.3382,3.5,1.4,ml,,,,0.49,ak,ak0231du3ff9,2023-01-30T13:41:15.961Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-30T13:19:29.520Z,33.4758333,-116.5033333,12.13,1.2,ml,45,74,0.08037,0.2,ci,ci40164183,2023-01-30T13:30:18.170Z,"18km ESE of Anza, CA",earthquake,0.24,0.48,0.154,26,automatic,ci,ci
 2023-01-30T13:11:51.170Z,60.8502,-150.3461,34.3,1.6,ml,,,,0.5,ak,ak0231dtxii5,2023-01-30T13:15:02.837Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -107,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T01:02:31.837Z,34.8324,14.3425,10,4.3,mb,31,141,5.284,0.76,us,us6000jk8a,2023-01-30T01:19:00.040Z,"central Mediterranean Sea",earthquake,11.05,1.935,0.104,26,reviewed,us,us
 2023-01-30T00:38:11.480Z,38.809166,-122.8264999,1.59,0.8,md,8,94,0.002113,0.02,nc,nc73839541,2023-01-30T02:45:13.108Z,"7km WNW of The Geysers, CA",earthquake,0.48,0.82,0.25,9,automatic,nc,nc
 2023-01-30T00:32:10.643Z,36.3801,139.8199,76.786,4.4,mb,22,92,1.313,0.67,us,us6000jk87,2023-01-30T04:31:13.040Z,"4 km SSE of Mibu, Japan",earthquake,6.96,9.229,0.219,6,reviewed,us,us
-2023-01-30T00:31:13.929Z,-21.2113,-68.8511,115.284,4.3,mwr,32,45,0.617,0.91,us,us6000jk86,2023-01-30T04:14:53.040Z,"138 km N of Calama, Chile",earthquake,6,4.494,,,reviewed,us,guc
+2023-01-30T00:31:13.929Z,-21.2113,-68.8511,115.284,4.3,mwr,32,45,0.617,0.91,us,us6000jk86,2023-01-30T04:14:53.040Z,"Tarapaca, Chile",earthquake,6,4.494,,,reviewed,us,guc
 2023-01-30T00:24:30.500Z,19.2663326263428,-155.43083190918,31.9899997711182,1.87,md,28,167,,0.119999997,hv,hv73315382,2023-01-30T00:27:34.600Z,"8 km NE of Pāhala, Hawaii",earthquake,0.73,0.870000005,0.550000012,8,automatic,hv,hv
 2023-01-30T00:09:29.470Z,33.8856667,-116.2493333,1.58,0.83,ml,12,140,0.1435,0.14,ci,ci40163895,2023-01-30T00:13:01.433Z,"15km ENE of Thousand Palms, CA",earthquake,0.41,0.72,0.093,11,automatic,ci,ci
 2023-01-30T00:02:35.370Z,17.9528333333333,-66.8463333333333,9.72,2.62,md,7,212,0.03835,0.12,pr,pr71394853,2023-01-30T00:50:21.430Z,"5 km ESE of Maria Antonia, Puerto Rico",earthquake,0.73,0.58,0.0555175473419771,5,reviewed,pr,pr
@@ -199,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T14:15:34.710Z,39.4160004,-122.8881683,3.01,1.38,md,6,196,0.1906,0.02,nc,nc73839286,2023-01-29T16:47:19.520Z,"6km E of Lake Pillsbury, CA",earthquake,0.64,6.6,0.07,2,automatic,nc,nc
 2023-01-29T14:00:34.680Z,38.8238335,-122.854332,2.18,0.48,md,8,115,0.004204,0.01,nc,nc73839276,2023-01-29T15:52:14.208Z,"10km WNW of The Geysers, CA",earthquake,0.77,0.93,0.27,8,automatic,nc,nc
 2023-01-29T14:00:18.880Z,36.8626671,-121.5924988,5.46,1.98,md,27,93,0.02175,0.09,nc,nc73839271,2023-01-29T15:33:11.099Z,"5km WNW of San Juan Bautista, CA",earthquake,0.3,0.49,0.21,25,automatic,nc,nc
-2023-01-29T13:42:29.930Z,38.7739983,-122.7416687,0.36,1.08,md,11,75,0.01,0.03,nc,nc73839261,2023-01-29T14:58:15.876Z,"1km ESE of The Geysers, CA",earthquake,0.25,0.47,0.28,11,automatic,nc,nc
