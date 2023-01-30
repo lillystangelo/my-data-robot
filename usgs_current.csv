@@ -1,14 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-30T20:33:05.950Z,33.5688333,-116.6341667,15.24,1.58,ml,54,24,0.003705,0.21,ci,ci40164311,2023-01-30T20:36:50.541Z,"4km ENE of Anza, CA",earthquake,0.2,0.38,0.158,26,automatic,ci,ci
 2023-01-30T20:09:35.360Z,33.8923333,-116.259,4.28,0.95,ml,20,60,0.1003,0.26,ci,ci40164303,2023-01-30T20:13:07.419Z,"14km ENE of Thousand Palms, CA",earthquake,0.43,1.19,0.143,23,automatic,ci,ci
 2023-01-30T20:08:03.120Z,18.0081666666667,-66.7495,15,2.2,md,6,189,0.1278,0.11,pr,pr71394898,2023-01-30T20:15:34.440Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.53,1.17,0.00968044942976998,4,reviewed,pr,pr
 2023-01-30T20:01:17.941Z,61.4383,-147.8282,17.2,1.6,ml,,,,0.65,ak,ak0231dy1c0i,2023-01-30T20:03:06.286Z,"42 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-30T19:57:20.380Z,34.9876667,-118.1975,0.28,1.65,ml,21,58,0.1116,0.29,ci,ci40164295,2023-01-30T20:01:03.603Z,"8km SSW of Mojave, CA",earthquake,0.42,31.61,0.343,28,automatic,ci,ci
-2023-01-30T19:55:26.286Z,34.966,14.3004,10,5.3,mww,108,39,5.161,0.89,us,us6000jkea,2023-01-30T20:23:59.839Z,"97 km S of Żurrieq, Malta",earthquake,7.91,1.844,0.039,62,reviewed,us,us
+2023-01-30T19:55:26.286Z,34.966,14.3004,10,5.3,mww,108,39,5.161,0.89,us,us6000jkea,2023-01-30T20:38:57.992Z,"97 km S of Żurrieq, Malta",earthquake,7.91,1.844,0.039,62,reviewed,us,us
 2023-01-30T19:51:31.280Z,33.884,-116.2625,2.43,0.74,ml,12,65,0.09344,0.16,ci,ci40164287,2023-01-30T19:55:05.266Z,"14km ENE of Thousand Palms, CA",earthquake,0.41,0.52,0.121,12,automatic,ci,ci
 2023-01-30T19:49:07.506Z,60.1144,-153.0565,119.6,1.5,ml,,,,0.27,ak,ak0231dxq5z2,2023-01-30T19:51:20.508Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-30T19:40:40.560Z,38.8149986,-122.7955017,1.85,1.59,md,32,42,0.007022,0.03,nc,nc73839881,2023-01-30T20:06:10.603Z,"5km NW of The Geysers, CA",earthquake,0.17,0.27,0.16,32,automatic,nc,nc
-2023-01-30T19:28:52.085Z,45.7468,-110.5859,5,4.1,ml,21,100,0.645,0.66,us,us6000jke7,2023-01-30T20:25:45.661Z,"9 km NNW of Livingston, Montana",earthquake,1.53,1.905,0.045,66,reviewed,us,us
+2023-01-30T19:28:52.085Z,45.7468,-110.5859,5,4.1,ml,21,100,0.645,0.66,us,us6000jke7,2023-01-30T20:38:05.732Z,"9 km NNW of Livingston, Montana",earthquake,1.53,1.905,0.045,66,reviewed,us,us
 2023-01-30T19:20:17.590Z,38.8126678,-122.8274994,1.81,0.78,md,11,60,0.004015,0.03,nc,nc73839876,2023-01-30T20:00:15.561Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.72,0.12,12,automatic,nc,nc
+2023-01-30T19:15:44.077Z,37.8452,142.147,33.531,4.5,mb,49,135,3.058,1.19,us,us6000jke4,2023-01-30T20:38:38.040Z,"off the east coast of Honshu, Japan",earthquake,8.27,6.057,0.104,27,reviewed,us,us
 2023-01-30T19:06:23.440Z,60.8955,-149.6785,34.1,1.2,ml,,,,0.25,ak,ak0231dxgze8,2023-01-30T19:08:29.583Z,"3 km SW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-30T18:52:23.120Z,33.2626667,-116.4063333,3.64,0.72,ml,19,125,0.01062,0.17,ci,ci40164279,2023-01-30T18:55:48.669Z,"3km WNW of Borrego Springs, CA",earthquake,0.38,0.34,0.145,11,automatic,ci,ci
 2023-01-30T18:49:31.150Z,37.2898331,-121.6598358,6.07,2.22,md,47,41,0.03257,0.08,nc,nc73839866,2023-01-30T19:06:19.227Z,"16km E of Seven Trees, CA",earthquake,0.15,0.33,0.18,47,automatic,nc,nc
@@ -202,10 +204,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T21:49:07.482Z,-22.063,-67.2687,184.593,4.4,mb,24,91,1.221,0.44,us,us6000jk7f,2023-01-29T23:49:15.040Z,"134 km NE of San Pedro de Atacama, Chile",earthquake,5.8,10.774,0.203,7,reviewed,us,us
 2023-01-29T21:37:27.578Z,62.4416,-148.7799,20,1.1,ml,,,,0.5,ak,ak0231cbb5n9,2023-01-29T21:38:45.587Z,"Central Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-01-29T21:31:05.153Z,60.4451,-151.9239,62.6,1.5,ml,,,,0.28,ak,ak0231cb9tmb,2023-01-29T21:32:54.512Z,"Kenai Peninsula, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2023-01-29T21:24:42.330Z,33.4248333,-116.9186667,12.24,0.95,ml,35,59,0.1012,0.27,ci,ci40163863,2023-01-29T21:28:17.457Z,"5km WSW of Aguanga, CA",earthquake,0.35,1.33,0.149,20,automatic,ci,ci
+2023-01-29T21:24:42.520Z,33.4256667,-116.9123333,6.98,0.9,ml,30,60,0.05599,0.17,ci,ci40163863,2023-01-30T20:33:59.930Z,"5km WSW of Aguanga, CA",earthquake,0.23,0.54,0.112,16,reviewed,ci,ci
 2023-01-29T21:22:27.763Z,31.64759652,-104.4046172,6.080151367,2.7,ml,31,64,0.02491249017,0.2,tx,tx2023cauk,2023-01-30T18:49:05.231Z,"58 km S of Whites City, New Mexico",earthquake,0.8375180918,0.9246313276,0.2,24,reviewed,tx,tx
 2023-01-29T21:19:59.350Z,38.8590012,-122.8361664,4.71,0.52,md,8,223,0.01091,0.04,nc,nc73839461,2023-01-29T21:49:11.330Z,"11km WNW of Cobb, CA",earthquake,1.43,2.63,0.15,8,automatic,nc,nc
 2023-01-29T21:06:09.500Z,33.8848333,-116.2605,3.21,0.86,ml,18,60,0.083,0.12,ci,ci40163855,2023-01-30T20:17:10.810Z,"14km ENE of Thousand Palms, CA",earthquake,0.22,0.87,0.132,11,reviewed,ci,ci
 2023-01-29T20:46:15.494Z,63.088,-151.5182,0,1.5,ml,,,,1.11,ak,ak0231carmjx,2023-01-29T20:48:37.864Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-29T20:40:14.290Z,60.4991,-141.6251,19.1,1,ml,,,,0.72,ak,ak0231caqc5q,2023-01-29T20:42:45.866Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-29T20:35:31.670Z,38.7849998,-122.7860031,1.22,2.45,md,35,67,0.008303,0.05,nc,nc73839441,2023-01-29T22:55:11.745Z,"3km WNW of The Geysers, CA",earthquake,0.18,0.26,0.2,39,automatic,nc,nc
