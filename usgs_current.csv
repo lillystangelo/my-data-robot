@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T15:13:24.819Z,38.41,44.8049,10,4.5,mb,35,152,1.376,0.96,us,us6000jk61,2023-01-29T17:12:30.040Z,"20 km SW of Khowy, Iran",earthquake,8.16,1.937,0.077,50,reviewed,us,us
 2023-01-29T14:53:59.746Z,61.4424,-146.5117,16.3,1.7,ml,,,,0.64,ak,ak0231c78mcm,2023-01-29T14:55:58.284Z,"35 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-29T14:41:14.634Z,38.5096,44.7975,10,4.7,mb,32,146,1.38,1.07,us,us6000jk5x,2023-01-29T17:05:44.040Z,"14 km WSW of Khowy, Iran",earthquake,6.5,1.92,0.072,59,reviewed,us,us
-2023-01-29T14:26:27.055Z,61.3765,-146.9972,35.1,1,ml,,,,0.85,ak,ak0231c72riv,2023-01-29T14:28:55.018Z,"Southern Alaska",earthquake,,8.1,,,automatic,ak,ak
