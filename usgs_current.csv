@@ -13,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T03:06:53.580Z,37.5546684,-118.8078308,9.79,1.72,md,19,153,0.03914,0.02,nc,nc73840381,2023-02-01T03:23:15.460Z,"11km W of Toms Place, CA",earthquake,0.43,0.74,0.12,18,automatic,nc,nc
 2023-02-01T03:00:46.392Z,60.0057,-153.1585,123.3,1.6,ml,,,,0.29,ak,ak0231gyzi73,2023-02-01T03:02:33.762Z,"58 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-01T02:54:28.088Z,-3.6646,-79.7043,10,4.3,mb,16,126,0.38,0.31,us,us6000jkn6,2023-02-01T03:22:37.040Z,"3 km NW of Piñas, Ecuador",earthquake,4.73,1.975,0.308,3,reviewed,us,us
+2023-02-01T02:25:40.626Z,53.4706,-163.6966,92.6,2.5,ml,,,,0.71,ak,ak0231gyjf08,2023-02-01T04:41:05.744Z,"155 km S of False Pass, Alaska",earthquake,,17.8,,,reviewed,ak,ak
 2023-02-01T02:10:10.480Z,58.2367,-155.0881,16,0.6,ml,,,,0.82,ak,ak0231gyg4zc,2023-02-01T02:12:03.110Z,"83 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-01T02:10:06.530Z,33.8886667,-116.2585,5.42,1.32,ml,31,86,0.09668,0.21,ci,ci40164839,2023-02-01T02:21:06.410Z,"14km ENE of Thousand Palms, CA",earthquake,0.32,0.72,0.177,27,automatic,ci,ci
 2023-02-01T02:04:11.779Z,57.6589,-153.5473,36,2.5,ml,,,,0.26,ak,ak0231gyeus9,2023-02-01T04:24:46.040Z,"28 km ENE of Larsen Bay, Alaska",earthquake,,6.5,,,automatic,ak,ak
@@ -60,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T21:29:14.000Z,33.884,-116.259,3,1.61,ml,45,61,0.08233,0.2,ci,ci40164743,2023-01-31T21:32:56.663Z,"14km ENE of Thousand Palms, CA",earthquake,0.24,0.7,0.199,27,automatic,ci,ci
 2023-01-31T21:28:34.560Z,17.914,-66.9016666666667,14.89,2.24,md,9,231,0.05827,0.07,pr,pr71395013,2023-01-31T21:39:05.690Z,"6 km S of Guánica, Puerto Rico",earthquake,0.86,0.46,0.143320741876249,5,reviewed,pr,pr
 2023-01-31T21:28:09.210Z,35.7221667,-117.5635,8.46,1.39,ml,18,150,0.09738,0.17,ci,ci40164735,2023-01-31T21:39:09.400Z,"15km NE of Ridgecrest, CA",earthquake,0.46,1.27,0.209,17,automatic,ci,ci
+2023-01-31T21:11:28.290Z,53.9265,-166.697333333333,4.73,0.51,ml,7,114,,0.13,av,av91753561,2023-02-01T04:35:17.040Z,"10 km WNW of Dutch Harbor, Alaska",earthquake,0.33,0.68,0.188783376248795,7,reviewed,av,av
 2023-01-31T21:07:32.090Z,32.781,-115.544,10.33,2.1,ml,20,110,0.08539,0.2,ci,ci40164727,2023-01-31T21:18:00.200Z,"2km ESE of El Centro, CA",earthquake,0.49,0.93,0.291,27,automatic,ci,ci
 2023-01-31T21:06:27.346Z,60.9985,-147.6633,14.7,2,ml,,,,1.36,ak,ak0231fm75yb,2023-01-31T21:08:51.569Z,"55 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-31T21:04:12.870Z,36.0144997,-120.5721664,2.75,1.23,md,11,118,0.02927,0.04,nc,nc73840276,2023-02-01T01:25:10.862Z,"18km NW of Parkfield, CA",earthquake,0.35,0.8,0.14,4,automatic,nc,nc
@@ -228,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T04:59:13.970Z,-28.3305,-67.9462,170.847,4.4,mb,21,132,1.822,0.91,us,us6000jkh3,2023-02-01T03:25:07.040Z,"La Rioja, Argentina",earthquake,7.94,10.453,0.269,4,reviewed,us,us
 2023-01-31T04:53:43.056Z,-17.554,-178.3731,547.594,4.4,mb,37,85,3.237,0.44,us,us6000jkh2,2023-02-01T02:46:04.040Z,"251 km ENE of Levuka, Fiji",earthquake,15.06,11.296,0.102,28,reviewed,us,us
 2023-01-31T04:49:05.673Z,24.5762,94.4176,64.505,4.6,mb,63,77,4.494,0.77,us,us6000jkh1,2023-02-01T02:32:43.391Z,"Myanmar-India border region",earthquake,8.77,4.391,0.054,101,reviewed,us,us
-2023-01-31T04:40:22.740Z,41.4968333,-112.1791667,7.21,2.08,ml,23,72,0.1078,0.14,uu,uu60530627,2023-01-31T15:48:23.750Z,"8 km SW of Corinne, Utah",earthquake,0.28,0.8,0.025,5,reviewed,uu,uu
-2023-01-31T04:39:53.460Z,19.2038326263428,-155.417007446289,31.7399997711182,2.17000008,md,26,155,,0.129999995,hv,hv73316192,2023-01-31T04:42:58.840Z,"6 km E of Pāhala, Hawaii",earthquake,0.78,0.779999971,1.08000004,3,automatic,hv,hv
