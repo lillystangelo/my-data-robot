@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-03T10:36:38.308Z,55.918,-157.8217,34.8,3.7,ml,,,,0.52,ak,ak0231kefxlc,2023-02-03T10:45:02.265Z,"55 km SE of Chignik, Alaska",earthquake,,197.3,,,automatic,ak,ak
+2023-02-03T10:48:10.486Z,58.2174,-155.2194,1.1,0.3,ml,,,,0.17,ak,ak0231keig0o,2023-02-03T10:49:36.493Z,"85 km NNW of Karluk, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2023-02-03T10:36:38.308Z,55.918,-157.8217,34.8,3.7,ml,,,,0.52,ak,ak0231kefxlc,2023-02-03T10:56:12.040Z,"55 km SE of Chignik, Alaska",earthquake,,197.3,,,automatic,ak,ak
 2023-02-03T10:17:19.210Z,33.5878333,-116.6101667,12.96,0.64,ml,23,40,0.01569,0.11,ci,ci40165775,2023-02-03T10:21:00.657Z,"7km ENE of Anza, CA",earthquake,0.2,0.34,0.114,17,automatic,ci,ci
-2023-02-03T10:08:36.091Z,-20.8603,-69.913,26.89,4.4,mb,30,137,0.437,0.55,us,us6000jl5e,2023-02-03T10:46:18.161Z,"75 km SSE of Iquique, Chile",earthquake,3.22,5.464,0.134,16,reviewed,us,us
+2023-02-03T10:08:36.091Z,-20.8603,-69.913,26.89,4.4,mb,30,137,0.437,0.55,us,us6000jl5e,2023-02-03T10:54:57.934Z,"75 km SSE of Iquique, Chile",earthquake,3.22,5.464,0.134,16,reviewed,us,us
 2023-02-03T09:56:21.970Z,32.9456667,-116.3226667,7.13,0.9,ml,21,88,0.0185,0.23,ci,ci40165767,2023-02-03T10:00:17.053Z,"24km NE of Pine Valley, CA",earthquake,0.41,0.62,0.224,15,automatic,ci,ci
 2023-02-03T09:54:19.160Z,60.2983,-154.1644,121.6,2.1,ml,,,,0.93,ak,ak0231kdybdo,2023-02-03T09:56:49.690Z,"13 km NE of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-02-03T09:50:50.571Z,-18.8447,-69.6955,99.294,4.9,mb,70,94,0.642,1.44,us,us6000jl5c,2023-02-03T10:23:54.707Z,"75 km ESE of Arica, Chile",earthquake,6.42,6.734,0.054,109,reviewed,us,us
