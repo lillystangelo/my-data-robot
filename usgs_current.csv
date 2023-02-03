@@ -209,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T11:47:36.852Z,60.7859,-147.1842,20,0.8,ml,,,,0.67,ak,ak0231irkdg5,2023-02-02T11:49:50.429Z,"28 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-02T11:43:37.368Z,37.2395,-116.5738,9.7,0.1,ml,11,192.48,0.122,0.1651,nn,nn00855604,2023-02-02T21:01:26.292Z,"40 km NNE of Beatty, Nevada",earthquake,,2.7,1.05,7,reviewed,nn,nn
 2023-02-02T11:37:47.620Z,56.9135,-158.035833333333,1.09,-0.21,ml,4,277,,0.08,av,av91086718,2023-02-03T01:15:24.820Z,"36 km E of Port Heiden, Alaska",earthquake,0.9,3.33,0.0703899004704238,2,reviewed,av,av
-2023-02-02T11:30:15.530Z,61.4474,-146.5529,24.5,1.7,ml,,,,0.46,ak,ak0231irgomp,2023-02-02T11:31:55.976Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-02T11:29:59.277Z,37.1349,-115.3056,0,1,ml,5,227.29,0.339,0.1385,nn,nn00855603,2023-02-02T20:55:12.924Z,"28 km SSW of Alamo, Nevada",earthquake,,0,0.13,2,reviewed,nn,nn
