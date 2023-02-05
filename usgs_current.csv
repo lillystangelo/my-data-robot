@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-05T09:25:45.040Z,33.6743333,-116.7165,15.34,2.21,ml,75,16,0.03679,0.21,ci,ci40411216,2023-02-05T09:36:33.320Z,"7km S of Idyllwild, CA",earthquake,0.18,0.37,0.254,25,automatic,ci,ci
 2023-02-05T09:08:31.668Z,58.1957,-155.1223,1.4,0.5,ml,,,,0.25,ak,ak0231nor6e6,2023-02-05T09:10:12.751Z,"Alaska Peninsula",earthquake,,3.3,,,automatic,ak,ak
 2023-02-05T08:49:50.640Z,62.2737,-151.2841,77.8,1.4,ml,,,,0.29,ak,ak0231noekm0,2023-02-05T08:51:36.787Z,"32 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-05T08:46:30.470Z,38.8261681,-122.8523331,2.33,0.76,md,13,95,0.003803,0.01,nc,nc73842171,2023-02-05T09:03:13.348Z,"10km WNW of The Geysers, CA",earthquake,0.36,0.83,0.24,15,automatic,nc,nc
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-05T08:04:49.880Z,38.7878342,-122.7488327,3.33,1.06,md,16,137,0.01052,0.03,nc,nc73842156,2023-02-05T08:21:15.086Z,"1km NNE of The Geysers, CA",earthquake,0.4,0.76,0.21,17,automatic,nc,nc
 2023-02-05T07:55:56.574Z,55.4293,-157.6786,147.9,3,ml,,,,0.8,ak,ak0231nnufrd,2023-02-05T08:11:42.040Z,"106 km SSE of Chignik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-02-05T07:52:56.967Z,60.9599,-152.4028,80.2,2.1,ml,,,,1.24,ak,ak0231nntsn4,2023-02-05T07:55:41.279Z,"67 km WNW of Nikiski, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2023-02-05T07:43:47.870Z,38.5488319,-119.5419998,4.08,2.11,md,7,130,0.04091,0.15,nc,nc73842151,2023-02-05T07:58:12.107Z,"7km NW of Walker, CA",earthquake,1.07,1.87,0.25,3,automatic,nc,nc
+2023-02-05T07:43:47.870Z,38.5488319,-119.5419998,4.08,2.11,md,7,130,0.04091,0.15,nc,nc73842151,2023-02-05T09:35:14.557Z,"7km NW of Walker, CA",earthquake,1.07,1.87,0.25,3,automatic,nc,nc
 2023-02-05T07:41:53.936Z,60.5917,-150.272,40,1.4,ml,,,,0.67,ak,ak0231nnrfi6,2023-02-05T07:44:25.409Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-05T07:41:48.591Z,61.5615,-146.2644,32.5,1.7,ml,,,,0.38,ak,ak0231nnrf4b,2023-02-05T07:43:20.744Z,"48 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-05T07:40:37.050Z,38.7879982,-122.748497,3.36,1.26,md,19,138,0.01036,0.03,nc,nc73842141,2023-02-05T09:20:14.455Z,"1km NNE of The Geysers, CA",earthquake,0.31,0.65,0.09,19,automatic,nc,nc
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T09:56:59.310Z,19.1711673736572,-155.485336303711,35.0099983215332,1.97000003,md,30,98,,0.170000002,hv,hv73319077,2023-02-04T10:00:06.360Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.71,1.10000002,1.23000002,12,automatic,hv,hv
 2023-02-04T09:49:15.783Z,61.6946,-150.6696,31.4,1.2,ml,,,,0.58,ak,ak0231m1gl16,2023-02-04T09:56:59.460Z,"18 km NNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-04T09:39:22.159Z,44.378,-115.1603,10,2.5,ml,20,58,0.928,0.4,us,us6000jld2,2023-02-04T10:14:06.040Z,"25 km NW of Stanley, Idaho",earthquake,1.33,1.993,0.056,42,reviewed,us,us
-2023-02-04T09:34:21.900Z,35.6666667,-117.5116667,9.74,1.05,ml,12,178,0.1643,0.17,ci,ci40410800,2023-02-04T09:38:01.893Z,"15km SW of Searles Valley, CA",earthquake,0.61,1.02,0.162,10,automatic,ci,ci
