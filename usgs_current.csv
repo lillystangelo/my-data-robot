@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-05T13:28:02.840Z,35.6686667,-117.5456667,1.96,1.68,ml,19,144,0.1527,0.15,ci,ci40411312,2023-02-05T13:31:37.812Z,"13km ENE of Ridgecrest, CA",earthquake,0.37,0.71,0.131,23,automatic,ci,ci
 2023-02-05T13:17:31.343Z,62.0037,-150.2887,41.4,1.4,ml,,,,0.19,ak,ak0231nr6u8e,2023-02-05T13:20:05.700Z,"28 km SW of Susitna North, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-02-05T12:58:22.835Z,48.9436,157.3246,48.287,4.5,mb,45,136,4.17,0.33,us,us6000jljv,2023-02-05T13:17:08.040Z,"211 km SSE of Severo-Kuril’sk, Russia",earthquake,9.95,7.22,0.091,36,reviewed,us,us
 2023-02-05T12:47:17.310Z,38.8279991,-122.817337,1.03,0.72,md,5,116,0.007302,0.01,nc,nc73842246,2023-02-05T13:03:14.866Z,"8km NW of The Geysers, CA",earthquake,0.43,1.39,0.3,8,automatic,nc,nc
