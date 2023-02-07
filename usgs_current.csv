@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-07T16:41:21.160Z,38.8088341,-122.8378296,1.21,0.78,md,19,49,0.004241,0.02,nc,nc73843056,2023-02-07T16:42:57.320Z,"8km WNW of The Geysers, CA",earthquake,0.2,0.38,0.17,19,automatic,nc,nc
+2023-02-07T16:50:45.640Z,38.7928352,-122.7618332,1.99,1.31,md,28,63,0.007953,0.05,nc,nc73843066,2023-02-07T16:52:22.598Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.38,0.21,28,automatic,nc,nc
+2023-02-07T16:46:50.840Z,38.7868347,-122.7698364,1.46,1.84,md,34,82,0.01549,0.05,nc,nc73843061,2023-02-07T16:50:16.410Z,"2km NW of The Geysers, CA",earthquake,0.2,0.34,0.17,34,automatic,nc,nc
+2023-02-07T16:41:21.160Z,38.8088341,-122.8378296,1.21,0.78,md,19,49,0.004241,0.02,nc,nc73843056,2023-02-07T16:56:10.433Z,"8km WNW of The Geysers, CA",earthquake,0.2,0.38,0.17,19,automatic,nc,nc
 2023-02-07T16:38:04.610Z,32.0863333,-116.4143333,18.59,1.96,ml,14,225,0.4043,0.1,ci,ci40411864,2023-02-07T16:41:53.197Z,"31km NE of Ensenada, B.C., MX",earthquake,0.67,1.02,0.228,22,automatic,ci,ci
-2023-02-07T16:34:48.010Z,38.8086662,-122.8356705,0.86,1.98,md,36,32,0.004985,0.05,nc,nc73843051,2023-02-07T16:37:44.837Z,"8km WNW of The Geysers, CA",earthquake,0.16,0.24,0.18,37,automatic,nc,nc
-2023-02-07T16:28:59.500Z,38.7879982,-122.7676697,2.42,0.92,md,9,84,0.01665,0.01,nc,nc73843041,2023-02-07T16:41:11.343Z,"2km NW of The Geysers, CA",earthquake,0.31,0.89,0.18,10,automatic,nc,nc
+2023-02-07T16:34:48.010Z,38.8086662,-122.8356705,0.86,1.98,md,36,32,0.004985,0.05,nc,nc73843051,2023-02-07T16:51:10.404Z,"8km WNW of The Geysers, CA",earthquake,0.16,0.24,0.18,37,automatic,nc,nc
+2023-02-07T16:28:59.500Z,38.7879982,-122.7676697,2.42,0.92,md,9,84,0.01665,0.01,nc,nc73843041,2023-02-07T16:54:14.424Z,"2km NW of The Geysers, CA",earthquake,0.31,0.89,0.18,10,automatic,nc,nc
 2023-02-07T16:17:11.810Z,38.7088318,-122.6766663,3.43,1.27,md,10,136,0.06184,0.03,nc,nc73843031,2023-02-07T16:33:15.294Z,"7km SW of Middletown, CA",earthquake,0.48,1.47,0.31,11,automatic,nc,nc
 2023-02-07T16:11:17.094Z,-21.0797,-179.079,614.716,4.8,mb,72,42,3.619,0.8,us,us6000jm98,2023-02-07T16:39:02.040Z,"Fiji region",earthquake,11.92,7.134,0.053,109,reviewed,us,us
 2023-02-07T16:00:39.340Z,31.9996667,-116.8195,11.84,2.32,ml,8,263,0.3393,0.16,ci,ci40411856,2023-02-07T16:04:17.995Z,"17km NW of El Sauzal, B.C., MX",earthquake,3.48,10.4,0.133,23,automatic,ci,ci
@@ -55,6 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T10:22:21.454Z,-21.4962,-68.5225,132.547,4.2,mb,20,62,1.006,0.62,us,us6000jm7g,2023-02-07T15:40:37.040Z,"114 km NNE of Calama, Chile",earthquake,5.74,7.89,0.167,10,reviewed,us,us
 2023-02-07T10:18:13.368Z,38.0026,38.5474,10,5.4,mww,94,29,1.348,0.56,us,us6000jm7f,2023-02-07T12:22:28.377Z,"6 km WSW of Sincik, Turkey",earthquake,5.35,1.838,0.073,18,reviewed,us,us
 2023-02-07T09:56:46.485Z,-3.593,126.5943,10,4.7,mb,37,52,3.429,0.67,us,us6000jm7c,2023-02-07T10:50:02.040Z,"176 km W of Ambon, Indonesia",earthquake,6.15,1.766,0.112,24,reviewed,us,us
+2023-02-07T09:34:29.350Z,44.7978333,-110.9693333,7.69,0.16,md,6,241,0.04659,0.15,uu,uu60530321,2023-02-07T16:56:24.670Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,1.17,1.19,0.359,4,reviewed,uu,uu
 2023-02-07T09:31:43.920Z,59.7432,-152.7083,86.1,1.8,ml,,,,0.51,ak,ak0231qzytso,2023-02-07T09:34:14.373Z,"49 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-07T09:08:06.390Z,33.4438333,-116.636,4.58,0.78,ml,32,38,0.05807,0.25,ci,ci40411776,2023-02-07T09:11:51.759Z,"13km SSE of Anza, CA",earthquake,0.29,0.57,0.167,18,automatic,ci,ci
 2023-02-07T08:49:35.903Z,49.4715,-28.4164,10,5,mb,51,127,18.899,0.78,us,us6000jm74,2023-02-07T09:08:43.040Z,"northern Mid-Atlantic Ridge",earthquake,12.63,1.918,0.041,193,reviewed,us,us
@@ -69,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T07:25:17.090Z,38.8283348,-122.8103333,1.11,0.23,md,9,64,0.004937,0.02,nc,nc73842921,2023-02-07T10:00:16.868Z,"7km NW of The Geysers, CA",earthquake,0.34,0.85,0.12,9,automatic,nc,nc
 2023-02-07T07:22:05.830Z,36.2938347,-120.7656631,3.07,1.49,md,5,181,0.3598,0.13,nc,nc73842916,2023-02-07T09:38:10.712Z,"16km SSW of New Idria, CA",earthquake,4.54,11.35,0.17,5,automatic,nc,nc
 2023-02-07T07:16:24.390Z,33.6511667,-116.7051667,13.15,0.78,ml,23,95,0.06031,0.12,ci,ci40411752,2023-02-07T14:34:25.805Z,"10km S of Idyllwild, CA",earthquake,0.26,0.46,0.16,19,reviewed,ci,ci
-2023-02-07T07:11:14.840Z,38.1162,38.6693,6.829,5.4,mww,119,29,1.494,0.59,us,us6000jm6p,2023-02-07T12:44:56.697Z,"eastern Turkey",earthquake,5.51,3.665,0.052,36,reviewed,us,us
+2023-02-07T07:11:14.840Z,38.1162,38.6693,6.829,5.4,mww,119,29,1.494,0.59,us,us6000jm6p,2023-02-07T16:50:44.040Z,"eastern Turkey",earthquake,5.51,3.665,0.052,36,reviewed,us,us
 2023-02-07T07:00:13.260Z,62.0869,-150.5948,52.9,1.8,ml,,,,0.36,ak,ak0231qyl90u,2023-02-07T07:02:01.029Z,"31 km SW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-07T06:59:23.175Z,62.9918,-149.8684,87.1,2,ml,,,,0.5,ak,ak0231qychfh,2023-02-07T07:01:04.888Z,"61 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-07T06:52:50.241Z,60.9905,-146.5441,24.5,2,ml,,,,0.68,ak,ak0231qyb1i8,2023-02-07T06:54:37.155Z,"15 km NNE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -211,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T17:11:47.700Z,37.9232,37.3396,10,4.3,mb,38,64,0.757,1.02,us,us6000jlu3,2023-02-06T21:59:24.040Z,"9 km WSW of Nurhak, Turkey",earthquake,5.49,1.955,0.133,16,reviewed,us,us
 2023-02-06T17:10:25.410Z,48.451,-123.21083333333333,20.88,1.12,ml,12,79,0.08503,0.29,uw,uw61905456,2023-02-06T22:08:22.190Z,"6 km E of Oak Bay, Canada",earthquake,0.61,1.24,0.0906382106699366,4,reviewed,uw,uw
 2023-02-06T17:07:00.920Z,38.8264999,-122.8118362,1.64,0.71,md,13,68,0.003392,0.01,nc,nc73842711,2023-02-06T19:47:18.519Z,"7km NW of The Geysers, CA",earthquake,0.26,0.72,0.23,13,automatic,nc,nc
-2023-02-06T16:55:37.348Z,38.0975,37.4326,16.247,4.5,mb,82,67,1.455,0.51,us,us6000jlth,2023-02-06T20:45:06.040Z,"14 km N of Nurhak, Turkey",earthquake,6.06,4.438,0.077,49,reviewed,us,us
