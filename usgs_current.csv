@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T14:08:08.525Z,66.0806,-149.2433,19.8,2.9,ml,,,,0.4,ak,ak0231udvolw,2023-02-09T15:32:26.040Z,"10 km NW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-09T14:06:53.430Z,38.8311653,-122.817337,1.82,1.03,md,20,51,0.009612,0.01,nc,nc73843981,2023-02-09T14:24:14.077Z,"8km NW of The Geysers, CA",earthquake,0.21,0.41,0.26,21,automatic,nc,nc
 2023-02-09T13:59:08.350Z,37.5378333,-118.865,5.96,0.54,md,11,272,0.0594,0.01,nc,nc73843976,2023-02-09T22:26:13.205Z,"15km SE of Mammoth Lakes, CA",earthquake,1.26,1.49,0.204,11,reviewed,nc,nc
-2023-02-09T13:53:09.189Z,0.9655,92.979,43.527,4.6,mb,27,154,4.608,0.89,us,us6000jmql,2023-02-10T07:27:12.661Z,"off the west coast of northern Sumatra",earthquake,11.2,6.427,0.129,18,reviewed,us,us
