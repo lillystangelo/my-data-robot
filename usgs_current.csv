@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T05:29:01.570Z,38.8321648,-122.8056641,1.63,0.95,md,13,93,0.00941,0.02,nc,nc73844391,2023-02-10T07:29:12.507Z,"7km W of Cobb, CA",earthquake,0.26,0.7,0.23,13,automatic,nc,nc
 2023-02-10T05:22:05.941Z,53.1035,-169.4833,113.707,4.2,mb,51,95,0.349,0.67,us,us6000jn0n,2023-02-10T06:30:15.830Z,"45 km WNW of Nikolski, Alaska",earthquake,8.67,6.162,0.069,58,reviewed,us,us
 2023-02-10T05:18:08.100Z,38.8375015,-122.7839966,1.71,0.67,md,9,76,0.005039,0.02,nc,nc73844386,2023-02-10T05:42:14.859Z,"6km WNW of Cobb, CA",earthquake,0.41,0.86,0.22,8,automatic,nc,nc
-2023-02-10T05:13:08.820Z,38.8321648,-122.8054962,1.55,1.33,md,21,47,0.009459,0.01,nc,nc73844381,2023-02-10T07:04:11.367Z,"7km W of Cobb, CA",earthquake,0.19,0.4,0.13,21,automatic,nc,nc
+2023-02-10T05:13:08.820Z,38.8321648,-122.8054962,1.55,1.33,md,21,47,0.009459,0.01,nc,nc73844381,2023-02-10T07:55:14.648Z,"7km W of Cobb, CA",earthquake,0.19,0.4,0.13,21,automatic,nc,nc
 2023-02-10T05:08:11.060Z,35.5976667,-117.4266667,6.12,0.9,ml,11,177,0.08849,0.15,ci,ci40412976,2023-02-10T05:11:45.761Z,"19km S of Searles Valley, CA",earthquake,0.63,1.94,0.121,10,automatic,ci,ci
 2023-02-10T04:59:36.630Z,31.6765052,-104.5410803,5.514575195,2.5,ml,21,80,0.03526477032,0.2,tx,tx2023cvma,2023-02-10T05:38:02.040Z,"57 km SSW of Whites City, New Mexico",earthquake,1.175670519,0.4944365703,0.1,11,reviewed,tx,tx
 2023-02-10T04:50:24.897Z,38.175,38.1644,10,4.8,mb,55,79,1.255,0.76,us,us6000jn0h,2023-02-10T06:59:08.092Z,"15 km SSW of Yeşilyurt, Turkey",earthquake,4.12,1.87,0.1,31,reviewed,us,us
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T16:25:28.873Z,62.9961,-149.365,62.4,1.9,ml,,,,0.84,ak,ak0231uf68k7,2023-02-09T16:27:41.425Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-09T16:25:27.800Z,-24.2278,-67.4226,211.298,3.9,ml,24,84,1.447,1.09,us,us6000jmrg,2023-02-09T19:05:36.040Z,"112 km W of San Antonio de los Cobres, Argentina",earthquake,8.32,10.79,0.071,26,reviewed,us,us
 2023-02-09T16:22:42.170Z,36.381,-117.8491667,2.44,1.8,ml,23,82,0.1954,0.17,ci,ci40412728,2023-02-09T21:12:40.209Z,"18km NE of Olancha, CA",earthquake,0.34,1.04,0.206,15,reviewed,ci,ci
-2023-02-09T16:19:07.943Z,58.2222,-155.1372,3.1,0.1,ml,,,,0.16,ak,ak0231uf4wne,2023-02-09T16:20:37.635Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
+2023-02-09T16:19:07.943Z,58.2222,-155.1372,3.1,0.1,ml,,,,0.16,ak,ak0231uf4wne,2023-02-09T16:20:37.635Z,"83 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-02-09T16:06:33.828Z,31.9318,92.9334,15.14,4.1,mb,58,69,6.624,0.48,us,us6000jmrc,2023-02-09T18:28:46.040Z,"97 km ENE of Nagqu, China",earthquake,4.25,4.541,0.088,42,reviewed,us,us
 2023-02-09T16:00:56.780Z,19.2208333333333,-155.213166666667,44.35,2.38,md,27,214,,0.16,hv,hv73322032,2023-02-09T20:59:27.030Z,"24 km S of Volcano, Hawaii",earthquake,0.98,0.55,0.274036821603731,11,reviewed,hv,hv
 2023-02-09T16:00:21.980Z,35.5156667,-118.1465,7.86,0.54,ml,10,89,0.02152,0.11,ci,ci40412712,2023-02-09T20:57:49.968Z,"32km ESE of Lake Isabella, CA",earthquake,0.27,0.52,0.119,6,reviewed,ci,ci
