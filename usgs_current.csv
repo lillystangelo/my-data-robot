@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T18:13:47.770Z,38.7944984,-122.76017,2.68,0.8,md,16,68,0.006128,0.02,nc,nc73844116,2023-02-09T20:13:10.291Z,"2km N of The Geysers, CA",earthquake,0.28,0.64,0.27,14,automatic,nc,nc
 2023-02-09T18:11:21.880Z,19.4120006561279,-155.286331176758,1.33000004291534,1.82000005,md,11,95,,0.109999999,hv,hv73322097,2023-02-09T18:14:07.310Z,"6 km WSW of Volcano, Hawaii",earthquake,0.35,0.389999986,0.99000001,9,automatic,hv,hv
 2023-02-09T18:07:41.760Z,19.1216659545898,-155.418334960938,33.189998626709,2.23000002,md,15,252,,0.0900000036,hv,hv73322092,2023-02-09T18:12:05.110Z,"11 km SE of Pāhala, Hawaii",earthquake,0.82,1.99000001,0.949999988,3,automatic,hv,hv
-2023-02-09T18:06:37.550Z,58.2088,-155.2572,0,1.4,ml,,,,0.66,ak,ak0231ug91u3,2023-02-09T18:08:23.188Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
+2023-02-09T18:06:37.550Z,58.2088,-155.2572,0,1.4,ml,,,,0.66,ak,ak0231ug91u3,2023-02-09T18:08:23.188Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-09T17:47:59.440Z,38.7944984,-122.7591629,3.78,0.73,md,7,167,0.006133,0.04,nc,nc73844091,2023-02-09T18:41:18.706Z,"2km N of The Geysers, CA",earthquake,0.73,2.62,0.05,7,automatic,nc,nc
 2023-02-09T17:47:35.420Z,33.1406667,-116.5056667,11.57,0.97,ml,36,58,0.08485,0.17,ci,ci40412760,2023-02-09T21:26:59.604Z,"11km NE of Julian, CA",earthquake,0.23,0.5,0.212,14,reviewed,ci,ci
 2023-02-09T17:45:59.018Z,63.5409,-147.7227,1.1,1.2,ml,,,,1,ak,ak0231ufw0t9,2023-02-09T17:48:23.582Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T07:18:16.806Z,36.924,36.6528,5.145,4.8,mb,71,39,0.51,0.58,us,us6000jmnp,2023-02-09T08:13:17.005Z,"18 km NNE of Aşağı Karafakılı, Turkey",earthquake,4.91,4.653,0.074,56,reviewed,us,us
 2023-02-09T07:17:07.537Z,57.4704,-158.7284,49.7,2.2,ml,,,,0.87,ak,ak0231u9rkqp,2023-02-09T07:19:10.703Z,"58 km N of Port Heiden, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-02-09T07:07:12.838Z,31.6784571,-104.5260268,5.617407227000001,2.1,ml,18,80,0.02368698783,0.2,tx,tx2023ctut,2023-02-09T14:47:16.492Z,"56 km SSW of Whites City, New Mexico",earthquake,1.60306651,0.6158468547,0.1,10,reviewed,tx,tx
-2023-02-09T06:50:01.430Z,38.8243332,-122.7724991,1.6,0.33,md,6,196,0.006453,0.02,nc,nc73843821,2023-02-09T07:13:14.380Z,"4km W of Cobb, CA",earthquake,1.27,1.56,0.21,9,automatic,nc,nc
