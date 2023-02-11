@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-11T14:26:26.670Z,38.8333321,-122.8154984,1.81,0.28,md,14,55,0.01079,0.01,nc,nc73844991,2023-02-11T14:28:00.882Z,"8km NW of The Geysers, CA",earthquake,0.28,0.75,0.17,16,automatic,nc,nc
 2023-02-11T14:21:20.156Z,61.7308,-149.8266,28.6,1.8,ml,,,,0.35,ak,ak0231xp16sv,2023-02-11T14:23:21.237Z,"11 km N of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-11T14:08:03.760Z,38.8421669,-122.8399963,2.06,1.25,md,19,134,0.005017,0.02,nc,nc73844981,2023-02-11T14:25:13.858Z,"10km NW of The Geysers, CA",earthquake,0.26,0.44,0.17,21,automatic,nc,nc
 2023-02-11T13:45:20.572Z,62.9051,-151.1013,111.3,2.3,ml,,,,0.19,ak,ak0231xokwex,2023-02-11T13:47:52.362Z,"48 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -194,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T15:20:39.520Z,58.1905,-155.316666666667,2.31,0.62,ml,8,152,,0.08,av,av91758591,2023-02-11T05:13:07.490Z,"86 km NW of Karluk, Alaska",earthquake,0.25,0.34,0.299337422891702,8,reviewed,av,av
 2023-02-10T15:16:18.520Z,58.187,-155.3275,1.6,-0.13,ml,4,157,,0.02,av,av91758586,2023-02-11T05:05:13.420Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.65,0.251405186788062,4,reviewed,av,av
 2023-02-10T14:59:16.290Z,33.6888333,-116.7305,15.94,0.96,ml,32,39,0.02611,0.24,ci,ci40413080,2023-02-10T15:02:54.966Z,"6km S of Idyllwild, CA",earthquake,0.36,0.66,0.161,27,automatic,ci,ci
-2023-02-10T14:31:10.270Z,44.7955,-110.9661667,11.02,2.79,ml,29,40,0.04604,0.16,uu,uu60530861,2023-02-11T06:01:08.040Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,0.33,0.44,0.161,4,reviewed,uu,uu
-2023-02-10T14:27:56.860Z,38.8135,-122.8265,1.65,0.17,md,12,82,0.005076,0.01,nc,nc73844541,2023-02-10T18:45:13.725Z,"7km WNW of The Geysers, CA",earthquake,0.35,0.57,0.471,12,reviewed,nc,nc
