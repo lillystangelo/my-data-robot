@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-16T04:32:39.260Z,33.0171667,-116.348,10.22,1.56,ml,48,47,0.06941,0.22,ci,ci40415104,2023-02-16T04:43:15.430Z,"25km SW of Ocotillo Wells, CA",earthquake,0.25,0.64,0.168,27,automatic,ci,ci
 2023-02-16T03:59:15.898Z,60.8866,-150.8061,34.7,1.9,ml,,,,1.05,ak,ak02325seahx,2023-02-16T04:02:10.470Z,"7 km WSW of Point Possession, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-02-16T03:57:01.407Z,61.6924,-150.7897,16.3,1.9,ml,,,,0.15,ak,ak02325sdty5,2023-02-16T03:59:26.850Z,"22 km NW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-16T03:56:29.148Z,25.112,91.7498,64.848,4.3,mb,25,165,5.253,0.68,us,us6000jpaj,2023-02-16T04:20:15.040Z,"11 km NE of Chhātak, Bangladesh",earthquake,13.75,10.266,0.142,15,reviewed,us,us
@@ -23,9 +24,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T01:48:21.482Z,63.2509,-151.4473,0,2.4,ml,,,,0.95,ak,ak02325r52uc,2023-02-16T01:57:13.040Z,"35 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-16T01:34:27.603Z,59.9293,-153.1091,116,1.3,ml,,,,0.53,ak,ak02325r23fo,2023-02-16T01:36:39.993Z,"58 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-16T01:29:00.520Z,38.8419991,-122.8755035,2.4,1.08,md,20,120,0.005734,0.01,nc,nc73847036,2023-02-16T01:53:20.211Z,"13km NW of The Geysers, CA",earthquake,0.41,0.55,0.13,21,automatic,nc,nc
-2023-02-16T01:21:11.570Z,38.7781677,-122.7136688,1.88,1.23,md,13,90,0.01503,0.02,nc,nc73847031,2023-02-16T04:07:11.053Z,"2km W of Anderson Springs, CA",earthquake,0.3,0.39,0.15,13,automatic,nc,nc
+2023-02-16T01:21:11.570Z,38.7781677,-122.7136688,1.88,1.23,md,13,90,0.01503,0.02,nc,nc73847031,2023-02-16T04:42:12.260Z,"2km W of Anderson Springs, CA",earthquake,0.3,0.39,0.15,13,automatic,nc,nc
 2023-02-16T01:18:50.290Z,19.2679996490479,-155.404327392578,31.8099994659424,1.91999996,md,27,121,,0.119999997,hv,hv73325597,2023-02-16T01:22:06.320Z,"10 km NE of Pāhala, Hawaii",earthquake,0.71,0.75,1.50999999,10,automatic,hv,hv
-2023-02-16T01:07:04.815Z,45.0947,23.1065,10,4.4,mb,29,84,1.159,0.96,us,us6000jp9t,2023-02-16T02:14:58.039Z,"2 km WNW of Arcani, Romania",earthquake,5.63,1.938,0.218,6,reviewed,us,us
+2023-02-16T01:07:04.815Z,45.0947,23.1065,10,4.4,mb,29,84,1.159,0.96,us,us6000jp9t,2023-02-16T04:39:00.461Z,"2 km WNW of Arcani, Romania",earthquake,5.63,1.938,0.218,6,reviewed,us,us
 2023-02-16T00:58:09.970Z,34.4563333,-117.9583333,8.73,0.55,ml,15,54,0.00776,0.2,ci,ci40415056,2023-02-16T01:01:41.247Z,"7km SW of Pearblossom, CA",earthquake,0.44,0.62,0.179,8,automatic,ci,ci
 2023-02-16T00:52:08.490Z,35.9246667,-118.9095,0.47,1.27,ml,21,56,0.165,0.26,ci,ci40415048,2023-02-16T00:55:35.015Z,"18km SSE of Porterville, CA",earthquake,0.54,31.61,0.109,9,automatic,ci,ci
 2023-02-16T00:43:22.236Z,13.7229,144.9041,128.277,4.6,mb,31,93,0.137,0.51,us,us6000jp9n,2023-02-16T01:01:27.040Z,"20 km N of Yigo Village, Guam",earthquake,13.54,4.803,0.111,24,reviewed,us,us
@@ -100,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-15T16:32:25.470Z,38.7869987,-122.7708359,4.02,0.94,md,11,66,0.01471,0.05,nc,nc73846811,2023-02-15T16:56:16.024Z,"2km NW of The Geysers, CA",earthquake,0.46,0.71,0.19,9,automatic,nc,nc
 2023-02-15T16:30:51.019Z,63.3214,-151.2219,6.5,1.8,ml,,,,0.24,ak,ak02324cfft9,2023-02-15T16:32:46.191Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-15T16:27:33.979Z,36.42916667,-96.9285,5.16,0.65,ml,20,72,0.02699470272,0.16,ok,ok2023dfmf,2023-02-15T16:35:17.121Z,"15 km NW of Pawnee, Oklahoma",earthquake,,0.7,0.26,7,reviewed,ok,ok
-2023-02-15T16:25:07.460Z,19.1709995269775,-155.343338012695,27.5300006866455,2.21000004,md,33,189,,0.109999999,hv,hv73325367,2023-02-16T03:28:50.337Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.65,0.99000001,0.959999979,7,automatic,hv,hv
+2023-02-15T16:25:07.460Z,19.1709995269775,-155.343338012695,27.5300006866455,2.21000004,md,33,189,,0.109999999,hv,hv73325367,2023-02-16T04:34:05.520Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.65,0.99000001,0.959999979,7,automatic,hv,hv
 2023-02-15T16:24:26.684Z,60.0941,-142.081,20.5,1.9,ml,,,,0.08,ak,ak02324ce3n0,2023-02-15T16:25:48.002Z,"145 km WNW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-15T16:17:20.850Z,47.94116666666667,-124.4315,26.38,2.44,ml,24,112,0.02552,0.2,uw,uw61906726,2023-02-15T18:22:57.650Z,"3 km WSW of Forks, Washington",earthquake,0.51,0.63,0.14274585993097966,20,reviewed,uw,uw
 2023-02-15T16:11:50.790Z,33.7335,-116.0511667,5.47,2.16,ml,62,34,0.08546,0.14,ci,ci40414792,2023-02-15T17:38:07.849Z,"13km ENE of Coachella, CA",earthquake,0.12,0.38,0.141,64,reviewed,ci,ci
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-15T04:56:20.171Z,63.1799,-149.4212,72.9,1.9,ml,,,,0.81,ak,ak023245fqsh,2023-02-15T04:58:35.989Z,"33 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-15T04:55:19.760Z,38.8268318,-122.8714981,2.2,1.19,md,21,80,0.01145,0.02,nc,nc73846596,2023-02-15T08:36:14.094Z,"11km WNW of The Geysers, CA",earthquake,0.24,0.42,0.17,23,automatic,nc,nc
 2023-02-15T04:51:34.109Z,61.8235,-150.5753,35,2,ml,,,,0.2,ak,ak023245epaa,2023-02-15T04:53:00.018Z,"Southern Alaska",earthquake,,15.7,,,automatic,ak,ak
-2023-02-15T04:40:14.390Z,36.5048332,-120.5031662,8.6,1.97,md,19,101,0.2817,0.11,nc,nc73846586,2023-02-15T07:43:13.906Z,"17km W of Cantua Creek, CA",earthquake,0.4,2.27,0.08,10,automatic,nc,nc
-2023-02-15T04:36:36.180Z,33.7343333,-116.0516667,5.15,1.54,ml,46,85,0.08616,0.15,ci,ci40414728,2023-02-15T16:06:11.680Z,"13km ENE of Coachella, CA",earthquake,0.17,0.43,0.167,31,reviewed,ci,ci
