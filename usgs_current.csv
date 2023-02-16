@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-16T18:49:43.610Z,39.3438339,-123.161499,5.56,1.54,md,8,121,0.03945,0.06,nc,nc73847366,2023-02-16T18:51:18.281Z,"10km NNE of Redwood Valley, CA",earthquake,0.72,1.53,0.12,7,automatic,nc,nc
+2023-02-16T18:44:14.090Z,34.6446667,-119.5611667,9.43,1.67,ml,24,67,0.1442,0.2,ci,ci40415384,2023-02-16T18:48:00.484Z,"24km NNE of Montecito, CA",earthquake,0.37,1.07,0.154,29,automatic,ci,ci
+2023-02-16T18:43:38.870Z,38.7896652,-122.7259979,1.84,1.04,md,13,89,0.01056,0.01,nc,nc73847356,2023-02-16T18:45:13.095Z,"3km ENE of The Geysers, CA",earthquake,0.29,0.58,0.14,12,automatic,nc,nc
 2023-02-16T18:37:25.770Z,38.847168,-122.8168335,1.42,0.7,md,9,127,0.009047,0.01,nc,nc73847351,2023-02-16T18:39:02.164Z,"9km WNW of Cobb, CA",earthquake,0.34,0.77,0.09,10,automatic,nc,nc
 2023-02-16T18:25:48.342Z,60.5142,-150.7797,38.3,1.6,ml,,,,0.54,ak,ak0232614kpk,2023-02-16T18:28:29.847Z,"1 km NW of Funny River, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-16T18:20:22.861Z,58.1648,-155.3664,1.4,0.5,ml,,,,0.18,ak,ak0232613g6m,2023-02-16T18:22:06.163Z,"85 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -38,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T14:32:05.930Z,33.3878333,-116.8931667,5.59,1.58,ml,54,26,0.116,0.25,ci,ci40415288,2023-02-16T14:42:49.300Z,"4km NW of Palomar Observatory, CA",earthquake,0.23,1.59,0.135,25,automatic,ci,ci
 2023-02-16T14:24:44.710Z,17.9711666666667,-66.8465,15.72,2.02,md,10,165,0.03142,0.21,pr,pr71396473,2023-02-16T14:40:37.000Z,"3 km SW of Indios, Puerto Rico",earthquake,0.63,0.99,0.130413677215343,7,reviewed,pr,pr
 2023-02-16T14:10:33.360Z,38.8171654,-122.8063354,3.09,1.03,md,17,49,0.006872,0.02,nc,nc73847291,2023-02-16T16:49:11.626Z,"6km NW of The Geysers, CA",earthquake,0.3,0.65,0.2,18,automatic,nc,nc
-2023-02-16T13:56:12.770Z,33.476,-116.4941667,13.04,1.24,ml,35,59,0.07422,0.19,ci,ci40415272,2023-02-16T14:06:51.150Z,"19km ESE of Anza, CA",earthquake,0.27,0.48,0.177,27,automatic,ci,ci
+2023-02-16T13:56:12.740Z,33.4713333,-116.5011667,13.12,1.28,ml,50,77,0.08169,0.17,ci,ci40415272,2023-02-16T18:44:01.180Z,"18km ESE of Anza, CA",earthquake,0.2,0.36,0.116,33,reviewed,ci,ci
 2023-02-16T13:48:57.930Z,38.7724991,-122.7358322,1.19,0.94,md,8,77,0.01386,0.01,nc,nc73847286,2023-02-16T14:11:18.666Z,"2km ESE of The Geysers, CA",earthquake,0.41,1.15,0.28,7,automatic,nc,nc
 2023-02-16T13:41:20.500Z,38.8058319,-122.7386703,1.81,1.24,md,16,117,0.01724,0.02,nc,nc73847281,2023-02-16T16:22:14.482Z,"2km SW of Cobb, CA",earthquake,0.28,0.59,0.2,18,automatic,nc,nc
 2023-02-16T13:34:15.840Z,38.8171654,-122.8065033,3.04,1.17,md,26,39,0.006817,0.01,nc,nc73847276,2023-02-16T15:54:17.320Z,"6km NW of The Geysers, CA",earthquake,0.23,0.43,0.14,26,automatic,nc,nc
