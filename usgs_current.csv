@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-17T14:38:04.310Z,38.8310013,-122.8166656,1.73,1.52,md,28,50,0.009176,0.02,nc,nc73847746,2023-02-17T14:41:29.332Z,"8km NW of The Geysers, CA",earthquake,0.16,0.31,0.18,30,automatic,nc,nc
-2023-02-17T14:36:10.910Z,40.2876663,-124.5046692,18.12,3.19,ml,20,260,0.172,0.07,nc,nc73847741,2023-02-17T14:38:13.003Z,"19km WSW of Petrolia, CA",earthquake,1.33,0.28,0.147,5,automatic,nc,nc
-2023-02-17T13:41:24.710Z,38.836834,-122.7941666,1.71,1.07,md,16,70,0.003374,0.03,nc,nc73847731,2023-02-17T13:57:13.673Z,"6km WNW of Cobb, CA",earthquake,0.23,0.4,0.25,17,automatic,nc,nc
-2023-02-17T13:08:59.260Z,35.9891663,-120.989502,8.3,0.73,md,9,113,0.08873,0.09,nc,nc73847726,2023-02-17T14:26:10.712Z,"8km WSW of San Ardo, CA",earthquake,0.69,1.29,0.01,3,automatic,nc,nc
+2023-02-17T14:44:37.400Z,32.7446667,-115.4876667,8.2,1.51,ml,10,155,0.0696,0.19,ci,ci40415656,2023-02-17T14:48:20.393Z,"4km ENE of Heber, CA",earthquake,0.73,1.75,0.306,12,automatic,ci,ci
+2023-02-17T14:38:04.310Z,38.8310013,-122.8166656,1.73,1.52,md,28,50,0.009176,0.02,nc,nc73847746,2023-02-17T14:49:10.862Z,"8km NW of The Geysers, CA",earthquake,0.16,0.31,0.18,30,automatic,nc,nc
+2023-02-17T14:36:10.910Z,40.2876663,-124.5046692,18.12,3.19,ml,20,260,0.172,0.07,nc,nc73847741,2023-02-17T14:50:44.327Z,"19km WSW of Petrolia, CA",earthquake,1.33,0.28,0.147,5,automatic,nc,nc
+2023-02-17T13:41:24.710Z,38.836834,-122.7941666,1.71,1.07,md,16,70,0.003374,0.03,nc,nc73847731,2023-02-17T14:49:11.019Z,"6km WNW of Cobb, CA",earthquake,0.23,0.4,0.25,17,automatic,nc,nc
+2023-02-17T13:08:59.260Z,35.9891663,-120.989502,8.3,0.73,md,9,113,0.08873,0.09,nc,nc73847726,2023-02-17T14:51:12.877Z,"8km WSW of San Ardo, CA",earthquake,0.69,1.29,0.01,3,automatic,nc,nc
 2023-02-17T12:52:06.579Z,-8.9542,116.7792,140.656,4.1,mb,22,111,0.993,0.48,us,us6000jpng,2023-02-17T13:43:46.040Z,"Lombok region, Indonesia",earthquake,8.15,7.559,0.185,8,reviewed,us,us
 2023-02-17T12:48:23.900Z,19.1766662597656,-155.363662719727,30.1800003051758,2.3499999,md,41,218,,0.129999995,hv,hv73326482,2023-02-17T12:51:34.510Z,"Island of Hawaii, Hawaii",earthquake,0.7,0.819999993,1.77999997,32,automatic,hv,hv
 2023-02-17T12:36:45.980Z,38.7758331,-122.7360001,1.95,1.19,md,26,62,0.007415,0.04,nc,nc73847716,2023-02-17T13:57:13.535Z,"2km E of The Geysers, CA",earthquake,0.24,0.34,0.14,25,automatic,nc,nc
@@ -194,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T14:54:37.259Z,62.9087,-149.9381,74,1,ml,,,,0.37,ak,ak02325yx0j9,2023-02-16T17:16:50.114Z,"51 km N of Chase, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-02-16T14:54:12.384Z,38.171,-117.811,10.3,1.3,ml,8,103.02,0.121,0.1207,nn,nn00856143,2023-02-16T17:54:14.097Z,"35 km SE of Mina, Nevada",earthquake,,2.5,0.54,4,reviewed,nn,nn
 2023-02-16T14:52:22.256Z,59.1574,-153.5701,76.8,1.7,ml,,,,0.27,ak,ak02325ywkmp,2023-02-16T14:54:25.463Z,"68 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-02-16T14:45:42.064Z,38.2035,37.8096,10,4.5,mb,31,71,0.979,1.15,us,us6000jpdx,2023-02-16T15:00:52.040Z,"14 km NNW of Doğanşehir, Turkey",earthquake,2.9,1.91,0.108,25,reviewed,us,us
-2023-02-16T14:44:14.663Z,62.0682,-149.7443,30.3,2.7,ml,,,,0.52,ak,ak02325yuub3,2023-02-16T23:51:37.531Z,"11 km SSE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
