@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-18T08:25:26.181Z,57.9386,-152.2473,30,2.4,ml,,,,0.57,ak,ak0232968w1e,2023-02-18T08:27:40.542Z,"15 km E of Ouzinkie, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-18T08:25:13.540Z,38.7874985,-122.7649994,1.67,0.79,md,11,72,0.01374,0.02,nc,nc73848071,2023-02-18T08:26:47.899Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.63,0.15,12,automatic,nc,nc
+2023-02-18T08:18:46.048Z,62.4667,-149.3041,6.6,1.8,ml,,,,0.58,ak,ak0232967fh8,2023-02-18T08:20:40.680Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-18T08:02:05.872Z,59.873,-149.5388,23.2,2.3,ml,,,,0.84,ak,ak0232963wx7,2023-02-18T08:05:26.378Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-18T07:54:22.548Z,36.968,-117.5365,0,0.5,ml,8,238.23,0.279,0.2395,nn,nn00856218,2023-02-18T07:55:49.740Z,"61 km NNE of Keeler, California",earthquake,,102.1,0.25,3,automatic,nn,nn
 2023-02-18T07:49:00.310Z,34.4796667,-116.4915,1.26,1.13,ml,15,80,0.1511,0.1,ci,ci40415888,2023-02-18T07:52:22.403Z,"40km SW of Ludlow, CA",earthquake,0.19,0.43,0.142,21,automatic,ci,ci
@@ -220,9 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T08:34:42.721Z,-7.5605,155.8915,105.366,4.5,mb,34,88,4.425,0.6,us,us6000jpjp,2023-02-17T09:00:29.040Z,"120 km WNW of Gizo, Solomon Islands",earthquake,10.42,8.953,0.106,26,reviewed,us,us
 2023-02-17T08:31:37.630Z,51.8586666666667,-177.944333333333,3.71,1.03,ml,6,150,,0.19,av,av91764151,2023-02-18T04:39:39.030Z,"90 km W of Adak, Alaska",earthquake,0.56,0.86,0.332447841168627,6,reviewed,av,av
 2023-02-17T08:29:37.980Z,58.1858333333333,-155.3235,1.95,-0.26,ml,6,158,,0.06,av,av91764146,2023-02-18T04:25:00.700Z,"Alaska Peninsula",earthquake,0.31,0.42,0.339104056065675,6,reviewed,av,av
-2023-02-17T08:21:12.920Z,51.8628333333333,-177.958166666667,3.86,1.32,ml,5,142,,0.22,av,av91764136,2023-02-18T04:22:07.580Z,"91 km W of Adak, Alaska",earthquake,0.45,0.67,0.276739197603431,5,reviewed,av,av
-2023-02-17T08:19:11.780Z,51.8543333333333,-177.952333333333,3.64,1.91,ml,7,125,,0.17,av,av91764121,2023-02-18T04:09:35.500Z,"90 km W of Adak, Alaska",earthquake,0.48,0.69,0.200220089767984,7,reviewed,av,av
-2023-02-17T08:17:53.200Z,51.8528333333333,-177.945166666667,3.52,2.02,ml,6,143,,0.1,av,av91764126,2023-02-18T04:17:24.240Z,"90 km W of Adak, Alaska",earthquake,0.39,0.97,0.242018448778559,6,reviewed,av,av
-2023-02-17T08:14:58.490Z,51.8595,-177.944,3.65,3.18,ml,15,113,,0.23,av,av91764111,2023-02-18T04:33:40.090Z,"90 km W of Adak, Alaska",earthquake,0.46,0.39,0.221889472874103,21,reviewed,av,av
-2023-02-17T08:11:55.980Z,51.8625,-177.953166666667,6.34,2.22,ml,10,113,,0.13,av,av91764101,2023-02-18T04:28:53.340Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.39,0.36,0.145599311086116,10,reviewed,av,av
-2023-02-17T08:09:36.040Z,35.8886667,-117.6605,2.43,2.39,ml,21,81,0.08896,0.16,ci,ci40415608,2023-02-17T08:20:23.780Z,"23km ESE of Little Lake, CA",earthquake,0.25,0.52,0.173,26,automatic,ci,ci
