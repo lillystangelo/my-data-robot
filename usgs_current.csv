@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-20T09:29:40.410Z,38.8271675,-122.8544998,1.99,0.62,md,15,88,0.001892,0.03,nc,nc73848896,2023-02-20T09:31:13.678Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.41,16,automatic,nc,nc
+2023-02-20T09:48:03.261Z,61.6342,-151.0368,0,1.5,ml,,,,0.8,ak,ak0232ci1w92,2023-02-20T09:49:47.075Z,"29 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-20T09:42:35.240Z,32.9165,-115.5318333,5.01,1.3,ml,15,108,0.02854,0.27,ci,ci40416792,2023-02-20T09:46:10.210Z,"7km S of Brawley, CA",earthquake,0.7,0.86,0.231,19,automatic,ci,ci
+2023-02-20T09:40:50.810Z,33.4665,-116.5598333,8.17,0.4,ml,11,123,0.04522,0.12,ci,ci40416784,2023-02-20T09:44:23.319Z,"14km SE of Anza, CA",earthquake,0.32,0.6,0.123,8,automatic,ci,ci
+2023-02-20T09:40:16.462Z,61.3552,-147.3324,33.3,1.2,ml,,,,0.27,ak,ak0232ci07ji,2023-02-20T09:42:55.142Z,"53 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-02-20T09:36:58.596Z,63.5537,-157.838,10.9,2.9,ml,,,,0.58,ak,ak0232chzfxd,2023-02-20T09:40:45.289Z,"96 km SSE of Kaltag, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-20T09:29:40.410Z,38.8271675,-122.8544998,1.99,0.62,md,15,88,0.001892,0.03,nc,nc73848896,2023-02-20T09:42:02.758Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.41,16,automatic,nc,nc
 2023-02-20T09:28:32.600Z,38.8221664,-122.8048325,3.03,0.75,md,14,65,0.004274,0.01,nc,nc73848891,2023-02-20T09:39:10.736Z,"6km NW of The Geysers, CA",earthquake,0.32,0.76,0.19,15,automatic,nc,nc
 2023-02-20T09:17:24.280Z,38.8351669,-122.8073349,2.21,0.43,md,10,104,0.01195,0.01,nc,nc73848886,2023-02-20T09:33:10.696Z,"7km WNW of Cobb, CA",earthquake,0.4,1.03,0.24,11,automatic,nc,nc
 2023-02-20T09:15:40.750Z,38.8348351,-122.8093338,2.44,0.76,md,11,72,0.01144,0.01,nc,nc73848881,2023-02-20T09:27:11.660Z,"8km W of Cobb, CA",earthquake,0.41,1,0.13,14,automatic,nc,nc
