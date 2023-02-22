@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-22T04:47:17.840Z,38.8175011,-122.8065033,3.94,1.2,md,15,50,0.006513,0.03,nc,nc73849876,2023-02-22T04:48:52.544Z,"6km NW of The Geysers, CA",earthquake,0.36,0.78,0.23,15,automatic,nc,nc
-2023-02-22T04:39:59.090Z,38.7939987,-122.7263336,0.65,0.99,md,8,216,0.01347,0.05,nc,nc73849871,2023-02-22T04:41:36.733Z,"3km S of Cobb, CA",earthquake,0.67,0.9,0.23,7,automatic,nc,nc
+2023-02-22T04:57:00.980Z,38.8325005,-122.8083344,2.21,1.14,md,19,46,0.009193,0.01,nc,nc73849891,2023-02-22T04:58:38.082Z,"8km W of Cobb, CA",earthquake,0.23,0.63,0.12,20,automatic,nc,nc
+2023-02-22T04:47:17.840Z,38.8175011,-122.8065033,3.94,1.2,md,15,50,0.006513,0.03,nc,nc73849876,2023-02-22T04:58:39.078Z,"6km NW of The Geysers, CA",earthquake,0.36,0.78,0.23,15,automatic,nc,nc
+2023-02-22T04:39:59.090Z,38.7939987,-122.7263336,0.65,0.99,md,8,216,0.01347,0.05,nc,nc73849871,2023-02-22T04:55:13.367Z,"3km S of Cobb, CA",earthquake,0.67,0.9,0.23,7,automatic,nc,nc
 2023-02-22T04:25:59.493Z,61.3518,-151.9359,98.7,1.8,ml,,,,0.56,ak,ak0232fq0m31,2023-02-22T04:29:44.246Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-22T04:25:49.769Z,13.3404,-89.7407,58.985,4.3,mb,27,170,0.422,0.72,us,us6000jqpz,2023-02-22T04:36:15.040Z,"29 km SSE of Acajutla, El Salvador",earthquake,5.39,7.291,0.08,44,reviewed,us,us
 2023-02-22T04:09:12.577Z,63.451,-150.8362,8.6,1.5,ml,,,,0.64,ak,ak0232fpx309,2023-02-22T04:11:12.221Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-02-22T03:56:17.130Z,17.6723,-72.2957,16.042,4.3,mb,37,56,1.617,0.44,us,us6000jqps,2023-02-22T04:18:28.358Z,"61 km S of Marigot, Haiti",earthquake,4.25,5.592,0.217,6,reviewed,us,us
+2023-02-22T03:56:17.130Z,17.6723,-72.2957,16.042,4.3,mb,37,56,1.617,0.44,us,us6000jqps,2023-02-22T04:57:24.770Z,"61 km S of Marigot, Haiti",earthquake,4.25,5.592,0.217,6,reviewed,us,us
 2023-02-22T03:50:48.207Z,62.9146,-150.6,89.4,1.6,ml,,,,0.59,ak,ak0232fpkiic,2023-02-22T03:52:47.733Z,"47 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-02-22T03:10:50.190Z,38.8361664,-122.8079987,2.09,0.76,md,8,108,0.01286,0.01,nc,nc73849836,2023-02-22T03:33:14.605Z,"8km WNW of Cobb, CA",earthquake,0.54,1.59,0.19,8,automatic,nc,nc
+2023-02-22T03:10:50.190Z,38.8361664,-122.8079987,2.09,0.76,md,8,108,0.01286,0.01,nc,nc73849836,2023-02-22T04:55:13.145Z,"8km WNW of Cobb, CA",earthquake,0.54,1.59,0.19,8,automatic,nc,nc
 2023-02-22T03:04:57.830Z,38.8344994,-122.809166,0.79,1.68,md,21,74,0.01111,0.09,nc,nc73849826,2023-02-22T04:28:11.961Z,"8km W of Cobb, CA",earthquake,0.25,0.42,0.14,22,automatic,nc,nc
 2023-02-22T02:56:32.170Z,38.8246651,-122.8046646,1.55,1.27,md,23,43,0.004412,0.02,nc,nc73849821,2023-02-22T04:00:13.773Z,"7km NW of The Geysers, CA",earthquake,0.18,0.42,0.18,25,automatic,nc,nc
 2023-02-22T02:44:59.745Z,60.6326,-153.0638,141.9,2.1,ml,,,,0.53,ak,ak0232foxthy,2023-02-22T02:47:08.137Z,"84 km NE of Port Alsworth, Alaska",earthquake,,1.1,,,automatic,ak,ak
