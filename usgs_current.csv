@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-25T23:42:00.840Z,38.8139992,-122.795166,2.31,1.04,md,18,59,0.006023,0.02,nc,nc73851801,2023-02-25T23:43:35.031Z,"5km NW of The Geysers, CA",earthquake,0.22,0.48,0.19,19,automatic,nc,nc
+2023-02-25T23:42:00.840Z,38.8139992,-122.795166,2.31,1.04,md,18,59,0.006023,0.02,nc,nc73851801,2023-02-25T23:56:11.480Z,"5km NW of The Geysers, CA",earthquake,0.22,0.48,0.19,19,automatic,nc,nc
 2023-02-25T23:20:04.825Z,64.8791,-147.0753,18.2,1.1,ml,,,,0.64,ak,ak0232kzwpbl,2023-02-25T23:22:57.508Z,"1 km WNW of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-25T23:15:31.291Z,37.2221,-117.6941,1.1,1.7,ml,21,199.23,0.779,0.3192,nn,nn00856390,2023-02-25T23:17:04.258Z,"53 km E of Big Pine, California",earthquake,,11.4,0.85,14,automatic,nn,nn
 2023-02-25T22:58:17.230Z,38.8148346,-122.7838364,1,0.77,md,7,108,0.002922,0.01,nc,nc73851796,2023-02-25T23:14:15.190Z,"5km NNW of The Geysers, CA",earthquake,0.4,1.16,0.16,8,automatic,nc,nc
@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T00:05:01.935Z,56.9321,-157.8162,9.1,2.2,ml,,,,0.37,ak,ak0232km4exb,2023-02-25T00:16:22.695Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-02-25T00:00:08.680Z,32.621666,-117.0374985,15.36,1.33,ml,13,177,0.1342,0.26,ci,ci40418440,2023-02-25T00:02:13.950Z,"1km SE of Chula Vista, CA",earthquake,1.17,1.34,0.176,3,automatic,ci,ci
 2023-02-24T23:59:40.665Z,51.8565,-3.0961,10.122,3.4,ml,16,139,2.438,0.33,us,us6000jrh6,2023-02-25T22:45:01.949Z,"2 km E of Crickhowell, United Kingdom",earthquake,4.83,7.5,0.148,6,reviewed,us,us
-2023-02-24T23:54:16.646Z,62.8354,-143.5535,3.3,2,ml,,,,1.05,ak,ak0232jcko0w,2023-02-24T23:57:51.843Z,"14 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
