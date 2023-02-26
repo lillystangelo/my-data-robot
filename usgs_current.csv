@@ -160,5 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T21:51:36.460Z,38.8323326,-122.8099976,1.93,1.76,md,34,37,0.01651,0.02,nc,nc73851776,2023-02-26T00:28:55.138Z,"8km W of Cobb, CA",earthquake,0.16,0.3,0.16,34,automatic,nc,nc
 2023-02-25T21:50:23.284Z,20.1015,120.3767,10,4.5,mb,31,111,2.781,0.48,us,us6000jrlx,2023-02-25T22:19:09.040Z,"Philippine Islands region",earthquake,9.98,1.921,0.118,21,reviewed,us,us
 2023-02-25T21:45:41.740Z,38.7901649,-122.7356644,2.24,0.78,md,8,160,0.006967,0.03,nc,nc73851771,2023-02-25T23:45:15.396Z,"2km NE of The Geysers, CA",earthquake,0.61,1.01,0.12,9,automatic,nc,nc
-2023-02-25T21:24:48.534Z,-6.111,149.7927,38.158,6.2,mww,92,45,4.185,0.9,us,us6000jrlp,2023-02-26T19:53:43.635Z,"29 km ENE of Kandrian, Papua New Guinea",earthquake,8.92,5.027,0.046,46,reviewed,us,us
-2023-02-25T21:18:09.208Z,59.4862,-153.8417,131.8,2.2,ml,,,,0.22,ak,ak0232kypeyg,2023-02-25T21:29:40.040Z,"36 km SSE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
