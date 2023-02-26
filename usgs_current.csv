@@ -157,5 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T15:10:48.100Z,38.8293343,-122.8535004,1.79,0.8,md,8,168,0.0159,0.02,nc,nc73851661,2023-02-25T15:28:13.225Z,"10km NW of The Geysers, CA",earthquake,0.78,0.53,0.2,9,automatic,nc,nc
 2023-02-25T15:10:32.890Z,35.13333333,-97.56566667,6.15,2.39,ml,94,27,0.07018622707,0.32,ok,ok2023dxqs,2023-02-26T01:41:18.650Z,"3 km N of Cole, Oklahoma",earthquake,,0.6,0.2,19,reviewed,ok,ok
 2023-02-25T14:56:12.590Z,36.3974991,-120.3740005,10.89,2.32,md,44,52,0.06342,0.23,nc,nc73851656,2023-02-25T17:34:15.994Z,"13km SSW of Cantua Creek, CA",earthquake,0.33,0.58,0.22,22,automatic,nc,nc
-2023-02-25T14:47:09.940Z,34.2125,-117.463,1.73,1.43,ml,34,66,0.03553,0.21,ci,ci40418592,2023-02-25T14:58:37.400Z,"6km W of Devore, CA",earthquake,0.22,0.46,0.155,30,automatic,ci,ci
-2023-02-25T14:45:18.510Z,33.5136667,-116.5033333,13.01,0.98,ml,20,82,0.04945,0.18,ci,ci40418584,2023-02-25T14:48:53.809Z,"16km ESE of Anza, CA",earthquake,0.36,0.59,0.118,9,automatic,ci,ci
