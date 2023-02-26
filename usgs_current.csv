@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-26T23:41:08.630Z,38.8133316,-122.8160019,2.79,0.69,md,13,72,0.01106,0.02,nc,nc73852171,2023-02-26T23:42:42.167Z,"6km NW of The Geysers, CA",earthquake,0.33,0.71,0.4,16,automatic,nc,nc
+2023-02-26T23:55:14.220Z,38.7714996,-122.7225037,0.52,0.85,md,7,93,0.01006,0.02,nc,nc73852181,2023-02-26T23:56:51.031Z,"3km W of Anderson Springs, CA",earthquake,0.44,0.61,0.33,6,automatic,nc,nc
+2023-02-26T23:41:08.630Z,38.8133316,-122.8160019,2.79,0.69,md,13,72,0.01106,0.02,nc,nc73852171,2023-02-26T23:55:11.095Z,"6km NW of The Geysers, CA",earthquake,0.33,0.71,0.4,16,automatic,nc,nc
 2023-02-26T23:34:23.130Z,33.494,-116.7825,4.22,0.68,ml,19,47,0.02362,0.16,ci,ci40419032,2023-02-26T23:37:54.028Z,"10km NE of Aguanga, CA",earthquake,0.31,0.47,0.131,14,automatic,ci,ci
 2023-02-26T23:30:22.439Z,63.0795,-151.508,6.6,1.5,ml,,,,0.27,ak,ak0232mni89v,2023-02-26T23:31:52.807Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-26T23:21:08.490Z,19.2198333740234,-155.392166137695,35.9099998474121,1.78999996,md,19,240,,0.100000001,hv,hv73331182,2023-02-26T23:24:17.810Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.49,0.730000019,0.769999981,3,automatic,hv,hv
 2023-02-26T23:02:26.650Z,35.3016667,-118.5343333,4.93,2.05,ml,42,33,0.09345,0.21,ci,ci40419024,2023-02-26T23:13:06.440Z,"20km NNW of Tehachapi, CA",earthquake,0.27,1.03,0.168,26,automatic,ci,ci
-2023-02-26T22:58:36.047Z,35.52249527,-98.09155273,1.608967423,2.67,ml,38,77.49685669,0.1103703901,0.7052000054,ok,ok2023eabq,2023-02-26T23:08:19.040Z,"9 km SSE of Calumet, Oklahoma",earthquake,2.131022965,1.566435713,,30,automatic,ok,ok
+2023-02-26T22:58:35.950Z,35.5205,-98.07166667,6.55,2.48,ml,97,36,0.1025798703,0.19,ok,ok2023eabq,2023-02-26T23:54:19.777Z,"9 km SSE of Calumet, Oklahoma",earthquake,,0.3,0.22,25,reviewed,ok,ok
 2023-02-26T22:53:11.590Z,38.8134995,-122.8284988,1.97,1.08,md,20,46,0.004655,0.02,nc,nc73852156,2023-02-26T23:21:15.900Z,"7km WNW of The Geysers, CA",earthquake,0.2,0.48,0.14,22,automatic,nc,nc
 2023-02-26T22:41:39.680Z,38.8199997,-122.8071671,3.43,0.85,md,9,89,0.004081,0.01,nc,nc73852151,2023-02-26T23:40:11.007Z,"6km NW of The Geysers, CA",earthquake,0.67,1.69,0.15,9,automatic,nc,nc
 2023-02-26T22:29:48.785Z,60.7678,-150.7375,24,1.5,ml,,,,0.47,ak,ak0232mmwmzi,2023-02-26T22:36:04.187Z,"17 km S of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
