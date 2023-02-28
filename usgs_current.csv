@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-28T08:35:54.610Z,34.6126667,-119.0026667,1.28,1.29,ml,21,49,0.1463,0.23,ci,ci40419448,2023-02-28T08:39:37.135Z,"24km SSW of Frazier Park, CA",earthquake,0.33,0.62,0.147,20,automatic,ci,ci
 2023-02-28T08:30:42.670Z,38.7871666,-122.746666,2.36,1.28,md,17,138,0.008704,0.02,nc,nc73852796,2023-02-28T08:32:17.613Z,"1km NE of The Geysers, CA",earthquake,0.33,0.6,0.16,17,automatic,nc,nc
 2023-02-28T08:30:09.290Z,38.8136673,-122.8123322,14.85,0.83,md,8,218,0.009872,0.04,nc,nc73852791,2023-02-28T08:31:47.628Z,"6km NW of The Geysers, CA",earthquake,2.39,8.32,0.52,10,automatic,nc,nc
-2023-02-28T08:27:56.050Z,38.838501,-122.8081665,1.87,0.71,md,7,138,0.01392,0,nc,nc73852786,2023-02-28T08:29:32.102Z,"8km WNW of Cobb, CA",earthquake,0.51,1.85,0.54,9,automatic,nc,nc
+2023-02-28T08:27:56.050Z,38.838501,-122.8081665,1.87,0.71,md,7,138,0.01392,0,nc,nc73852786,2023-02-28T08:45:14.796Z,"8km WNW of Cobb, CA",earthquake,0.51,1.85,0.54,9,automatic,nc,nc
 2023-02-28T08:15:31.260Z,19.1793327331543,-155.502670288086,32.9300003051758,2.3900001,md,38,98,,0.150000006,hv,hv73331732,2023-02-28T08:18:41.020Z,"3 km SW of Pāhala, Hawaii",earthquake,0.7,1.02999997,2,22,automatic,hv,hv
 2023-02-28T08:00:56.566Z,58.115,-155.5692,33.4,0.9,ml,,,,1.26,ak,ak0232pph2h4,2023-02-28T08:03:15.454Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
 2023-02-28T07:59:16.580Z,38.840168,-122.8098297,1.92,1.06,md,15,70,0.01532,0.03,nc,nc73852781,2023-02-28T08:23:18.787Z,"8km WNW of Cobb, CA",earthquake,0.29,0.73,0.4,18,automatic,nc,nc
@@ -197,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T09:04:35.883Z,31.64428938,-104.176949,6.131567383,3,ml,46,54,0.0792911906,0.3,tx,tx2023eavq,2023-02-27T16:50:48.966Z,"51 km NW of Toyah, Texas",earthquake,0.6078515504,0.6783660882,0.1,26,reviewed,tx,tx
 2023-02-27T08:59:57.330Z,32.9095,-116.2455,5.08,1.26,ml,32,62,0.06627,0.22,ci,ci40419144,2023-02-27T09:11:33.290Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.3,0.74,0.171,19,automatic,ci,ci
 2023-02-27T08:46:24.641Z,30.5324,-41.9046,10,4.8,mb,97,66,21.354,0.43,us,us6000jrw1,2023-02-27T15:55:02.040Z,"northern Mid-Atlantic Ridge",earthquake,10.68,1.872,0.048,134,reviewed,us,us
-2023-02-27T08:44:55.640Z,17.9548333333333,-66.9853333333333,8.72,3.01,md,19,187,0.0579,0.1,pr,pr71397588,2023-02-27T09:07:34.940Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.3,0.46,0.0861128423138471,8,reviewed,pr,pr
-2023-02-27T08:43:08.467Z,30.5148,-41.8801,10,4.8,mb,108,75,15.341,0.36,us,us6000jrw0,2023-02-27T09:12:53.040Z,"northern Mid-Atlantic Ridge",earthquake,8.56,1.898,0.048,136,reviewed,us,us
