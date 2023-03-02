@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-02T10:46:27.550Z,35.8848333,-117.7526667,10.23,1.11,ml,13,109,0.07676,0.17,ci,ci40420088,2023-03-02T10:50:01.527Z,"15km ESE of Little Lake, CA",earthquake,0.62,0.75,0.126,11,automatic,ci,ci
 2023-03-02T10:24:28.140Z,61.748,-150.7082,40.3,1.9,ml,,,,0.75,ak,ak0232t1vpj2,2023-03-02T10:26:13.280Z,"25 km NNW of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-03-02T10:12:07.927Z,61.3857,-149.9625,42.1,1.9,ml,,,,0.82,ak,ak0232t1t3dk,2023-03-02T10:14:57.455Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-02T10:10:11.080Z,38.7919998,-122.7613297,1.07,1.03,md,10,63,0.008705,0.02,nc,nc73854331,2023-03-02T10:29:19.550Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.5,0.27,11,automatic,nc,nc
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T08:56:45.489Z,1.0635,120.2021,36.013,4.5,mb,26,106,0.581,0.55,us,us7000jgse,2023-03-02T09:18:02.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.55,3.957,0.131,25,reviewed,us,us
 2023-03-02T08:51:51.123Z,33.2858,139.481,8.581,4.4,mb,26,138,0.327,0.39,us,us7000jgsf,2023-03-02T09:28:39.040Z,"162 km SSE of Shimoda, Japan",earthquake,2.14,6.251,0.143,14,reviewed,us,us
 2023-03-02T08:23:58.916Z,2.4582,128.2838,75.46,4.6,mb,41,109,1.909,0.35,us,us7000jgsd,2023-03-02T09:08:26.040Z,"86 km NNE of Tobelo, Indonesia",earthquake,10.7,8.9,0.081,45,reviewed,us,us
-2023-03-02T08:13:58.769Z,63.7955,-153.3652,0.1,2.2,ml,,,,1,ak,ak0232t0mjt0,2023-03-02T08:16:12.089Z,"52 km W of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-02T08:13:58.769Z,63.7955,-153.3652,0.1,2.2,ml,,,,1,ak,ak0232t0mjt0,2023-03-02T08:16:12.089Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-02T08:12:55.635Z,28.3004,87.3941,10,4,mb,26,101,0.617,0.64,us,us7000jgsb,2023-03-02T08:52:25.040Z,"western Xizang",earthquake,2.87,1.933,0.125,17,reviewed,us,us
 2023-03-02T07:26:36.149Z,63.8993,-153.1349,0,2.4,ml,,,,1.01,ak,ak0232t03uri,2023-03-02T07:59:18.040Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-02T07:23:40.157Z,14.0599,-92.6197,28.066,4.3,mb,35,191,2.11,0.42,us,us7000jgs2,2023-03-02T07:50:06.040Z,"near the coast of Chiapas, Mexico",earthquake,7.36,9.46,0.063,70,reviewed,us,us
@@ -160,5 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T11:08:59.620Z,38.8393326,-122.8001633,1.57,0.79,md,9,128,0.007724,0.01,nc,nc73853871,2023-03-01T11:39:16.083Z,"7km WNW of Cobb, CA",earthquake,0.45,1.16,0.41,10,automatic,nc,nc
 2023-03-01T11:03:31.260Z,39.3295,-123.2428333,6.96,1.52,md,12,90,0.09933,0.06,nc,nc73853866,2023-03-02T04:15:38.247Z,"8km NNW of Redwood Valley, CA",earthquake,0.29,1.46,0.185,16,reviewed,nc,nc
 2023-03-01T10:58:52.350Z,19.3306666666667,-155.148333333333,4.71,0.96,md,20,85,,0.11,hv,hv73332112,2023-03-01T18:24:39.710Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.94,0.167115263139326,6,reviewed,hv,hv
-2023-03-01T10:52:36.392Z,41.3404,44.0587,7.11,4.3,mb,15,74,0.456,0.85,us,us7000jgj7,2023-03-01T11:36:03.040Z,"20 km NW of Metsavan, Armenia",earthquake,4.05,5.779,0.237,5,reviewed,us,us
-2023-03-01T10:50:39.420Z,38.8170013,-122.795166,0.65,0.93,md,7,106,0.009021,0.03,nc,nc73853861,2023-03-01T11:28:15.009Z,"6km NW of The Geysers, CA",earthquake,0.48,0.42,0.32,8,automatic,nc,nc
