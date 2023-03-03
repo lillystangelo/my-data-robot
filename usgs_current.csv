@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-03T09:25:58.108Z,65.7122,-145.3253,47.5,3.3,ml,,,,0.79,ak,ak0232uotwg2,2023-03-03T09:27:58.885Z,"28 km WNW of Central, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-03-03T09:25:11.830Z,38.7993317,-122.8111649,3.57,0.77,md,12,73,0.01268,0.01,nc,nc73854896,2023-03-03T09:26:45.756Z,"5km WNW of The Geysers, CA",earthquake,0.43,0.78,0.27,14,automatic,nc,nc
 2023-03-03T09:13:33.092Z,62.9494,-148.7673,64.7,2.1,ml,,,,0.52,ak,ak0232uor9x9,2023-03-03T09:15:15.660Z,"50 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-03T09:12:26.810Z,33.472,-116.5575,9.23,0.57,ml,21,80,0.04443,0.17,ci,ci40420360,2023-03-03T09:16:01.922Z,"14km SE of Anza, CA",earthquake,0.34,0.66,0.177,14,automatic,ci,ci
@@ -206,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T09:56:40.758Z,61.1737,-147.308,3,1.8,ml,,,,0.34,ak,ak0232t1h5t7,2023-03-02T10:14:19.870Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-02T09:51:39.056Z,13.6991,120.7072,130.569,4.5,mb,41,117,17.717,0.65,us,us7000jgsn,2023-03-02T11:46:24.040Z,"Mindoro, Philippines",earthquake,13.11,7.768,0.083,43,reviewed,us,us
 2023-03-02T09:42:58.827Z,63.4398,-151.5108,0,2,ml,,,,1.18,ak,ak0232t1e76i,2023-03-02T09:45:23.992Z,"15 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-02T09:37:17.870Z,56.8771666666667,-158.176666666667,3.3,0.79,ml,4,203,,0.11,av,av91779336,2023-03-02T20:46:49.680Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.88,0.63,0.0962598545571967,3,reviewed,av,av
-2023-03-02T09:35:09.840Z,33.4945,-116.7831667,4.75,0.66,ml,22,38,0.02289,0.15,ci,ci40420080,2023-03-02T16:45:41.930Z,"10km NE of Aguanga, CA",earthquake,0.21,0.39,0.125,5,reviewed,ci,ci
-2023-03-02T09:33:36.860Z,38.7816658,-122.6996689,11.9,0.96,md,6,229,0.029,0.01,nc,nc73854316,2023-03-02T11:16:13.793Z,"1km NW of Anderson Springs, CA",earthquake,1.79,0.83,0.45,5,automatic,nc,nc
