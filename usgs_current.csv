@@ -238,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T04:15:02.970Z,38.8956667,-123.6153333,9.77,1.15,md,9,165,0.09104,0.11,nc,nc73854806,2023-03-03T22:21:14.936Z,"7km ESE of Point Arena, CA",earthquake,0.57,0.82,0.172,8,reviewed,nc,nc
 2023-03-03T04:14:53.530Z,51.875,-178.010833333333,-1.8,1.15,ml,5,97,,0.21,av,av91780626,2023-03-03T18:36:18.200Z,"94 km W of Adak, Alaska",earthquake,0.4,1.41,0.188272253589796,5,reviewed,av,av
 2023-03-03T04:00:32.725Z,61.4484,-146.8554,27.9,1.7,ml,,,,0.59,ak,ak0232ulpbk8,2023-03-03T04:02:48.104Z,"44 km NW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-03T03:54:09.550Z,38.8338318,-122.8161697,1.82,1.05,md,18,76,0.01146,0.03,nc,nc73854801,2023-03-03T04:12:14.249Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.17,20,automatic,nc,nc
-2023-03-03T03:53:28.600Z,48.61383333333333,-123.04966666666667,13.52,2.32,ml,26,126,0.02564,0.19,uw,uw61900522,2023-03-03T18:20:38.470Z,"7 km WNW of Orcas, Washington",earthquake,0.29,0.42,0.16747024715244097,22,reviewed,uw,uw
-2023-03-03T03:51:25.080Z,36.7149,-116.3001,11,0,ml,4,197.49,0.022,0.013,nn,nn00856560,2023-03-03T17:41:12.700Z,"46 km ESE of Beatty, Nevada",earthquake,,3.1,0,1,reviewed,nn,nn
