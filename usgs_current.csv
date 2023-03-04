@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-04T16:06:32.050Z,17.9331666666667,-66.8996666666667,8.59,2.87,md,15,198,0.03975,0.11,pr,pr71398263,2023-03-04T16:23:45.450Z,"4 km SSE of Guánica, Puerto Rico",earthquake,0.44,0.36,0.138260300748909,9,reviewed,pr,pr
 2023-03-04T15:40:05.720Z,19.1401672363281,-155.365173339844,30.4200000762939,1.79999995,md,30,185,,0.119999997,hv,hv73333277,2023-03-04T15:43:11.420Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.84,1.47000003,0.600000024,3,automatic,hv,hv
 2023-03-04T15:35:37.570Z,38.8098335,-122.8280029,2.13,1.08,md,19,62,0.001331,0.03,nc,nc73855386,2023-03-04T15:53:15.128Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.4,0.15,20,automatic,nc,nc
 2023-03-04T15:12:55.599Z,60.4477,-150.9954,35.3,2.2,ml,,,,0.57,ak,ak0232wfv22f,2023-03-04T15:15:03.266Z,"5 km SE of Soldotna, Alaska",earthquake,,12.1,,,automatic,ak,ak
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T14:28:56.058Z,58.1897,-136.8155,12.3,2.8,ml,,,,0.19,ak,ak0232wfd1yd,2023-03-04T16:10:36.040Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-04T14:18:39.310Z,19.0968341827393,-155.438995361328,27.9099998474121,1.75999999,md,34,185,,0.170000002,hv,hv73333242,2023-03-04T14:21:52.200Z,"Hawaii region, Hawaii",earthquake,0.67,1.12,0.949999988,11,automatic,hv,hv
 2023-03-04T14:13:06.290Z,38.8325005,-122.8106689,1.98,0.79,md,20,58,0.009104,0.01,nc,nc73855366,2023-03-04T16:22:12.294Z,"8km W of Cobb, CA",earthquake,0.21,0.53,0.24,21,automatic,nc,nc
+2023-03-04T14:08:55.254Z,39.3732,-120.0045,3.6,0.5,ml,5,131.54,0.084,0.0373,nn,nn00856588,2023-03-04T16:23:19.655Z,"2 km SSE of Floriston, California",earthquake,,6.9,0.61,3,reviewed,nn,nn
 2023-03-04T14:07:18.680Z,33.4686667,-116.5545,8.85,0.56,ml,24,82,0.04758,0.13,ci,ci40420888,2023-03-04T14:17:51.888Z,"15km SE of Anza, CA",earthquake,0.24,0.43,0.247,15,automatic,ci,ci
 2023-03-04T13:46:31.670Z,19.2350006103516,-155.386001586914,31.1800003051758,1.78999996,md,28,149,,0.129999995,hv,hv73333237,2023-03-04T13:54:36.040Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.680000007,0.889999986,3,automatic,hv,hv
 2023-03-04T13:37:29.760Z,38.783165,-122.7429962,0.74,0.61,md,7,114,0.004902,0.02,nc,nc73855361,2023-03-04T14:01:11.541Z,"1km ENE of The Geysers, CA",earthquake,0.42,1,0.17,7,automatic,nc,nc
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T17:07:55.239Z,60.2587,-152.5411,110,2.1,ml,,,,0.21,ak,ak0232uthi6b,2023-03-03T18:51:21.040Z,"53 km WNW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-03T16:43:44.960Z,19.1593341827393,-155.463333129883,34.1300010681152,2.55999994,md,26,167,,0.109999999,hv,hv73332857,2023-03-03T16:46:54.070Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.72,1.16999996,1.26999998,3,automatic,hv,hv
 2023-03-03T16:43:27.490Z,58.1641666666667,-155.310333333333,0.93,0.18,ml,6,179,,0.03,av,av91781386,2023-03-04T00:40:14.340Z,"Alaska Peninsula",earthquake,0.35,1.3,0.297135759943681,6,reviewed,av,av
-2023-03-03T16:38:28.110Z,58.2395,-155.143833333333,2.44,0.34,ml,6,218,,0.1,av,av91781371,2023-03-04T00:38:08.570Z,"Alaska Peninsula",earthquake,0.54,0.48,0.231611622959422,6,reviewed,av,av
-2023-03-03T16:28:13.130Z,56.869,-158.198,-2.82,1.24,ml,5,123,,0.27,av,av91091813,2023-03-04T00:29:55.230Z,"27 km ESE of Port Heiden, Alaska",earthquake,1.05,3.65,0.358387764105163,5,reviewed,av,av
