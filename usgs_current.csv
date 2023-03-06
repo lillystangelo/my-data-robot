@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-06T22:49:31.232Z,62.8992,-148.8167,17.5,1.7,ml,,,,0.88,ak,ak0232zvbnwj,2023-03-06T22:51:19.519Z,"55 km S of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-03-06T22:45:51.610Z,33.528,-116.7271667,4.85,0.66,ml,22,50,0.03825,0.09,ci,ci40421576,2023-03-06T22:49:23.170Z,"6km WSW of Anza, CA",earthquake,0.18,0.37,0.089,16,automatic,ci,ci
+2023-03-06T22:44:50.670Z,38.529335,-122.6508331,7.41,1.49,md,12,139,0.06509,0.07,nc,nc73856241,2023-03-06T22:46:28.281Z,"8km SW of Calistoga, CA",earthquake,0.42,0.9,0.2,12,automatic,nc,nc
 2023-03-06T22:24:48.703Z,42.3331,144.5555,47.631,5.1,mb,94,101,1.087,0.69,us,us7000jhrf,2023-03-06T22:40:59.040Z,"72 km SSE of Kushiro, Japan",earthquake,7.64,6.659,0.036,256,reviewed,us,us
 2023-03-06T22:09:59.517Z,60.3479,-147.7484,15.4,1.7,ml,,,,0.14,ak,ak0232zv35fz,2023-03-06T22:12:01.704Z,"34 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-06T21:52:23.166Z,60.1739,-152.8171,93.8,1.8,ml,,,,1.12,ak,ak0232zuquto,2023-03-06T21:55:10.840Z,"65 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -166,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T00:15:46.670Z,35.0541667,-117.6491667,1.43,1.43,ml,12,197,0.1256,0.09,ci,ci40421376,2023-03-06T00:19:23.039Z,"6km N of Boron, CA",quarry blast,0.46,0.45,0.13,20,automatic,ci,ci
 2023-03-06T00:15:04.770Z,38.8128319,-122.8264999,2.42,1.08,md,24,55,0.004477,0.02,nc,nc73855861,2023-03-06T00:48:13.338Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.43,0.14,24,automatic,nc,nc
 2023-03-06T00:13:58.230Z,40.4324989,-123.7186661,25.82,1.57,md,8,154,0.07808,0.04,nc,nc73855856,2023-03-06T02:27:14.860Z,"34km ESE of Rio Dell, CA",earthquake,0.9,0.77,0.09,2,automatic,nc,nc
-2023-03-05T23:45:21.160Z,38.8129997,-122.8255005,1.68,2.61,md,45,26,0.005028,0.05,nc,nc73855846,2023-03-06T18:34:53.067Z,"7km WNW of The Geysers, CA",earthquake,0.14,0.2,0.16,54,automatic,nc,nc
+2023-03-05T23:45:21.130Z,38.8135,-122.8251667,2,2.6,md,76,18,0.005587,0.05,nc,nc73855846,2023-03-06T22:48:10.176Z,"7km NW of The Geysers, CA",earthquake,0.09,0.15,0.161,84,reviewed,nc,nc
 2023-03-05T23:37:12.290Z,7.6252,91.7665,10,5.1,mb,49,124,5.672,0.74,us,us7000jhj3,2023-03-05T23:51:23.040Z,"Nicobar Islands, India region",earthquake,6.96,1.88,0.091,39,reviewed,us,us
 2023-03-05T23:27:34.899Z,61.9445,-152.1043,1.1,1.6,ml,,,,0.68,ak,ak0232y891jl,2023-03-05T23:31:19.633Z,"37 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-05T23:23:59.360Z,38.8183327,-122.7988358,5.62,0.77,md,16,48,0.01013,0.04,nc,nc73855836,2023-03-06T00:48:13.210Z,"6km NW of The Geysers, CA",earthquake,0.44,0.71,0.27,16,automatic,nc,nc
@@ -175,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T23:09:16.931Z,12.6481,-88.0195,67.461,4.3,mb,21,173,1.298,0.87,us,us7000jhiw,2023-03-05T23:28:34.312Z,"60 km S of Intipucá, El Salvador",earthquake,6.44,12.957,0.069,60,reviewed,us,us
 2023-03-05T23:04:36.460Z,33.4948333,-116.783,3.93,0.66,ml,21,45,0.02272,0.15,ci,ci40421360,2023-03-05T23:08:10.642Z,"10km NE of Aguanga, CA",earthquake,0.26,0.51,0.09,14,automatic,ci,ci
 2023-03-05T23:00:08.950Z,33.7658333,-116.9391667,12.73,0.93,ml,16,93,0.07755,0.17,ci,ci40421352,2023-03-05T23:03:39.453Z,"3km SE of San Jacinto, CA",earthquake,0.33,0.66,0.155,23,automatic,ci,ci
-2023-03-05T22:49:33.740Z,19.1655006408691,-155.489669799805,33.310001373291,2.11999989,md,34,112,,0.119999997,hv,hv73334137,2023-03-05T22:54:05.690Z,"Island of Hawaii, Hawaii",earthquake,0.73,0.930000007,1.32000005,12,automatic,hv,hv
