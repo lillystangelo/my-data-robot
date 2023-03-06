@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-06T22:24:48.703Z,42.3331,144.5555,47.631,5.1,mb,94,101,1.087,0.69,us,us7000jhrf,2023-03-06T22:40:59.040Z,"72 km SSE of Kushiro, Japan",earthquake,7.64,6.659,0.036,256,reviewed,us,us
 2023-03-06T22:09:59.517Z,60.3479,-147.7484,15.4,1.7,ml,,,,0.14,ak,ak0232zv35fz,2023-03-06T22:12:01.704Z,"34 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-06T21:52:23.166Z,60.1739,-152.8171,93.8,1.8,ml,,,,1.12,ak,ak0232zuquto,2023-03-06T21:55:10.840Z,"65 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-06T21:36:19.190Z,38.833168,-122.7931671,1.7,0.67,md,10,82,0.005679,0.01,nc,nc73856221,2023-03-06T21:58:12.863Z,"6km WNW of Cobb, CA",earthquake,0.4,0.67,0.25,12,automatic,nc,nc
@@ -113,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T07:26:38.540Z,17.8991666666667,-66.8795,14.93,2.64,md,9,234,0.07547,0.09,pr,pr71398523,2023-03-06T07:40:41.060Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.63,0.52,0.0832933670647402,4,reviewed,pr,pr
 2023-03-06T07:22:39.190Z,38.8193321,-122.80867,3.09,0.99,md,19,45,0.004203,0.02,nc,nc73856001,2023-03-06T09:25:11.385Z,"6km NW of The Geysers, CA",earthquake,0.23,0.6,0.24,19,automatic,nc,nc
 2023-03-06T07:09:32.408Z,57.0234,-155.8636,34.4,2.1,ml,,,,1.47,ak,ak0232zm5la0,2023-03-06T07:12:20.520Z,"103 km W of Akhiok, Alaska",earthquake,,2.9,,,automatic,ak,ak
-2023-03-06T06:45:13.184Z,58.2617,-152.1917,77.5,1.6,ml,,,,1.38,ak,ak0232zlrusy,2023-03-06T16:10:53.832Z,"41 km NNE of Ouzinkie, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2023-03-06T06:45:13.184Z,58.2617,-152.1917,77.5,1.6,ml,,,,1.38,ak,ak0232zlrusy,2023-03-06T16:10:53.832Z,"Kodiak Island region, Alaska",earthquake,,2.9,,,reviewed,ak,ak
 2023-03-06T06:39:11.310Z,38.8288345,-122.800499,1.81,1.73,md,32,34,0.009243,0.02,nc,nc73855981,2023-03-06T08:32:12.047Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.17,32,automatic,nc,nc
 2023-03-06T06:38:56.000Z,38.8278351,-122.8014984,2.05,0.73,md,7,92,0.008033,0.01,nc,nc73855976,2023-03-06T08:06:13.888Z,"7km W of Cobb, CA",earthquake,0.48,1.14,0.25,8,automatic,nc,nc
 2023-03-06T06:19:54.830Z,39.2566667,-123.4728333,7.79,1.38,md,17,57,0.1234,0.08,nc,nc73855971,2023-03-06T21:25:11.652Z,"20km SSW of Willits, CA",earthquake,0.19,0.73,0.17,13,reviewed,nc,nc
