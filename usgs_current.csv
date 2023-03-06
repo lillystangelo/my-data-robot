@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T21:46:17.030Z,38.8424988,-122.8753357,2.26,1.1,md,17,122,0.005808,0.02,nc,nc73855821,2023-03-05T23:55:13.876Z,"13km NW of The Geysers, CA",earthquake,0.54,0.65,0.14,18,automatic,nc,nc
 2023-03-05T21:19:59.140Z,18.0705,-64.8176666666667,7.93,3.12,md,6,161,0.2633,0.28,pr,pr71398393,2023-03-05T21:45:55.723Z,"Virgin Islands",earthquake,0.95,2.41,0.145465561562224,6,reviewed,pr,pr
 2023-03-05T20:54:46.835Z,64.7552,-147.8606,27.8,1.1,ml,,,,1.05,ak,ak0232y6mjzf,2023-03-05T20:59:11.207Z,"6 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-05T20:49:46.684Z,36.8151,36.1812,10,4.8,mwr,113,69,0.775,0.86,us,us7000jhi7,2023-03-06T04:47:16.599Z,"5 km WSW of Dörtyol, Turkey",earthquake,5.15,1.835,0.066,22,reviewed,us,us
+2023-03-05T20:49:46.684Z,36.8151,36.1812,10,4.8,mwr,113,69,0.775,0.86,us,us7000jhi7,2023-03-06T06:30:03.774Z,"5 km WSW of Dörtyol, Turkey",earthquake,5.15,1.835,0.066,22,reviewed,us,us
 2023-03-05T20:48:35.010Z,33.7733333,-116.9366667,12.4,1.12,ml,28,66,0.08457,0.23,ci,ci40421312,2023-03-05T20:52:08.427Z,"2km ESE of San Jacinto, CA",earthquake,0.32,0.77,0.178,28,automatic,ci,ci
 2023-03-05T20:47:10.970Z,38.8375015,-122.7841644,1.37,0.5,md,10,79,0.00491,0.01,nc,nc73855801,2023-03-05T21:21:15.913Z,"6km WNW of Cobb, CA",earthquake,0.43,0.99,0.3,10,automatic,nc,nc
 2023-03-05T20:43:02.700Z,7.5294,126.1717,10,5.4,mww,136,33,0.744,0.66,us,us7000jhi6,2023-03-06T01:42:03.570Z,"9 km SSE of Bantacan, Philippines",earthquake,2.2,1.779,0.069,20,reviewed,us,us
@@ -179,4 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T07:07:47.536Z,60.1744,-152.8733,97.7,1.4,ml,,,,0.55,ak,ak0232xyluip,2023-03-05T07:09:58.243Z,"68 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-05T07:02:49.819Z,57.7155,-153.6031,34.4,1.9,ml,,,,0.4,ak,ak0232xyks45,2023-03-05T07:05:00.152Z,"29 km NE of Larsen Bay, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-03-05T06:51:42.082Z,-16.6119,-177.2033,410.355,4.4,mb,27,80,2.456,0.43,us,us7000jhfm,2023-03-05T07:19:01.040Z,"272 km SSE of Alo, Wallis and Futuna",earthquake,12.02,8.745,0.115,22,reviewed,us,us
-2023-03-05T06:25:43.024Z,34.7587,38.0259,10.012,4,mb,31,157,2.498,0.53,us,us7000jhfy,2023-03-05T15:33:57.331Z,"Syria",earthquake,4.29,6.65,0.156,11,reviewed,us,us
