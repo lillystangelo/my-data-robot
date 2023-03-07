@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-07T14:34:15.540Z,33.0181667,-116.3483333,10.4,1.34,ml,36,49,0.06985,0.22,ci,ci40421752,2023-03-07T14:37:48.707Z,"24km SW of Ocotillo Wells, CA",earthquake,0.28,0.59,0.161,28,automatic,ci,ci
-2023-03-07T14:33:12.430Z,36.5940018,-121.2003326,10.02,3.9,ml,65,66,0.02529,0.16,nc,nc73856426,2023-03-07T14:47:27.095Z,"9km NW of Pinnacles, CA",earthquake,0.24,0.45,0.203,64,reviewed,nc,nc
+2023-03-07T14:33:12.430Z,36.5940018,-121.2003326,10.02,3.9,ml,65,66,0.02529,0.16,nc,nc73856426,2023-03-07T14:57:11.863Z,"9km NW of Pinnacles, CA",earthquake,0.24,0.45,0.203,64,reviewed,nc,nc
 2023-03-07T14:32:53.882Z,62.1879,-149.827,3.7,1.6,ml,,,,0.65,ak,ak02331dzy4s,2023-03-07T14:34:57.382Z,"3 km NNE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-07T14:28:07.620Z,33.0121667,-116.3468333,9.54,1.04,ml,27,75,0.06705,0.27,ci,ci40421736,2023-03-07T14:31:41.708Z,"25km SW of Ocotillo Wells, CA",earthquake,0.42,0.82,0.207,14,automatic,ci,ci
 2023-03-07T14:19:23.938Z,57.58,-155.2187,32.7,1.9,ml,,,,0.91,ak,ak02331dx3ih,2023-03-07T14:21:05.067Z,"45 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T13:52:33.354Z,36.7594,-116.2578,6.8,0.2,ml,18,71.63,0.048,0.1895,nn,nn00856622,2023-03-07T13:53:01.112Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.86,10,automatic,nn,nn
 2023-03-07T13:51:49.761Z,-3.2132,150.6471,10,6,mww,97,37,1.798,0.84,us,us7000jhw8,2023-03-07T14:15:01.108Z,"72 km SSW of Kavieng, Papua New Guinea",earthquake,5.98,1.794,0.052,36,reviewed,us,us
 2023-03-07T13:43:39.170Z,36.0724983,-120.9546661,10.98,0.68,md,7,106,0.0712,0.1,nc,nc73856421,2023-03-07T14:15:14.607Z,"7km NW of San Ardo, CA",earthquake,0.61,1.26,0.13,3,automatic,nc,nc
-2023-03-07T13:41:19.680Z,38.7798347,-122.7726669,0.74,1.64,md,23,116,0.01059,0.03,nc,nc73856416,2023-03-07T14:47:19.812Z,"1km WNW of The Geysers, CA",earthquake,0.23,0.4,0.2,23,automatic,nc,nc
+2023-03-07T13:41:19.680Z,38.7798347,-122.7726669,0.74,1.64,md,23,116,0.01059,0.03,nc,nc73856416,2023-03-07T14:51:10.830Z,"1km WNW of The Geysers, CA",earthquake,0.23,0.4,0.2,23,automatic,nc,nc
 2023-03-07T13:23:15.720Z,38.8375015,-122.7913361,1.56,0.38,md,7,95,0.001192,0.01,nc,nc73856406,2023-03-07T13:56:10.639Z,"6km WNW of Cobb, CA",earthquake,0.53,1.28,0.28,8,automatic,nc,nc
 2023-03-07T13:12:10.859Z,54.6381,-159.6443,35,4.5,mb,88,148,2.198,0.78,us,us7000jhw4,2023-03-07T13:32:05.040Z,"95 km SE of Sand Point, Alaska",earthquake,6.96,1.934,0.064,72,reviewed,us,us
 2023-03-07T12:59:33.460Z,19.2590007781982,-155.391494750977,30.75,1.82000005,md,35,130,,0.129999995,hv,hv73335122,2023-03-07T13:02:49.210Z,"11 km NE of Pāhala, Hawaii",earthquake,0.56,0.75,1.80999994,6,automatic,hv,hv
@@ -23,7 +23,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T12:26:13.680Z,33.6853333,-116.795,16.19,0.95,ml,28,54,0.07061,0.18,ci,ci40421720,2023-03-07T12:29:47.712Z,"9km SW of Idyllwild, CA",earthquake,0.3,0.54,0.143,26,automatic,ci,ci
 2023-03-07T12:19:47.599Z,58.0489,-155.5916,15,1.2,ml,,,,0.76,ak,ak02331cqa4n,2023-03-07T12:32:17.597Z,"86 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-07T12:16:50.078Z,64.8781,-150.6402,0,1.9,ml,,,,0.77,ak,ak02331cpn67,2023-03-07T12:18:37.055Z,"13 km S of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-07T12:01:07.130Z,44.7808333,-110.9818333,6.54,0.41,md,7,266,0.02761,0.13,uu,uu60532761,2023-03-07T14:55:34.490Z,"16 km NE of West Yellowstone, Montana",earthquake,1.49,0.97,0.287,5,reviewed,uu,uu
 2023-03-07T11:51:52.880Z,19.2700004577637,-155.384994506836,31.2900009155273,2.17,ml,38,127,,0.170000002,hv,hv73335077,2023-03-07T12:22:16.040Z,"12 km NE of Pāhala, Hawaii",earthquake,0.59,0.769999981,2.91,9,automatic,hv,hv
+2023-03-07T11:48:59.040Z,44.7755,-110.9871667,6.42,0.37,md,7,263,0.02108,0.1,uu,uu60532756,2023-03-07T14:53:59.530Z,"15 km NE of West Yellowstone, Montana",earthquake,1.43,0.94,0.353,5,reviewed,uu,uu
 2023-03-07T11:47:28.537Z,38.6304,35.2891,10,4.7,mwr,94,62,0.489,0.85,us,us7000jhvn,2023-03-07T14:10:00.571Z,"14 km W of Hacılar, Turkey",earthquake,3.59,1.85,0.065,23,reviewed,us,us
 2023-03-07T11:46:58.250Z,44.7766667,-111.007,7.76,0.54,md,5,203,0.01735,0.22,uu,uu60032739,2023-03-07T14:35:26.220Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.77,1.35,0.077,3,reviewed,uu,uu
 2023-03-07T11:46:44.200Z,44.798,-110.9783333,8.07,1.58,ml,18,118,0.04345,0.15,uu,uu60532751,2023-03-07T14:31:49.280Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,0.55,0.69,0.459,3,reviewed,uu,uu
