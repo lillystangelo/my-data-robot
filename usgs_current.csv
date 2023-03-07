@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-07T13:23:15.720Z,38.8375015,-122.7913361,1.56,0.38,md,7,95,0.001192,0.01,nc,nc73856406,2023-03-07T13:24:52.020Z,"6km WNW of Cobb, CA",earthquake,0.53,1.28,0.28,8,automatic,nc,nc
+2023-03-07T13:23:15.720Z,38.8375015,-122.7913361,1.56,0.38,md,7,95,0.001192,0.01,nc,nc73856406,2023-03-07T13:40:14.406Z,"6km WNW of Cobb, CA",earthquake,0.53,1.28,0.28,8,automatic,nc,nc
+2023-03-07T13:12:10.859Z,54.6381,-159.6443,35,4.5,mb,88,148,2.198,0.78,us,us7000jhw4,2023-03-07T13:32:05.040Z,"95 km SE of Sand Point, Alaska",earthquake,6.96,1.934,0.064,72,reviewed,us,us
 2023-03-07T12:59:33.460Z,19.2590007781982,-155.391494750977,30.75,1.82000005,md,35,130,,0.129999995,hv,hv73335122,2023-03-07T13:02:49.210Z,"11 km NE of Pāhala, Hawaii",earthquake,0.56,0.75,1.80999994,6,automatic,hv,hv
 2023-03-07T12:38:22.350Z,63.806,-148.9607,29.1,1.7,ml,,,,0.74,ak,ak02331cuasb,2023-03-07T12:40:17.930Z,"5 km S of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-07T12:38:00.050Z,38.8260002,-122.8536682,2.58,0.77,md,16,92,0.01484,0.02,nc,nc73856401,2023-03-07T13:11:11.241Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.55,0.36,16,automatic,nc,nc
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T09:01:30.545Z,-17.3331,-65.757,66.349,4.7,mb,44,72,2.021,0.87,us,us7000jhuw,2023-03-07T13:09:02.230Z,"11 km E of Colomi, Bolivia",earthquake,6.3,8.193,0.045,151,reviewed,us,us
 2023-03-07T08:47:42.281Z,7.6219,126.2112,10,5.6,mww,93,44,0.833,0.94,us,us7000jhuv,2023-03-07T10:51:39.715Z,"9 km ENE of Bantacan, Philippines",earthquake,6.72,1.85,0.061,26,reviewed,us,us
 2023-03-07T08:44:39.221Z,61.7432,-149.5695,30.3,1.7,ml,,,,0.39,ak,ak02331ahvyq,2023-03-07T08:46:22.578Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-07T08:42:10.110Z,35.6643333,-117.5718307,4.79,3.03,ml,52,55,0.07489,0.18,ci,ci40421656,2023-03-07T10:09:29.820Z,"11km ENE of Ridgecrest, CA",earthquake,0.21,0.48,0.168,19,automatic,ci,ci
+2023-03-07T08:42:10.110Z,35.6643333,-117.5718307,4.79,3.03,ml,52,55,0.07489,0.18,ci,ci40421656,2023-03-07T13:35:57.666Z,"11km ENE of Ridgecrest, CA",earthquake,0.21,0.48,0.168,19,automatic,ci,ci
 2023-03-07T08:38:48.410Z,37.2826653,-121.6589966,3.54,1.36,md,11,56,0.02619,0.05,nc,nc73856361,2023-03-07T10:35:17.327Z,"16km E of Seven Trees, CA",earthquake,0.3,0.6,0.19,9,automatic,nc,nc
 2023-03-07T08:37:05.142Z,63.0553,-150.715,104.3,1.7,ml,,,,0.56,ak,ak02331agbbm,2023-03-07T08:39:25.000Z,"62 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-07T08:33:29.518Z,62.1465,-145.5925,19.9,1.4,ml,,,,0.84,ak,ak02331afic7,2023-03-07T08:35:06.179Z,"4 km NNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
