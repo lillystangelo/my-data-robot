@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-07T11:51:52.880Z,19.2700004577637,-155.384994506836,31.2900009155273,2.47000003,md,38,127,,0.170000002,hv,hv73335077,2023-03-07T11:55:01.660Z,"12 km NE of Pāhala, Hawaii",earthquake,0.59,0.769999981,1.39999998,24,automatic,hv,hv
+2023-03-07T11:45:32.790Z,19.2228336334229,-155.385665893555,1.11000001430511,2.98,ml,22,194,,0.239999995,hv,hv73335067,2023-03-07T11:51:04.570Z,"10 km ENE of Pāhala, Hawaii",earthquake,1.25,19.7600002,3.63,6,automatic,hv,hv
+2023-03-07T11:45:27.470Z,19.2630004882812,-155.393829345703,30.0200004577637,3.09,ml,44,128,,0.170000002,hv,hv73335072,2023-03-07T11:51:09.580Z,"11 km NE of Pāhala, Hawaii",earthquake,0.55,0.699999988,1.79,24,automatic,hv,hv
 2023-03-07T11:33:12.500Z,33.7666667,-116.935,13.7,0.91,ml,22,67,0.07993,0.2,ci,ci40421712,2023-03-07T11:36:49.949Z,"3km SE of San Jacinto, CA",earthquake,0.36,0.68,0.127,28,automatic,ci,ci
 2023-03-07T11:23:36.519Z,61.175,-146.8273,34.5,1.6,ml,,,,0.68,ak,ak02331c5oj7,2023-03-07T11:24:55.403Z,"26 km W of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-07T11:11:46.782Z,13.3127,92.4297,10,4.9,mb,77,90,6.588,0.86,us,us7000jhvh,2023-03-07T11:34:33.040Z,"181 km N of Bamboo Flat, India",earthquake,8.36,1.884,0.075,56,reviewed,us,us
@@ -6,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T10:40:54.550Z,18.011,-65.4601666666667,14.78,2.55,md,7,237,0.1229,0.18,pr,pr71398708,2023-03-07T11:24:32.120Z,"9 km S of Esperanza, Puerto Rico",earthquake,1.31,0.76,0.170260344299439,4,reviewed,pr,pr
 2023-03-07T10:40:25.960Z,33.9343333,-116.796,19.5,0.96,ml,23,58,0.1005,0.21,ci,ci40421696,2023-03-07T10:43:56.129Z,"2km NNW of Cabazon, CA",earthquake,0.41,1.04,0.17,27,automatic,ci,ci
 2023-03-07T10:27:54.190Z,33.9773333,-116.6855,12.42,0.77,ml,19,68,0.06854,0.17,ci,ci40421688,2023-03-07T10:31:21.666Z,"12km NE of Cabazon, CA",earthquake,0.34,1.15,0.156,22,automatic,ci,ci
+2023-03-07T10:11:21.800Z,-22.227,-179.5773,565.696,4.4,mb,47,92,4.201,0.84,us,us7000jhvf,2023-03-07T11:48:35.040Z,"south of the Fiji Islands",earthquake,13.74,8.37,0.087,38,reviewed,us,us
 2023-03-07T10:07:02.395Z,60.5057,-152.3091,99.8,1.7,ml,,,,0.25,ak,ak02331bgqu7,2023-03-07T10:08:51.667Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-07T10:02:15.810Z,34.5253067,-97.66297913,4.885984898,2.07,ml,15,100.5445557,0.1590306312,0.7230717986,ok,ok2023epno,2023-03-07T10:05:22.251Z,"7 km N of Velma, Oklahoma",earthquake,3.499433293,2.201578838,,11,automatic,ok,ok
 2023-03-07T09:48:00.153Z,61.3476,-149.9507,40.4,1.4,ml,,,,0.15,ak,ak02331b43f3,2023-03-07T09:49:20.899Z,"2 km SE of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
