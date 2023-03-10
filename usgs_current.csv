@@ -9,6 +9,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T04:33:59.020Z,17.9436666666667,-66.2578333333333,12.09,2.52,md,10,206,0.1397,0.18,pr,pr71398973,2023-03-10T04:47:59.050Z,"3 km WSW of Central Aguirre, Puerto Rico",earthquake,0.48,0.47,0.272054266311325,6,reviewed,pr,pr
 2023-03-10T04:26:18.520Z,38.8181648,-122.7955017,2.45,0.92,md,11,61,0.01018,0.02,nc,nc73854885,2023-03-10T04:52:12.705Z,"6km NW of The Geysers, CA",earthquake,0.44,0.97,0.29,14,automatic,nc,nc
 2023-03-10T04:23:30.264Z,63.5294,-147.7101,17.1,1.4,ml,,,,0.34,ak,ak023366loaq,2023-03-10T04:25:07.608Z,"63 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-10T04:18:13.360Z,51.8613333333333,-178.091833333333,2.63,1.41,ml,4,210,,0.25,av,av91794811,2023-03-10T05:35:08.670Z,"100 km W of Adak, Alaska",earthquake,1.02,1.89,0.156951729155865,4,reviewed,av,av
+2023-03-10T04:17:52.510Z,51.8688333333333,-177.973,4.38,1.03,ml,4,133,,0.22,av,av91093043,2023-03-10T05:37:08.430Z,"92 km W of Adak, Alaska",earthquake,1.08,3.21,0.223334417956705,4,reviewed,av,av
 2023-03-10T04:06:12.670Z,51.8525,-178.109333333333,3.59,2.26,ml,4,227,,0.1,av,av91093033,2023-03-10T05:22:55.540Z,"101 km W of Adak, Alaska",earthquake,0.59,0.53,0.170010824733697,4,reviewed,av,av
 2023-03-10T04:05:17.779Z,51.8656,-178.1024,8.379,3.1,ml,17,103,0.051,0.48,us,us7000jiqe,2023-03-10T05:17:24.040Z,"101 km W of Adak, Alaska",earthquake,1.41,0.84,0.097,14,reviewed,us,us
 2023-03-10T04:05:17.720Z,51.8555,-178.109,4.95,2.75,ml,12,109,,0.14,av,av91794791,2023-03-10T05:23:52.100Z,"101 km W of Adak, Alaska",earthquake,0.42,0.49,0.277060826272489,8,reviewed,av,av
@@ -397,5 +399,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T06:02:07.493Z,63.1561,-149.4729,85.1,1.3,ml,,,,0.76,ak,ak02334k4n7t,2023-03-09T06:12:19.696Z,"37 km SW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-09T05:59:36.440Z,44.7915,-110.9838333,7.71,0.76,md,13,194,0.03588,0.16,uu,uu60532926,2023-03-09T18:15:33.320Z,"16 km E of Hebgen Lake Estates, Montana",earthquake,0.89,0.62,0.353,8,reviewed,uu,uu
 2023-03-09T05:56:31.988Z,64.7757,-149.4124,15.3,1.1,ml,,,,1.46,ak,ak02334juu6a,2023-03-09T05:59:37.535Z,"23 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-09T05:42:44.616Z,51.2176,-177.7791,89.7,3.7,ml,,,,0.36,ak,ak02334jrv2e,2023-03-09T19:54:17.685Z,"107 km SW of Adak, Alaska",earthquake,,5.2,,,reviewed,ak,ak
-2023-03-09T05:40:12.329Z,51.4529,159.8812,10,4.5,mb,37,158,1.746,0.66,us,us7000jiec,2023-03-09T06:12:35.040Z,"192 km SSE of Vilyuchinsk, Russia",earthquake,4.14,1.952,0.102,32,reviewed,us,us
