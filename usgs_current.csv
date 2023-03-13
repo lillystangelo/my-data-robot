@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-13T07:09:13.940Z,19.423999786377,-155.265167236328,7.98999977111816,2.07,ml,19,96,,0.180000007,hv,hv73338377,2023-03-13T07:14:45.570Z,"3 km WSW of Volcano, Hawaii",earthquake,0.39,0.629999995,0.24,12,automatic,hv,hv
+2023-03-13T07:09:13.820Z,19.414,-155.266666666667,8.95,1.28,ml,14,97,,0.11,hv,hv73338377,2023-03-13T07:28:12.280Z,"4 km SW of Volcano, Hawaii",earthquake,0.5,0.62,0.180347803029533,7,reviewed,hv,hv
 2023-03-13T06:52:43.000Z,38.8163338,-122.7998352,1.79,0.32,md,10,83,0.009073,0.05,nc,nc73856110,2023-03-13T07:09:13.036Z,"6km NW of The Geysers, CA",earthquake,0.4,0.9,0.13,10,automatic,nc,nc
 2023-03-13T06:52:25.414Z,60.5877,-151.7956,76.7,1.9,ml,,,,0.59,ak,ak0233b6ksdp,2023-03-13T06:54:56.481Z,"26 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-13T06:49:21.929Z,-58.8029,-25.074,23.861,4.9,mb,56,82,15.757,0.46,us,us7000jjha,2023-03-13T07:19:22.040Z,"South Sandwich Islands region",earthquake,13.26,5.75,0.076,54,reviewed,us,us
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T05:06:21.970Z,31.803833,-115.9008331,12.82,3.01,ml,27,135,0.2043,0.26,ci,ci40184071,2023-03-13T05:08:32.900Z,"64km E of Maneadero, B.C., MX",earthquake,0.41,0.73,0.324,25,automatic,ci,ci
 2023-03-13T04:52:27.220Z,38.8371658,-122.8389969,1.36,0.77,md,14,110,0.01437,0.02,nc,nc73856075,2023-03-13T05:23:18.383Z,"10km NW of The Geysers, CA",earthquake,0.23,0.51,0.16,17,automatic,nc,nc
 2023-03-13T04:50:50.190Z,39.2013321,-123.189003,3.58,1.91,md,11,89,0.08721,0.06,nc,nc73856070,2023-03-13T07:21:11.103Z,"6km NNE of Ukiah, CA",earthquake,0.34,2.3,0.11,9,automatic,nc,nc
-2023-03-13T04:41:33.120Z,38.7481651,-122.7133331,1.17,1.1,md,8,131,0.01616,0.03,nc,nc73856065,2023-03-13T06:56:10.953Z,"4km SSW of Anderson Springs, CA",earthquake,0.4,0.5,0.15,11,automatic,nc,nc
+2023-03-13T04:41:33.120Z,38.7481651,-122.7133331,1.17,1.1,md,8,131,0.01616,0.03,nc,nc73856065,2023-03-13T07:28:12.146Z,"4km SSW of Anderson Springs, CA",earthquake,0.4,0.5,0.15,11,automatic,nc,nc
 2023-03-13T04:26:21.030Z,17.9286666666667,-66.9451666666667,9.32,2.54,md,12,224,0.05553,0.16,pr,pr71399313,2023-03-13T04:35:56.330Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.7,0.72,0.0629745892818878,4,reviewed,pr,pr
 2023-03-13T04:23:25.100Z,38.7786674,-122.730835,1.18,1.19,md,16,75,0.006482,0.03,nc,nc73856060,2023-03-13T07:01:13.985Z,"2km E of The Geysers, CA",earthquake,0.28,0.37,0.19,14,automatic,nc,nc
 2023-03-13T04:16:36.890Z,38.8190002,-122.7618332,1.6,1.12,md,18,119,0.01308,0.04,nc,nc73856055,2023-03-13T06:34:14.823Z,"3km W of Cobb, CA",earthquake,0.28,0.42,0.1,18,automatic,nc,nc
@@ -255,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T07:49:22.740Z,32.846,-116.257,8.94,1.42,ml,39,77,0.1151,0.25,ci,ci40183583,2023-03-12T07:59:52.600Z,"26km E of Pine Valley, CA",earthquake,0.32,1.25,0.163,29,automatic,ci,ci
 2023-03-12T07:46:23.440Z,51.8456666666667,-178.108666666667,4.61,1.96,ml,9,113,,0.19,av,av91800721,2023-03-12T14:55:09.030Z,"101 km W of Adak, Alaska",earthquake,0.66,0.84,0.228855134028747,9,reviewed,av,av
 2023-03-12T07:43:20.334Z,-12.0577,165.8247,10,5.7,mww,67,58,3.626,0.71,us,us7000jjax,2023-03-12T09:46:55.704Z,"147 km S of Lata, Solomon Islands",earthquake,8.73,1.87,0.057,30,reviewed,us,us
-2023-03-12T07:31:00.430Z,19.1686668395996,-155.494171142578,28.2800006866455,2.01999998,md,30,151,,0.109999999,hv,hv73337802,2023-03-12T07:34:06.020Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,1,0.790000021,8,automatic,hv,hv
-2023-03-12T07:26:32.070Z,33.8095,-116.0925,2.68,0.85,ml,15,103,0.1338,0.26,ci,ci40183575,2023-03-12T07:30:07.469Z,"15km NE of Indio, CA",earthquake,0.52,3.03,0.147,16,automatic,ci,ci
