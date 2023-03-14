@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-14T04:45:14.450Z,33.6351662,-116.7338333,16.31,1.01,ml,29,68,0.04847,0.1,ci,ci40184415,2023-03-14T04:47:19.834Z,"10km NNW of Anza, CA",earthquake,0.34,0.82,0.284,8,automatic,ci,ci
+2023-03-14T04:49:49.782Z,59.7498,-152.2061,60.4,1.8,ml,,,,0.62,ak,ak0233cswoea,2023-03-14T04:51:42.733Z,"21 km W of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-03-14T04:46:58.026Z,37.675,-117.6013,4.9,0.6,ml,9,135.17,0.41,0.2062,nn,nn00856903,2023-03-14T04:48:23.498Z,"California-Nevada border region",earthquake,,2.9,0.93,5,automatic,nn,nn
+2023-03-14T04:45:14.320Z,33.6441667,-116.7295,17.08,0.79,ml,27,79,0.05804,0.17,ci,ci40184415,2023-03-14T04:49:00.110Z,"11km S of Idyllwild, CA",earthquake,0.31,0.6,0.158,24,automatic,ci,ci
 2023-03-14T04:33:40.506Z,60.689,-150.9442,11.1,1.7,ml,,,,0.35,ak,ak0233cst882,2023-03-14T04:35:11.990Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-14T04:33:36.144Z,58.2598,-155.6729,4.3,0.7,ml,,,,1.21,ak,ak0233cst7vy,2023-03-14T04:35:36.572Z,"74 km SE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-14T04:26:21.528Z,37.5245,-117.9635,1.6,2.3,ml,19,137.6,0.386,0.3214,nn,nn00856900,2023-03-14T04:27:55.112Z,"18 km SSE of Dyer, Nevada",earthquake,,1.9,0.85,15,automatic,nn,nn
@@ -376,5 +378,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T05:06:21.820Z,31.8185,-115.8143333,11.36,2.98,ml,9,143,0.2178,0.12,ci,ci40184071,2023-03-13T14:39:42.201Z,"72km E of Maneadero, B.C., MX",earthquake,0.38,1.31,0.176,49,reviewed,ci,ci
 2023-03-13T05:03:06.100Z,44.6408333,-111.0403333,7.39,0.34,md,8,139,0.0556,0.12,uu,uu60533366,2023-03-13T19:30:06.060Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.47,0.85,0.284,6,reviewed,uu,uu
 2023-03-13T04:58:00.940Z,44.641,-111.0468333,8.16,0.59,md,9,95,0.05219,0.09,uu,uu60533361,2023-03-13T16:41:57.690Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.47,1.06,0.264,6,reviewed,uu,uu
-2023-03-13T04:52:27.220Z,38.8371658,-122.8389969,1.36,0.77,md,14,110,0.01437,0.02,nc,nc73856075,2023-03-13T05:23:18.383Z,"10km NW of The Geysers, CA",earthquake,0.23,0.51,0.16,17,automatic,nc,nc
-2023-03-13T04:50:50.190Z,39.2013321,-123.189003,3.58,1.91,md,11,89,0.08721,0.06,nc,nc73856070,2023-03-13T07:55:12.335Z,"6km NNE of Ukiah, CA",earthquake,0.34,2.3,0.11,9,automatic,nc,nc
