@@ -183,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T21:02:38.700Z,36.6888351,-121.3613358,1.93,1.43,md,9,90,0.02208,0.16,nc,nc73856950,2023-03-14T21:20:19.179Z,"12km SSW of Tres Pinos, CA",earthquake,0.64,1.06,0.22,7,automatic,nc,nc
 2023-03-14T20:40:19.290Z,51.863,-178.075833333333,0.09,1.17,ml,4,190,,0.26,av,av91805566,2023-03-14T23:52:49.640Z,"99 km W of Adak, Alaska",earthquake,0.88,31.61,0.150313281392478,4,reviewed,av,av
 2023-03-14T20:39:16.210Z,51.8596666666667,-178.087,6.82,0.99,ml,4,208,,0.22,av,av91805561,2023-03-14T23:35:32.910Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.35,1.31,0.159694010308711,4,reviewed,av,av
-2023-03-14T20:35:57.580Z,51.8383333333333,-178.0815,4.49,2.24,ml,8,216,,0.16,av,av91094188,2023-03-14T22:19:35.500Z,"99 km W of Adak, Alaska",earthquake,0.76,0.44,0.229304556012086,8,reviewed,av,av
+2023-03-14T20:35:57.589Z,51.8637,-178.0802,5,2.7,ml,15,98,0.039,0.61,us,us7000jjxv,2023-03-15T13:50:04.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.65,1.574,0.081,20,reviewed,us,us
 2023-03-14T20:32:51.430Z,38.2389984,-122.2655029,6.48,2.36,md,9,140,0.4511,0.17,nc,nc73856945,2023-03-14T23:12:14.842Z,"7km SSE of Napa, CA",earthquake,7.81,8.21,,1,automatic,nc,nc
 2023-03-14T20:28:25.882Z,31.62183974,-104.3344407,6.697143555000001,2.7,ml,22,74,0.07746668622,0.2,tx,tx2023fdct,2023-03-15T13:43:29.040Z,"61 km S of Whites City, New Mexico",earthquake,0.9065170849,0.9465159508,0.2,13,reviewed,tx,tx
 2023-03-14T20:27:00.990Z,51.8585,-178.140333333333,7.99,0.97,ml,4,246,,0.04,av,av91805541,2023-03-14T23:32:19.700Z,"103 km W of Adak, Alaska",earthquake,0.48,0.64,0.519725690986326,4,reviewed,av,av
@@ -278,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T14:11:29.570Z,17.9775,-66.9855,38.57,2.7,md,11,171,0.05647,0.16,pr,pr71399588,2023-03-14T14:44:27.540Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.56,0.86,0.0442624322786798,5,reviewed,pr,pr
 2023-03-14T14:03:00.521Z,63.1499,-148.7914,75.2,1.4,ml,,,,0.23,ak,ak0233cyl1pg,2023-03-14T14:04:23.374Z,"28 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-14T14:01:46.300Z,33.9936667,-117.1818333,15.38,0.87,ml,27,81,0.1225,0.19,ci,ci40184695,2023-03-14T21:04:44.282Z,"7km S of Redlands, CA",earthquake,0.31,0.75,0.206,16,reviewed,ci,ci
-2023-03-14T13:55:03.370Z,36.5255,-89.4943333333333,7.3,1.75,md,21,49,0.04069,0.08,nm,nm60514046,2023-03-15T10:19:32.363Z,"7 km SSE of New Madrid, Missouri",earthquake,0.16,0.54,0.092935324869329,16,reviewed,nm,nm
