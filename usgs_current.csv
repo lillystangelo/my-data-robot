@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-19T04:28:03.050Z,34.3366667,-116.6808333,-0.18,2.07,ml,55,38,0.06364,0.15,ci,ci40186791,2023-03-19T04:31:49.952Z,"17km ENE of Big Bear City, CA",earthquake,0.18,31.61,0.127,25,automatic,ci,ci
+2023-03-19T04:42:15.830Z,38.7823334,-122.742836,0.01,0.99,md,11,78,0.02133,0.01,nc,nc73859035,2023-03-19T04:43:50.988Z,"1km ENE of The Geysers, CA",earthquake,0.27,0.9,0.25,10,automatic,nc,nc
+2023-03-19T04:35:19.490Z,33.7286667,-116.8383333,15.45,0.7,ml,23,105,0.08245,0.19,ci,ci40186799,2023-03-19T04:39:03.480Z,"6km ESE of Valle Vista, CA",earthquake,0.37,0.6,0.165,16,automatic,ci,ci
+2023-03-19T04:34:16.719Z,37.306,-117.6585,8.5,-0.2,ml,8,169.72,0.074,0.2756,nn,nn00857211,2023-03-19T04:35:36.395Z,"Central California",earthquake,,1.6,0.94,5,automatic,nn,nn
+2023-03-19T04:33:15.026Z,62.1572,-150.7668,60.6,2,ml,,,,0.31,ak,ak0233l2hwq6,2023-03-19T04:35:22.775Z,"33 km WSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-03-19T04:28:03.050Z,34.3366667,-116.6808333,-0.18,2.07,ml,55,38,0.06364,0.15,ci,ci40186791,2023-03-19T04:38:51.900Z,"17km ENE of Big Bear City, CA",earthquake,0.18,31.61,0.127,25,automatic,ci,ci
+2023-03-19T04:09:26.979Z,21.9828,-108.8152,10,4.2,mb,23,247,1.989,1.38,us,us7000jl6s,2023-03-19T04:37:25.040Z,"148 km SE of La Playa, Mexico",earthquake,10.74,1.997,0.115,21,reviewed,us,us
 2023-03-19T04:01:11.260Z,34.4213333,-118.5373333,25.09,1.36,ml,12,91,0.09936,0.17,ci,ci40186775,2023-03-19T04:04:52.861Z,"3km W of Santa Clarita, CA",earthquake,0.69,2.56,0.443,13,automatic,ci,ci
 2023-03-19T04:00:10.077Z,39.0116,-119.6682,10.8,1.3,ml,9,182.71,0.094,0.1022,nn,nn00857210,2023-03-19T04:01:16.886Z,"Nevada",earthquake,,0.7,0.19,7,automatic,nn,nn
 2023-03-19T03:48:23.335Z,39.0121,-119.6678,10.5,1.3,ml,10,122.33,0.093,0.1069,nn,nn00857209,2023-03-19T03:49:26.435Z,"Nevada",earthquake,,0.7,0.17,7,automatic,nn,nn
@@ -12,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T02:55:05.728Z,-3.3525,146.7397,10,4.7,mb,21,75,5.476,1.16,us,us7000jl6i,2023-03-19T03:23:41.040Z,"157 km SSW of Lorengau, Papua New Guinea",earthquake,12.59,1.924,0.166,12,reviewed,us,us
 2023-03-19T02:51:45.790Z,19.15016746521,-155.47233581543,33.1300010681152,2.13000011,md,37,167,,0.129999995,hv,hv73343722,2023-03-19T02:57:16.500Z,"5 km S of Pāhala, Hawaii",earthquake,0.93,1.20000005,1.44000006,17,automatic,hv,hv
 2023-03-19T02:45:30.934Z,-3.4046,146.6817,10,4.9,mb,34,120,5.98,1.01,us,us7000jl6g,2023-03-19T03:01:40.040Z,"165 km SSW of Lorengau, Papua New Guinea",earthquake,11.92,1.9,0.119,22,reviewed,us,us
-2023-03-19T02:42:04.320Z,38.8349991,-122.8184967,1.68,1.12,md,12,78,0.01332,0.02,nc,nc73859010,2023-03-19T04:29:20.309Z,"8km NW of The Geysers, CA",earthquake,0.33,0.8,0.14,13,automatic,nc,nc
+2023-03-19T02:42:04.320Z,38.8349991,-122.8184967,1.68,1.12,md,12,78,0.01332,0.02,nc,nc73859010,2023-03-19T04:34:11.339Z,"8km NW of The Geysers, CA",earthquake,0.33,0.8,0.14,13,automatic,nc,nc
 2023-03-19T02:36:34.950Z,33.9798333,-116.9745,11.79,0.88,ml,27,66,0.05851,0.25,ci,ci40186735,2023-03-19T02:40:12.372Z,"6km N of Beaumont, CA",earthquake,0.36,1.14,0.117,21,automatic,ci,ci
 2023-03-19T02:24:22.160Z,38.8361664,-122.8098297,2.18,0.97,md,18,54,0.01275,0.01,nc,nc73858990,2023-03-19T03:39:11.026Z,"8km WNW of Cobb, CA",earthquake,0.25,0.52,0.15,19,automatic,nc,nc
 2023-03-19T02:16:56.240Z,33.7466667,-117.5313333,5.36,0.99,ml,16,67,0.0809,0.17,ci,ci40186727,2023-03-19T02:20:48.135Z,"11km NNE of Trabuco Canyon, CA",earthquake,0.29,1.2,0.319,17,automatic,ci,ci
