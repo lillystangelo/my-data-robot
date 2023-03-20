@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-20T04:30:51.290Z,38.831665,-122.8078308,2.38,1.09,md,20,46,0.008442,0.02,nc,nc73859585,2023-03-20T04:32:28.887Z,"7km W of Cobb, CA",earthquake,0.23,0.57,0.13,21,automatic,nc,nc
+2023-03-20T04:30:51.290Z,38.831665,-122.8078308,2.38,1.09,md,20,46,0.008442,0.02,nc,nc73859585,2023-03-20T04:48:15.630Z,"7km W of Cobb, CA",earthquake,0.23,0.57,0.13,21,automatic,nc,nc
 2023-03-20T04:10:07.130Z,36.5053329,-121.0861664,5.81,2.01,md,21,77,0.08209,0.09,nc,nc73859575,2023-03-20T04:25:16.504Z,"6km ESE of Pinnacles, CA",earthquake,0.26,1.4,0.13,20,automatic,nc,nc
 2023-03-20T04:09:34.100Z,32.7461667,-115.4933333,15.02,1.59,ml,12,114,0.1092,0.21,ci,ci40187367,2023-03-20T04:13:16.340Z,"4km ENE of Heber, CA",earthquake,0.51,1.09,0.179,19,automatic,ci,ci
 2023-03-20T04:00:44.540Z,38.7890015,-122.7613297,1.8,0.28,md,8,100,0.01168,0.02,nc,nc73859570,2023-03-20T04:25:16.618Z,"1km NNW of The Geysers, CA",earthquake,0.45,1.2,0.02,7,automatic,nc,nc
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T03:21:16.270Z,38.7016678,-122.784668,4.7,1.39,md,23,168,0.02322,0.02,nc,nc73859540,2023-03-20T03:38:14.231Z,"9km SSW of The Geysers, CA",earthquake,0.45,0.75,0.25,22,automatic,nc,nc
 2023-03-20T03:15:22.840Z,32.9101667,-116.2481667,5.56,1.44,ml,36,62,0.06418,0.2,ci,ci40187335,2023-03-20T03:26:09.550Z,"28km ENE of Pine Valley, CA",earthquake,0.28,0.9,0.127,26,automatic,ci,ci
 2023-03-20T03:06:17.020Z,38.8390007,-122.7825012,1.88,0.36,md,10,81,0.005971,0.01,nc,nc73859535,2023-03-20T03:22:16.125Z,"6km WNW of Cobb, CA",earthquake,0.37,0.49,0.3,9,automatic,nc,nc
-2023-03-20T02:54:36.100Z,45.330333333333336,-121.6925,5.61,0.27,ml,10,135,0.0137,0.14,uw,uw61903487,2023-03-20T04:21:18.560Z,"Washington-Oregon border region",earthquake,0.38,0.5,0.0740149023436697,7,reviewed,uw,uw
+2023-03-20T02:54:36.100Z,45.330333333333336,-121.6925,5.61,0.27,ml,10,135,0.0137,0.14,uw,uw61903487,2023-03-20T04:21:18.560Z,"5 km ENE of Government Camp, Oregon",earthquake,0.38,0.5,0.0740149023436697,7,reviewed,uw,uw
 2023-03-20T02:52:20.336Z,37.5334,-117.9612,7,1.8,ml,11,235.85,0.579,0.3725,nn,nn00857248,2023-03-20T02:53:53.582Z,"17 km SSE of Dyer, Nevada",earthquake,,1.5,0.91,6,automatic,nn,nn
 2023-03-20T02:50:01.710Z,38.7091675,-122.7835007,3.87,1.35,md,17,232,0.02053,0.03,nc,nc73859525,2023-03-20T04:32:11.664Z,"8km SSW of The Geysers, CA",earthquake,0.74,0.93,0.16,16,automatic,nc,nc
 2023-03-20T02:48:53.874Z,36.9797,-116.1194,8.4,0.3,ml,8,121.07,0.069,0.0976,nn,nn00857247,2023-03-20T02:49:43.216Z,"57 km E of Beatty, Nevada",earthquake,,1.2,1.19,6,automatic,nn,nn
