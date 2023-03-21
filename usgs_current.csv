@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-21T05:44:24.289Z,59.0873,-151.9345,42,1.9,ml,,,,0.26,ak,ak0233oe8ews,2023-03-21T05:46:34.018Z,"Kenai Peninsula, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2023-03-21T05:42:33.260Z,38.7464981,-122.6975021,1.38,1.16,md,9,142,0.02169,0.02,nc,nc73860140,2023-03-21T05:44:10.425Z,"3km S of Anderson Springs, CA",earthquake,0.35,0.58,0.16,8,automatic,nc,nc
+2023-03-21T05:39:46.290Z,38.7451668,-122.6966629,0.96,1.03,md,8,144,0.02307,0.02,nc,nc73860130,2023-03-21T05:41:25.680Z,"3km S of Anderson Springs, CA",earthquake,0.59,0.88,0.19,9,automatic,nc,nc
 2023-03-21T05:34:52.718Z,59.2418,-153.6516,107,1.7,ml,,,,0.24,ak,ak0233oe6bxz,2023-03-21T05:37:10.862Z,"59 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-21T05:20:52.758Z,37.3304,-117.6593,5.4,0.7,ml,8,172.05,0.098,0.2532,nn,nn00857297,2023-03-21T05:21:49.515Z,"Central California",earthquake,,3.3,0.75,4,automatic,nn,nn
 2023-03-21T05:15:34.310Z,37.796833,-122.171669,9.1,1.22,md,12,70,0.01622,0.06,nc,nc73860125,2023-03-21T05:36:13.546Z,"5km E of Oakland, CA",earthquake,0.36,0.82,0.16,9,automatic,nc,nc
@@ -86,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T21:21:31.570Z,51.8528333333333,-178.065,2.08,2.47,ml,7,127,,0.18,av,av91813821,2023-03-20T22:24:49.160Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.53,0.66,0.244748798134722,7,reviewed,av,av
 2023-03-20T21:18:04.330Z,47.467,-122.35466666666667,23.39,1.43,ml,24,63,0.3317,0.2,uw,uw61903762,2023-03-21T00:36:30.360Z,"0 km WSW of Burien, Washington",earthquake,0.34,1.66,0.13132199592285876,13,reviewed,uw,uw
 2023-03-20T21:13:27.687Z,7.3424,123.802,592.471,4.5,mb,58,113,6.883,0.63,us,us7000jliw,2023-03-20T21:26:40.040Z,"25 km W of Litayan, Philippines",earthquake,11.93,10.593,0.07,60,reviewed,us,us
-2023-03-20T21:11:50.300Z,49.42066666666667,-120.51933333333334,-0.37,1.6300000000000001,ml,10,191,0.5896,0.56,uw,uw61903752,2023-03-21T00:21:15.900Z,"4 km S of Princeton, Canada",explosion,2.58,31.61,0.17750243142822109,5,reviewed,uw,uw
+2023-03-20T21:11:50.300Z,49.42066666666667,-120.51933333333334,-0.37,1.6300000000000001,ml,10,191,0.5896,0.56,uw,uw61903752,2023-03-21T00:21:15.900Z,"British Columbia, Canada",explosion,2.58,31.61,0.17750243142822109,5,reviewed,uw,uw
 2023-03-20T21:02:38.750Z,37.5781667,-118.8465,5.05,0.12,md,10,253,0.0182,0.04,nc,nc73859960,2023-03-20T23:57:11.740Z,"13km ESE of Mammoth Lakes, CA",earthquake,1.05,1.66,0.192,10,reviewed,nc,nc
 2023-03-20T20:49:08.580Z,46.218833333333336,-123.35466666666667,-0.53,1.47,ml,8,81,0.09006,0.42,uw,uw61903722,2023-03-21T00:11:18.530Z,"2 km NNE of East Cathlamet, Washington",explosion,1.24,31.61,0.07948839902483973,4,reviewed,uw,uw
 2023-03-20T20:48:15.340Z,51.859,-178.096333333333,5.21,2.12,ml,6,135,,0.12,av,av91813816,2023-03-20T22:18:46.310Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.45,0.52,0.223091277553022,6,reviewed,av,av
@@ -256,7 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T06:04:51.260Z,33.798,-118.5815,15.17,1.43,ml,21,158,0.1575,0.14,ci,ci40187375,2023-03-20T21:01:56.951Z,"18km W of Palos Verdes Estates, CA",earthquake,0.38,0.58,0.145,13,reviewed,ci,ci
 2023-03-20T05:56:41.880Z,58.168,-155.3085,2.17,0.24,ml,10,175,,0.1,av,av91095038,2023-03-20T21:43:59.580Z,"83 km NW of Karluk, Alaska",earthquake,0.33,0.48,0.29596189215649,10,reviewed,av,av
 2023-03-20T05:48:41.655Z,57.3477,-156.1851,80.8,1.7,ml,,,,0.42,ak,ak0233mqpymd,2023-03-20T05:50:47.536Z,"75 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-20T05:43:34.800Z,51.8643333333333,-178.142666666667,4.95,1.19,ml,4,248,,0.06,av,av91095048,2023-03-20T21:50:58.890Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.6,0.9,0.146873438923117,4,reviewed,av,av
-2023-03-20T05:41:22.420Z,38.8264999,-122.8031693,3.02,0.76,md,9,91,0.006221,0.02,nc,nc73859610,2023-03-20T05:58:14.034Z,"7km NW of The Geysers, CA",earthquake,0.57,1.3,0.18,9,automatic,nc,nc
-2023-03-20T05:41:09.350Z,47.2865,-122.2845,4.58,0.73,md,7,255,0.2986,0.15,uw,uw61502508,2023-03-20T19:19:40.230Z,"0 km N of Lakeland South, Washington",earthquake,1.07,14.39,0.014095197590974218,4,reviewed,uw,uw
-2023-03-20T05:40:02.320Z,47.25183333333333,-122.26216666666667,23.08,0.89,ml,15,124,0.06845,0.22,uw,uw61903492,2023-03-20T17:34:09.630Z,"1 km SSW of Pacific, Washington",earthquake,1.46,0.89,0.08677834902742926,8,reviewed,uw,uw
