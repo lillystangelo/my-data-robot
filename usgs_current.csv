@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-21T08:46:19.098Z,58.1201,-155.3031,25.1,0.5,ml,,,,0.65,ak,ak0233og14r9,2023-03-21T08:50:23.132Z,"79 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-21T08:40:50.250Z,19.3483333587646,-155.137496948242,4.6399998664856,1.81,ml,35,95,,0.150000006,hv,hv73345387,2023-03-21T08:46:21.380Z,"12 km S of Fern Forest, Hawaii",earthquake,0.55,1.12,0.4,3,automatic,hv,hv
 2023-03-21T08:24:38.233Z,63.1048,-150.5367,57.9,1.5,ml,,,,0.76,ak,ak0233ofwghb,2023-03-21T08:26:35.242Z,"68 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-03-21T08:15:16.890Z,32.3961667,-115.2345,8.45,1.89,ml,17,54,0.06401,0.26,ci,ci40187847,2023-03-21T08:18:56.378Z,"6km NW of Delta, B.C., MX",earthquake,0.54,1.69,0.172,16,automatic,ci,ci
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T09:22:02.474Z,60.1052,-152.5412,88,1.6,ml,,,,0.45,ak,ak0233msy1ef,2023-03-20T09:24:33.047Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-03-20T09:11:40.590Z,51.8638333333333,-178.093666666667,3.23,1.42,ml,5,210,,0.21,av,av91095118,2023-03-20T23:58:33.860Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.86,0.62,0.12646197958186,5,reviewed,av,av
 2023-03-20T08:59:41.500Z,38.8323326,-122.7914963,1.53,0.77,md,8,92,0.006134,0.01,nc,nc73859675,2023-03-20T11:06:13.922Z,"6km W of Cobb, CA",earthquake,0.53,1.22,0.17,9,automatic,nc,nc
-2023-03-20T08:50:22.400Z,19.2415,-155.428333333333,-0.05,2.16,ml,35,144,,0.14,hv,hv73344657,2023-03-20T22:08:43.100Z,"6 km NE of Pāhala, Hawaii",earthquake,0.33,0.13,0.159131531361143,16,reviewed,hv,hv
