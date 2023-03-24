@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-24T07:27:13.180Z,38.809166,-122.8251648,1.92,0.76,md,12,86,0.00315,0.02,nc,nc73861440,2023-03-24T07:28:50.636Z,"7km WNW of The Geysers, CA",earthquake,0.31,0.58,0.11,13,automatic,nc,nc
+2023-03-24T07:27:13.180Z,38.809166,-122.8251648,1.92,0.76,md,12,86,0.00315,0.02,nc,nc73861440,2023-03-24T07:40:10.164Z,"7km WNW of The Geysers, CA",earthquake,0.31,0.58,0.11,13,automatic,nc,nc
 2023-03-24T07:26:37.688Z,59.5619,-152.4761,79.6,1.9,ml,,,,0.22,ak,ak0233tdxhqw,2023-03-24T07:28:01.379Z,"38 km NW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-24T07:01:51.890Z,33.9741667,-117.0523333,7.5,0.84,ml,14,94,0.1534,0.35,ci,ci40188983,2023-03-24T07:05:26.571Z,"2km S of Calimesa, CA",earthquake,0.85,6.99,0.183,17,automatic,ci,ci
 2023-03-24T06:34:35.820Z,33.9733333,-117.9456667,13.04,1.49,ml,36,54,0.03331,0.17,ci,ci40188975,2023-03-24T06:38:20.358Z,"2km NNE of La Habra Heights, CA",earthquake,0.26,0.43,0.205,30,automatic,ci,ci
@@ -268,6 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T08:05:25.151Z,64.5565,-149.2173,0,1.7,ml,,,,0.79,ak,ak0233rqv1ur,2023-03-23T08:18:20.430Z,"5 km W of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-23T07:56:38.931Z,-7.6266,127.8385,137.474,4.8,mb,43,61,3.705,0.74,us,us7000jm4t,2023-03-23T08:15:05.040Z,"135 km NE of Lospalos, Timor Leste",earthquake,8.47,6.806,0.095,34,reviewed,us,us
 2023-03-23T07:52:48.450Z,41.8536667,-112.715,1.38,1.2,md,10,275,0.2668,0.13,uu,uu60534896,2023-03-23T13:16:27.020Z,"Utah",earthquake,2.62,8.97,0.191,6,reviewed,uu,uu
-2023-03-23T07:40:27.800Z,19.2415008544922,-155.401000976562,31.3999996185303,1.80999994,md,30,152,,0.129999995,hv,hv73346967,2023-03-23T07:43:38.020Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.920000017,0.899999976,3,automatic,hv,hv
-2023-03-23T07:37:38.360Z,51.8531666666667,-178.085333333333,3.53,2.39,ml,7,129,,0.14,av,av91816676,2023-03-23T16:54:25.960Z,"100 km W of Adak, Alaska",earthquake,0.46,0.31,0.204648506178271,7,reviewed,av,av
-2023-03-23T07:34:41.050Z,51.854,-178.0785,3.14,2.6,ml,9,128,,0.2,av,av91816671,2023-03-23T16:52:03.760Z,"99 km W of Adak, Alaska",earthquake,0.5,0.54,0.212104094896605,8,reviewed,av,av
