@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-24T10:30:10.650Z,38.8175011,-122.7646637,1.81,0.29,md,7,183,0.01321,0.02,nc,nc73861510,2023-03-24T10:31:46.766Z,"4km W of Cobb, CA",earthquake,0.67,1.41,0.14,8,automatic,nc,nc
+2023-03-24T10:38:09.220Z,33.7758333,-116.9295,12.36,0.82,ml,15,169,0.08865,0.16,ci,ci40189055,2023-03-24T10:41:45.429Z,"3km ESE of San Jacinto, CA",earthquake,0.51,0.65,0.189,15,automatic,ci,ci
+2023-03-24T10:30:10.650Z,38.8175011,-122.7646637,1.81,0.29,md,7,183,0.01321,0.02,nc,nc73861510,2023-03-24T10:47:16.246Z,"4km W of Cobb, CA",earthquake,0.67,1.41,0.14,8,automatic,nc,nc
+2023-03-24T10:24:54.960Z,17.9558333333333,-66.9495,6.7,2.61,md,10,204,0.04216,0.11,pr,pr71401373,2023-03-24T10:39:52.950Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.66,0.27,0.290678549730977,7,reviewed,pr,pr
 2023-03-24T10:19:40.040Z,33.7865,-116.9301667,12.72,0.88,ml,17,96,0.09822,0.22,ci,ci40189047,2023-03-24T10:23:12.573Z,"3km E of San Jacinto, CA",earthquake,0.44,0.97,0.21,19,automatic,ci,ci
 2023-03-24T10:12:12.710Z,33.7653333,-116.9363333,14.33,1.43,ml,41,41,0.05003,0.18,ci,ci40189039,2023-03-24T10:23:47.640Z,"3km SE of San Jacinto, CA",earthquake,0.24,0.43,0.184,29,automatic,ci,ci
 2023-03-24T10:08:31.179Z,57.1667,-156.875,2.8,2.3,ml,,,,0.67,ak,ak0233tflx65,2023-03-24T10:11:02.875Z,"49 km SE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -256,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T11:12:25.350Z,38.5448341,-122.5654984,8.12,1.35,md,14,112,0.1128,0.09,nc,nc73860980,2023-03-23T15:26:14.336Z,"4km SSE of Calistoga, CA",earthquake,0.35,1.55,0.15,10,automatic,nc,nc
 2023-03-23T11:02:04.840Z,35.7051667,-117.512,10.75,1.22,ml,20,77,0.1342,0.15,ci,ci40188575,2023-03-23T17:35:49.492Z,"12km SW of Searles Valley, CA",earthquake,0.26,0.58,0.115,11,reviewed,ci,ci
 2023-03-23T10:50:29.800Z,39.2971649,-122.8883362,6.68,1.57,md,10,149,0.1768,0.11,nc,nc73860965,2023-03-23T14:31:15.021Z,"14km SSE of Lake Pillsbury, CA",earthquake,0.46,3.31,0.12,6,automatic,nc,nc
-2023-03-23T10:46:11.330Z,40.1124,-121.3179,4.5,1.7,ml,5,279.87,0.774,0.2155,nn,nn00857408,2023-03-24T02:02:52.179Z,"13 km NNW of Belden, California",earthquake,,3.7,0.15,5,reviewed,nn,nn
-2023-03-23T10:40:56.960Z,56.9313333333333,-158.016666666667,1.47,1.13,ml,4,287,,0.07,av,av91816801,2023-03-23T17:25:28.800Z,"37 km E of Port Heiden, Alaska",earthquake,0.95,3.43,0.0665433309671024,3,reviewed,av,av
