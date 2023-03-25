@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-25T22:25:22.876Z,60.1216,-152.704,108.8,2.3,ml,,,,0.38,ak,ak0233vae3ft,2023-03-25T22:26:58.333Z,"57 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T22:21:40.229Z,63.1514,-144.4132,2.9,1.8,ml,,,,0.9,ak,ak0233vad9xi,2023-03-25T22:23:26.729Z,"41 km NW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T22:00:23.820Z,38.8338318,-122.80233,2.44,0.87,md,11,67,0.01205,0.01,nc,nc73862220,2023-03-25T22:14:10.251Z,"7km W of Cobb, CA",earthquake,0.4,0.97,0.24,11,automatic,nc,nc
 2023-03-25T22:00:11.285Z,58.2651,-154.9323,1.2,1,ml,,,,0.23,ak,ak0233va8pns,2023-03-25T22:01:25.586Z,"Alaska Peninsula",earthquake,,2.9,,,automatic,ak,ak
@@ -214,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T22:41:29.932Z,-20.4893,-178.0797,479.782,4.4,mb,34,74,2.774,0.51,us,us7000jmlr,2023-03-25T01:21:03.040Z,"Fiji region",earthquake,14.03,8.254,0.08,45,reviewed,us,us
 2023-03-24T22:39:42.250Z,33.1848333,-116.4098333,10.28,1.57,ml,59,30,0.08337,0.24,ci,ci40189599,2023-03-24T22:43:20.553Z,"8km SSW of Borrego Springs, CA",earthquake,0.26,0.69,0.14,26,automatic,ci,ci
 2023-03-24T22:37:55.560Z,36.1834984,-120.7721634,2.47,1.89,md,17,139,0.04,0.13,nc,nc73861790,2023-03-25T02:32:13.131Z,"22km NNE of San Ardo, CA",earthquake,0.75,1.75,0.06,9,automatic,nc,nc
-2023-03-24T22:31:03.410Z,36.7019997,-121.3421631,3.54,1.71,md,13,148,0.006473,0.09,nc,nc73861785,2023-03-25T02:05:14.991Z,"10km SSW of Tres Pinos, CA",earthquake,0.47,0.68,0.27,13,automatic,nc,nc
-2023-03-24T22:28:31.610Z,38.7919998,-122.7606659,1.84,1.02,md,12,65,0.008645,0.01,nc,nc73861780,2023-03-24T23:19:13.178Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.6,0.19,11,automatic,nc,nc
