@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-25T07:54:15.091Z,62.1632,-152.0746,105.6,2.9,ml,,,,0.48,ak,ak0233v1mskc,2023-03-25T07:56:06.840Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-03-25T07:54:15.091Z,62.1632,-152.0746,105.6,2.9,ml,,,,0.48,ak,ak0233v1mskc,2023-03-25T08:29:15.040Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-25T07:53:35.451Z,58.4359,-155.4444,124.2,1.7,ml,,,,0.4,ak,ak0233v1mmcu,2023-03-25T07:56:23.379Z,"76 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T07:42:18.769Z,60.4907,-146.7128,14.1,2,ml,,,,0.71,ak,ak0233v1k88k,2023-03-25T07:44:26.945Z,"41 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T07:38:12.707Z,59.9656,-147.0436,0.7,2.6,ml,,,,0.86,ak,ak0233v1jcwm,2023-03-25T08:22:45.040Z,"55 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -305,4 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T08:46:15.000Z,19.1536674499512,-155.363327026367,26.7999992370605,1.79999995,md,38,181,,0.129999995,hv,hv73347982,2023-03-24T08:49:25.190Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.64,1.20000005,0.270000011,16,automatic,hv,hv
 2023-03-24T08:45:13.810Z,33.5398333,-116.7258333,4.57,0.44,ml,18,71,0.02724,0.09,ci,ci40189015,2023-03-24T13:01:04.076Z,"5km WSW of Anza, CA",earthquake,0.21,0.3,0.11,8,reviewed,ci,ci
 2023-03-24T08:45:10.800Z,47.48616666666667,-123.04116666666667,16.79,2.4,ml,15,106,0.06662,0.24,uw,uw61904592,2023-03-24T16:59:11.240Z,"11 km NE of Hoodsport, Washington",earthquake,0.54,1.11,0.18238139381982155,11,reviewed,uw,uw
-2023-03-24T08:34:52.770Z,35.7901649,-120.340332,9.34,1.19,md,15,114,0.01715,0.08,nc,nc73861470,2023-03-24T12:42:15.174Z,"9km NNW of Cholame, CA",earthquake,1.03,0.87,0.11,5,automatic,nc,nc
