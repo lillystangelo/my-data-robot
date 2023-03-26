@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T13:23:17.610Z,33.1785,-116.4116667,11.39,1.82,ml,63,22,0.08958,0.18,ci,ci40190207,2023-03-26T13:26:58.672Z,"9km SSW of Borrego Springs, CA",earthquake,0.21,0.46,0.17,25,automatic,ci,ci
+2023-03-26T13:23:17.610Z,33.1785,-116.4116667,11.39,1.82,ml,63,22,0.08958,0.18,ci,ci40190207,2023-03-26T13:34:31.390Z,"9km SSW of Borrego Springs, CA",earthquake,0.21,0.46,0.17,25,automatic,ci,ci
 2023-03-26T13:05:24.822Z,61.5667,-150.5375,33.7,1.2,ml,,,,0.49,ak,ak0233wsg9c2,2023-03-26T13:07:11.341Z,"2 km NNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-03-26T13:01:17.116Z,56.8873,-158.1462,0,1.8,ml,,,,0.78,ak,ak0233wsfdvj,2023-03-26T13:03:15.400Z,"30 km ESE of Port Heiden, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-26T13:01:12.560Z,17.9448333333333,-66.9551666666667,7.78,1.69,md,5,220,0.07826,0.07,pr,pr71401648,2023-03-26T13:11:00.200Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.84,0.31,0.578865304659752,2,reviewed,pr,pr
 2023-03-26T12:58:52.900Z,38.7878342,-122.7675018,1.28,0.75,md,10,101,0.01415,0.02,nc,nc73862530,2023-03-26T13:15:14.250Z,"2km NW of The Geysers, CA",earthquake,0.32,1.14,0.15,10,automatic,nc,nc
 2023-03-26T12:55:21.095Z,61.9396,-151.5086,76.2,1.4,ml,,,,0.44,ak,ak0233ws5j8t,2023-03-26T12:57:00.597Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
-2023-03-26T12:46:57.360Z,38.8301659,-122.8008347,1.65,0.93,md,13,79,0.009889,0.01,nc,nc73862525,2023-03-26T13:03:16.179Z,"7km W of Cobb, CA",earthquake,0.27,0.49,0.35,15,automatic,nc,nc
+2023-03-26T12:46:57.360Z,38.8301659,-122.8008347,1.65,0.93,md,13,79,0.009889,0.01,nc,nc73862525,2023-03-26T13:27:12.327Z,"7km W of Cobb, CA",earthquake,0.27,0.49,0.35,15,automatic,nc,nc
 2023-03-26T12:41:11.396Z,-4.9622,131.9716,47.357,5.1,mb,68,38,2.048,0.64,us,us7000jmuw,2023-03-26T12:57:14.040Z,"Banda Sea",earthquake,4.01,6.939,0.057,102,reviewed,us,us
 2023-03-26T12:38:18.234Z,17.6217,120.6868,45.529,4.6,mb,56,127,5.183,0.39,us,us7000jmuv,2023-03-26T13:02:26.040Z,"3 km E of Tayum, Philippines",earthquake,10.36,8.409,0.067,67,reviewed,us,us
 2023-03-26T12:28:48.000Z,19.1046657562256,-155.379333496094,38.1399993896484,2.1400001,md,26,249,,0.109999999,hv,hv73349637,2023-03-26T12:32:01.210Z,"15 km SE of Pāhala, Hawaii",earthquake,1.13,1.52999997,1.07000005,8,automatic,hv,hv
