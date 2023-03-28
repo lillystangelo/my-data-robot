@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-28T11:37:26.330Z,19.2478332519531,-155.410995483398,33.4300003051758,2.00999999,md,36,127,,0.129999995,hv,hv73351307,2023-03-28T11:40:28.270Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.74000001,0.449999988,9,automatic,hv,hv
+2023-03-28T11:34:31.566Z,60.3584,-146.7925,32.9,1.6,ml,,,,0.89,ak,ak023402ibec,2023-03-28T11:37:03.901Z,"56 km S of Tatitlek, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-03-28T11:32:44.936Z,62.1274,-150.5546,9,1.3,ml,,,,0.8,ak,ak023402hwzx,2023-03-28T11:35:09.000Z,"26 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-28T11:15:20.350Z,33.8755,-116.204,9.09,0.63,ml,14,72,0.05595,0.16,ci,ci40190815,2023-03-28T11:18:49.456Z,"17km N of Indio, CA",earthquake,0.35,0.9,0.159,8,automatic,ci,ci
 2023-03-28T11:14:04.487Z,56.9078,-158.0688,0.1,1.6,ml,,,,0.7,ak,ak023402dyzk,2023-03-28T11:15:58.835Z,"34 km E of Port Heiden, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-28T11:11:58.068Z,62.1039,-148.8533,26.8,1.9,ml,,,,0.51,ak,ak023402dfz2,2023-03-28T11:13:34.952Z,"36 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -11,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T10:08:13.980Z,32.9171667,-116.2906667,10.87,0.93,ml,22,64,0.03883,0.2,ci,ci40190791,2023-03-28T10:11:42.038Z,"25km ENE of Pine Valley, CA",earthquake,0.33,0.65,0.149,14,automatic,ci,ci
 2023-03-28T09:59:28.890Z,38.7591667,-122.7163315,1.7,1.12,md,7,117,0.007095,0.01,nc,nc73863460,2023-03-28T10:16:13.540Z,"3km SW of Anderson Springs, CA",earthquake,0.69,0.39,0.25,7,automatic,nc,nc
 2023-03-28T09:45:51.316Z,58.8543,-153.9603,99.7,1.4,ml,,,,0.46,ak,ak023401dufe,2023-03-28T09:47:56.086Z,"80 km SE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-28T09:18:28.117Z,41.148,142.805,34,6,mww,175,44,0.906,0.73,us,us6000k09q,2023-03-28T11:28:55.968Z,"129 km ENE of Misawa, Japan",earthquake,5.41,1.771,0.053,34,reviewed,us,us
+2023-03-28T09:18:28.117Z,41.148,142.805,34,6,mww,175,44,0.906,0.73,us,us6000k09q,2023-03-28T11:39:43.017Z,"129 km ENE of Misawa, Japan",earthquake,5.41,1.771,0.053,34,reviewed,us,us
 2023-03-28T09:16:49.961Z,56.2344,-156.4389,51.1,2.4,ml,,,,0.57,ak,ak0234017mpw,2023-03-28T09:20:02.313Z,"121 km E of Chignik, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-03-28T09:15:49.090Z,35.4396667,-119.983,14.02,1.64,ml,16,135,0.1256,0.24,ci,ci40190775,2023-03-28T09:19:35.220Z,"10km N of Simmler, CA",earthquake,0.56,1.22,0.117,20,automatic,ci,ci
 2023-03-28T09:13:30.690Z,38.7973328,-122.7505035,1.29,2.35,md,40,49,0.007911,0.08,nc,nc73863445,2023-03-28T11:16:10.883Z,"2km NNE of The Geysers, CA",earthquake,0.19,0.31,0.2,44,automatic,nc,nc
@@ -70,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T01:11:30.779Z,56.1459,-157.6988,16.9,3.5,ml,,,,0.66,ak,ak0233zwf1z7,2023-03-28T01:22:02.040Z,"46 km ESE of Chignik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-28T01:08:56.170Z,33.9255,-116.8078333,19.21,0.96,ml,23,82,0.09209,0.2,ci,ci40190687,2023-03-28T01:12:29.446Z,"2km WNW of Cabazon, CA",earthquake,0.34,0.95,0.191,24,automatic,ci,ci
 2023-03-28T01:08:10.230Z,37.9583321,-122.0973358,6.59,1.43,md,11,130,0.05859,0.02,nc,nc73863290,2023-03-28T05:50:14.872Z,"3km WNW of Pleasant Hill, CA",earthquake,0.32,0.71,0.13,7,automatic,nc,nc
-2023-03-28T01:04:15.440Z,46.149,-119.19166666666666,-0.2,2.04,ml,20,144,0.188,0.16,uw,uw61905382,2023-03-28T01:14:13.890Z,"6 km WNW of Highland, Washington",explosion,0.6,31.61,0.15624183921700463,10,reviewed,uw,uw
+2023-03-28T01:04:15.440Z,46.149,-119.19166666666666,-0.2,2.04,ml,20,144,0.188,0.16,uw,uw61905382,2023-03-28T11:36:00.649Z,"6 km WNW of Highland, Washington",explosion,0.6,31.61,0.15624183921700463,10,reviewed,uw,uw
 2023-03-28T01:01:24.140Z,38.8233337,-122.810997,1.7,0.63,md,10,121,0.0007236,0.01,nc,nc73863285,2023-03-28T01:58:14.478Z,"7km NW of The Geysers, CA",earthquake,0.33,1.38,0.46,11,automatic,nc,nc
 2023-03-28T00:54:38.240Z,61.8218,-148.3265,32.2,1,ml,,,,0.56,ak,ak0233zw2ukw,2023-03-28T00:56:40.209Z,"7 km ENE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-28T00:48:25.389Z,61.035,-150.9874,48.5,1.2,ml,,,,0.37,ak,ak0233zw1jai,2023-03-28T00:50:36.528Z,"8 km ESE of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -92,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T23:22:21.645Z,59.8252,-150.7887,44.3,3,ml,,,,0.49,ak,ak0233ym1kt0,2023-03-28T07:12:27.071Z,"10 km ESE of Fox River, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-27T23:17:27.577Z,-17.4183,-176.9879,404.557,4.2,mb,23,47,3.095,0.66,us,us6000k079,2023-03-27T23:42:37.040Z,"Fiji region",earthquake,12.44,9.161,0.142,14,reviewed,us,us
 2023-03-27T23:11:03.920Z,46.98383333333334,-122.1925,-0.26,1.46,ml,36,67,0.01838,0.22,uw,uw61905357,2023-03-27T23:58:40.580Z,"2 km E of Kapowsin, Washington",explosion,0.43,31.61,0.16638219176823998,26,reviewed,uw,uw
-2023-03-27T23:09:39.820Z,37.481,-118.8386667,4.24,1.13,md,17,232,0.1091,0.03,nc,nc73863255,2023-03-28T11:03:11.817Z,"17km WSW of Toms Place, CA",earthquake,0.78,1.23,0.105,13,reviewed,nc,nc
+2023-03-27T23:09:39.820Z,37.481,-118.8386667,4.24,1.13,md,17,232,0.1091,0.03,nc,nc73863255,2023-03-28T11:38:16.020Z,"17km WSW of Toms Place, CA",earthquake,0.78,1.23,0.105,13,reviewed,nc,nc
 2023-03-27T23:09:37.116Z,64.9807,-147.3271,1.7,1.3,ml,,,,0.57,ak,ak0233ylytov,2023-03-27T23:11:32.032Z,"13 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-27T23:05:01.990Z,38.8333321,-122.7939987,1.24,0.7,md,8,75,0.005818,0.02,nc,nc73863245,2023-03-27T23:06:39.287Z,"6km WNW of Cobb, CA",earthquake,0.44,0.96,0.22,8,automatic,nc,nc
 2023-03-27T23:04:13.556Z,61.7094,-141.823,0,1.3,ml,,,,0.27,ak,ak0233ylxpaj,2023-03-27T23:06:05.372Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
