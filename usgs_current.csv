@@ -2,8 +2,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T10:44:53.245Z,62.113,-151.1482,0,2.6,ml,,,,0.8,ak,ak02341pif3p,2023-03-29T10:47:04.455Z,"18 km NE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-29T10:39:28.734Z,58.2855,-154.9787,1.2,0.4,ml,,,,0.25,ak,ak02341phand,2023-03-29T10:41:03.154Z,"85 km NNW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-03-29T10:36:37.760Z,32.8821667,-115.4815,8.32,1.36,ml,13,88,0.04333,0.26,ci,ci40191199,2023-03-29T10:40:09.697Z,"9km ENE of Imperial, CA",earthquake,0.88,1.26,0.179,18,automatic,ci,ci
-2023-03-29T10:35:04.150Z,38.8123322,-122.8126678,3.06,0.91,md,18,50,0.01123,0.03,nc,nc73863915,2023-03-29T10:36:41.190Z,"6km NW of The Geysers, CA",earthquake,0.29,0.68,0.23,18,automatic,nc,nc
+2023-03-29T10:35:04.150Z,38.8123322,-122.8126678,3.06,0.91,md,18,50,0.01123,0.03,nc,nc73863915,2023-03-29T10:52:13.267Z,"6km NW of The Geysers, CA",earthquake,0.29,0.68,0.23,18,automatic,nc,nc
 2023-03-29T10:32:00.128Z,60.1527,-152.48,84.4,1.3,ml,,,,0.24,ak,ak02341pfqfg,2023-03-29T10:33:29.887Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-29T10:31:22.060Z,18.0178333333333,-65.4621666666667,17.82,2.81,md,11,155,0.1169,0.19,pr,pr71401983,2023-03-29T10:55:39.620Z,"8 km S of Esperanza, Puerto Rico",earthquake,1.03,0.53,0.0674094424687663,6,reviewed,pr,pr
 2023-03-29T10:25:41.488Z,65.0474,-148.2342,8.5,0.6,ml,,,,0.83,ak,ak02341peblw,2023-03-29T10:27:48.923Z,"24 km NNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-29T10:22:49.885Z,61.0102,-147.7682,20.1,1.3,ml,,,,0.48,ak,ak02341pdp3w,2023-03-29T10:24:53.355Z,"56 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-29T10:13:05.480Z,34.2515,-117.5056667,7.7,0.99,ml,19,74,0.04395,0.25,ci,ci40191191,2023-03-29T10:16:44.947Z,"1km SW of Lytle Creek, CA",earthquake,0.4,1.13,0.188,21,automatic,ci,ci
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T08:25:41.070Z,32.8776667,-115.4921667,5.71,2.19,ml,29,82,0.04985,0.31,ci,ci40191143,2023-03-29T08:37:32.890Z,"8km ENE of Imperial, CA",earthquake,0.51,0.81,0.229,26,automatic,ci,ci
 2023-03-29T08:25:11.210Z,32.8865,-115.485,5.5,1.4,ml,11,154,0.04801,0.21,ci,ci40191135,2023-03-29T08:28:50.189Z,"9km ENE of Imperial, CA",earthquake,0.92,0.64,0.17,18,automatic,ci,ci
 2023-03-29T08:18:11.580Z,19.4230003356934,-155.273162841797,-0.540000021457672,1.9,ml,16,106,,0.119999997,hv,hv73351972,2023-03-29T08:23:41.830Z,"4 km WSW of Volcano, Hawaii",earthquake,0.18,0.310000002,0.38,6,automatic,hv,hv
-2023-03-29T08:15:03.666Z,62.2728,-149.3306,41.8,1.4,ml,,,,0.4,ak,ak02341o58bi,2023-03-29T08:16:53.129Z,"Central Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-03-29T08:15:03.666Z,62.2728,-149.3306,41.8,1.4,ml,,,,0.4,ak,ak02341o58bi,2023-03-29T08:16:53.129Z,"29 km ENE of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-03-29T08:09:12.507Z,61.3722,-147.5998,22.2,1.6,ml,,,,0.44,ak,ak02341o3ype,2023-03-29T08:10:49.261Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-29T07:54:19.930Z,18.0015,-66.72,13.63,2.02,md,8,192,0.1158,0.12,pr,pr71401978,2023-03-29T08:33:52.590Z,"Puerto Rico region",earthquake,0.53,0.41,0.223605264688755,7,reviewed,pr,pr
 2023-03-29T07:53:46.740Z,38.833168,-122.8071671,2.19,1.28,md,22,49,0.01002,0.02,nc,nc73863880,2023-03-29T09:49:11.865Z,"7km W of Cobb, CA",earthquake,0.22,0.49,0.18,23,automatic,nc,nc
@@ -246,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-28T11:07:34.460Z,45.312333333333335,-121.67483333333334,6.37,0.87,ml,11,168,0.01957,0.13,uw,uw61905427,2023-03-28T17:18:47.090Z,"6 km E of Government Camp, Oregon",earthquake,0.61,0.48,0.1649199594787038,8,reviewed,uw,uw
 2023-03-28T11:07:18.310Z,19.25,-155.399,30.7,1.65,md,13,128,,0.1,hv,hv73351262,2023-03-28T23:09:09.830Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.81,0.75,0.0906180594929356,7,reviewed,hv,hv
 2023-03-28T11:06:59.332Z,63.0054,-148.5074,59.9,1.8,ml,,,,0.46,ak,ak023402cdhp,2023-03-28T11:08:47.069Z,"48 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-03-28T10:52:20.982Z,62.1216,-150.3966,45.5,1.5,ml,,,,0.64,ak,ak0234020pv6,2023-03-28T10:54:14.820Z,"23 km SSW of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
