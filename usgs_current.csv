@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T06:58:56.600Z,62.7919,-153.3022,0,1.9,ml,,,,0.66,ak,ak02343ar1h8,2023-03-30T07:02:38.118Z,"59 km ESE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T06:48:33.494Z,61.638,-149.9876,32.2,1.3,ml,,,,0.43,ak,ak02343aouj9,2023-03-30T06:49:55.829Z,"9 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T06:38:02.190Z,33.3103333,-116.7921667,8.66,0.86,ml,25,86,0.07926,0.15,ci,ci39507730,2023-03-30T06:41:45.753Z,"8km NNW of Lake Henshaw, CA",earthquake,0.23,0.93,0.125,19,automatic,ci,ci
-2023-03-30T06:32:45.950Z,38.523,-119.5173333,5.4,2.55,md,17,80,0.03061,0.06,nc,nc73864350,2023-03-30T10:50:10.978Z,"3km WNW of Walker, CA",earthquake,0.26,0.3,0.214,47,reviewed,nc,nc
+2023-03-30T06:32:45.950Z,38.523,-119.5173333,5.4,2.55,md,17,80,0.03061,0.06,nc,nc73864350,2023-03-30T11:54:16.333Z,"3km WNW of Walker, CA",earthquake,0.26,0.3,0.214,47,reviewed,nc,nc
 2023-03-30T06:25:20.491Z,63.3409,-151.3393,0.1,1.7,ml,,,,0.42,ak,ak02343ajw29,2023-03-30T06:27:08.112Z,"29 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-30T06:12:35.536Z,57.1528,-155.5492,14.1,1.8,ml,,,,0.86,ak,ak02343ah4wx,2023-03-30T06:15:08.222Z,"80 km SW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-30T06:10:10.630Z,33.5645,-116.9053333,13.6,0.78,ml,13,205,0.1214,0.25,ci,ci39507722,2023-03-30T06:13:51.148Z,"14km NNW of Aguanga, CA",earthquake,1.96,1.13,0.194,21,automatic,ci,ci
@@ -312,4 +312,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T12:22:54.410Z,32.9223333,-116.235,10.64,1.71,ml,41,60,0.06589,0.19,ci,ci40191239,2023-03-29T13:22:50.170Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.23,0.67,0.159,28,reviewed,ci,ci
 2023-03-29T12:12:49.170Z,33.2918333,-116.7413333,13.25,0.63,ml,23,60,0.05758,0.12,ci,ci40191231,2023-03-29T13:22:16.538Z,"6km NNE of Lake Henshaw, CA",earthquake,0.28,0.55,0.122,17,reviewed,ci,ci
 2023-03-29T12:11:22.030Z,34.7391667,-120.1805,1.75,1.64,ml,15,71,0.08199,0.14,ci,ci40191223,2023-03-29T17:59:43.848Z,"9km E of Los Alamos, CA",earthquake,0.21,0.41,0.152,4,reviewed,ci,ci
-2023-03-29T11:49:11.188Z,62.2079,-151.1044,81.3,3.3,ml,,,,0.47,ak,ak02341q4u1x,2023-03-29T15:56:57.287Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
