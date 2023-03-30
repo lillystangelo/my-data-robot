@@ -259,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T16:06:39.256Z,58.2388,-155.9213,12.9,0.8,ml,,,,0.16,ak,ak02341suugl,2023-03-29T16:07:41.828Z,"66 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-29T16:01:55.790Z,44.5231667,-110.3601667,2.57,1.26,md,11,72,0.04738,0.15,uu,uu60535611,2023-03-29T16:20:41.740Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.32,1.29,0.228,7,reviewed,uu,uu
 2023-03-29T15:53:10.480Z,44.5095,-110.3506667,3.53,1.5,ml,15,72,0.06238,0.13,uu,uu60535606,2023-03-29T16:29:32.370Z,"58 km SSE of Mammoth, Wyoming",earthquake,0.29,0.8,0.326,2,reviewed,uu,uu
-2023-03-29T15:40:04.240Z,33.886,-116.8846667,13.04,1.59,ml,59,40,0.08811,0.14,ci,ci40191279,2023-03-29T18:29:37.510Z,"4km S of Banning, CA",earthquake,0.12,0.42,0.166,37,reviewed,ci,ci
