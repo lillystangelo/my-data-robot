@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T20:48:50.530Z,34.412,-118.3911667,7.98,1.77,ml,49,24,0.04787,0.21,ci,ci39507866,2023-03-30T20:59:51.150Z,"11km E of Santa Clarita, CA",earthquake,0.23,0.66,0.094,26,automatic,ci,ci
 2023-03-30T20:43:57.672Z,61.0814,-152.3807,110.4,2,ml,,,,0.36,ak,ak02343izwaf,2023-03-30T20:47:11.746Z,"67 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T20:39:57.950Z,38.8218346,-122.8024979,2.47,0.95,md,6,231,0.00612,0.01,nc,nc73864570,2023-03-30T20:54:10.377Z,"6km NW of The Geysers, CA",earthquake,1.34,1.71,0.19,9,automatic,nc,nc
-2023-03-30T20:26:14.076Z,47.7419,16.0116,13.725,4.1,mb,29,40,1.375,0.89,us,us6000k0yt,2023-03-30T21:37:59.319Z,"3 km NNW of Ternitz, Austria",earthquake,4.54,3.638,0.302,3,reviewed,us,us
+2023-03-30T20:26:14.076Z,47.7419,16.0116,13.725,4.1,mb,29,40,1.375,0.89,us,us6000k0yt,2023-03-30T21:48:15.577Z,"3 km NNW of Ternitz, Austria",earthquake,4.54,3.638,0.302,3,reviewed,us,us
 2023-03-30T20:20:23.172Z,61.6418,-146.5921,23.2,1.9,ml,,,,0.72,ak,ak02343iuw5p,2023-03-30T20:22:17.608Z,"40 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-30T20:15:52.365Z,22.2141,121.5548,10.706,4.5,mb,54,115,0.744,0.61,us,us6000k0yr,2023-03-30T20:43:14.040Z,"86 km ENE of Hengchun, Taiwan",earthquake,5.6,4.741,0.085,40,reviewed,us,us
 2023-03-30T20:12:53.860Z,44.5175,-110.362,3.56,1.46,md,10,70,0.05119,0.11,uu,uu60535986,2023-03-30T20:47:56.240Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.36,1.75,0.113,7,reviewed,uu,uu
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T17:52:58.451Z,59.5391,-153.0626,96.5,1.8,ml,,,,0.26,ak,ak02343h9iz9,2023-03-30T17:54:48.599Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-30T17:47:28.160Z,38.8531685,-122.8281631,1.51,0.68,md,8,185,0.004043,0.03,nc,nc73864520,2023-03-30T17:49:07.491Z,"10km WNW of Cobb, CA",earthquake,0.46,0.96,0.28,8,automatic,nc,nc
 2023-03-30T17:44:28.540Z,19.138334274292,-155.503326416016,34.75,1.78999996,md,27,250,,0.119999997,hv,hv73352907,2023-03-30T17:47:43.240Z,"Island of Hawaii, Hawaii",earthquake,1.09,0.949999988,0.75999999,3,automatic,hv,hv
-2023-03-30T17:33:06.366Z,-35.6626,-73.5404,11.586,6.3,mww,143,71,1.119,0.5,us,us6000k0xf,2023-03-30T21:06:37.269Z,"Off the coast of Maule, Chile",earthquake,5.53,3.203,0.043,51,reviewed,us,us
+2023-03-30T17:33:06.366Z,-35.6626,-73.5404,11.586,6.3,mww,143,71,1.119,0.5,us,us6000k0xf,2023-03-30T21:06:37.269Z,"108 km WSW of Constitución, Chile",earthquake,5.53,3.203,0.043,51,reviewed,us,us
 2023-03-30T17:23:09.910Z,38.7975,-122.7468333,1.58,1.44,md,41,49,0.01054,0.04,nc,nc73864515,2023-03-30T20:36:10.268Z,"2km NNE of The Geysers, CA",earthquake,0.14,0.21,0.16,32,reviewed,nc,nc
 2023-03-30T17:18:55.798Z,43.269,-110.8975,5,3.3,ml,27,84,0.218,0.64,us,us6000k0x6,2023-03-30T21:37:38.755Z,"9 km W of Hoback, Wyoming",earthquake,1.57,1.633,0.048,56,reviewed,us,us
 2023-03-30T17:17:38.316Z,64.6071,-148.3501,14.7,0.6,ml,,,,1.13,ak,ak02343h1zd3,2023-03-30T17:20:04.837Z,"31 km SSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -238,7 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T22:07:37.989Z,60.3198,-152.0732,90.3,1.2,ml,,,,0.16,ak,ak02341wfnpi,2023-03-29T22:09:18.499Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-29T22:05:38.460Z,38.8318329,-122.7991638,1.41,0.7,md,13,74,0.009517,0.01,nc,nc73864150,2023-03-29T22:28:17.508Z,"7km W of Cobb, CA",earthquake,0.26,0.7,0.21,13,automatic,nc,nc
 2023-03-29T21:53:30.682Z,60.6726,-152.1386,83.8,1.7,ml,,,,0.34,ak,ak02341w42h8,2023-03-29T21:55:19.136Z,"45 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-03-29T21:48:21.320Z,44.5356667,-110.3755,4.12,0.83,md,8,77,0.0798,0.1,uu,uu60535791,2023-03-29T22:01:02.280Z,"55 km SSE of Mammoth, Wyoming",earthquake,0.31,2.06,0.317,8,reviewed,uu,uu
-2023-03-29T21:46:43.091Z,62.9886,-150.4823,10.1,1.2,ml,,,,0.41,ak,ak02341w2lf9,2023-03-29T21:48:32.319Z,"56 km NNE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-29T21:44:21.765Z,37.7974,36.5428,5,4.3,mb,52,51,0.268,0.85,us,us6000k0re,2023-03-29T22:21:05.040Z,"25 km S of Göksun, Turkey",earthquake,5.83,1.877,0.1,28,reviewed,us,us
-2023-03-29T21:44:11.414Z,28.3251,141.4912,59.487,4.8,mb,74,121,4.988,0.83,us,us6000k0rg,2023-03-29T22:06:31.040Z,"Bonin Islands, Japan region",earthquake,6.11,7.163,0.055,102,reviewed,us,us
