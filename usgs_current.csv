@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T22:43:02.960Z,33.8968333,-117.0658333,3.51,0.73,ml,15,77,0.07501,0.21,ci,ci39508346,2023-03-31T22:46:45.329Z,"9km WSW of Beaumont, CA",earthquake,0.4,1.64,0.174,14,automatic,ci,ci
 2023-03-31T22:40:36.430Z,38.836834,-122.8121643,1.33,1.01,md,9,100,0.02148,0.02,nc,nc73865155,2023-03-31T23:09:11.698Z,"8km WNW of Cobb, CA",earthquake,0.46,0.57,0.3,11,automatic,nc,nc
 2023-03-31T22:37:28.730Z,38.7915001,-122.7348328,1.27,0.88,md,9,94,0.008382,0.04,nc,nc73865150,2023-03-31T23:04:10.663Z,"2km NE of The Geysers, CA",earthquake,0.35,0.71,0.19,7,automatic,nc,nc
-2023-03-31T22:36:34.500Z,38.7906685,-122.7360001,1.85,0.72,md,6,103,0.007442,0.01,nc,nc73865145,2023-03-31T22:38:11.470Z,"2km NE of The Geysers, CA",earthquake,0.35,0.84,0.16,7,automatic,nc,nc
+2023-03-31T22:36:34.500Z,38.7906685,-122.7360001,1.85,0.72,md,6,103,0.007442,0.01,nc,nc73865145,2023-03-31T23:45:12.931Z,"2km NE of The Geysers, CA",earthquake,0.35,0.84,0.16,7,automatic,nc,nc
 2023-03-31T22:36:11.513Z,-50.0285,113.9109,10,5.6,mww,33,76,50.901,0.56,us,us6000k18y,2023-03-31T23:11:34.746Z,"southeast Indian Ridge",earthquake,11.38,1.747,0.066,22,reviewed,us,us
 2023-03-31T22:14:17.990Z,38.8318329,-122.8170013,1.85,0.68,md,11,57,0.01594,0.01,nc,nc73865135,2023-03-31T22:50:12.570Z,"8km NW of The Geysers, CA",earthquake,0.31,0.74,0.38,11,automatic,nc,nc
 2023-03-31T22:06:59.108Z,61.8968,-150.7015,62.4,1.6,ml,,,,0.34,ak,ak023457i6ly,2023-03-31T22:09:01.398Z,"38 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -259,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T23:58:07.430Z,19.2348327636719,-155.382659912109,31.6100006103516,2.07999992,md,25,147,,0.129999995,hv,hv73353002,2023-03-31T00:01:09.980Z,"Island of Hawaii, Hawaii",earthquake,1.24,0.860000014,0.189999998,5,automatic,hv,hv
 2023-03-30T23:56:56.113Z,58.3054,-154.9282,0,0.5,ml,,,,0.22,ak,ak02343kuzct,2023-03-30T23:59:50.688Z,"86 km NNW of Karluk, Alaska",earthquake,,29.2,,,automatic,ak,ak
 2023-03-30T23:56:53.770Z,44.5355,-110.3741667,3.66,0.84,md,10,77,0.03149,0.16,uu,uu60536021,2023-03-31T15:22:21.510Z,"Wyoming",earthquake,0.31,0.87,0.274,7,reviewed,uu,uu
-2023-03-30T23:45:28.490Z,46.016333333333336,-122.14483333333334,4.32,0.86,ml,15,176,0.04825,0.17,uw,uw61905962,2023-03-30T23:50:59.340Z,"26 km ENE of Amboy, Washington",earthquake,0.53,0.74,0.29946680710841533,8,reviewed,uw,uw
