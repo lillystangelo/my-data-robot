@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-31T06:35:19.846Z,62.6423,-149.6588,4.3,2.1,ml,,,,0.72,ak,ak02344y5do0,2023-03-31T06:37:27.233Z,"31 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-31T06:24:57.336Z,62.1303,-152.9065,0,1.8,ml,,,,0.61,ak,ak02344y33ol,2023-03-31T06:27:14.220Z,"80 km W of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-31T06:11:01.780Z,38.8251648,-122.80233,2.76,1.76,md,21,50,0.01803,0.02,nc,nc73864765,2023-03-31T06:24:10.764Z,"7km NW of The Geysers, CA",earthquake,0.2,0.41,0.15,22,automatic,nc,nc
 2023-03-31T06:00:34.820Z,33.6923333,-116.7291667,15.59,0.52,ml,17,118,0.02257,0.1,ci,ci39507970,2023-03-31T06:04:12.317Z,"5km S of Idyllwild, CA",earthquake,0.49,0.34,0.126,10,automatic,ci,ci
 2023-03-31T06:00:22.234Z,60.1995,-152.4584,82.2,1.7,ml,,,,0.45,ak,ak02344xxvsf,2023-03-31T06:01:56.723Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-31T05:59:21.730Z,38.836834,-122.7938309,1.95,0.7,md,9,75,0.01478,0.01,nc,nc73864760,2023-03-31T06:12:11.693Z,"6km WNW of Cobb, CA",earthquake,0.37,0.64,0.08,9,automatic,nc,nc
+2023-03-31T05:59:21.730Z,38.836834,-122.7938309,1.95,0.7,md,9,75,0.01478,0.01,nc,nc73864760,2023-03-31T06:38:13.843Z,"6km WNW of Cobb, CA",earthquake,0.37,0.64,0.08,9,automatic,nc,nc
 2023-03-31T05:55:13.493Z,63.0856,-147.9237,8.6,1.3,ml,,,,0.45,ak,ak02344xo7w5,2023-03-31T05:56:59.562Z,"61 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-31T05:52:37.520Z,19.4671669006348,-155.846832275391,8.02000045776367,1.83000004,md,19,126,,0.180000007,hv,hv73353262,2023-03-31T05:55:49.680Z,"2 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,1.02,0.680000007,0.910000026,3,automatic,hv,hv
 2023-03-31T05:52:20.183Z,27.0725,141.4644,73.692,5.4,mww,92,115,6.19,0.91,us,us6000k11q,2023-03-31T06:14:49.343Z,"Bonin Islands, Japan region",earthquake,11.14,6.811,0.066,22,reviewed,us,us
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T00:02:49.740Z,33.1208333,-116.532,11.36,2.11,ml,66,30,0.08991,0.16,ci,ci39507914,2023-03-31T00:37:32.990Z,"8km NE of Julian, CA",earthquake,0.16,0.58,0.183,25,reviewed,ci,ci
 2023-03-31T00:02:02.421Z,58.296,-154.9006,1.1,2.4,ml,,,,0.28,ak,ak02344udo2a,2023-03-31T00:21:47.917Z,"85 km NNW of Karluk, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2023-03-30T23:59:52.206Z,62.8711,-150.6963,83.2,1.2,ml,,,,0.61,ak,ak02343kvm50,2023-03-31T00:02:34.571Z,"41 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-03-30T23:59:07.280Z,61.5878,-149.8665,45,1.3,ml,,,,0.79,ak,ak02343kvio8,2023-03-31T00:01:19.856Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-03-30T23:59:07.280Z,61.5878,-149.8665,45,1.3,ml,,,,0.79,ak,ak02343kvio8,2023-03-31T00:01:19.856Z,"5 km SSW of Houston, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-03-30T23:58:24.960Z,46.103,-122.0705,6.45,0.46,ml,11,182,0.02187,0.17,uw,uw61905967,2023-03-31T00:16:36.230Z,"36 km NE of Amboy, Washington",earthquake,0.78,1.69,0.1989367645210054,10,reviewed,uw,uw
 2023-03-30T23:58:07.430Z,19.2348327636719,-155.382659912109,31.6100006103516,2.07999992,md,25,147,,0.129999995,hv,hv73353002,2023-03-31T00:01:09.980Z,"Island of Hawaii, Hawaii",earthquake,1.24,0.860000014,0.189999998,5,automatic,hv,hv
 2023-03-30T23:56:56.113Z,58.3054,-154.9282,0,0.5,ml,,,,0.22,ak,ak02343kuzct,2023-03-30T23:59:50.688Z,"86 km NNW of Karluk, Alaska",earthquake,,29.2,,,automatic,ak,ak
@@ -236,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T06:48:33.494Z,61.638,-149.9876,32.2,1.3,ml,,,,0.43,ak,ak02343aouj9,2023-03-30T06:49:55.829Z,"9 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-30T06:47:26.610Z,51.8585,-178.097166666667,3.37,1.38,ml,5,215,,0.15,av,av91096443,2023-03-31T01:52:59.450Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.71,0.51,0.11932461746218,5,reviewed,av,av
 2023-03-30T06:45:59.870Z,38.4906667,-112.8385,0.09,-0.03,md,10,100,0.01298,0.07,uu,uu60535931,2023-03-30T17:48:00.060Z,"18 km NE of Milford, Utah",earthquake,0.22,3.46,0.645,3,reviewed,uu,uu
-2023-03-30T06:41:10.570Z,53.876,-166.575666666667,5.28,1.32,ml,11,111,,0.12,av,av91825396,2023-03-31T01:40:28.660Z,"2 km SW of Dutch Harbor, Alaska",earthquake,0.33,0.63,0.379901480662293,11,reviewed,av,av
-2023-03-30T06:38:02.110Z,33.3105,-116.7946667,9.07,0.85,ml,39,34,0.08018,0.13,ci,ci39507730,2023-03-30T16:29:52.096Z,"8km SE of Palomar Observatory, CA",earthquake,0.14,0.56,0.119,14,reviewed,ci,ci
