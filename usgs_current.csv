@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-02T13:04:06.020Z,38.8156662,-122.8249969,2.13,1.09,md,13,85,0.007533,0.02,nc,nc73865855,2023-04-02T13:19:11.065Z,"7km NW of The Geysers, CA",earthquake,0.28,0.59,0.15,15,automatic,nc,nc
+2023-04-02T13:00:54.320Z,38.8358345,-122.8075027,2.09,0.74,md,10,59,0.02065,0.01,nc,nc73865850,2023-04-02T13:12:12.138Z,"8km WNW of Cobb, CA",earthquake,0.3,0.87,0.16,11,automatic,nc,nc
 2023-04-02T12:39:48.230Z,38.7861671,-122.7666702,2.36,1.17,md,19,81,0.01802,0.03,nc,nc73865845,2023-04-02T12:52:11.914Z,"1km NW of The Geysers, CA",earthquake,0.25,0.73,0.19,19,automatic,nc,nc
 2023-04-02T12:38:59.100Z,19.2478332519531,-155.386169433594,32.9900016784668,2.34,ml,38,138,,0.129999995,hv,hv73354842,2023-04-02T12:44:29.800Z,"Hawaii region, Hawaii",earthquake,0.54,0.680000007,0.2,5,automatic,hv,hv
 2023-04-02T12:32:42.751Z,-1.6165,-77.6531,176.707,4.5,mb,68,98,0.391,0.51,us,us6000k1hb,2023-04-02T12:46:57.040Z,"Ecuador",earthquake,7.76,3.813,0.04,188,reviewed,us,us
 2023-04-02T12:23:56.841Z,61.3377,-150.329,47.1,1.3,ml,,,,0.41,ak,ak02348cq6jo,2023-04-02T12:26:53.782Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-02T12:19:14.394Z,62.4031,-150.7552,66.7,1.4,ml,,,,0.72,ak,ak02348cp8en,2023-04-02T12:20:49.385Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-02T12:14:32.020Z,38.8451653,-122.8148346,1.48,1.52,md,15,55,0.01158,0.02,nc,nc73865840,2023-04-02T12:27:11.753Z,"8km WNW of Cobb, CA",earthquake,0.21,0.36,0.17,17,automatic,nc,nc
+2023-04-02T12:14:32.020Z,38.8451653,-122.8148346,1.48,1.52,md,15,55,0.01158,0.02,nc,nc73865840,2023-04-02T13:10:12.011Z,"8km WNW of Cobb, CA",earthquake,0.21,0.36,0.17,17,automatic,nc,nc
 2023-04-02T11:56:03.580Z,32.0975,-116.8395,15.21,1.57,ml,10,265,0.2616,0.05,ci,ci39509066,2023-04-02T11:59:41.420Z,"16km SSE of Primo Tapia, B.C., MX",earthquake,3,0.81,0.216,10,automatic,ci,ci
 2023-04-02T11:50:31.160Z,38.8348351,-122.815834,1.83,0.71,md,11,59,0.0158,0.01,nc,nc73865825,2023-04-02T12:35:13.805Z,"8km W of Cobb, CA",earthquake,0.29,0.94,0.09,10,automatic,nc,nc
 2023-04-02T11:44:21.330Z,40.4008331,-124.661499,20.68,2.77,md,21,254,0.2583,0.11,nc,nc73865815,2023-04-02T12:11:18.648Z,"33km WNW of Petrolia, CA",earthquake,2.15,0.69,0.12,9,automatic,nc,nc
@@ -165,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T13:40:36.540Z,64.8859,-148.211,0.1,1.5,ml,,,,1.09,ak,ak02346pvv9i,2023-04-01T13:42:44.647Z,"10 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-01T13:39:27.885Z,0.8134,126.2041,47.495,4.5,mb,22,57,1.163,0.87,us,us6000k1cv,2023-04-01T14:45:50.040Z,"Molucca Sea",earthquake,7.27,8.032,0.131,17,reviewed,us,us
 2023-04-01T13:36:07.246Z,60.0184,-152.9845,113.2,2,ml,,,,0.24,ak,ak02346puy50,2023-04-01T13:37:54.800Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-01T13:05:34.550Z,38.866333,-122.7959976,1.7,1.33,md,16,98,0.01149,0.02,nc,nc73865455,2023-04-01T14:16:13.580Z,"8km NW of Cobb, CA",earthquake,0.38,0.3,0.13,17,automatic,nc,nc
