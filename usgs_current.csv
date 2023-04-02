@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T04:17:57.110Z,33.3851667,-116.899,12.53,1.36,ml,49,33,0.1112,0.2,ci,ci39508922,2023-04-02T04:29:05.320Z,"5km NW of Palomar Observatory, CA",earthquake,0.22,0.95,0.161,27,automatic,ci,ci
 2023-04-02T04:17:35.400Z,34.0266667,-117.2686667,19.54,1.19,ml,26,60,0.07719,0.28,ci,ci39508914,2023-04-02T04:21:11.080Z,"2km SSW of Loma Linda, CA",earthquake,0.48,0.72,0.299,31,automatic,ci,ci
 2023-04-02T04:14:42.024Z,61.4394,-147.8958,22.9,1.7,ml,,,,0.56,ak,ak023487wr4a,2023-04-02T04:16:53.147Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-02T04:14:07.724Z,36.2977,141.5322,29.473,4.4,mb,27,151,2.691,0.71,us,us6000k1fx,2023-04-02T04:32:06.040Z,"near the east coast of Honshu, Japan",earthquake,7.97,3.248,0.13,17,reviewed,us,us
 2023-04-02T04:03:36.353Z,61.2918,-146.8596,24,1.8,ml,,,,1.08,ak,ak023487udsz,2023-04-02T04:05:37.833Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6,123,0.01987,0.01,nc,nc73865680,2023-04-02T04:11:10.727Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7,automatic,nc,nc
 2023-04-02T03:51:59.325Z,59.7509,-150.632,53.8,2,ml,,,,0.57,ak,ak023487jacc,2023-04-02T03:53:49.504Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -186,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T05:14:38.830Z,38.8343315,-122.7931671,7.18,0.94,md,7,106,0.01548,0.01,nc,nc73865315,2023-04-01T05:47:14.596Z,"6km WNW of Cobb, CA",earthquake,0.94,1.18,0.23,6,automatic,nc,nc
 2023-04-01T05:00:35.610Z,33.3945,-116.9023333,12.34,0.49,ml,14,144,0.1986,0.21,ci,ci39508522,2023-04-01T05:04:06.220Z,"6km NW of Palomar Observatory, CA",earthquake,0.77,2.91,0.126,10,automatic,ci,ci
 2023-04-01T04:50:35.680Z,38.7883339,-122.74617,1.01,1.04,md,10,85,0.008966,0.02,nc,nc73865305,2023-04-01T05:27:13.458Z,"2km NE of The Geysers, CA",earthquake,0.34,1.22,0.31,10,automatic,nc,nc
-2023-04-01T04:39:48.850Z,38.8231659,-122.8098297,2,0.7,md,8,89,0.01895,0.01,nc,nc73865290,2023-04-01T04:56:12.225Z,"7km NW of The Geysers, CA",earthquake,0.37,1.92,0.34,9,automatic,nc,nc
-2023-04-01T04:32:34.080Z,36.8015,-121.3191667,10.08,2.76,md,75,57,0.08375,0.12,nc,nc73865285,2023-04-01T22:09:41.737Z,"1km N of Tres Pinos, CA",earthquake,0.13,0.28,0.114,145,reviewed,nc,nc
