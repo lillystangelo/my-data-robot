@@ -139,4 +139,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T10:29:53.350Z,53.9363333333333,-166.768,2.67,0.61,ml,6,199,,0.12,av,av91830831,2023-04-02T13:29:04.590Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.48,0.73,0.162494125932118,6,reviewed,av,av
 2023-04-02T10:20:29.120Z,34.0976667,-117.7948333,14.26,1.12,ml,33,57,0.01173,0.23,ci,ci39509042,2023-04-02T14:28:43.530Z,"2km SE of San Dimas, CA",earthquake,0.41,0.54,0.192,26,reviewed,ci,ci
 2023-04-02T10:00:49.980Z,62.9727,-150.3624,85,1.1,ml,,,,0.34,ak,ak02348bedc6,2023-04-02T10:03:22.428Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-02T09:42:49.850Z,33.6578333,-116.7441667,12.95,0.96,ml,32,62,0.05878,0.14,ci,ci39509026,2023-04-02T09:46:29.630Z,"9km SSW of Idyllwild, CA",earthquake,0.26,0.37,0.138,27,automatic,ci,ci
