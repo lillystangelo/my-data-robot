@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-05T09:35:17.960Z,33.347168,-116.3771667,10.39,1.22,ml,17,175,0.08558,0.18,ci,ci39509882,2023-04-05T09:37:21.892Z,"10km N of Borrego Springs, CA",earthquake,0.55,1.75,0.582,12,automatic,ci,ci
+2023-04-05T09:43:40.222Z,61.5823,-149.7257,32.1,1.4,ml,,,,0.79,ak,ak0234d9o692,2023-04-05T09:45:45.664Z,"7 km SE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-05T09:35:17.650Z,33.3311667,-116.3726667,13.58,0.7,ml,16,170,0.07302,0.19,ci,ci39509882,2023-04-05T09:38:51.610Z,"8km N of Borrego Springs, CA",earthquake,0.57,0.89,0.169,8,automatic,ci,ci
 2023-04-05T09:34:43.000Z,61.3474,-146.7414,24.2,1.5,ml,,,,0.75,ak,ak02317oo6his,2023-04-05T09:36:47.676Z,"32 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-05T09:34:21.478Z,60.6747,-152.7603,13,1.4,ml,,,,0.16,ak,ak0234d9m6my,2023-04-05T09:36:37.543Z,"79 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-05T09:34:14.990Z,33.3383331,-116.3915024,13.62,1.09,ml,44,101,0.07317,0.21,ci,ci39509874,2023-04-05T09:37:48.602Z,"9km N of Borrego Springs, CA",earthquake,0.33,0.68,0.205,8,automatic,ci,ci
 2023-04-05T09:31:34.350Z,38.810833,-122.8434982,0.53,0.75,md,4,146,0.01768,0,nc,nc73867210,2023-04-05T09:33:08.421Z,"8km WNW of The Geysers, CA",earthquake,1.4,2.48,0.28,7,automatic,nc,nc
 2023-04-05T09:29:31.070Z,33.8246667,-116.7386667,16.71,0.79,ml,31,40,0.04967,0.16,ci,ci39509866,2023-04-05T09:33:04.781Z,"10km N of Idyllwild, CA",earthquake,0.25,0.51,0.209,21,automatic,ci,ci
-2023-04-05T09:26:57.320Z,38.8458328,-122.8153305,1.31,1.28,md,20,90,0.01081,0.03,nc,nc73867200,2023-04-05T09:28:33.313Z,"8km WNW of Cobb, CA",earthquake,0.25,0.39,0.09,20,automatic,nc,nc
+2023-04-05T09:26:57.320Z,38.8458328,-122.8153305,1.31,1.28,md,20,90,0.01081,0.03,nc,nc73867200,2023-04-05T09:38:10.629Z,"8km WNW of Cobb, CA",earthquake,0.25,0.39,0.09,20,automatic,nc,nc
 2023-04-05T09:09:45.750Z,33.5211667,-116.3181667,10.29,1.5,ml,49,39,0.09411,0.16,ci,ci39509858,2023-04-05T09:13:30.933Z,"16km S of La Quinta, CA",earthquake,0.17,0.46,0.175,26,automatic,ci,ci
 2023-04-05T09:05:35.159Z,60.3197,-153.379,156.7,1.5,ml,,,,0.2,ak,ak0234d9g0nf,2023-04-05T09:07:29.924Z,"53 km ENE of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-05T09:05:34.080Z,38.8144989,-122.829834,1.58,1.2,md,22,49,0.005646,0.02,nc,nc73867190,2023-04-05T09:23:11.655Z,"8km WNW of The Geysers, CA",earthquake,0.18,0.36,0.21,24,automatic,nc,nc
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T08:55:25.310Z,38.7900009,-122.7593307,1.92,0.75,md,12,69,0.01061,0.02,nc,nc73867175,2023-04-05T09:12:15.326Z,"1km N of The Geysers, CA",earthquake,0.26,0.67,0.08,11,automatic,nc,nc
 2023-04-05T08:24:32.420Z,35.502,-118.3955,4.21,2.29,ml,30,34,0.1727,0.2,ci,ci39509834,2023-04-05T08:35:20.750Z,"13km SE of Bodfish, CA",earthquake,0.26,1.17,0.256,27,automatic,ci,ci
 2023-04-05T08:17:15.990Z,33.5381667,-117.3291667,14.09,0.84,ml,13,134,0.137,0.08,ci,ci39509826,2023-04-05T08:20:58.747Z,"8km SW of Wildomar, CA",earthquake,0.25,0.61,0.241,13,automatic,ci,ci
-2023-04-05T08:15:08.930Z,31.6596,-104.4142,9.397,2.7,ml,23,73,0.074,0.29,us,us6000k23b,2023-04-05T08:39:08.040Z,"57 km S of Whites City, New Mexico",earthquake,1.69,5.014,0.06,36,reviewed,us,us
+2023-04-05T08:15:08.915Z,31.67424081,-104.4064736,6.542895508,2.5,ml,16,56,0.02830796525,0.1,tx,tx2023gqjq,2023-04-05T09:42:18.856Z,"55 km S of Whites City, New Mexico",earthquake,0.8965396612,1.241187829,0.1,25,reviewed,tx,tx
 2023-04-05T08:12:04.000Z,32.9498333,-116.214,11.27,0.73,ml,15,101,0.0753,0.22,ci,ci39509818,2023-04-05T08:15:49.193Z,"23km SSW of Ocotillo Wells, CA",earthquake,0.42,0.78,0.083,7,automatic,ci,ci
 2023-04-05T08:08:38.616Z,36.6418,-116.276,9.2,0.3,ml,8,188.7,0.051,0.1081,nn,nn00857846,2023-04-05T08:10:44.862Z,"52 km SE of Beatty, Nevada",earthquake,,1.6,0.37,5,automatic,nn,nn
 2023-04-05T08:06:20.952Z,59.9711,-153.4402,142.6,1.7,ml,,,,0.5,ak,ak0234d8urnz,2023-04-05T08:08:02.686Z,"42 km ENE of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
