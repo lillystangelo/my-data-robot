@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-06T08:34:13.575Z,57.1298,-156.2922,15.8,2,ml,,,,0.52,ak,ak0234ewk3n1,2023-04-06T08:36:27.445Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T08:20:59.750Z,33.0533333,-115.5555,3.36,1.01,ml,8,116,0.0268,0.09,ci,ci39510482,2023-04-06T08:24:32.121Z,"6km ENE of Westmorland, CA",earthquake,0.38,0.41,0.178,10,automatic,ci,ci
 2023-04-06T08:12:34.987Z,61.6465,-150.9607,58.2,1.5,ml,,,,0.5,ak,ak0234ewffje,2023-04-06T08:14:38.802Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-06T08:08:22.450Z,38.8279991,-122.8026657,1.59,1.08,md,22,44,0.007391,0.02,nc,nc73867905,2023-04-06T08:26:12.771Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.16,23,automatic,nc,nc
