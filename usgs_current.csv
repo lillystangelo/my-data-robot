@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-06T05:24:27.700Z,38.786499,-122.7474976,2.45,1.3,md,22,82,0.009027,0.03,nc,nc73867845,2023-04-06T05:26:05.349Z,"1km NE of The Geysers, CA",earthquake,0.25,0.48,0.22,22,automatic,nc,nc
 2023-04-06T05:11:25.672Z,38.7295,-118.888,0,1.1,ml,8,141.68,0.564,0.1266,nn,nn00857881,2023-04-06T05:14:51.150Z,"14 km NW of Walker Lake, Nevada",earthquake,,38.3,0.11,4,automatic,nn,nn
 2023-04-06T05:09:33.458Z,62.4447,-151.1932,79.3,1.5,ml,,,,0.76,ak,ak0234eumhgh,2023-04-06T05:11:13.399Z,"22 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-06T05:00:46.540Z,38.8111649,-122.8281631,2.12,0.9,md,13,89,0.002427,0.03,nc,nc73867840,2023-04-06T05:13:10.664Z,"7km WNW of The Geysers, CA",earthquake,0.29,0.7,0.23,14,automatic,nc,nc
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T03:21:40.952Z,-35.5792,-109.0376,10,5.1,mb,51,107,29.217,0.65,us,us6000k2ae,2023-04-06T03:43:34.040Z,"southern East Pacific Rise",earthquake,10.22,1.821,0.036,248,reviewed,us,us
 2023-04-06T03:21:21.413Z,60.2003,-151.2023,22.1,1.7,ml,,,,0.48,ak,ak0234eti5wt,2023-04-06T03:23:02.273Z,"11 km ESE of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-06T03:00:50.081Z,56.8949,-158.0823,6.2,3.4,ml,,,,0.63,ak,ak0234etdq4d,2023-04-06T04:32:42.430Z,"33 km E of Port Heiden, Alaska",earthquake,,0.1,,,reviewed,ak,ak
-2023-04-06T03:00:30.400Z,56.9158333333333,-158.141333333333,-3.16,3.29,ml,4,213,,0.16,av,av91836686,2023-04-06T04:53:56.770Z,"29 km E of Port Heiden, Alaska",earthquake,1.28,2.5,0.103412519764566,6,reviewed,av,av
+2023-04-06T03:00:30.290Z,56.9176666666667,-158.132833333333,-3.2,1.53,ml,4,221,,0.15,av,av91836686,2023-04-06T05:18:57.660Z,"Alaska Peninsula",earthquake,1.35,2.2,0.311364520223942,2,reviewed,av,av
 2023-04-06T02:57:52.320Z,38.8058319,-122.815834,2.89,1.25,md,29,60,0.01086,0.03,nc,nc73867775,2023-04-06T05:00:10.585Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.41,0.18,28,automatic,nc,nc
 2023-04-06T02:42:00.600Z,33.384,-116.9106667,13.21,1.97,ml,67,43,0.1015,0.21,ci,ci39510266,2023-04-06T03:03:48.434Z,"5km NW of Palomar Observatory, CA",earthquake,0.19,0.72,0.202,27,automatic,ci,ci
 2023-04-06T02:32:01.340Z,38.8181648,-122.8249969,1.63,0.57,md,7,82,0.009267,0.01,nc,nc73867765,2023-04-06T03:09:14.946Z,"8km NW of The Geysers, CA",earthquake,0.6,1.11,0.23,9,automatic,nc,nc
@@ -326,5 +327,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-05T05:49:02.080Z,36.53933333,-98.9605,7.03,2.77,ml,88,48,0.04769064147,0.18,ok,ok2023gqet,2023-04-05T12:32:23.543Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0.2,0.23,27,reviewed,ok,ok
 2023-04-05T05:46:01.547Z,59.1004,-151.4615,28.9,2,ml,,,,0.69,ak,ak0234d7azzu,2023-04-05T05:48:16.588Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-05T05:42:29.198Z,61.5386,-150.6459,56.6,1.1,ml,,,,0.34,ak,ak0234d7a5iy,2023-04-05T13:50:17.392Z,"7 km W of Susitna, Alaska",earthquake,,1.1,,,reviewed,ak,ak
-2023-04-05T05:27:24.410Z,58.2414,-155.1185,0,0.3,ml,,,,0.26,ak,ak0234d76z5i,2023-04-05T05:31:36.329Z,"84 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-04-05T05:20:43.561Z,60.3327,-149.3426,21.8,1.9,ml,,,,0.57,ak,ak0234d75imc,2023-04-05T05:22:31.540Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
