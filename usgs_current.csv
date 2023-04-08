@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T08:31:22.530Z,38.7420006,-122.7061691,-0.74,1.33,md,7,144,0.02442,0.04,nc,nc73869155,2023-04-08T08:33:01.040Z,"4km SSW of Anderson Springs, CA",earthquake,0.61,1.69,0.36,7,automatic,nc,nc
+2023-04-08T08:46:09.700Z,35.6673333,-117.5313333,6.9,2.42,ml,26,49,0.08766,0.19,ci,ci40438144,2023-04-08T08:49:48.587Z,"14km ENE of Ridgecrest, CA",earthquake,0.32,0.99,0.129,25,automatic,ci,ci
+2023-04-08T08:41:18.170Z,19.408332824707,-155.274673461914,8.46000003814697,2,ml,21,78,,0.140000001,hv,hv73359082,2023-04-08T08:46:50.570Z,"5 km SW of Volcano, Hawaii",earthquake,0.44,0.370000005,0.61,4,automatic,hv,hv
+2023-04-08T08:31:22.530Z,38.7420006,-122.7061691,-0.74,1.33,md,7,144,0.02442,0.04,nc,nc73869155,2023-04-08T08:41:11.267Z,"4km SSW of Anderson Springs, CA",earthquake,0.61,1.69,0.36,7,automatic,nc,nc
 2023-04-08T08:31:22.020Z,19.4071674346924,-155.273666381836,4.88000011444092,1.85,ml,26,77,,0.289999992,hv,hv73359062,2023-04-08T08:36:56.030Z,"5 km SW of Volcano, Hawaii",earthquake,0.45,0.649999976,0.22,9,automatic,hv,hv
 2023-04-08T08:23:38.650Z,39.0238342,-122.1403351,1.66,2.04,md,9,167,0.199,0.13,nc,nc73869150,2023-04-08T08:30:11.203Z,"7km W of Arbuckle, CA",earthquake,0.59,10.49,0.25,11,automatic,nc,nc
 2023-04-08T08:15:07.060Z,19.2455005645752,-155.40283203125,32.3699989318848,1.83000004,md,38,132,,0.109999999,hv,hv73359017,2023-04-08T08:18:14.600Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.839999974,0.680000007,13,automatic,hv,hv
@@ -31,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T05:43:42.650Z,38.8395004,-122.8085022,2.08,0.23,md,9,84,0.01422,0.01,nc,nc73869090,2023-04-08T05:45:20.752Z,"8km WNW of Cobb, CA",earthquake,0.4,1.61,0.14,9,automatic,nc,nc
 2023-04-08T05:41:15.683Z,61.9569,-149.3209,40.9,2.3,ml,,,,0.35,ak,ak0234i5vzzk,2023-04-08T05:42:40.823Z,"24 km N of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-08T05:35:11.710Z,38.8336678,-122.8115005,1.97,1.02,md,15,53,0.01032,0.01,nc,nc73869085,2023-04-08T05:36:45.616Z,"8km W of Cobb, CA",earthquake,0.29,0.52,0.27,16,automatic,nc,nc
-2023-04-08T05:28:39.340Z,38.8318329,-122.8183365,1.48,1.2,md,17,84,0.02445,0.02,nc,nc73869075,2023-04-08T07:01:13.682Z,"8km NW of The Geysers, CA",earthquake,0.21,0.49,0.15,18,automatic,nc,nc
+2023-04-08T05:28:39.340Z,38.8318329,-122.8183365,1.48,1.2,md,17,84,0.02445,0.02,nc,nc73869075,2023-04-08T08:47:11.302Z,"8km NW of The Geysers, CA",earthquake,0.21,0.49,0.15,18,automatic,nc,nc
 2023-04-08T05:28:23.040Z,38.8269997,-122.8079987,1.38,1.02,md,17,39,0.003948,0.02,nc,nc73869070,2023-04-08T05:30:00.571Z,"7km NW of The Geysers, CA",earthquake,0.2,0.58,0.09,16,automatic,nc,nc
 2023-04-08T05:24:32.470Z,38.8358345,-122.8119965,1.8,0.76,md,12,107,0.01251,0.02,nc,nc73869060,2023-04-08T05:26:11.072Z,"8km W of Cobb, CA",earthquake,0.34,0.52,0.19,12,automatic,nc,nc
 2023-04-08T05:24:10.335Z,58.419,-156.4573,186.2,1.5,ml,,,,0.79,ak,ak0234i5sceh,2023-04-08T05:26:57.367Z,"32 km SSE of King Salmon, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -40,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T05:22:52.566Z,62.4679,-151.3481,9.6,1.3,ml,,,,0.47,ak,ak0234i5s088,2023-04-08T05:24:54.754Z,"30 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-08T05:21:00.570Z,38.8323326,-122.8151703,1.32,1.67,md,34,64,0.009772,0.02,nc,nc73869040,2023-04-08T06:47:20.604Z,"8km NW of The Geysers, CA",earthquake,0.16,0.26,0.14,34,automatic,nc,nc
 2023-04-08T05:15:41.490Z,38.8348351,-122.8105011,1.55,0.22,md,7,99,0.01143,0.01,nc,nc73869030,2023-04-08T05:17:16.671Z,"8km W of Cobb, CA",earthquake,0.5,1.84,0.14,7,automatic,nc,nc
-2023-04-08T05:15:15.620Z,38.8375015,-122.8028336,2.26,1.46,md,23,62,0.009796,0.02,nc,nc73869020,2023-04-08T08:21:11.141Z,"7km WNW of Cobb, CA",earthquake,0.22,0.44,0.22,25,automatic,nc,nc
+2023-04-08T05:15:15.620Z,38.8375015,-122.8028336,2.26,1.46,md,23,62,0.009796,0.02,nc,nc73869020,2023-04-08T08:45:15.289Z,"7km WNW of Cobb, CA",earthquake,0.22,0.44,0.22,25,automatic,nc,nc
 2023-04-08T05:13:12.370Z,38.8371658,-122.8098297,1.95,0.81,md,17,73,0.01375,0.02,nc,nc73869010,2023-04-08T05:14:51.201Z,"8km WNW of Cobb, CA",earthquake,0.23,0.48,0.17,17,automatic,nc,nc
 2023-04-08T05:11:45.960Z,38.828167,-122.7661667,0.33,1.05,md,6,151,0.003722,0.01,nc,nc73869005,2023-04-08T05:13:20.903Z,"4km W of Cobb, CA",earthquake,0.74,0.85,0.18,7,automatic,nc,nc
 2023-04-08T05:11:36.230Z,38.8383331,-122.8096695,1.85,0.82,md,16,53,0.01492,0.01,nc,nc73869000,2023-04-08T05:13:11.183Z,"8km WNW of Cobb, CA",earthquake,0.23,0.56,0.27,14,automatic,nc,nc
@@ -279,4 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T08:57:59.290Z,35.5013333,-118.3893333,8.57,1,ml,14,72,0.1753,0.13,ci,ci40437536,2023-04-07T16:14:17.845Z,"13km SE of Bodfish, CA",earthquake,0.28,1.27,0.126,8,reviewed,ci,ci
 2023-04-07T08:55:21.602Z,66.2207,-146.5874,0,1.6,ml,,,,1.04,ak,ak0234gk7ysg,2023-04-07T08:57:41.870Z,"34 km W of Birch Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-07T08:50:41.432Z,61.6404,-149.527,31.6,1.5,ml,,,,0.36,ak,ak0234gk6xqn,2023-04-07T08:52:20.259Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-07T08:45:28.211Z,60.5828,-146.8808,13.3,2.5,ml,,,,0.58,ak,ak0234gk5u5r,2023-04-08T04:26:08.040Z,"33 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
