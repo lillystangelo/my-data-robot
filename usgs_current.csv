@@ -3,12 +3,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T19:10:49.770Z,33.586,-116.806,7.78,0.53,ml,16,69,0.03581,0.12,ci,ci40438432,2023-04-08T19:14:25.395Z,"13km WNW of Anza, CA",earthquake,0.35,0.47,0.073,13,automatic,ci,ci
 2023-04-08T19:09:48.993Z,64.9768,-147.4206,2.1,1.5,ml,,,,0.71,ak,ak0234ie1a3t,2023-04-08T19:11:59.675Z,"9 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-08T19:06:14.540Z,33.5781667,-116.8081667,7.37,1.69,ml,56,23,0.03991,0.2,ci,ci40438424,2023-04-08T19:16:49.970Z,"13km WNW of Anza, CA",earthquake,0.2,0.45,0.167,26,automatic,ci,ci
-2023-04-08T19:02:17.260Z,38.8231659,-122.809166,1.31,1.08,md,18,42,0.0007453,0.02,nc,nc73869330,2023-04-08T19:13:11.074Z,"7km NW of The Geysers, CA",earthquake,0.2,0.5,0.19,19,automatic,nc,nc
+2023-04-08T19:02:17.260Z,38.8231659,-122.809166,1.31,1.08,md,18,42,0.0007453,0.02,nc,nc73869330,2023-04-08T19:31:14.318Z,"7km NW of The Geysers, CA",earthquake,0.2,0.5,0.19,19,automatic,nc,nc
 2023-04-08T19:02:02.340Z,38.8230019,-122.8085022,1.19,1.08,md,19,42,0.001289,0.03,nc,nc73869325,2023-04-08T19:19:15.105Z,"7km NW of The Geysers, CA",earthquake,0.19,0.5,0.09,18,automatic,nc,nc
 2023-04-08T18:35:19.930Z,38.8358345,-122.8121643,1.95,0.68,md,13,57,0.01253,0.01,nc,nc73869320,2023-04-08T18:57:15.968Z,"8km W of Cobb, CA",earthquake,0.3,0.72,0.42,13,automatic,nc,nc
 2023-04-08T18:28:41.470Z,36.8051682,-121.3259964,9.22,1.72,md,26,70,0.0989,0.1,nc,nc73869315,2023-04-08T18:45:14.893Z,"2km NNW of Tres Pinos, CA",earthquake,0.37,0.66,0.23,22,automatic,nc,nc
 2023-04-08T18:18:27.780Z,33.6995,-116.8123333,15.24,1.08,ml,42,36,0.07537,0.2,ci,ci40438408,2023-04-08T18:29:15.040Z,"9km SE of Valle Vista, CA",earthquake,0.27,0.47,0.214,27,automatic,ci,ci
-2023-04-08T18:14:21.510Z,38.7944984,-122.7509995,2.25,0.69,md,7,91,0.01584,0.02,nc,nc73869310,2023-04-08T18:32:13.821Z,"2km NNE of The Geysers, CA",earthquake,0.42,1.18,0.23,6,automatic,nc,nc
+2023-04-08T18:14:21.510Z,38.7944984,-122.7509995,2.25,0.69,md,7,91,0.01584,0.02,nc,nc73869310,2023-04-08T19:32:11.180Z,"2km NNE of The Geysers, CA",earthquake,0.42,1.18,0.23,6,automatic,nc,nc
 2023-04-08T18:09:51.141Z,61.5384,-151.4958,71.2,1.8,ml,,,,0.43,ak,ak0234idfuoa,2023-04-08T18:35:50.040Z,"49 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T18:02:01.180Z,38.783165,-122.7649994,-0.89,0.5,md,5,139,0.01244,0.01,nc,nc73869305,2023-04-08T19:03:11.009Z,"1km NW of The Geysers, CA",earthquake,0.4,2.74,0.28,7,automatic,nc,nc
 2023-04-08T17:58:11.450Z,33.4933333,-116.524,13.71,0.85,ml,13,179,0.1921,0.25,ci,ci40438400,2023-04-08T18:01:47.531Z,"16km ESE of Anza, CA",earthquake,1.14,2.85,0.169,15,automatic,ci,ci
@@ -28,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T15:53:28.838Z,60.1606,-153.0358,135.6,1.9,ml,,,,0.34,ak,ak0234ibwxom,2023-04-08T15:55:03.708Z,"71 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T15:49:45.770Z,38.7921677,-122.7610016,2.52,0.83,md,12,90,0.008505,0.02,nc,nc73869270,2023-04-08T16:12:13.153Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.73,0.18,10,automatic,nc,nc
 2023-04-08T15:46:40.340Z,38.7919998,-122.7611694,2.44,1.1,md,16,108,0.008688,0.03,nc,nc73869265,2023-04-08T17:47:14.535Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.57,0.23,19,automatic,nc,nc
+2023-04-08T15:40:14.337Z,42.2393,143.0453,68.549,4.2,mb,17,128,0.239,0.57,us,us6000k2vt,2023-04-08T19:33:28.040Z,"56 km E of Shizunai-furukawachō, Japan",earthquake,6.67,7.846,0.176,9,reviewed,us,us
 2023-04-08T15:29:25.631Z,62.6317,-149.0115,45.2,1.7,ml,,,,0.72,ak,ak0234ibrs7n,2023-04-08T15:31:17.891Z,"59 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T15:19:43.560Z,35.6500015,-120.9553299,5.21,2.44,md,45,68,0.07102,0.09,nc,nc73869255,2023-04-08T16:55:10.270Z,"11km SW of Lake Nacimiento, CA",earthquake,0.2,0.6,0.11,46,automatic,nc,nc
 2023-04-08T15:11:54.230Z,60.2461,-141.9138,11.7,1.5,ml,,,,0.53,ak,ak0234ibnzj3,2023-04-08T15:13:55.121Z,"143 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
