@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T17:50:11.020Z,38.7840004,-122.7655029,-0.63,2.06,md,34,76,0.01326,0.06,nc,nc73869300,2023-04-08T17:51:47.781Z,"1km NW of The Geysers, CA",earthquake,0.17,0.48,0.17,34,automatic,nc,nc
+2023-04-08T18:02:01.180Z,38.783165,-122.7649994,-0.89,0.5,md,5,139,0.01244,0.01,nc,nc73869305,2023-04-08T18:03:37.939Z,"1km NW of The Geysers, CA",earthquake,0.4,2.74,0.28,7,automatic,nc,nc
+2023-04-08T17:58:11.450Z,33.4933333,-116.524,13.71,0.85,ml,13,179,0.1921,0.25,ci,ci40438400,2023-04-08T18:01:47.531Z,"16km ESE of Anza, CA",earthquake,1.14,2.85,0.169,15,automatic,ci,ci
+2023-04-08T17:50:11.020Z,38.7840004,-122.7655029,-0.63,2.06,md,34,76,0.01326,0.06,nc,nc73869300,2023-04-08T17:56:11.583Z,"1km NW of The Geysers, CA",earthquake,0.17,0.48,0.17,34,automatic,nc,nc
 2023-04-08T17:39:55.200Z,33.984,-116.9651667,13.44,0.74,ml,19,68,0.1119,0.27,ci,ci40438392,2023-04-08T17:43:29.184Z,"6km N of Beaumont, CA",earthquake,0.46,1.45,0.078,12,automatic,ci,ci
 2023-04-08T17:30:36.612Z,60.4094,-151.1381,35.3,1.9,ml,,,,0.32,ak,ak0234icyvzh,2023-04-08T17:31:51.366Z,"Kenai Peninsula, Alaska",earthquake,,7.1,,,automatic,ak,ak
 2023-04-08T17:26:40.103Z,58.3227,-154.9386,12,1.1,ml,,,,0.68,ak,ak0234icy1e2,2023-04-08T17:28:29.135Z,"88 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T17:01:28.290Z,38.8351669,-122.8115005,2.33,0.74,md,14,54,0.01181,0.01,nc,nc73869290,2023-04-08T17:35:13.545Z,"8km W of Cobb, CA",earthquake,0.26,0.69,0.32,15,automatic,nc,nc
 2023-04-08T17:01:12.610Z,38.8348351,-122.8126678,2.86,0.29,md,8,96,0.0116,0.01,nc,nc73869285,2023-04-08T17:21:13.711Z,"8km W of Cobb, CA",earthquake,0.57,2.42,0.11,9,automatic,nc,nc
 2023-04-08T16:58:42.010Z,33.918,-117.2425,15.22,0.94,ml,16,126,0.1337,0.25,ci,ci40438376,2023-04-08T17:02:25.545Z,"2km SW of Moreno Valley, CA",earthquake,0.78,1.07,0.187,21,automatic,ci,ci
-2023-04-08T16:57:56.290Z,19.1301670074463,-155.387329101562,30.2800006866455,1.78999996,md,36,184,,0.0900000036,hv,hv73359282,2023-04-08T17:24:54.362Z,"12 km SE of Pāhala, Hawaii",earthquake,0.64,1.21000004,1.16999996,6,automatic,hv,hv
+2023-04-08T16:57:56.290Z,19.1301670074463,-155.387329101562,30.2800006866455,1.78999996,md,36,184,,0.0900000036,hv,hv73359282,2023-04-08T17:24:54.362Z,"Island of Hawaii, Hawaii",earthquake,0.64,1.21000004,1.16999996,6,automatic,hv,hv
 2023-04-08T16:32:21.485Z,62.5794,-149.1498,0,1.6,ml,,,,0.96,ak,ak0234icdun8,2023-04-08T16:34:25.732Z,"51 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T16:27:33.707Z,-16.5627,175.021,24.835,5.3,mww,26,105,3.128,0.56,us,us6000k2vx,2023-04-08T16:48:03.040Z,"283 km WNW of Lautoka, Fiji",earthquake,6.07,6.367,0.098,10,reviewed,us,us
 2023-04-08T16:22:36.320Z,38.7628326,-122.7353363,1.59,0.95,md,11,101,0.008283,0.03,nc,nc73869275,2023-04-08T16:39:13.336Z,"2km SE of The Geysers, CA",earthquake,0.47,0.58,0.21,11,automatic,nc,nc
@@ -235,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T18:20:42.310Z,51.882,-177.846666666667,3.56,1.61,ml,4,241,,0.18,av,av91838896,2023-04-07T21:12:51.820Z,"83 km W of Adak, Alaska",earthquake,0.91,2.13,0.0999365646388899,4,reviewed,av,av
 2023-04-07T18:19:27.970Z,38.8326683,-122.7935028,1.63,0.7,md,8,88,0.006241,0,nc,nc73868670,2023-04-07T18:21:06.223Z,"6km W of Cobb, CA",earthquake,0.39,1.17,0.22,9,automatic,nc,nc
 2023-04-07T18:11:37.722Z,63.1013,-149.093,66.4,1.5,ml,,,,0.46,ak,ak0234gpwwks,2023-04-07T18:13:22.718Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-07T18:03:40.220Z,34.0288333,-116.4085,8.03,1.3,ml,41,65,0.04322,0.21,ci,ci40437744,2023-04-07T18:14:52.480Z,"10km SSE of Yucca Valley, CA",earthquake,0.31,0.66,0.234,27,automatic,ci,ci
