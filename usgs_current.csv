@@ -270,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T11:15:30.690Z,33.7801667,-117.7381667,9.59,1.49,ml,42,37,0.04813,0.21,ci,ci40438776,2023-04-09T11:19:15.788Z,"5km ENE of North Tustin, CA",earthquake,0.27,0.53,0.138,29,automatic,ci,ci
 2023-04-09T10:52:33.350Z,38.8359985,-122.8061676,2.35,0.29,md,7,84,0.01259,0.01,nc,nc73869750,2023-04-09T11:41:19.973Z,"7km WNW of Cobb, CA",earthquake,0.51,1.57,0.2,9,automatic,nc,nc
 2023-04-09T10:51:55.730Z,38.8359985,-122.7921677,1.9,1.06,md,16,66,0.002797,0.02,nc,nc73869745,2023-04-09T11:29:19.786Z,"6km WNW of Cobb, CA",earthquake,0.27,0.43,0.19,17,automatic,nc,nc
-2023-04-09T10:41:43.930Z,51.8608333333333,-178.107166666667,3.29,1.88,ml,5,221,,0.23,av,av91841161,2023-04-09T15:39:06.080Z,"101 km W of Adak, Alaska",earthquake,1.08,0.62,0.235302152594664,5,reviewed,av,av
