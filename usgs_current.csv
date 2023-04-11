@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-11T20:23:36.591Z,62.9205,-151.1191,126.8,1.7,ml,,,,0.29,ak,ak0234ndbq9n,2023-04-11T20:26:21.417Z,"50 km NNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-04-11T20:14:06.750Z,17.9495,-66.9433333333333,12.77,2.74,md,13,212,0.06607,0.17,pr,pr71404213,2023-04-11T20:28:46.410Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.74,0.5,0.201599121920931,9,reviewed,pr,pr
 2023-04-11T20:09:42.750Z,39.5779,-120.057,10.6,1.8,ml,11,112.52,0.079,0.1587,nn,nn00858097,2023-04-11T20:11:34.330Z,"7 km NNW of Verdi, California",earthquake,,1.1,0.27,6,automatic,nn,nn
 2023-04-11T20:06:50.234Z,63.0477,-149.3854,72.6,1.4,ml,,,,0.58,ak,ak0234nd845b,2023-04-11T20:08:37.549Z,"44 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-11T19:53:00.970Z,37.4321667,-113.122,11.12,1.9,ml,12,76,0.07598,0.14,uu,uu60536811,2023-04-11T20:10:55.270Z,"13 km SSE of Kanarraville, Utah",earthquake,0.42,0.67,0.184,8,reviewed,uu,uu
@@ -18,9 +20,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T18:18:44.919Z,63.094,-150.4095,99.7,1.5,ml,,,,0.43,ak,ak0234nc3t4b,2023-04-11T18:21:12.235Z,"69 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-11T17:48:16.970Z,34.1516667,-117.3465,9,1.66,ml,44,33,0.04513,0.17,ci,ci40439656,2023-04-11T17:59:31.410Z,"0km SW of Muscoy, CA",earthquake,0.19,0.56,0.192,27,automatic,ci,ci
 2023-04-11T17:40:43.410Z,38.8344994,-122.8021698,2.1,1.09,md,21,57,0.01003,0.02,nc,nc73870795,2023-04-11T18:06:11.559Z,"7km WNW of Cobb, CA",earthquake,0.22,0.46,0.15,21,automatic,nc,nc
-2023-04-11T17:40:32.910Z,37.1093333,-121.5181667,5.68,3,ml,120,31,0.05758,0.16,nc,nc73870790,2023-04-11T20:24:30.723Z,"9km ENE of San Martin, CA",earthquake,0.11,0.39,0.116,80,reviewed,nc,nc
+2023-04-11T17:40:32.910Z,37.1093333,-121.5181667,5.68,3,ml,120,31,0.05758,0.16,nc,nc73870790,2023-04-11T20:33:28.871Z,"9km ENE of San Martin, CA",earthquake,0.11,0.39,0.116,80,reviewed,nc,nc
 2023-04-11T17:40:16.057Z,59.9956,-152.6417,93,1.4,ml,,,,0.31,ak,ak0234nbn11h,2023-04-11T17:42:30.217Z,"51 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-04-11T17:32:24.235Z,61.2937,-152.4931,2.4,1.2,ml,,,,0.92,ak,ak0234nblbu2,2023-04-11T17:34:37.286Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-11T17:32:24.235Z,61.2937,-152.4931,2.4,1.2,ml,,,,0.92,ak,ak0234nblbu2,2023-04-11T20:25:43.770Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T17:22:22.405Z,61.163,-150.07,9.9,1.7,ml,,,,0.28,ak,ak0234nbj6n4,2023-04-11T17:23:55.190Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-11T17:08:23.021Z,42.2417,78.3884,1.671,4.9,mb,67,72,0.258,0.77,us,us6000k3ka,2023-04-11T19:09:15.140Z,"27 km S of Karakol, Kyrgyzstan",earthquake,6.64,2.244,0.077,56,reviewed,us,us
 2023-04-11T16:52:06.360Z,17.965,-66.958,5.71,2.84,md,13,192,0.07561,0.2,pr,pr71404153,2023-04-11T17:17:40.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.05,0.69,0.148360835764323,13,reviewed,pr,pr
@@ -263,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T20:43:12.280Z,51.8565,-178.061333333333,-1.8,1.57,ml,5,179,,0.23,av,av91843311,2023-04-10T22:19:14.240Z,"98 km W of Adak, Alaska",earthquake,0.62,1.37,0.17702757665359,5,reviewed,av,av
 2023-04-10T20:40:43.210Z,33.5006667,-116.5055,12.52,1.51,ml,57,54,0.06055,0.16,ci,ci40439400,2023-04-11T00:31:28.950Z,"17km ESE of Anza, CA",earthquake,0.15,0.3,0.171,25,reviewed,ci,ci
 2023-04-10T20:37:43.789Z,34.394,-96.82316667,0,1.32,ml,19,162,0.3482316651,0.29,ok,ok2023halq,2023-04-11T18:50:35.760Z,"1 km SSE of Mill Creek, Oklahoma",quarry blast,,0.6,0.25,5,reviewed,ok,ok
-2023-04-10T20:32:33.800Z,33.8168333,-117.4796667,-0.66,1.17,ml,30,70,0.02887,0.26,ci,ci40439392,2023-04-11T00:04:13.770Z,"8km SSE of Home Gardens, CA",quarry blast,0.53,31.61,0.157,19,reviewed,ci,ci
