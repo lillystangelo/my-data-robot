@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-12T08:41:25.300Z,38.831501,-122.8021698,2.16,1.07,md,12,62,0.01018,0.07,nc,nc73872080,2023-04-12T08:43:00.924Z,"7km W of Cobb, CA",earthquake,0.36,0.89,0.35,14,automatic,nc,nc
+2023-04-12T08:39:48.000Z,35.437,-118.3063333,11.51,1.24,ml,13,56,0.168,0.13,ci,ci40439976,2023-04-12T08:43:30.754Z,"24km SE of Bodfish, CA",earthquake,0.28,1.14,0.108,15,automatic,ci,ci
 2023-04-12T08:37:52.870Z,38.8264999,-122.807663,0.99,0.21,md,7,155,0.003628,0.01,nc,nc73872075,2023-04-12T08:39:30.721Z,"7km NW of The Geysers, CA",earthquake,0.66,1.18,0.06,7,automatic,nc,nc
 2023-04-12T08:36:04.190Z,38.8359985,-122.8006668,3.07,0.49,md,8,106,0.008414,0.01,nc,nc73872070,2023-04-12T08:37:40.912Z,"7km WNW of Cobb, CA",earthquake,0.65,0.97,0.28,11,automatic,nc,nc
 2023-04-12T08:33:35.110Z,38.8306656,-122.8136673,2.38,1.28,md,20,47,0.007784,0.02,nc,nc73872060,2023-04-12T08:35:10.758Z,"8km NW of The Geysers, CA",earthquake,0.23,0.59,0.1,21,automatic,nc,nc
@@ -113,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T05:43:15.020Z,17.9078333333333,-66.9543333333333,15.12,2.24,md,5,240,0.09786,0.07,pr,pr71404408,2023-04-12T06:23:28.790Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.84,0.61,0.0198144268642371,4,reviewed,pr,pr
 2023-04-12T05:42:55.020Z,38.8521652,-122.8008347,1.79,1.56,md,10,127,0.003943,0.01,nc,nc73871240,2023-04-12T05:44:30.663Z,"8km WNW of Cobb, CA",earthquake,0.59,1.08,0.48,5,automatic,nc,nc
 2023-04-12T05:42:41.250Z,38.8305016,-122.8141632,2.27,1.12,md,13,79,0.01789,0.01,nc,nc73871230,2023-04-12T06:25:14.341Z,"8km NW of The Geysers, CA",earthquake,0.32,0.9,0.2,12,automatic,nc,nc
-2023-04-12T05:42:33.130Z,38.8279991,-122.8144989,0.03,2.11,md,17,45,0.01676,0.02,nc,nc73871225,2023-04-12T06:10:27.242Z,"8km NW of The Geysers, CA",earthquake,0.15,0.78,0.09,16,automatic,nc,nc
+2023-04-12T05:42:33.130Z,38.8279991,-122.8144989,0.03,2.11,md,17,45,0.01676,0.02,nc,nc73871225,2023-04-12T08:48:11.275Z,"8km NW of The Geysers, CA",earthquake,0.15,0.78,0.09,16,automatic,nc,nc
 2023-04-12T05:42:25.760Z,38.847332,-122.8073349,0.45,2.45,md,21,54,0.01095,0.02,nc,nc73871260,2023-04-12T07:04:31.211Z,"8km WNW of Cobb, CA",earthquake,0.17,0.35,0.38,11,automatic,nc,nc
 2023-04-12T05:41:51.080Z,38.8356667,-122.8101654,2.03,1.91,md,16,56,0.01225,0.03,nc,nc73871220,2023-04-12T06:10:26.243Z,"8km WNW of Cobb, CA",earthquake,0.23,0.58,0.36,18,automatic,nc,nc
 2023-04-12T05:41:26.650Z,38.848999,-122.8051682,1.66,2.14,md,22,59,0.008573,0.02,nc,nc73871210,2023-04-12T08:35:11.410Z,"8km WNW of Cobb, CA",earthquake,0.25,0.33,0.15,22,automatic,nc,nc
@@ -380,4 +382,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T08:59:44.600Z,51.0055,-176.2885,44.008,3.9,mb,50,205,0.912,0.84,us,us6000k3gf,2023-04-11T14:08:46.526Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,8.75,10.448,0.076,45,reviewed,us,us
 2023-04-11T08:57:07.590Z,38.8364983,-122.8031693,2.31,0.79,md,11,59,0.0102,0.01,nc,nc73870575,2023-04-11T11:00:18.073Z,"7km WNW of Cobb, CA",earthquake,0.34,1.23,0.15,13,automatic,nc,nc
 2023-04-11T08:51:09.620Z,17.9305,-66.968,15.43,2.24,md,4,237,0.08224,0.07,pr,pr71404053,2023-04-11T08:59:05.110Z,"Puerto Rico region",earthquake,1,1.01,0.165326305362895,3,reviewed,pr,pr
-2023-04-11T08:43:18.410Z,38.8246651,-122.8099976,3.4,0.75,md,9,95,0.00127,0.01,nc,nc73870570,2023-04-11T09:10:16.405Z,"7km NW of The Geysers, CA",earthquake,0.47,2.32,0.42,11,automatic,nc,nc
