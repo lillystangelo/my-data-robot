@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-13T08:33:08.380Z,38.8288345,-122.8081665,0.53,1.09,md,24,41,0.005632,0.03,nc,nc73873050,2023-04-13T08:34:42.786Z,"7km NW of The Geysers, CA",earthquake,0.16,0.39,0.18,24,automatic,nc,nc
+2023-04-13T08:31:38.740Z,19.408166885376,-155.241333007812,1.47000002861023,2.23,ml,28,53,,0.189999998,hv,hv73362462,2023-04-13T08:37:08.970Z,"3 km SSW of Volcano, Hawaii",earthquake,0.22,0.270000011,0.2,8,automatic,hv,hv
+2023-04-13T08:29:39.990Z,38.793499,-122.7628326,2.08,1.64,md,31,64,0.007522,0.06,nc,nc73873045,2023-04-13T08:32:34.010Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.41,0.18,32,automatic,nc,nc
 2023-04-13T08:21:11.511Z,35.01421738,-97.67111969,2.119015694,1.79,ml,17,58.38555908,0.1148809716,0.7026949661,ok,ok2023hezv,2023-04-13T08:23:33.550Z,"4 km WSW of Dibble, Oklahoma",earthquake,2.487674017,2.215681231,0.22,11,automatic,ok,ok
 2023-04-13T08:15:38.270Z,34.2913333,-117.0791667,1.97,1.31,ml,22,87,0.1343,0.16,ci,ci40440384,2023-04-13T08:19:23.386Z,"10km NNE of Running Springs, CA",earthquake,0.31,0.74,0.193,31,automatic,ci,ci
 2023-04-13T08:08:33.484Z,61.687,-149.8826,55.4,1.6,ml,,,,0.47,ak,ak0234qh600k,2023-04-13T08:10:58.190Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -316,7 +319,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T08:57:54.370Z,19.2486667633057,-155.394500732422,31.6499996185303,2.27999997,md,35,152,,0.119999997,hv,hv73361837,2023-04-12T09:01:03.520Z,"Island of Hawaii, Hawaii",earthquake,0.6,0.860000014,1.36000001,16,automatic,hv,hv
 2023-04-12T08:53:07.260Z,39.4399986,-122.9250031,0.1,2.05,md,17,160,0.1707,0.14,nc,nc73872085,2023-04-12T09:49:13.780Z,"4km NE of Lake Pillsbury, CA",earthquake,0.51,11.03,0.21,13,automatic,nc,nc
 2023-04-12T08:41:25.300Z,38.831501,-122.8021698,2.16,1.07,md,12,62,0.01018,0.07,nc,nc73872080,2023-04-12T08:43:00.924Z,"7km W of Cobb, CA",earthquake,0.36,0.89,0.35,14,automatic,nc,nc
-2023-04-12T08:39:47.970Z,35.4345,-118.3086667,11.49,1.27,ml,25,56,0.1697,0.16,ci,ci40439976,2023-04-12T17:51:20.785Z,"24km SE of Bodfish, CA",earthquake,0.19,0.8,0.087,13,reviewed,ci,ci
-2023-04-12T08:37:52.870Z,38.8264999,-122.807663,0.99,0.21,md,7,155,0.003628,0.01,nc,nc73872075,2023-04-12T08:58:11.336Z,"7km NW of The Geysers, CA",earthquake,0.66,1.18,0.06,7,automatic,nc,nc
-2023-04-12T08:36:04.190Z,38.8359985,-122.8006668,3.07,0.49,md,8,106,0.008414,0.01,nc,nc73872070,2023-04-12T08:37:40.912Z,"7km WNW of Cobb, CA",earthquake,0.65,0.97,0.28,11,automatic,nc,nc
-2023-04-12T08:33:35.110Z,38.8306656,-122.8136673,2.38,1.28,md,20,47,0.007784,0.02,nc,nc73872060,2023-04-12T09:49:13.648Z,"8km NW of The Geysers, CA",earthquake,0.23,0.59,0.1,21,automatic,nc,nc
