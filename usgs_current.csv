@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T09:50:08.100Z,51.8653333333333,-178.084666666667,-1.77,0.83,ml,5,197,,0.21,av,av91847911,2023-04-14T19:55:03.120Z,"99 km W of Adak, Alaska",earthquake,0.64,1.65,0.221571296001198,5,reviewed,av,av
 2023-04-14T09:50:04.780Z,36.928,-113.6288333,19.66,1.1,md,10,233,0.1205,0.09,uu,uu60537091,2023-04-14T14:19:32.980Z,"19 km SSW of Saint George, Utah",earthquake,0.82,0.63,0.283,6,reviewed,uu,uu
 2023-04-14T09:42:51.672Z,62.1553,-149.4659,48.7,1.1,ml,,,,0.68,ak,ak0234s5i3v3,2023-04-14T09:45:47.459Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-04-14T09:21:25.520Z,37.5993347,-118.9104996,2.61,0.94,md,8,208,0.01331,0.02,nc,nc73873515,2023-04-14T09:47:16.328Z,"7km SE of Mammoth Lakes, CA",earthquake,0.81,0.87,0.11,8,automatic,nc,nc
