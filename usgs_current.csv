@@ -221,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T04:03:59.770Z,19.1751670837402,-155.474166870117,33.5299987792969,2.41,ml,40,79,,0.109999999,hv,hv73363357,2023-04-14T04:09:37.440Z,"3 km S of Pāhala, Hawaii",earthquake,0.53,0.730000019,5.53,3,automatic,hv,hv
 2023-04-14T03:53:06.990Z,34.1891667,-117.4363333,3.69,0.76,ml,11,106,0.008129,0.11,ci,ci40440680,2023-04-14T15:46:58.164Z,"5km SW of Devore, CA",earthquake,0.26,0.5,0.081,3,reviewed,ci,ci
 2023-04-14T03:52:21.651Z,61.5889,-151.7446,13.8,1.1,ml,,,,0.04,ak,ak0234s1zl2t,2023-04-14T23:11:31.510Z,"48 km SSW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-14T03:47:56.500Z,33.38,-116.878,13.41,0.77,ml,30,50,0.1053,0.16,ci,ci40440672,2023-04-14T18:32:42.714Z,"3km NNW of Palomar Observatory, CA",earthquake,0.26,0.68,0.154,14,reviewed,ci,ci
-2023-04-14T03:45:58.966Z,32.0636,50.0818,10,4.5,mb,49,62,7.64,0.7,us,us6000k48e,2023-04-14T04:10:53.040Z,"50 km WSW of Fārsān, Iran",earthquake,3.4,1.869,0.081,45,reviewed,us,us
