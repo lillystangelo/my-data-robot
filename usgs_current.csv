@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-17T21:08:40.220Z,19.382999420166,-155.276504516602,3.6800000667572,1.80999994,md,20,67,,0.219999999,hv,hv73367452,2023-04-17T21:11:36.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.42,0.49000001,1.10000002,11,automatic,hv,hv
 2023-04-17T20:55:52.733Z,61.2696,-145.4997,24.1,1.8,ml,,,,0.59,ak,ak0234xaqpe1,2023-04-17T20:57:40.219Z,"46 km SSW of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-17T20:55:01.285Z,31.65891069,-104.3600458,6.388647461,3.5,ml,22,69,0.06143631365,0.3,tx,tx2023hngs,2023-04-17T21:16:09.624Z,"57 km S of Whites City, New Mexico",earthquake,1.243308607,1.254367582,0.2,15,reviewed,tx,tx
+2023-04-17T20:55:01.285Z,31.65891069,-104.3600458,6.388647461,3.5,ml,22,69,0.06143631365,0.3,tx,tx2023hngs,2023-04-17T21:24:54.862Z,"57 km S of Whites City, New Mexico",earthquake,1.243308607,1.254367582,0.2,15,reviewed,tx,tx
 2023-04-17T20:47:22.689Z,31.67400592,-104.3714802,6.285815430000001,2.6,ml,18,68,0.05461755525,0.2,tx,tx2023hngm,2023-04-17T21:02:22.136Z,"55 km S of Whites City, New Mexico",earthquake,0.9381091238,1.056836282,0.2,11,reviewed,tx,tx
 2023-04-17T20:30:41.570Z,34.0171667,-117.4611667,0.33,1.07,ml,21,96,0.07501,0.4,ci,ci40442072,2023-04-17T20:34:31.174Z,"2km ENE of Glen Avon, CA",earthquake,0.89,31.61,0.176,29,automatic,ci,ci
 2023-04-17T20:06:29.461Z,-4.4649,143.2355,78.845,5,mb,58,30,6.265,1.08,us,us6000k55j,2023-04-17T20:54:54.705Z,"53 km ESE of Ambunti, Papua New Guinea",earthquake,10.23,5.563,0.069,67,reviewed,us,us
@@ -163,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T04:30:44.260Z,44.3775,-110.6808333,1.98,0.97,md,17,85,0.07706,0.13,uu,uu60537376,2023-04-17T18:32:23.930Z,"46 km SE of West Yellowstone, Montana",earthquake,0.35,0.78,0.37,12,reviewed,uu,uu
 2023-04-17T04:29:22.640Z,44.3773333,-110.6776667,3.89,1.03,md,16,85,0.07489,0.12,uu,uu60537371,2023-04-17T20:14:58.520Z,"46 km SE of West Yellowstone, Montana",earthquake,0.37,0.54,0.53,12,reviewed,uu,uu
 2023-04-17T04:27:39.250Z,44.3731667,-110.667,4.19,0.92,md,11,88,0.0687,0.09,uu,uu60537366,2023-04-17T20:17:04.380Z,"47 km SE of West Yellowstone, Montana",earthquake,0.42,0.51,0.501,8,reviewed,uu,uu
-2023-04-17T04:25:03.690Z,44.3648333,-110.6718333,3.97,0.9,md,9,92,0.07496,0.07,uu,uu60537361,2023-04-17T20:18:39.480Z,"47 km SE of West Yellowstone, Montana",earthquake,0.43,0.65,0.381,7,reviewed,uu,uu
+2023-04-17T04:25:03.690Z,44.3648333,-110.6718333,3.97,0.9,md,9,92,0.07496,0.07,uu,uu60537361,2023-04-17T20:18:39.480Z,"Wyoming",earthquake,0.43,0.65,0.381,7,reviewed,uu,uu
 2023-04-17T04:24:42.750Z,44.3653333,-110.6638333,2.34,0.94,md,6,144,0.06953,0.13,uu,uu60033179,2023-04-17T20:20:45.250Z,"48 km SE of West Yellowstone, Montana",earthquake,1.1,8,0.344,4,reviewed,uu,uu
 2023-04-17T04:21:41.310Z,19.1596666666667,-155.487666666667,31.35,1.56,md,19,206,,0.1,hv,hv73366247,2023-04-17T07:02:09.850Z,"Island of Hawaii, Hawaii",earthquake,0.69,0.81,0.123675889859931,11,reviewed,hv,hv
 2023-04-17T04:17:59.340Z,33.6761667,-116.6868333,16.1,0.56,ml,30,55,0.01307,0.11,ci,ci40441736,2023-04-17T19:46:30.074Z,"8km SSE of Idyllwild, CA",earthquake,0.2,0.35,0.121,17,reviewed,ci,ci
