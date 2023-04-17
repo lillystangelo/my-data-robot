@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-17T14:50:31.580Z,38.8103333,-122.7925034,2.63,1.07,md,19,44,0.003219,0.01,nc,nc73874725,2023-04-17T14:52:10.536Z,"5km NW of The Geysers, CA",earthquake,0.25,0.62,0.09,19,automatic,nc,nc
 2023-04-17T14:28:48.759Z,60.4383,-142.963,14.9,1.2,ml,,,,0.11,ak,ak0234x70b4b,2023-04-17T14:31:26.125Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-17T14:19:13.917Z,31.66236579,-104.3587298,2.455322266,2.6,ml,8,70,0.06280171428,0.1,tx,tx2023hmtr,2023-04-17T14:40:40.101Z,"56 km S of Whites City, New Mexico",earthquake,1.058173853,1.940105784,0.2,11,reviewed,tx,tx
 2023-04-17T14:12:04.992Z,38.1208,-117.9905,1.8,1.4,ml,8,125.23,0.078,0.2138,nn,nn00858300,2023-04-17T14:14:52.164Z,"Nevada",earthquake,,2.4,0.28,4,automatic,nn,nn
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T13:51:08.770Z,38.8136673,-122.8136673,3.04,0.26,md,8,157,0.01011,0.01,nc,nc73874715,2023-04-17T14:21:15.690Z,"6km NW of The Geysers, CA",earthquake,0.61,1.29,0.16,8,automatic,nc,nc
 2023-04-17T13:30:25.510Z,38.7599983,-122.7044983,1.07,1,md,6,195,0.009129,0.04,nc,nc73874710,2023-04-17T14:11:17.620Z,"2km SSW of Anderson Springs, CA",earthquake,0.85,0.61,0.17,7,automatic,nc,nc
 2023-04-17T13:26:33.187Z,-31.8579,-178.82,10,5.2,mb,65,71,2.701,1.18,us,us6000k51u,2023-04-17T13:56:28.040Z,"Kermadec Islands region",earthquake,5.3,1.661,0.086,44,reviewed,us,us
-2023-04-17T13:26:23.420Z,38.7823334,-122.7245026,1.4,1.48,md,17,80,0.02426,0.02,nc,nc73874700,2023-04-17T14:01:11.551Z,"3km ENE of The Geysers, CA",earthquake,0.23,0.59,0.19,19,automatic,nc,nc
+2023-04-17T13:26:23.420Z,38.7823334,-122.7245026,1.4,1.48,md,17,80,0.02426,0.02,nc,nc73874700,2023-04-17T14:54:15.921Z,"3km ENE of The Geysers, CA",earthquake,0.23,0.59,0.19,19,automatic,nc,nc
 2023-04-17T13:22:00.470Z,38.8318329,-122.8164978,1.71,0.36,md,8,83,0.009806,0.01,nc,nc73874695,2023-04-17T14:21:16.689Z,"8km NW of The Geysers, CA",earthquake,0.45,1.41,0.27,10,automatic,nc,nc
 2023-04-17T13:08:18.702Z,59.9278,-152.606,76.1,2,ml,,,,0.51,ak,ak0234x6aivi,2023-04-17T13:09:58.102Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-17T13:07:40.350Z,19.2678337097168,-155.404327392578,31.7700004577637,2.88,ml,44,121,,0.119999997,hv,hv73366972,2023-04-17T13:14:32.003Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.699999988,1.88,23,automatic,hv,hv
@@ -198,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T15:33:49.760Z,39.918335,-123.5801697,-0.74,2.13,md,12,112,0.113,0.22,nc,nc73874240,2023-04-16T16:01:14.572Z,"27km NNW of Laytonville, CA",earthquake,0.56,8.89,0.1,8,automatic,nc,nc
 2023-04-16T15:23:27.389Z,38.1429,-117.9704,7.4,3.3,ml,17,63.82,0.057,0.2159,nn,nn00858273,2023-04-17T06:58:41.902Z,"30 km SSE of Mina, Nevada",earthquake,,0.9,0.42,10,reviewed,nn,nn
 2023-04-16T15:00:32.510Z,19.41233253479,-155.280670166016,0.5,1.79999995,md,12,79,,0.209999993,hv,hv73365602,2023-04-16T15:03:27.820Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.300000012,1.27999997,10,automatic,hv,hv
-2023-04-16T14:48:16.910Z,44.3538333,-110.6738333,3.77,2.02,ml,19,99,0.08127,0.14,uu,uu60537256,2023-04-17T14:06:15.890Z,"48 km SE of West Yellowstone, Montana",earthquake,0.28,0.61,0.332,3,reviewed,uu,uu
