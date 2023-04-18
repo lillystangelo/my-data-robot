@@ -194,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T06:37:13.620Z,33.8851667,-120.455,2.07,2.26,ml,20,281,0.1753,0.17,ci,ci40441768,2023-04-17T20:07:28.278Z,"18km SSW of San Miguel Is., CA",earthquake,0.65,0.26,0.114,13,reviewed,ci,ci
 2023-04-17T06:35:07.630Z,44.3708333,-110.6646667,3.62,1.24,md,7,141,0.06791,0.09,uu,uu60537416,2023-04-17T19:08:57.500Z,"47 km SE of West Yellowstone, Montana",earthquake,0.59,0.99,0.298,6,reviewed,uu,uu
 2023-04-17T06:33:20.910Z,44.3678333,-110.6803333,4.75,0.6,md,9,138,0.07949,0.04,uu,uu60537411,2023-04-17T15:21:45.110Z,"46 km SE of West Yellowstone, Montana",earthquake,0.34,0.44,0.416,6,reviewed,uu,uu
-2023-04-17T06:24:46.131Z,60.4956,-143.0284,0,1.5,ml,,,,0.66,ak,ak0234x27z7p,2023-04-17T06:26:29.610Z,"104 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-17T06:20:58.760Z,38.831665,-122.8166656,1.33,0.92,md,16,53,0.009732,0.02,nc,nc73874565,2023-04-17T06:53:17.963Z,"8km NW of The Geysers, CA",earthquake,0.22,0.63,0.2,18,automatic,nc,nc
