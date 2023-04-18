@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-18T05:24:54.617Z,62.7374,-149.5447,56.7,1.6,ml,,,,0.7,ak,ak0234yp5wr9,2023-04-18T05:26:45.685Z,"43 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-18T05:24:11.820Z,38.8535004,-122.7748337,1.65,1.01,md,9,218,0.01095,0.02,nc,nc73874975,2023-04-18T05:25:45.925Z,"6km NW of Cobb, CA",earthquake,0.78,0.92,0.08,9,automatic,nc,nc
+2023-04-18T05:24:11.820Z,38.8535004,-122.7748337,1.65,1.01,md,9,218,0.01095,0.02,nc,nc73874975,2023-04-18T05:29:53.915Z,"6km NW of Cobb, CA",earthquake,0.78,0.92,0.08,9,automatic,nc,nc
 2023-04-18T05:23:06.936Z,61.24,-143.5481,17.3,1.1,ml,,,,0.17,ak,ak0234yp5ld1,2023-04-18T05:25:16.389Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-18T05:22:40.390Z,33.4875,-116.44,12.59,0.74,ml,19,95,0.1032,0.21,ci,ci40442248,2023-04-18T05:26:10.224Z,"23km ESE of Anza, CA",earthquake,0.42,0.98,0.128,18,automatic,ci,ci
 2023-04-18T05:15:21.500Z,38.8351669,-122.7891693,1.99,0.78,md,12,69,0.003365,0.01,nc,nc73874965,2023-04-18T05:16:55.846Z,"6km WNW of Cobb, CA",earthquake,0.44,0.96,0.2,12,automatic,nc,nc
@@ -194,7 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T06:07:46.476Z,38.1555,-117.835,10.2,2,ml,8,88.85,0.126,0.1289,nn,nn00858295,2023-04-17T16:02:29.256Z,"35 km SE of Mina, Nevada",earthquake,,1.6,0.26,5,reviewed,nn,nn
 2023-04-17T05:45:49.750Z,33.708,-116.8338333,14.57,0.58,ml,18,114,0.07787,0.18,ci,ci40441760,2023-04-17T13:56:25.141Z,"7km SE of Valle Vista, CA",earthquake,0.43,0.43,0.19,12,reviewed,ci,ci
 2023-04-17T05:37:39.310Z,51.849,-178.059166666667,-1.8,2.78,ml,7,120,,0.24,av,av91852301,2023-04-17T18:57:01.660Z,"98 km W of Adak, Alaska",earthquake,0.54,1.48,0.26602861767437,7,reviewed,av,av
-2023-04-17T05:36:19.050Z,51.8531666666667,-178.0475,-1.8,2.31,ml,5,159,,0.13,av,av91852296,2023-04-17T18:53:56.750Z,"97 km W of Adak, Alaska",earthquake,0.37,0.97,0.265374429614651,5,reviewed,av,av
-2023-04-17T05:35:28.610Z,33.4641667,-116.5766667,8.93,0.36,ml,19,103,0.03719,0.08,ci,ci40441752,2023-04-17T20:02:04.148Z,"14km SE of Anza, CA",earthquake,0.17,0.28,0.094,7,reviewed,ci,ci
-2023-04-17T05:27:44.000Z,44.3726667,-110.6705,4.17,0.76,md,9,139,0.07124,0.1,uu,uu60537406,2023-04-17T19:01:43.800Z,"47 km SE of West Yellowstone, Montana",earthquake,0.47,0.76,0.617,8,reviewed,uu,uu
-2023-04-17T05:27:13.310Z,19.1306666666667,-155.9125,44.05,3.61,ml,47,237,,0.12,hv,hv73366297,2023-04-17T17:26:38.150Z,"16 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.44,0.47,0.163629382665122,28,reviewed,hv,hv
