@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-21T07:41:56.620Z,38.7771683,-122.803833,16.17,0.9,md,8,160,0.02026,0.06,nc,nc73876160,2023-04-21T07:43:33.360Z,"4km W of The Geysers, CA",earthquake,2.4,1.4,0.26,4,automatic,nc,nc
+2023-04-21T07:41:56.620Z,38.7771683,-122.803833,16.17,0.9,md,8,160,0.02026,0.06,nc,nc73876160,2023-04-21T07:53:11.677Z,"4km W of The Geysers, CA",earthquake,2.4,1.4,0.26,4,automatic,nc,nc
 2023-04-21T07:39:11.721Z,63.8301,-149.4085,125.7,1.7,ml,,,,0.55,ak,ak02353p1xvo,2023-04-21T07:41:34.027Z,"21 km W of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-04-21T07:38:22.263Z,30.6555,132.3071,10,4.5,mb,33,126,1.804,0.56,us,us6000k5yt,2023-04-21T07:55:43.040Z,"125 km E of Nishinoomote, Japan",earthquake,3.02,1.888,0.116,22,reviewed,us,us
 2023-04-21T07:34:20.400Z,33.9446667,-116.8248333,7.85,0.81,ml,29,81,0.09136,0.17,ci,ci40443568,2023-04-21T07:37:48.792Z,"5km NW of Cabazon, CA",earthquake,0.28,0.91,0.164,24,automatic,ci,ci
 2023-04-21T07:20:33.470Z,17.9481666666667,-66.97,15.12,2.26,md,7,222,0.09042,0.11,pr,pr71406013,2023-04-21T07:45:59.640Z,"Puerto Rico region",earthquake,0.65,0.67,0.0266155225548068,4,reviewed,pr,pr
 2023-04-21T07:11:10.730Z,35.6398333,-117.4723333,3.46,1.79,ml,26,51,0.04695,0.16,ci,ci40443560,2023-04-21T07:21:40.940Z,"16km SSW of Searles Valley, CA",earthquake,0.31,1.01,0.15,26,automatic,ci,ci
