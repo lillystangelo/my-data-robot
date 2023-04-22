@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-22T21:24:01.232Z,55.5238,-157.9494,10,4,ml,,,,1.07,ak,ak02355ku4aj,2023-04-22T21:25:26.229Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2023-04-22T21:24:01.232Z,55.5238,-157.9494,10,4,ml,,,,1.07,ak,ak02355ku4aj,2023-04-22T21:28:14.753Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-04-22T21:22:33.036Z,64.5564,-149.8198,18,2.9,ml,,,,0.45,ak,ak02355ktrbb,2023-04-22T21:24:12.924Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-22T20:51:19.010Z,33.6478333,-116.7175,12.92,1.38,ml,50,33,0.06323,0.19,ci,ci40444256,2023-04-22T21:02:14.850Z,"10km S of Idyllwild, CA",earthquake,0.2,0.36,0.275,27,automatic,ci,ci
 2023-04-22T20:49:38.490Z,38.7956657,-122.76017,1.33,0.75,md,11,186,0.02183,0.04,nc,nc73876700,2023-04-22T21:11:12.230Z,"2km N of The Geysers, CA",earthquake,0.65,0.77,0.13,11,automatic,nc,nc
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T20:32:20.009Z,61.463,-147.4098,20.2,1.4,ml,,,,0.89,ak,ak02355kaftp,2023-04-22T20:34:29.921Z,"40 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-22T20:30:52.194Z,63.2882,-150.9842,3.5,2.2,ml,,,,0.77,ak,ak02355ka2wz,2023-04-22T20:33:05.670Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-22T20:27:06.958Z,57.9012,-155.9669,17.9,1.5,ml,,,,0.55,ak,ak02355k9c9z,2023-04-22T20:28:56.326Z,"90 km ESE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-22T20:17:16.500Z,18.8403333333333,-66.0798333333333,27.53,3.37,md,13,234,0.5284,0.11,pr,pr71406333,2023-04-22T20:37:38.620Z,"41 km N of San Juan, Puerto Rico",earthquake,0.65,4.3,0.0590630829141645,3,reviewed,pr,pr
+2023-04-22T20:17:16.500Z,18.8403333333333,-66.0798333333333,27.53,3.37,md,13,234,0.5284,0.11,pr,pr71406333,2023-04-22T21:29:28.855Z,"41 km N of San Juan, Puerto Rico",earthquake,0.65,4.3,0.0590630829141645,3,reviewed,pr,pr
 2023-04-22T20:09:23.530Z,35.7781667,-117.601,8.96,1.55,ml,22,122,0.0376,0.17,ci,ci40444248,2023-04-22T20:20:25.030Z,"18km W of Searles Valley, CA",earthquake,0.29,0.73,0.187,21,automatic,ci,ci
 2023-04-22T20:02:42.770Z,38.8218346,-122.8266678,2.08,0.76,md,17,70,0.006656,0.03,nc,nc73876670,2023-04-22T20:21:14.928Z,"8km NW of The Geysers, CA",earthquake,0.24,0.47,0.13,17,automatic,nc,nc
 2023-04-22T19:47:42.217Z,65.0307,-147.0459,0,1.4,ml,,,,0.42,ak,ak02355js9pp,2023-04-22T19:49:25.056Z,"17 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
