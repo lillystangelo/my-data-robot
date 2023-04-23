@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-23T14:35:27.990Z,35.509,-118.3851667,3.68,0.75,ml,8,141,0.1877,0.06,ci,ci40444512,2023-04-23T14:38:50.958Z,"13km SE of Bodfish, CA",earthquake,0.31,0.75,0.173,5,automatic,ci,ci
 2023-04-23T14:18:07.890Z,19.4218330383301,-155.241668701172,1.92999994754791,1.73000002,md,15,125,,0.150000006,hv,hv73373712,2023-04-23T14:21:10.570Z,"Island of Hawaii, Hawaii",earthquake,0.29,0.349999994,0.150000006,10,automatic,hv,hv
 2023-04-23T13:53:29.117Z,37.1924,-115.3394,0.3,0.9,ml,11,256.3,0.519,0.3065,nn,nn00858563,2023-04-23T13:55:43.837Z,"24 km SW of Alamo, Nevada",earthquake,,50.3,0.16,5,automatic,nn,nn
 2023-04-23T13:53:13.830Z,36.4718323,-121.0475006,6.87,1.69,md,13,151,0.05232,0.08,nc,nc73876950,2023-04-23T14:10:15.620Z,"11km SE of Pinnacles, CA",earthquake,0.61,1.37,0.18,12,automatic,nc,nc
@@ -64,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T05:01:43.060Z,19.1408,-64.7235,27,3.39,md,8,295,0.8221,0.15,pr,pr2023113002,2023-04-23T05:32:30.706Z,"Virgin Islands",earthquake,1.46,14.65,0.08,4,reviewed,pr,pr
 2023-04-23T04:48:43.650Z,33.4288333,-116.9198333,6.57,1.23,ml,50,27,0.08898,0.21,ci,ci40444352,2023-04-23T14:01:47.690Z,"5km WSW of Aguanga, CA",earthquake,0.2,0.63,0.171,26,reviewed,ci,ci
 2023-04-23T04:35:58.060Z,63.4992,-147.8603,15.9,1.2,ml,,,,0.47,ak,ak02356ybkri,2023-04-23T04:38:23.814Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-04-23T04:15:35.285Z,63.1838,-150.6271,110.9,1.1,ml,,,,0.51,ak,ak02356y78yb,2023-04-23T12:20:56.795Z,"Central Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2023-04-23T04:15:35.285Z,63.1838,-150.6271,110.9,1.1,ml,,,,0.51,ak,ak02356y78yb,2023-04-23T12:20:56.795Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-04-23T04:03:37.520Z,19.2331657409668,-155.380661010742,31.5699996948242,2.48000002,md,24,168,,0.129999995,hv,hv73373287,2023-04-23T04:07:47.243Z,"Island of Hawaii, Hawaii",earthquake,0.76,1.12,1.48000002,3,automatic,hv,hv
 2023-04-23T04:01:26.660Z,38.8393326,-122.8236694,1.65,0.25,md,10,65,0.009259,0.02,nc,nc73876815,2023-04-23T06:46:10.907Z,"9km WNW of Cobb, CA",earthquake,0.29,0.88,0.15,11,automatic,nc,nc
 2023-04-23T03:59:46.084Z,60.0697,-153.2918,149.6,1.5,ml,,,,0.73,ak,ak02356xv9e6,2023-04-23T04:03:23.631Z,"55 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -192,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-22T15:23:55.990Z,19.2476673126221,-155.388168334961,30.7900009155273,2.47,ml,44,137,,0.150000006,hv,hv73372572,2023-04-23T00:37:34.541Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.649999976,2.16,16,automatic,hv,hv
 2023-04-22T15:07:31.260Z,38.8148346,-122.8046646,1.77,0.76,md,10,87,0.009535,0.01,nc,nc73876595,2023-04-22T15:25:15.174Z,"6km NW of The Geysers, CA",earthquake,0.28,1.07,0.07,11,automatic,nc,nc
 2023-04-22T14:50:36.520Z,38.8286667,-122.800499,1.94,0.5,md,12,87,0.009146,0.03,nc,nc73876590,2023-04-22T17:11:11.869Z,"7km W of Cobb, CA",earthquake,0.34,0.78,0.3,11,automatic,nc,nc
-2023-04-22T14:42:42.533Z,54.6721,-156.8854,26.7,3.5,ml,,,,1,ak,ak02355gs18e,2023-04-22T16:48:47.323Z,"199 km SE of Perryville, Alaska",earthquake,,1.2,,,reviewed,ak,ak
-2023-04-22T14:40:23.310Z,17.9406666666667,-66.9348333333333,11.96,2.7,md,5,224,0.06299,0.22,pr,pr71406283,2023-04-22T14:47:25.850Z,"Puerto Rico region",earthquake,1.92,0.68,0.13280141251062,4,reviewed,pr,pr
