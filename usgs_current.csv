@@ -310,7 +310,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-27T11:40:15.498Z,62.0108,-149.3873,42.3,1.2,ml,,,,0.54,ak,ak0235donz9p,2023-04-27T11:42:13.699Z,"29 km SE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-27T11:36:10.400Z,19.1498336791992,-155.492660522461,33.939998626709,2.04999995,md,44,146,,0.129999995,hv,hv73378797,2023-04-27T11:39:44.210Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.63,0.899999976,0.769999981,17,automatic,hv,hv
 2023-04-27T11:35:47.170Z,35.9575,-117.914,7.95,1.52,ml,19,86,0.08887,0.11,ci,ci40446192,2023-04-27T14:10:55.480Z,"2km NNW of Little Lake, CA",earthquake,0.21,0.53,0.188,17,reviewed,ci,ci
-2023-04-27T11:32:41.047Z,55.7079,-149.1571,5.4,3,ml,,,,0.94,ak,ak0235domho1,2023-04-27T18:33:39.370Z,"285 km SE of Chiniak, Alaska",earthquake,,12.3,,,reviewed,ak,ak
-2023-04-27T11:31:51.500Z,38.8068352,-122.8065033,1.26,0.47,md,9,106,0.008824,0.02,nc,nc73880881,2023-04-27T13:09:11.632Z,"5km NW of The Geysers, CA",earthquake,0.41,0.74,0.2,11,automatic,nc,nc
-2023-04-27T11:28:13.270Z,51.858,-178.097166666667,3.31,0.99,ml,5,216,,0.14,av,av91865256,2023-04-28T00:16:10.990Z,"100 km W of Adak, Alaska",earthquake,0.62,0.47,0.136213758990776,5,reviewed,av,av
-2023-04-27T11:27:59.741Z,41.6291,-120.3799,0,0.5,ml,3,329.2,0.28,0.1869,nn,nn00858784,2023-04-27T22:08:13.570Z,"13 km W of Lake City, California",earthquake,,0,0.63,2,reviewed,nn,nn
