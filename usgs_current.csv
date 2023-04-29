@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-29T06:41:34.910Z,38.8059998,-122.8143311,3.09,1.09,md,25,61,0.01195,0.02,nc,nc73881666,2023-04-29T06:43:08.002Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.47,0.13,25,automatic,nc,nc
+2023-04-29T06:48:53.870Z,36.9343338,-121.579834,8.02,1.12,md,9,118,0.05072,0.03,nc,nc73881671,2023-04-29T06:50:28.543Z,"8km NE of Aromas, CA",earthquake,0.36,0.76,0.29,12,automatic,nc,nc
+2023-04-29T06:46:51.260Z,33.6095,-116.8791667,14.91,0.45,ml,17,61,0.03321,0.12,ci,ci40213951,2023-04-29T06:50:25.111Z,"15km S of Valle Vista, CA",earthquake,0.3,0.56,0.204,11,automatic,ci,ci
+2023-04-29T06:46:20.185Z,60.151,-152.5168,91.4,1.2,ml,,,,0.42,ak,ak0235gwssw2,2023-04-29T06:48:00.254Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-29T06:41:34.910Z,38.8059998,-122.8143311,3.09,1.09,md,25,61,0.01195,0.02,nc,nc73881666,2023-04-29T06:52:11.450Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.47,0.13,25,automatic,nc,nc
 2023-04-29T06:36:04.322Z,64.5048,-152.48,1.7,1.3,ml,,,,0.33,ak,ak0235gwqmi8,2023-04-29T06:37:46.429Z,"69 km N of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-29T06:35:07.410Z,33.4016667,-116.3825,4.88,0.76,ml,25,147,0.1267,0.16,ci,ci40213943,2023-04-29T06:38:43.268Z,"16km N of Borrego Springs, CA",earthquake,0.32,2.17,0.164,17,automatic,ci,ci
 2023-04-29T06:30:11.709Z,57.8531,-156.162,121.1,1.5,ml,,,,0.37,ak,ak0235gwpcs2,2023-04-29T06:32:42.196Z,"82 km ESE of Egegik, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -315,5 +318,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T06:59:44.940Z,32.6883333,-115.5255,8.33,1.61,ml,25,163,0.08628,0.25,ci,ci40212423,2023-04-28T19:52:29.700Z,"3km WNW of Calexico, CA",earthquake,0.57,1.03,0.192,20,reviewed,ci,ci
 2023-04-28T06:59:07.551Z,61.5098,-146.6235,31.5,1.5,ml,,,,0.6,ak,ak0235f9c7qb,2023-04-28T07:09:46.210Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-28T06:56:08.250Z,18.0265,-66.7818333333333,15.89,2.95,md,21,140,0.01127,0.22,pr,pr71407023,2023-04-28T10:48:27.540Z,"1 km NE of Guayanilla, Puerto Rico",earthquake,0.44,0.74,0.133316145002373,7,reviewed,pr,pr
-2023-04-28T06:53:52.169Z,19.446,-108.4235,10,4.5,mb,48,180,6.389,0.77,us,us7000jwkk,2023-04-28T07:26:15.040Z,"Revilla Gigedo Islands region",earthquake,7.19,1.879,0.039,193,reviewed,us,us
-2023-04-28T06:49:52.540Z,32.7048333,-115.5343333,11.06,3.16,ml,57,42,0.06939,0.26,ci,ci40212415,2023-04-28T18:34:25.685Z,"3km S of Heber, CA",earthquake,0.24,0.44,0.133,184,reviewed,ci,ci
