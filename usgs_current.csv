@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-02T11:26:35.520Z,38.8311653,-122.8573303,2.22,1.1,md,21,64,0.003633,0.02,nc,nc73882986,2023-05-02T11:28:12.642Z,"11km NW of The Geysers, CA",earthquake,0.27,0.39,0.23,23,automatic,nc,nc
+2023-05-02T11:26:35.520Z,38.8311653,-122.8573303,2.22,1.1,md,21,64,0.003633,0.02,nc,nc73882986,2023-05-02T11:44:10.648Z,"11km NW of The Geysers, CA",earthquake,0.27,0.39,0.23,23,automatic,nc,nc
 2023-05-02T11:25:12.030Z,33.6715,-116.7598333,16.12,0.74,ml,20,105,0.05491,0.14,ci,ci40217159,2023-05-02T11:28:47.154Z,"8km SSW of Idyllwild, CA",earthquake,0.31,0.53,0.174,17,automatic,ci,ci
 2023-05-02T11:23:41.151Z,61.8749,-146.8582,32.7,1.4,ml,,,,1.31,ak,ak0235ly94jn,2023-05-02T11:25:35.772Z,"13 km SSW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-02T11:08:13.090Z,33.9785,-116.8775,19.08,1.41,ml,46,36,0.08092,0.19,ci,ci40217151,2023-05-02T11:18:40.970Z,"6km N of Banning, CA",earthquake,0.21,0.55,0.179,27,automatic,ci,ci
@@ -154,4 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T12:10:42.520Z,37.2347,-117.636,12.8,0.8,ml,4,152.13,0.008,0.0381,nn,nn00858943,2023-05-01T20:57:56.556Z,"57 km S of Silver Peak, Nevada",earthquake,,5.8,1.05,4,reviewed,nn,nn
 2023-05-01T11:59:58.196Z,-29.8898,-177.1116,10,5.1,mb,38,63,0.942,0.67,us,us7000jxc1,2023-05-01T12:23:34.040Z,"Kermadec Islands, New Zealand",earthquake,9.04,1.877,0.081,49,reviewed,us,us
 2023-05-01T11:56:47.227Z,62.427,-148.6072,33.6,2,ml,,,,0.7,ak,ak0235kawv5e,2023-05-01T11:58:44.652Z,"70 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-01T11:34:39.900Z,38.8063316,-122.8225021,2.32,1.08,md,17,68,0.005798,0.02,nc,nc73882701,2023-05-01T13:52:13.567Z,"7km WNW of The Geysers, CA",earthquake,0.24,0.54,0.21,19,automatic,nc,nc
