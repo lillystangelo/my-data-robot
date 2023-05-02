@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-02T07:30:42.648Z,65.0357,-147.0472,0,1.6,ml,,,,0.45,ak,ak0235lvww94,2023-05-02T07:32:36.875Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-02T07:30:42.648Z,65.0357,-147.0472,0,1.6,ml,,,,0.45,ak,ak0235lvww94,2023-05-02T07:32:36.875Z,"18 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-02T07:09:39.090Z,35.607,-117.4133333,7.46,2,ml,24,53,0.0586,0.16,ci,ci40217119,2023-05-02T07:20:06.720Z,"18km S of Trona, CA",earthquake,0.3,0.75,0.164,26,automatic,ci,ci
 2023-05-02T07:09:35.110Z,38.8171654,-122.8221664,2.04,1.08,md,19,50,0.009932,0.02,nc,nc73882956,2023-05-02T07:26:12.049Z,"7km NW of The Geysers, CA",earthquake,0.24,0.44,0.11,20,automatic,nc,nc
 2023-05-02T07:01:45.277Z,61.4178,-151.7179,73.1,0.6,ml,,,,0.15,ak,ak0235lvqoov,2023-05-02T07:03:25.982Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T06:33:26.710Z,19.408166885376,-155.298004150391,-0.379999995231628,1.72000003,md,11,145,,0.129999995,hv,hv73386417,2023-05-02T06:36:28.760Z,"7 km WSW of Volcano, Hawaii",earthquake,0.28,0.180000007,0.769999981,7,automatic,hv,hv
 2023-05-02T06:20:59.390Z,19.4188333333333,-155.277333333333,0.32,1.79,ml,20,93,,0.09,hv,hv73386412,2023-05-02T06:33:21.690Z,"Island of Hawaii, Hawaii",earthquake,0.15,0.24,0.15911765777952,9,reviewed,hv,hv
 2023-05-02T06:17:55.950Z,38.8214989,-122.7645035,2.09,0.74,md,11,119,0.009905,0.01,nc,nc73882951,2023-05-02T06:35:14.730Z,"4km W of Cobb, CA",earthquake,0.32,0.76,0.05,11,automatic,nc,nc
-2023-05-02T06:10:02.650Z,41.149334,-124.3511658,6.6,2.86,md,18,239,0.2477,0.57,nc,nc73882946,2023-05-02T07:21:11.150Z,"20km WNW of Trinidad, CA",earthquake,3.98,3.5,0.18,13,automatic,nc,nc
+2023-05-02T06:10:02.650Z,41.149334,-124.3511658,6.6,2.86,md,18,239,0.2477,0.57,nc,nc73882946,2023-05-02T07:38:14.117Z,"20km WNW of Trinidad, CA",earthquake,3.98,3.5,0.18,13,automatic,nc,nc
 2023-05-02T06:06:42.340Z,40.3273315,-121.8980026,-0.65,2.57,md,13,85,0.08029,0.17,nc,nc73882941,2023-05-02T06:55:11.862Z,"11km SSW of Manton, CA",earthquake,0.57,3.66,0.12,16,automatic,nc,nc
 2023-05-02T06:02:41.880Z,17.9395,-66.9343333333333,15.32,2.6,md,13,215,0.04069,0.12,pr,pr71407498,2023-05-02T06:15:36.310Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.54,0.45,0.049892778667056,5,reviewed,pr,pr
 2023-05-02T06:01:24.222Z,63.3226,-149.8471,111.3,1.2,ml,,,,0.23,ak,ak0235lv57gm,2023-05-02T06:02:53.201Z,"Central Alaska",earthquake,,4.3,,,automatic,ak,ak
@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T02:43:48.471Z,61.1671,-151.1811,58.2,1.8,ml,,,,0.36,ak,ak0235lt0izj,2023-05-02T02:45:27.143Z,"6 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-02T02:41:22.308Z,63.9394,-148.219,6.8,1.4,ml,,,,0.47,ak,ak0235lt01ja,2023-05-02T02:43:33.845Z,"37 km ENE of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-02T02:35:35.966Z,31.7241399,-104.346737,7.018493652,2.9,ml,18,72,0.06319279651,0.4,tx,tx2023inhb,2023-05-02T02:51:56.409Z,"50 km S of Whites City, New Mexico",earthquake,0.5029537979,0.8976505016,0.2,14,reviewed,tx,tx
+2023-05-02T02:34:34.322Z,31.72595746,-104.3687014,6.080151367,1.8,ml,27,79,0.04949674926,0.2,tx,tx2023ingz,2023-05-02T07:40:22.409Z,"49 km S of Whites City, New Mexico",earthquake,0.5886235376,0.7826165384,0.1,23,reviewed,tx,tx
 2023-05-02T02:15:11.350Z,36.2625007629395,-89.4485015869141,4.59000015258789,2.3599999,md,32,48,0.05093,0.25,nm,nm60523246,2023-05-02T05:04:31.040Z,"3 km E of Ridgely, Tennessee",earthquake,0.38,0.600000024,1.29999995,29,reviewed,nm,nm
 2023-05-02T02:12:26.369Z,39.8117,-120.7372,6.7,1.2,ml,6,247.2,0.295,0.1306,nn,nn00858953,2023-05-02T03:17:16.116Z,"Northern California",earthquake,,3.6,0.49,5,reviewed,nn,nn
 2023-05-02T02:06:28.360Z,38.8536682,-122.7986679,3.29,0.33,md,7,80,0.001683,0.02,nc,nc73882901,2023-05-02T02:23:18.201Z,"7km WNW of Cobb, CA",earthquake,1.12,3.32,0.21,9,automatic,nc,nc
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T07:59:37.624Z,25.9356,128.5466,10,5.4,mww,89,62,0.93,0.43,us,us7000jxba,2023-05-01T10:12:09.924Z,"80 km ESE of Katsuren-haebaru, Japan",earthquake,4.98,1.775,0.086,13,reviewed,us,us
 2023-05-01T07:54:05.629Z,-9.4288,148.6374,10,4.9,mb,47,117,1.458,0.64,us,us7000jxb8,2023-05-01T08:40:09.040Z,"85 km SSE of Popondetta, Papua New Guinea",earthquake,8.1,1.892,0.065,74,reviewed,us,us
 2023-05-01T07:51:58.660Z,33.5845,-116.8048333,7.89,1.01,ml,38,41,0.03522,0.15,ci,ci40216495,2023-05-01T13:16:31.400Z,"13km WNW of Anza, CA",earthquake,0.19,0.44,0.142,25,reviewed,ci,ci
-2023-05-01T07:44:59.824Z,40.0712,-119.7016,14,-0.2,ml,3,230,0.102,0.0777,nn,nn00858933,2023-05-01T15:08:53.302Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,3.2,0,1,reviewed,nn,nn
