@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-04T13:51:11.080Z,38.8378334,-122.8088303,2.02,0.22,md,10,57,0.01445,0.02,nc,nc73883791,2023-05-04T13:52:47.951Z,"8km WNW of Cobb, CA",earthquake,0.42,1.23,0.11,9,automatic,nc,nc
-2023-05-04T13:26:58.420Z,19.4103336334229,-155.289337158203,0.740000009536743,1.80999994,md,9,100,,0.100000001,hv,hv73389107,2023-05-04T13:29:59.510Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.300000012,1.15999997,7,automatic,hv,hv
+2023-05-04T14:10:44.292Z,36.2616,-115.5544,0,1.1,ml,18,287.86,0.518,0.3464,nn,nn00859053,2023-05-04T14:13:15.390Z,"7 km E of Mount Charleston, Nevada",earthquake,,32.6,0.96,14,automatic,nn,nn
+2023-05-04T13:51:11.080Z,38.8378334,-122.8088303,2.02,0.22,md,10,57,0.01445,0.02,nc,nc73883791,2023-05-04T14:08:14.380Z,"8km WNW of Cobb, CA",earthquake,0.42,1.23,0.11,9,automatic,nc,nc
+2023-05-04T13:26:58.420Z,19.4103336334229,-155.289337158203,0.740000009536743,1.80999994,md,9,100,,0.100000001,hv,hv73389107,2023-05-04T14:02:27.932Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.300000012,1.15999997,7,automatic,hv,hv
 2023-05-04T13:26:42.470Z,19.3096675872803,-155.282669067383,10.8299999237061,2.1,ml,16,177,,0.100000001,hv,hv73389102,2023-05-04T13:32:17.430Z,"15 km SSW of Volcano, Hawaii",earthquake,0.61,0.409999996,0.12,4,automatic,hv,hv
 2023-05-04T13:05:01.440Z,36.0391667,-117.8218333,-0.18,1.96,ml,14,100,0.05753,0.21,ci,ci40218863,2023-05-04T13:08:48.399Z,"11km E of Coso Junction, CA",earthquake,0.51,31.61,0.159,24,automatic,ci,ci
 2023-05-04T12:57:23.610Z,35.4843333,-118.2916667,3.24,1.3,ml,19,78,0.134,0.15,ci,ci40218855,2023-05-04T13:06:27.618Z,"22km ESE of Bodfish, CA",earthquake,0.28,0.95,0.207,17,reviewed,ci,ci
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T12:06:00.020Z,38.8059998,-122.7789993,1.52,0.39,md,7,93,0.007367,0.02,nc,nc73883776,2023-05-04T13:38:10.185Z,"4km NNW of The Geysers, CA",earthquake,0.5,1.01,0.17,8,automatic,nc,nc
 2023-05-04T11:58:11.850Z,33.6543333,-116.7391667,10.96,0.63,ml,20,59,0.0604,0.21,ci,ci40218839,2023-05-04T13:06:38.868Z,"10km S of Idyllwild, CA",earthquake,0.47,0.67,0.202,12,reviewed,ci,ci
 2023-05-04T11:57:56.458Z,59.7715,-150.8831,118,1.7,ml,,,,0.85,ak,ak0235p9j525,2023-05-04T12:00:18.564Z,"10 km SSE of Fox River, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-05-04T11:38:17.699Z,35.251,-98.04666667,5.39,2.74,ml,94,48,0.04049205408,0.21,ok,ok2023irpx,2023-05-04T12:55:40.604Z,"Oklahoma",earthquake,,0.4,0.25,45,reviewed,ok,ok
+2023-05-04T11:38:17.699Z,35.251,-98.04666667,5.39,2.74,ml,94,48,0.04049205408,0.21,ok,ok2023irpx,2023-05-04T14:11:33.012Z,"Oklahoma",earthquake,,0.4,0.25,45,reviewed,ok,ok
 2023-05-04T11:37:43.905Z,63.1312,-148.7585,5.3,1.5,ml,,,,0.35,ak,ak0235p9etrq,2023-05-04T11:39:23.505Z,"30 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-04T11:35:23.280Z,39.9194984,-123.5666656,5.28,2.18,md,11,96,0.1218,0.19,nc,nc73883771,2023-05-04T12:54:10.910Z,"27km NNW of Laytonville, CA",earthquake,0.74,3.06,0.04,9,automatic,nc,nc
 2023-05-04T11:30:05.690Z,38.8346672,-122.8176651,2.01,0.76,md,11,70,0.01272,0.01,nc,nc73883766,2023-05-04T12:39:10.817Z,"8km NW of The Geysers, CA",earthquake,0.32,0.89,0.1,12,automatic,nc,nc
@@ -225,8 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T14:17:04.270Z,38.8246651,-122.8054962,2.17,0.57,md,12,69,0.003794,0.01,nc,nc73883451,2023-05-03T15:05:17.798Z,"7km NW of The Geysers, CA",earthquake,0.37,0.79,0.34,13,automatic,nc,nc
 2023-05-03T14:14:47.800Z,38.7721672,-122.7226639,1.2,1.05,md,11,87,0.0107,0.03,nc,nc73883446,2023-05-03T14:55:14.736Z,"3km W of Anderson Springs, CA",earthquake,0.52,0.81,0.14,12,automatic,nc,nc
 2023-05-03T14:14:04.770Z,38.4775,-112.8415,0.32,1.19,ml,15,116,0.01648,0.1,uu,uu60539026,2023-05-03T15:35:49.990Z,"Utah",earthquake,0.23,1.64,0.122,2,reviewed,uu,uu
-2023-05-03T14:12:58.270Z,38.477,-112.8416667,1.1,-0.53,md,11,116,0.01678,0.11,uu,uu60539031,2023-05-03T15:27:04.200Z,"17 km ENE of Milford, Utah",earthquake,0.25,0.88,0.381,4,reviewed,uu,uu
-2023-05-03T14:11:27.125Z,61.9103,-150.8862,58.3,1.1,ml,,,,0.22,ak,ak0235nni66g,2023-05-03T14:13:20.027Z,"28 km ESE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-05-03T14:11:15.120Z,38.4773333,-112.8418333,1.99,-0.26,md,11,147,0.01644,0.18,uu,uu60539021,2023-05-03T15:11:07.510Z,"17 km ENE of Milford, Utah",earthquake,0.49,0.99,0.494,4,reviewed,uu,uu
-2023-05-03T14:06:27.070Z,38.414,-122.2326667,7.13,1.48,md,20,50,0.02994,0.11,nc,nc73883441,2023-05-04T00:07:10.202Z,"11km E of Yountville, CA",earthquake,0.31,0.45,0.08,14,reviewed,nc,nc
-2023-05-03T14:04:18.410Z,37.6101685,-122.4603348,7.25,1.14,md,8,193,0.02933,0.02,nc,nc73883436,2023-05-03T14:32:14.706Z,"2km E of Pacifica, CA",earthquake,0.64,0.49,0.28,5,automatic,nc,nc
