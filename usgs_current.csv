@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-06T10:18:51.785Z,61.2653,-146.8993,0,1.8,ml,,,,1.42,ak,ak0235sjs15m,2023-05-06T10:21:15.224Z,"33 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-06T10:00:41.580Z,19.3911666870117,-155.280502319336,0.930000007152557,2.46,ml,28,54,,0.150000006,hv,hv73390687,2023-05-06T10:06:12.250Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.189999998,0.29,8,automatic,hv,hv
 2023-05-06T09:53:53.791Z,62.8195,-150.9919,107.9,1.1,ml,,,,0.15,ak,ak0235sje3rn,2023-05-06T09:56:03.135Z,"37 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-06T09:49:34.070Z,38.8083344,-122.7925034,0.98,1.68,md,32,37,0.002218,0.05,nc,nc73884481,2023-05-06T10:06:14.411Z,"5km NW of The Geysers, CA",earthquake,0.15,0.25,0.18,33,automatic,nc,nc
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-06T03:34:53.504Z,-19.6517,-177.9602,561.312,4.3,mb,32,112,2.994,1.24,us,us6000k9yk,2023-05-06T03:50:51.040Z,"Fiji region",earthquake,17.64,11.565,0.069,60,reviewed,us,us
 2023-05-06T03:32:41.195Z,58.266,-155.1723,0,0.5,ml,,,,0.63,ak,ak0235sfoz3o,2023-05-06T03:37:27.607Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-05-06T03:29:44.120Z,38.8126678,-122.8288345,0.77,1.04,md,9,88,0.0115,0.02,nc,nc73884416,2023-05-06T03:47:21.126Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.81,0.1,7,automatic,nc,nc
-2023-05-06T03:24:07.745Z,60.7274,-152.1556,87.8,1,ml,,,,0.24,ak,ak0235sfn26z,2023-05-06T04:19:44.109Z,"Southern Alaska",earthquake,,1.4,,,reviewed,ak,ak
+2023-05-06T03:24:07.745Z,60.7274,-152.1556,87.8,1,ml,,,,0.24,ak,ak0235sfn26z,2023-05-06T04:19:44.109Z,"47 km WNW of Salamatof, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2023-05-06T03:16:15.310Z,35.6878333,-117.5311667,10.13,1.43,ml,15,108,0.09038,0.26,ci,ci40219703,2023-05-06T03:19:47.648Z,"14km SW of Searles Valley, CA",earthquake,0.73,1.52,0.13,14,automatic,ci,ci
 2023-05-06T03:15:30.090Z,38.8055,-122.8040009,0.55,1.47,md,28,46,0.007229,0.06,nc,nc73884411,2023-05-06T06:12:12.137Z,"5km NW of The Geysers, CA",earthquake,0.2,0.34,0.18,27,automatic,nc,nc
 2023-05-06T03:11:18.030Z,19.2308330535889,-155.453170776367,30.8099994659424,1.84000003,md,31,155,,0.150000006,hv,hv73390442,2023-05-06T03:14:24.520Z,"4 km NE of Pāhala, Hawaii",earthquake,0.8,0.879999995,1.10000002,9,automatic,hv,hv
@@ -252,8 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T10:42:30.810Z,38.7866669,-122.7590027,3.52,0.38,md,9,113,0.01395,0.02,nc,nc73884131,2023-05-05T11:05:17.970Z,"1km NNW of The Geysers, CA",earthquake,0.75,1.4,0.16,8,automatic,nc,nc
 2023-05-05T10:35:29.690Z,38.6035,-122.7998333,7.07,1.07,md,35,46,0.05818,0.08,nc,nc73884126,2023-05-05T21:23:18.906Z,"6km E of Healdsburg, CA",earthquake,0.19,0.48,0.192,33,reviewed,nc,nc
 2023-05-05T10:29:16.410Z,37.7986667,-121.9101667,15.2,1.16,md,27,81,0.08591,0.07,nc,nc73884121,2023-05-05T21:08:14.688Z,"2km S of Blackhawk, CA",earthquake,0.2,0.39,0.313,20,reviewed,nc,nc
-2023-05-05T10:26:20.160Z,53.3691666666667,-168.264,-1,0.83,ml,6,302,,0.3,av,av91874876,2023-05-06T05:56:16.520Z,"62 km NE of Nikolski, Alaska",earthquake,1.3,0.85,0.559072152685277,6,reviewed,av,av
-2023-05-05T10:23:36.870Z,51.704,-177.118166666667,10.01,1.68,ml,10,207,,0.16,av,av91874866,2023-05-06T00:16:27.720Z,"38 km WSW of Adak, Alaska",earthquake,0.7,1.4,0.2930604138451,10,reviewed,av,av
-2023-05-05T10:22:28.300Z,53.3853333333333,-168.273,-1,1.7,ml,7,298,,0.31,av,av91874871,2023-05-06T00:13:06.640Z,"63 km NE of Nikolski, Alaska",earthquake,1.15,0.86,0.154070592346724,7,reviewed,av,av
-2023-05-05T10:21:04.100Z,56.1998333333333,-159.4745,22.41,0.15,ml,7,121,,0.18,av,av91874856,2023-05-06T00:04:53.710Z,"33 km N of Ivanof Bay, Alaska",earthquake,0.8,1.07,0.108470395129828,6,reviewed,av,av
-2023-05-05T10:18:57.740Z,37.8045,-121.9073333,16.91,2.02,md,79,85,0.06795,0.07,nc,nc73884116,2023-05-05T23:25:13.516Z,"2km S of Blackhawk, CA",earthquake,0.14,0.2,0.175,76,reviewed,nc,nc
