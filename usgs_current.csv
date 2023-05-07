@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T09:06:38.526Z,74.7762,112.8698,9.822,4.2,mb,36,62,5.595,0.58,us,us6000ka6q,2023-05-07T09:24:24.040Z,"Near the coast of northwestern Sakha, Russia",earthquake,10.26,5.38,0.102,27,reviewed,us,us
 2023-05-07T09:01:54.010Z,33.6535,-116.711,15.05,1.13,ml,35,56,0.05758,0.2,ci,ci40220287,2023-05-07T09:05:25.692Z,"10km S of Idyllwild, CA",earthquake,0.24,0.42,0.181,27,automatic,ci,ci
 2023-05-07T08:54:30.320Z,40.2818336,-123.8395004,24.77,1.75,md,14,114,0.03775,0.07,nc,nc73884881,2023-05-07T09:11:17.988Z,"18km N of Redway, CA",earthquake,0.5,0.95,0.07,6,automatic,nc,nc
 2023-05-07T08:43:40.481Z,60.551,-149.2112,62.9,1,ml,,,,1.36,ak,ak0235u69uiu,2023-05-07T08:46:58.617Z,"11 km NE of Moose Pass, Alaska",earthquake,,1,,,automatic,ak,ak
