@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-11T10:33:41.930Z,38.8406677,-122.876503,2.63,0.88,md,12,87,0.005951,0.02,nc,nc73886481,2023-05-11T10:35:17.323Z,"13km NW of The Geysers, CA",earthquake,0.43,0.68,0.24,14,automatic,nc,nc
+2023-05-11T10:33:41.930Z,38.8406677,-122.876503,2.63,0.88,md,12,87,0.005951,0.02,nc,nc73886481,2023-05-11T10:46:10.649Z,"13km NW of The Geysers, CA",earthquake,0.43,0.68,0.24,14,automatic,nc,nc
 2023-05-11T10:20:16.300Z,34.2356667,-118.2091667,15.85,0.82,ml,16,83,0.0225,0.16,ci,ci40222695,2023-05-11T10:23:54.671Z,"2km E of La Crescenta-Montrose, CA",earthquake,0.36,0.66,0.161,14,automatic,ci,ci
 2023-05-11T10:16:50.730Z,37.4336662,-121.7693329,9.77,1.4,md,26,73,0.02979,0.05,nc,nc73886476,2023-05-11T10:33:14.571Z,"9km NE of Alum Rock, CA",earthquake,0.21,0.37,0.17,16,automatic,nc,nc
 2023-05-11T10:12:28.107Z,62.1888,-148.1373,22.1,2.6,ml,,,,0.69,ak,ak02360tffih,2023-05-11T10:14:18.819Z,"46 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -212,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T10:51:03.330Z,19.2361660003662,-155.405334472656,31.75,1.83000004,md,35,152,,0.129999995,hv,hv73394827,2023-05-10T10:54:22.260Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.61,0.850000024,0.460000008,5,automatic,hv,hv
 2023-05-10T10:48:29.810Z,34.2935,-118.6383333,3.52,1.67,ml,46,50,0.06715,0.23,ci,ci40222135,2023-05-11T03:39:13.982Z,"5km NW of Chatsworth, CA",earthquake,0.21,0.58,0.138,36,reviewed,ci,ci
 2023-05-10T10:48:10.203Z,-6.7205,104.694,33.098,4.9,mb,51,71,2.914,1.57,us,us6000katt,2023-05-10T11:05:50.040Z,"131 km WSW of Labuan, Indonesia",earthquake,7.55,5.826,0.09,39,reviewed,us,us
-2023-05-10T10:42:40.960Z,38.8351667,-122.8076667,2.81,0.45,md,5,140,0.0119,0.02,nc,nc73886081,2023-05-10T12:58:14.722Z,"8km W of Cobb, CA",earthquake,0.47,1.02,0.117,5,reviewed,nc,nc
-2023-05-10T10:38:20.929Z,35.24716667,-98.05116667,6.53,2.28,ml,93,39,0.03509311353,0.25,ok,ok2023jcmy,2023-05-10T12:13:37.483Z,"10 km WNW of Pocasset, Oklahoma",earthquake,,0.4,0.21,38,reviewed,ok,ok
