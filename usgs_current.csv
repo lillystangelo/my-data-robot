@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-14T18:33:22.270Z,36.5241661,-121.1616669,5.45,2.89,md,51,45,0.05115,0.32,nc,nc73888096,2023-05-14T18:36:46.050Z,"2km WSW of Pinnacles, CA",earthquake,0.48,1.55,0.14,62,automatic,nc,nc
 2023-05-14T18:31:29.730Z,38.8260002,-122.8578339,2.57,1.1,md,24,66,0.001715,0.02,nc,nc73888091,2023-05-14T18:33:05.559Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.43,0.22,25,automatic,nc,nc
-2023-05-14T18:31:07.460Z,40.1988335,-121.1051636,-1.56,2.84,md,43,54,0.3171,0.36,nc,nc73888086,2023-05-14T18:32:45.410Z,"4km NW of Canyondam, CA",earthquake,0.61,1.93,0.14,28,automatic,nc,nc
+2023-05-14T18:31:07.460Z,40.1988335,-121.1051636,-1.56,2.84,md,43,54,0.3171,0.36,nc,nc73888086,2023-05-14T18:40:14.819Z,"4km NW of Canyondam, CA",earthquake,0.61,1.93,0.14,28,automatic,nc,nc
 2023-05-14T18:24:51.775Z,61.3865,-150.1317,23.1,1.5,ml,,,,0.56,ak,ak02365wvk8p,2023-05-14T18:27:00.887Z,"8 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-14T18:24:03.070Z,38.786335,-122.7473297,2.57,0.75,md,12,82,0.008847,0.02,nc,nc73888081,2023-05-14T18:25:39.541Z,"1km NE of The Geysers, CA",earthquake,0.33,0.76,0.04,11,automatic,nc,nc
+2023-05-14T18:24:03.070Z,38.786335,-122.7473297,2.57,0.75,md,12,82,0.008847,0.02,nc,nc73888081,2023-05-14T18:40:15.008Z,"1km NE of The Geysers, CA",earthquake,0.33,0.76,0.04,11,automatic,nc,nc
 2023-05-14T18:18:00.283Z,57.9871,-154.8568,79.1,1.2,ml,,,,0.18,ak,ak02365wu5z0,2023-05-14T18:19:46.371Z,"Kodiak Island region, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-14T18:13:59.400Z,40.208168,-121.0699997,-1.5,2.71,md,33,47,0.2914,0.26,nc,nc73888076,2023-05-14T18:20:14.672Z,"4km S of East Shore, CA",earthquake,0.43,1.87,0.13,21,automatic,nc,nc
 2023-05-14T17:57:22.441Z,75.3895,7.2892,10,4.6,mb,84,90,3.492,0.68,us,us6000kbw9,2023-05-14T18:30:25.040Z,"Greenland Sea",earthquake,4.25,1.906,0.065,71,reviewed,us,us
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-14T17:14:53.540Z,36.0079994,-120.5636673,4.14,0.59,md,7,136,0.02198,0.02,nc,nc73888061,2023-05-14T17:39:14.422Z,"17km NW of Parkfield, CA",earthquake,0.52,1.16,0.04,3,automatic,nc,nc
 2023-05-14T17:01:28.669Z,36.4558,-113.5394,5,2.6,ml,27,64,0.294,0.6,us,us6000kbw3,2023-05-14T17:53:25.040Z,"56 km SE of Scenic, Arizona",earthquake,0.99,1.893,0.034,114,reviewed,us,us
 2023-05-14T16:55:26.275Z,61.4019,-149.9098,37.3,1.4,ml,,,,0.39,ak,ak02365vva9f,2023-05-14T16:57:47.682Z,"5 km NE of Point MacKenzie, Alaska",earthquake,,5.7,,,automatic,ak,ak
-2023-05-14T16:52:24.960Z,38.8181648,-122.8246689,1.91,0.44,md,7,122,0.009929,0.01,nc,nc73888051,2023-05-14T18:28:10.732Z,"8km NW of The Geysers, CA",earthquake,0.52,0.91,0.28,8,automatic,nc,nc
+2023-05-14T16:52:24.960Z,38.8181648,-122.8246689,1.91,0.44,md,7,122,0.009929,0.01,nc,nc73888051,2023-05-14T18:40:15.818Z,"8km NW of The Geysers, CA",earthquake,0.52,0.91,0.28,8,automatic,nc,nc
 2023-05-14T16:43:09.166Z,6.8608,-73.0975,150.09,4.6,mb,45,43,0.962,0.79,us,us6000kbvy,2023-05-14T17:13:48.055Z,"14 km N of Jordán, Colombia",earthquake,6.9,4.929,0.032,290,reviewed,us,us
 2023-05-14T16:34:54.954Z,61.5674,-151.4724,72.6,1.1,ml,,,,0.42,ak,ak02365vqufr,2023-05-14T16:36:54.663Z,"47 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-14T16:22:52.585Z,33.3737,139.1763,10,5.1,mww,63,66,0.593,0.69,us,us6000kbvu,2023-05-14T16:42:14.040Z,"146 km S of Shimoda, Japan",earthquake,6.18,1.874,0.069,20,reviewed,us,us
