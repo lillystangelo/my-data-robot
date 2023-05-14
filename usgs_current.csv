@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-14T17:14:53.540Z,36.0079994,-120.5636673,4.14,0.59,md,7,136,0.02198,0.02,nc,nc73888061,2023-05-14T17:16:30.191Z,"17km NW of Parkfield, CA",earthquake,0.52,1.16,0.04,3,automatic,nc,nc
+2023-05-14T17:38:51.980Z,19.1608333587646,-155.484832763672,31.7999992370605,1.72000003,md,22,120,,0.170000002,hv,hv73402062,2023-05-14T17:41:56.930Z,"4 km S of Pāhala, Hawaii",earthquake,1.01,1.22000003,0.850000024,3,automatic,hv,hv
+2023-05-14T17:14:53.540Z,36.0079994,-120.5636673,4.14,0.59,md,7,136,0.02198,0.02,nc,nc73888061,2023-05-14T17:39:14.422Z,"17km NW of Parkfield, CA",earthquake,0.52,1.16,0.04,3,automatic,nc,nc
 2023-05-14T16:55:26.275Z,61.4019,-149.9098,37.3,1.4,ml,,,,0.39,ak,ak02365vva9f,2023-05-14T16:57:47.682Z,"5 km NE of Point MacKenzie, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-05-14T16:52:24.960Z,38.8181648,-122.8246689,1.91,0.44,md,7,122,0.009929,0.01,nc,nc73888051,2023-05-14T17:09:15.254Z,"8km NW of The Geysers, CA",earthquake,0.52,0.91,0.28,8,automatic,nc,nc
 2023-05-14T16:43:09.166Z,6.8608,-73.0975,150.09,4.6,mb,45,43,0.962,0.79,us,us6000kbvy,2023-05-14T17:13:48.055Z,"14 km N of Jordán, Colombia",earthquake,6.9,4.929,0.032,290,reviewed,us,us
@@ -176,4 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T18:03:00.240Z,38.8170013,-122.8253326,1.62,0.84,md,7,113,0.008659,0.01,nc,nc73887681,2023-05-13T18:38:10.869Z,"7km NW of The Geysers, CA",earthquake,0.44,1.38,0.26,7,automatic,nc,nc
 2023-05-13T17:59:44.370Z,33.5138333,-116.5038333,14.24,0.63,ml,21,111,0.04911,0.17,ci,ci40224527,2023-05-13T18:03:26.223Z,"16km ESE of Anza, CA",earthquake,0.46,0.63,0.135,12,automatic,ci,ci
 2023-05-13T17:57:40.740Z,19.238000869751,-155.40283203125,27.4899997711182,1.72000003,md,31,136,,0.129999995,hv,hv73400707,2023-05-13T18:00:46.640Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.73,1.01999998,1.75,4,automatic,hv,hv
-2023-05-13T17:41:21.290Z,18.0375,-66.9278,9,3.57,md,20,162,0.0791,0.14,pr,pr2023133001,2023-05-14T11:36:45.113Z,"Puerto Rico",earthquake,0.33,0.87,0.11,11,reviewed,pr,pr
