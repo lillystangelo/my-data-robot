@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-16T09:24:28.790Z,38.7941666,-122.7220001,2.69,0.41,md,6,128,0.01586,0.01,nc,nc73888706,2023-05-16T09:26:02.685Z,"3km S of Cobb, CA",earthquake,0.5,2.14,0.19,6,automatic,nc,nc
+2023-05-16T09:51:31.605Z,61.6988,-150.8891,11.1,1.4,ml,,,,1.36,ak,ak023692r3k8,2023-05-16T09:53:12.431Z,"Southern Alaska",earthquake,,5.6,,,automatic,ak,ak
+2023-05-16T09:45:23.680Z,38.8176651,-122.8274994,1.68,0.93,md,9,63,0.008014,0.01,nc,nc73888711,2023-05-16T09:46:57.997Z,"8km NW of The Geysers, CA",earthquake,0.36,0.92,0.2,10,automatic,nc,nc
+2023-05-16T09:24:28.790Z,38.7941666,-122.7220001,2.69,0.41,md,6,128,0.01586,0.01,nc,nc73888706,2023-05-16T09:46:11.177Z,"3km S of Cobb, CA",earthquake,0.5,2.14,0.19,6,automatic,nc,nc
 2023-05-16T08:31:33.123Z,59.3521,-152.5653,60.2,2.3,ml,,,,0.51,ak,ak0236921dpw,2023-05-16T08:40:16.040Z,"36 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-16T08:26:41.609Z,61.0185,-151.6677,69.7,0.9,ml,,,,0.32,ak,ak0236920bts,2023-05-16T08:27:52.147Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-16T08:26:30.590Z,18.8828,-68.0581,51,3.52,md,13,245,0.4905,0.52,pr,pr2023136002,2023-05-16T09:16:18.260Z,"Mona Passage",earthquake,2.99,6.39,0.06,4,reviewed,pr,pr
