@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T06:38:19.160Z,38.8370018,-122.8379974,1.08,0.28,md,7,131,0.002521,0.02,nc,nc73890641,2023-05-21T08:19:13.894Z,"10km NW of The Geysers, CA",earthquake,0.34,0.67,0.15,8,automatic,nc,nc
 2023-05-21T06:37:14.080Z,17.949,-66.8348333333333,10.4,2.4,md,8,210,0.04959,0.13,pr,pr71410173,2023-05-21T06:52:12.510Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.75,0.6,0.0498844347210712,5,reviewed,pr,pr
 2023-05-21T06:37:00.560Z,38.836834,-122.8376694,1.07,0.78,md,13,85,0.002445,0.02,nc,nc73890636,2023-05-21T07:52:13.725Z,"10km NW of The Geysers, CA",earthquake,0.24,0.58,0.23,13,automatic,nc,nc
-2023-05-21T06:35:52.780Z,34.0431667,-117.2545,14.66,0.81,ml,19,109,0.112,0.22,ci,ci40230127,2023-05-21T06:39:29.043Z,"1km SE of Loma Linda, CA",earthquake,0.52,0.76,0.174,15,automatic,ci,ci
+2023-05-21T06:35:52.650Z,34.0328333,-117.2613333,16.85,0.67,ml,34,93,0.0809,0.16,ci,ci40230127,2023-05-21T18:19:41.410Z,"2km S of Loma Linda, CA",earthquake,0.25,0.53,0.086,5,reviewed,ci,ci
 2023-05-21T06:34:00.130Z,38.8221664,-122.8061676,2.4,0.21,md,8,142,0.01652,0.01,nc,nc73890631,2023-05-21T07:24:16.538Z,"7km NW of The Geysers, CA",earthquake,0.54,2.14,0.08,8,automatic,nc,nc
 2023-05-21T06:21:20.700Z,19.2586669921875,-155.391830444336,31.5499992370605,1.82000005,md,37,130,,0.119999997,hv,hv73413237,2023-05-21T06:25:28.450Z,"11 km NE of Pāhala, Hawaii",earthquake,0.67,0.699999988,0.910000026,8,automatic,hv,hv
 2023-05-21T06:17:32.534Z,37.2794,-117.5905,0.9,1.3,ml,14,100.18,0.064,0.3627,nn,nn00859886,2023-05-21T06:20:06.127Z,"Central California",earthquake,,5.8,0.74,6,automatic,nn,nn
@@ -194,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T04:11:58.889Z,37.3532,-117.4877,0.1,0.7,ml,13,153.7,0.37,0.4682,nn,nn00859841,2023-05-21T04:14:25.247Z,"45 km SSW of Goldfield, Nevada",earthquake,,48,0.83,8,automatic,nn,nn
 2023-05-21T04:04:06.590Z,40.5023333,-122.084,12.28,1.22,md,6,230,0.05065,0.05,nc,nc73890611,2023-05-21T10:24:18.817Z,"10km SE of Millville, CA",earthquake,0.66,0.63,0.283,7,reviewed,nc,nc
 2023-05-21T04:03:34.834Z,37.2854,-117.577,2.8,1.3,ml,8,232.52,0.076,0.313,nn,nn00859839,2023-05-21T04:06:04.126Z,"52 km S of Silver Peak, Nevada",earthquake,,12.9,0.95,6,automatic,nn,nn
-2023-05-21T04:01:41.645Z,37.295,-117.5751,6.3,2,ml,26,100.51,0.084,0.3181,nn,nn00859835,2023-05-21T04:04:15.995Z,"51 km S of Silver Peak, Nevada",earthquake,,1.1,0.73,19,automatic,nn,nn
+2023-05-21T04:01:41.950Z,37.2905,-117.5893333,3.23,1.93,ml,12,171,0.07309,0.15,ci,ci40230103,2023-05-21T18:23:40.961Z,"64km ENE of Big Pine, CA",earthquake,0.41,0.63,0.094,7,reviewed,ci,ci
 2023-05-21T03:58:38.269Z,37.2858,-117.5831,6.8,2.1,ml,16,92.91,0.073,0.199,nn,nn00859831,2023-05-21T04:37:48.178Z,"California-Nevada border region",earthquake,,1.3,0.88,12,reviewed,nn,nn
 2023-05-21T03:57:30.747Z,37.3006,-117.5715,0,1.4,ml,6,137.05,0.09,0.1791,nn,nn00859829,2023-05-21T14:36:30.853Z,"Nevada",earthquake,,0,0.7,5,reviewed,nn,nn
 2023-05-21T03:53:31.313Z,37.2905,-117.5807,7.2,2.9,ml,19,93.22,0.078,0.1767,nn,nn00859827,2023-05-21T04:22:19.988Z,"51 km S of Silver Peak, Nevada",earthquake,,1.2,0.98,11,reviewed,nn,nn
@@ -300,5 +300,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-20T18:48:36.160Z,38.7961655,-122.7616653,2.59,0.53,md,7,198,0.02073,0.01,nc,nc73890436,2023-05-20T19:56:15.217Z,"2km NNW of The Geysers, CA",earthquake,0.73,2.02,0.26,7,automatic,nc,nc
 2023-05-20T18:32:32.604Z,32.2231,54.9507,10,4.1,mb,21,118,6.257,0.39,us,us6000kdhd,2023-05-20T20:59:58.040Z,"central Iran",earthquake,11.15,1.964,0.144,13,reviewed,us,us
 2023-05-20T18:30:43.812Z,-21.2903,-179.3562,622.635,4.3,mb,43,125,4.291,0.65,us,us6000kdhc,2023-05-20T20:46:12.040Z,"Fiji region",earthquake,12.21,8.037,0.087,41,reviewed,us,us
-2023-05-20T18:20:48.707Z,58.0155,-156.4747,123.1,2.7,ml,,,,0.77,ak,ak0236fu2s3q,2023-05-21T10:09:13.446Z,"57 km ESE of Egegik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-20T18:07:41.159Z,-22.7476,170.8165,10,5,mb,51,105,3.115,0.61,us,us6000kdh8,2023-05-20T19:55:04.040Z,"southeast of the Loyalty Islands",earthquake,9.75,1.883,0.083,50,reviewed,us,us
