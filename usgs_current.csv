@@ -2,8 +2,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T11:39:21.967Z,37.2923,-117.5775,0,1.3,ml,21,101.8,0.081,0.3545,nn,nn00860076,2023-05-22T11:42:00.750Z,"51 km S of Silver Peak, Nevada",earthquake,,31,0.88,10,automatic,nn,nn
 2023-05-22T11:37:37.121Z,37.2693,-117.5781,0.1,1.5,ml,18,112.49,0.065,0.3111,nn,nn00860074,2023-05-22T11:40:41.456Z,"Central California",earthquake,,9.5,0.85,12,automatic,nn,nn
 2023-05-22T11:33:12.910Z,33.1541667,-115.9673333,5.97,0.71,ml,16,72,0.02116,0.23,ci,ci40231175,2023-05-22T11:36:44.577Z,"15km E of Ocotillo Wells, CA",earthquake,0.43,0.76,0.093,5,automatic,ci,ci
-2023-05-22T11:23:57.140Z,38.8009987,-122.7819977,0.03,1.67,md,25,63,0.009076,0.03,nc,nc73891221,2023-05-22T11:37:30.699Z,"3km NW of The Geysers, CA",earthquake,0.16,0.31,0.16,27,automatic,nc,nc
-2023-05-22T11:20:52.550Z,38.7885017,-122.7679977,2.8,0.28,md,7,124,0.01373,0.01,nc,nc73891216,2023-05-22T11:38:10.513Z,"2km NW of The Geysers, CA",earthquake,0.56,1.23,0.11,9,automatic,nc,nc
+2023-05-22T11:23:57.140Z,38.8009987,-122.7819977,0.03,1.67,md,25,63,0.009076,0.03,nc,nc73891221,2023-05-22T11:45:11.437Z,"3km NW of The Geysers, CA",earthquake,0.16,0.31,0.16,27,automatic,nc,nc
+2023-05-22T11:20:52.550Z,38.7885017,-122.7679977,2.8,0.28,md,7,124,0.01373,0.01,nc,nc73891216,2023-05-22T11:51:15.473Z,"2km NW of The Geysers, CA",earthquake,0.56,1.23,0.11,9,automatic,nc,nc
 2023-05-22T11:14:19.090Z,38.8468323,-122.8170013,1.28,1.1,md,18,55,0.009255,0.03,nc,nc73891211,2023-05-22T11:40:14.408Z,"9km WNW of Cobb, CA",earthquake,0.22,0.32,0.17,21,automatic,nc,nc
 2023-05-22T11:13:21.540Z,38.847168,-122.8164978,1.33,1.05,md,19,56,0.009197,0.02,nc,nc73891206,2023-05-22T11:30:15.351Z,"9km WNW of Cobb, CA",earthquake,0.22,0.35,0.1,23,automatic,nc,nc
 2023-05-22T11:06:43.620Z,34.004,-116.764,11.05,0.74,ml,31,68,0.04783,0.19,ci,ci40231167,2023-05-22T11:10:20.419Z,"10km NNE of Cabazon, CA",earthquake,0.37,0.59,0.118,23,automatic,ci,ci
@@ -256,6 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T12:02:10.250Z,33.4726667,-116.5683333,9.09,0.34,ml,13,212,0.03583,0.21,ci,ci40230351,2023-05-21T12:05:38.311Z,"13km SE of Anza, CA",earthquake,0.83,0.94,0.195,6,automatic,ci,ci
 2023-05-21T11:56:37.187Z,62.893,-148.1273,53.2,1.3,ml,,,,0.79,ak,ak0236hdns92,2023-05-21T12:00:05.183Z,"69 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-21T11:54:00.174Z,37.2879,-117.5667,0,1.5,ml,12,97.33,0.084,0.1949,nn,nn00859956,2023-05-21T17:20:59.627Z,"52 km S of Silver Peak, Nevada",earthquake,,0,0.94,7,reviewed,nn,nn
-2023-05-21T11:53:10.569Z,37.2797,-117.5893,7.7,1.4,ml,12,99.67,0.065,0.1898,nn,nn00859953,2023-05-21T17:14:38.196Z,"52 km S of Silver Peak, Nevada",earthquake,,2.4,0.99,8,reviewed,nn,nn
-2023-05-21T11:50:06.529Z,13.3131,57.4285,10,4.6,mb,59,70,11.629,0.6,us,us6000kdlr,2023-05-21T12:06:21.040Z,"Owen Fracture Zone region",earthquake,11.49,1.916,0.08,46,reviewed,us,us
-2023-05-21T11:49:01.596Z,58.7496,-153.7687,15.2,2.2,ml,,,,0.5,ak,ak0236hdm7hr,2023-05-21T11:52:16.190Z,"91 km NNW of Aleneva, Alaska",earthquake,,3,,,automatic,ak,ak
