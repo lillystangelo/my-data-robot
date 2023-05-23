@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-23T21:06:28.940Z,33.2709999,-116.4250031,6.65,1.37,ml,34,60,0.00714,0.18,ci,ci40232511,2023-05-23T21:08:34.889Z,"5km WNW of Borrego Springs, CA",earthquake,0.31,0.76,0.402,8,automatic,ci,ci
+2023-05-23T21:06:28.910Z,33.2715,-116.4293333,3.63,1.11,ml,35,54,0.01072,0.22,ci,ci40232511,2023-05-23T21:10:14.543Z,"5km WNW of Borrego Springs, CA",earthquake,0.28,0.71,0.124,28,automatic,ci,ci
 2023-05-23T20:38:39.040Z,62.1902,-150.6974,15.1,1.4,ml,,,,0.62,ak,ak0236ktzixs,2023-05-23T20:40:56.730Z,"28 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-23T20:28:15.150Z,38.8256683,-122.8503342,1.82,2.17,md,40,60,0.00544,0.04,nc,nc73889160,2023-05-23T20:35:17.970Z,"10km WNW of The Geysers, CA",earthquake,0.15,0.24,0.17,40,automatic,nc,nc
 2023-05-23T20:17:39.362Z,65.2587,-148.8855,9,1.5,ml,,,,0.55,ak,ak0236ktv0xc,2023-05-23T20:19:16.426Z,"24 km ENE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-23T20:14:12.837Z,31.62799362,-104.5136667,6.131567383,1.9,ml,18,76,0.04213659935,0.3,tx,tx2023kazn,2023-05-23T21:10:35.694Z,"62 km SSW of Whites City, New Mexico",earthquake,1.648886469,0.7241551719,0.2,12,reviewed,tx,tx
 2023-05-23T19:49:36.733Z,37.2854,-117.5991,6.9,0.7,ml,8,108.38,0.065,0.0478,nn,nn00860210,2023-05-23T20:35:14.897Z,"52 km S of Silver Peak, Nevada",earthquake,,3.4,0.91,8,reviewed,nn,nn
 2023-05-23T19:45:22.260Z,34.1121667,-117.0005,4.03,1.21,ml,26,71,0.05674,0.16,ci,ci40232495,2023-05-23T19:49:11.296Z,"10km NNE of Yucaipa, CA",earthquake,0.22,0.45,0.184,31,automatic,ci,ci
 2023-05-23T19:42:51.380Z,19.4174995422363,-155.315170288086,2.51999998092651,1.75,md,10,119,,0.200000003,hv,hv73417707,2023-05-23T19:45:43.580Z,"8 km WSW of Volcano, Hawaii",earthquake,0.59,0.660000026,1.07000005,5,automatic,hv,hv
@@ -296,5 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T21:32:34.700Z,33.49,-116.4938333,14.22,0.56,ml,17,74,0.06596,0.13,ci,ci40231751,2023-05-23T17:52:20.978Z,"18km ESE of Anza, CA",earthquake,0.33,0.67,0.145,11,reviewed,ci,ci
 2023-05-22T21:29:04.336Z,64.5191,-147.8244,4.7,0.6,ml,,,,0.82,ak,ak0236j6zlxd,2023-05-22T21:30:55.868Z,"32 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-22T21:20:38.340Z,40.3975,-122.0688333,8.4,2.37,md,29,43,0.1299,0.16,nc,nc73891381,2023-05-23T03:40:12.456Z,"18km W of Manton, CA",earthquake,0.27,0.94,0.21,32,reviewed,nc,nc
-2023-05-22T21:18:37.081Z,37.2912,-117.581,4.8,1.2,ml,12,101.49,0.078,0.137,nn,nn00860108,2023-05-22T23:36:23.732Z,"California-Nevada border region",earthquake,,3.4,0.76,8,reviewed,nn,nn
-2023-05-22T21:12:23.160Z,40.4023333,-122.0711667,10.71,2.88,md,18,77,0.1248,0.07,nc,nc73891376,2023-05-23T03:25:12.363Z,"18km W of Manton, CA",earthquake,0.25,0.85,0.12,16,reviewed,nc,nc
