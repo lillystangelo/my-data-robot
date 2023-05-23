@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-23T19:08:26.690Z,36.5873337,-121.4131699,1.91,1.35,md,8,90,0.01343,0.05,nc,nc73889140,2023-05-23T19:10:05.667Z,"9km NNE of Gonzales, CA",earthquake,0.76,0.26,0.2,7,automatic,nc,nc
 2023-05-23T19:02:11.270Z,33.8576667,-117.505,2.34,1.06,ml,22,56,0.06406,0.24,ci,ci40232463,2023-05-23T19:05:50.780Z,"3km SSE of Home Gardens, CA",quarry blast,0.36,0.6,0.196,23,automatic,ci,ci
 2023-05-23T18:55:27.340Z,38.8113327,-122.8288345,1.01,0.65,md,8,90,0.002476,0.01,nc,nc73889135,2023-05-23T18:57:04.429Z,"7km WNW of The Geysers, CA",earthquake,0.33,0.79,0.39,8,automatic,nc,nc
-2023-05-23T18:47:22.890Z,38.8226662,-122.8033371,2.52,1.59,md,34,34,0.005313,0.02,nc,nc73889120,2023-05-23T18:51:14.913Z,"6km NW of The Geysers, CA",earthquake,0.17,0.33,0.17,34,automatic,nc,nc
+2023-05-23T18:47:22.890Z,38.8226662,-122.8033371,2.52,1.59,md,34,34,0.005313,0.02,nc,nc73889120,2023-05-23T19:10:10.435Z,"6km NW of The Geysers, CA",earthquake,0.17,0.33,0.17,34,automatic,nc,nc
+2023-05-23T18:46:13.790Z,55.0531666666667,-162.247,0.04,1.45,ml,10,143,,0.09,av,av91770332,2023-05-23T19:17:44.000Z,"4 km E of King Cove, Alaska",earthquake,0.28,1.62,0.381412854980212,9,reviewed,av,av
 2023-05-23T18:42:49.830Z,32.7566667,-115.5991667,8.16,1.7,ml,6,124,0.3638,0.16,ci,ci40232439,2023-05-23T18:46:37.657Z,"5km SW of El Centro, CA",earthquake,0.82,31.61,0.251,4,automatic,ci,ci
 2023-05-23T18:41:48.180Z,59.5398,-153.4123,105.4,1.9,ml,,,,0.77,ak,ak0236kstbky,2023-05-23T18:43:45.415Z,"47 km SE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-05-23T18:40:12.920Z,19.4155006408691,-155.325332641602,3.92000007629395,2.35,ml,36,67,,0.270000011,hv,hv73417602,2023-05-23T18:45:46.580Z,"10 km WSW of Volcano, Hawaii",earthquake,0.43,0.860000014,2.11,19,automatic,hv,hv
+2023-05-23T18:40:12.690Z,19.4318333333333,-155.322833333333,5.37,2.35,ml,34,126,,0.09,hv,hv73417602,2023-05-23T19:12:00.210Z,"9 km W of Volcano, Hawaii",earthquake,0.28,0.47,0.216905062456412,17,reviewed,hv,hv
 2023-05-23T18:32:41.132Z,60.4206,-151.0631,46.1,3,ml,,,,0.36,ak,ak0236ksrdld,2023-05-23T18:33:57.634Z,"7 km S of Soldotna, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-05-23T18:31:23.435Z,60.8487,-151.0144,20,1.5,ml,,,,0.3,ak,ak0236ksr4if,2023-05-23T18:33:14.847Z,"19 km WSW of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-23T18:30:31.240Z,35.4986667,-118.3973333,7.42,1.32,ml,14,67,0.1995,0.18,ci,ci40232423,2023-05-23T18:34:05.584Z,"13km SE of Bodfish, CA",earthquake,0.36,2.35,0.109,13,automatic,ci,ci
@@ -111,12 +113,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T09:30:06.640Z,38.7813339,-122.7646637,1.25,0.74,md,9,100,0.01063,0.03,nc,nc73891606,2023-05-23T09:57:15.681Z,"1km WNW of The Geysers, CA",earthquake,0.39,0.8,0.17,11,automatic,nc,nc
 2023-05-23T09:26:43.241Z,-22.8565,170.8394,42.876,5,mb,32,87,3.142,0.54,us,us7000k38e,2023-05-23T11:30:43.040Z,"southeast of the Loyalty Islands",earthquake,8.29,7.973,0.103,30,reviewed,us,us
 2023-05-23T09:11:05.623Z,36.998,-104.9267,6.47,2.7,ml,16,63,0.169,0.49,us,us7000k37h,2023-05-23T09:26:02.040Z,"16 km SSW of Weston, Colorado",earthquake,2.56,5.309,0.048,80,reviewed,us,us
-2023-05-23T09:08:22.970Z,37.3089981,-121.6798325,6.03,1.4,md,13,70,0.04409,0.04,nc,nc73891596,2023-05-23T11:12:14.186Z,"14km E of Seven Trees, CA",earthquake,0.24,0.77,0.06,10,automatic,nc,nc
+2023-05-23T09:08:22.930Z,37.3111667,-121.6771667,6.85,1.33,md,28,39,0.04106,0.07,nc,nc73891596,2023-05-23T19:12:22.402Z,"14km E of Seven Trees, CA",earthquake,0.16,0.39,0.224,22,reviewed,nc,nc
 2023-05-23T09:06:35.740Z,38.8351669,-122.8160019,1.62,0.77,md,13,61,0.01263,0.02,nc,nc73891591,2023-05-23T10:46:14.008Z,"8km W of Cobb, CA",earthquake,0.26,0.71,0.12,14,automatic,nc,nc
 2023-05-23T09:04:32.099Z,36.8514,-104.8228,5.36,1.5,ml,8,110,0.059,0.34,us,us7000k37g,2023-05-23T14:36:49.040Z,"30 km S of Segundo, Colorado",earthquake,1.69,2.284,0.097,14,reviewed,us,us
 2023-05-23T09:01:23.800Z,19.3969993591309,-154.802673339844,35.8499984741211,2.32,ml,50,255,,0.140000001,hv,hv73417047,2023-05-23T09:06:54.910Z,"14 km ESE of Leilani Estates, Hawaii",earthquake,0.86,0.569999993,3.72,10,automatic,hv,hv
 2023-05-23T08:59:59.378Z,64.8569,-147.9783,11.6,1.2,ml,,,,0.69,ak,ak0236kmyva9,2023-05-23T09:01:43.265Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-23T08:59:56.550Z,37.4863333,-122.0076667,5.74,1.3,md,26,72,0.0753,0.07,nc,nc73891586,2023-05-23T18:48:10.296Z,"6km SSE of Newark, CA",earthquake,0.19,0.66,0.172,14,reviewed,nc,nc
+2023-05-23T08:59:56.550Z,37.4863333,-122.0076667,5.74,1.3,md,26,72,0.0753,0.07,nc,nc73891586,2023-05-23T19:10:14.435Z,"6km SSE of Newark, CA",earthquake,0.19,0.66,0.172,14,reviewed,nc,nc
 2023-05-23T08:56:41.430Z,47.746,-113.768666666667,4.97,0.34,ml,8,141,0.2015,0.05,mb,mb90015238,2023-05-23T14:09:35.940Z,"21 km SSE of Swan Lake, Montana",earthquake,0.38,5.85,0.0268763533199892,2,reviewed,mb,mb
 2023-05-23T08:51:57.560Z,37.2857,-117.6068,10.2,1.1,ml,8,143.74,0.062,0.2564,nn,nn00860161,2023-05-23T14:07:43.502Z,"52 km S of Silver Peak, Nevada",earthquake,,1.9,0.91,5,reviewed,nn,nn
 2023-05-23T08:49:02.450Z,46.86516666666667,-121.97933333333333,6.79,0.23,ml,16,160,0.01801,0.11,uw,uw61918537,2023-05-23T18:23:29.250Z,"12 km NNE of Ashford, Washington",earthquake,0.49,0.44,0.07379301687898127,6,reviewed,uw,uw
@@ -297,4 +299,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T19:28:38.190Z,18.1878333333333,-68.2133333333333,78.14,3.38,md,13,187,0.2901,0.34,pr,pr71410428,2023-05-23T01:23:02.402Z,"46 km ESE of Boca de Yuma, Dominican Republic",earthquake,2.17,1.3,0.198700419314356,12,reviewed,pr,pr
 2023-05-22T19:26:24.044Z,51.3806,178.8326,21.6,2.3,ml,,,,0.39,ak,ak0236j5s4ht,2023-05-22T23:22:44.529Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-05-22T19:20:20.560Z,33.7808333,-116.0323333,1.85,0.95,ml,22,120,0.1302,0.15,ci,ci40231599,2023-05-22T22:26:09.773Z,"17km NE of Coachella, CA",earthquake,0.23,0.46,0.118,16,reviewed,ci,ci
-2023-05-22T19:10:00.460Z,38.7618333,-122.7116667,1.27,1.02,md,38,53,0.01032,0.06,nc,nc73891346,2023-05-23T17:44:13.929Z,"2km SW of Anderson Springs, CA",earthquake,0.16,0.18,0.196,32,reviewed,nc,nc
