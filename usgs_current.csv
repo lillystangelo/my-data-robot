@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-23T18:41:48.180Z,59.5398,-153.4123,105.4,1.9,ml,,,,0.77,ak,ak0236kstbky,2023-05-23T18:43:45.415Z,"47 km SE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-05-23T18:40:12.920Z,19.4155006408691,-155.325332641602,3.92000007629395,2.75999999,md,36,67,,0.270000011,hv,hv73417602,2023-05-23T18:43:17.730Z,"Island of Hawaii, Hawaii",earthquake,0.43,0.860000014,1.16999996,29,automatic,hv,hv
 2023-05-23T18:32:41.132Z,60.4206,-151.0631,46.1,3,ml,,,,0.36,ak,ak0236ksrdld,2023-05-23T18:33:57.634Z,"7 km S of Soldotna, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-05-23T18:31:23.435Z,60.8487,-151.0144,20,1.5,ml,,,,0.3,ak,ak0236ksr4if,2023-05-23T18:33:14.847Z,"19 km WSW of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-23T18:30:31.240Z,35.4986667,-118.3973333,7.42,1.32,ml,14,67,0.1995,0.18,ci,ci40232423,2023-05-23T18:34:05.584Z,"13km SE of Bodfish, CA",earthquake,0.36,2.35,0.109,13,automatic,ci,ci
-2023-05-23T18:21:20.980Z,38.7960014,-122.8351669,0.44,0.79,md,5,167,0.02083,0.03,nc,nc73889105,2023-05-23T18:22:58.730Z,"7km WNW of The Geysers, CA",earthquake,1.97,2.25,0.13,7,automatic,nc,nc
-2023-05-23T18:07:38.090Z,36.8898315,-121.6156693,1.16,1.7,md,14,68,0.01975,0.07,nc,nc73889095,2023-05-23T18:22:11.156Z,"2km E of Aromas, CA",earthquake,0.22,0.51,0.21,8,automatic,nc,nc
+2023-05-23T18:21:20.980Z,38.7960014,-122.8351669,0.44,0.79,md,5,167,0.02083,0.03,nc,nc73889105,2023-05-23T18:41:11.259Z,"7km WNW of The Geysers, CA",earthquake,1.97,2.25,0.13,7,automatic,nc,nc
+2023-05-23T18:07:38.090Z,36.8898315,-121.6156693,1.16,1.7,md,14,68,0.01975,0.07,nc,nc73889095,2023-05-23T18:38:14.239Z,"2km E of Aromas, CA",earthquake,0.22,0.51,0.21,8,automatic,nc,nc
 2023-05-23T17:59:14.618Z,60.3171,-152.2795,71.9,1.4,ml,,,,0.23,ak,ak0236ksbo9x,2023-05-23T18:01:02.825Z,"45 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-05-23T17:47:05.940Z,19.1340007781982,-155.364166259766,29.3799991607666,1.95,ml,45,186,,0.109999999,hv,hv73417547,2023-05-23T17:52:37.320Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.79,0.959999979,4.4,4,automatic,hv,hv
-2023-05-23T17:35:52.784Z,37.2919,-117.5796,7.1,2.5,ml,19,65.23,0.079,0.1375,nn,nn00860201,2023-05-23T18:19:04.653Z,"51 km S of Silver Peak, Nevada",earthquake,,1.2,0.88,14,reviewed,nn,nn
+2023-05-23T17:35:52.784Z,37.2919,-117.5796,7.1,2.5,ml,19,65.23,0.079,0.1375,nn,nn00860201,2023-05-23T18:39:04.040Z,"51 km S of Silver Peak, Nevada",earthquake,,1.2,0.88,14,reviewed,nn,nn
 2023-05-23T17:33:34.171Z,37.2695,-117.5813,12.485,2.7,ml,74,38,0.063,0.48,us,us7000k3av,2023-05-23T18:19:01.040Z,"54 km S of Silver Peak, Nevada",earthquake,1.34,5.697,0.029,153,reviewed,us,us
 2023-05-23T17:20:05.240Z,34.6401667,-117.3268333,-0.87,1.07,ml,10,146,0.07936,0.17,ci,ci40232375,2023-05-23T17:58:19.605Z,"10km NE of Adelanto, CA",quarry blast,0.62,31.61,0.077,13,reviewed,ci,ci
 2023-05-23T17:18:42.380Z,33.3861667,-116.8981667,13.62,1.07,ml,50,25,0.04402,0.18,ci,ci40232367,2023-05-23T18:13:13.112Z,"5km NW of Palomar Observatory, CA",earthquake,0.18,0.47,0.213,23,reviewed,ci,ci
@@ -126,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T07:35:40.270Z,46.133833333333335,-122.62716666666667,13.6,1.16,ml,15,62,0.08152,0.1,uw,uw61918527,2023-05-23T17:15:41.860Z,"21 km E of Kelso, Washington",earthquake,0.33,0.69,0.1123665886228502,6,reviewed,uw,uw
 2023-05-23T07:34:12.550Z,18.903,-64.3606666666667,18.51,3.39,md,6,316,0.6893,0.23,pr,pr71410608,2023-05-23T07:50:50.900Z,"Virgin Islands",earthquake,7.94,15.72,0.016435066791177,4,reviewed,pr,pr
 2023-05-23T07:22:45.980Z,58.2603333333333,-154.975333333333,3.1,0.54,ml,9,145,,0.21,av,av91770007,2023-05-23T17:35:37.390Z,"82 km NNW of Karluk, Alaska",earthquake,0.48,1.39,0.375072552024064,9,reviewed,av,av
-2023-05-23T07:21:34.690Z,48.232,-122.5215,60.58,3.11,ml,63,24,0.09404,0.21,uw,uw61918522,2023-05-23T18:11:59.483Z,"6 km N of Camano, Washington",earthquake,0.4,0.53,0.22294753619007568,54,reviewed,uw,uw
+2023-05-23T07:21:34.690Z,48.232,-122.5215,60.58,3.11,ml,63,24,0.09404,0.21,uw,uw61918522,2023-05-23T18:36:46.207Z,"6 km N of Camano, Washington",earthquake,0.4,0.53,0.22294753619007568,54,reviewed,uw,uw
 2023-05-23T07:17:42.150Z,58.179,-155.3355,2.33,0.93,ml,10,149,,0.08,av,av91770002,2023-05-23T17:31:39.170Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.31,0.404815772462019,10,reviewed,av,av
 2023-05-23T07:17:24.406Z,58.051,-155.8514,145.9,1.8,ml,,,,1.05,ak,ak0236km4cwo,2023-05-23T07:19:29.272Z,"85 km SSE of King Salmon, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2023-05-23T07:14:02.160Z,19.114,-65.7136,136,3.93,md,9,257,0.9145,0.56,pr,pr2023143000,2023-05-23T07:46:08.762Z,"Puerto Rico region",earthquake,10.78,8.89,0,3,reviewed,pr,pr
@@ -291,7 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T18:57:36.470Z,33.713,-116.8208333,15.13,0.38,ml,17,180,0.08578,0.09,ci,ci40231575,2023-05-22T22:20:41.202Z,"8km ESE of Valle Vista, CA",earthquake,0.29,0.41,0.183,7,reviewed,ci,ci
 2023-05-22T18:54:19.408Z,62.2155,-151.0404,65.7,1.6,ml,,,,0.77,ak,ak0236j5cp6c,2023-05-22T18:56:28.370Z,"31 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-22T18:49:50.800Z,19.4315,-155.317166666667,4.96,2.34,ml,39,117,,0.08,hv,hv73415992,2023-05-22T20:17:27.878Z,"8 km W of Volcano, Hawaii",earthquake,0.24,0.43,0.226532272111578,15,reviewed,hv,hv
-2023-05-22T18:43:37.820Z,18.0271,-68.5278,93,3.82,md,14,222,0.5083,0.51,pr,pr2023142003,2023-05-22T21:11:07.040Z,"39 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.27,1.92,0.17,12,reviewed,pr,pr
-2023-05-22T18:42:09.850Z,33.461,-116.5893333,12.2,1.5,ml,59,24,0.03529,0.18,ci,ci40231559,2023-05-22T22:19:18.860Z,"13km SE of Anza, CA",earthquake,0.15,0.38,0.115,34,reviewed,ci,ci
-2023-05-22T18:39:53.640Z,19.4395008087158,-155.321334838867,1.95000004768372,1.92,ml,25,90,,0.209999993,hv,hv73415982,2023-05-22T18:45:23.840Z,"9 km W of Volcano, Hawaii",earthquake,0.42,0.99000001,0.62,6,automatic,hv,hv
-2023-05-22T18:35:13.230Z,18.8435,-68.2001,91,3.7,md,10,254,0.3762,0.61,pr,pr2023142004,2023-05-22T20:49:50.040Z,"36 km NE of Punta Cana, Dominican Republic",earthquake,5.42,4.2,0.07,9,reviewed,pr,pr
