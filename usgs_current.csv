@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T16:05:09.470Z,37.9850006,-122.1166687,16.04,1.64,md,9,205,0.209,0.18,nc,nc73889450,2023-05-24T18:10:12.974Z,"3km SW of Vine Hill, CA",earthquake,8.89,9.7,,1,automatic,nc,nc
 2023-05-24T16:03:06.600Z,37.6501656,-118.8984985,2.15,0.92,md,11,116,0.005911,0.03,nc,nc73889445,2023-05-24T17:45:14.839Z,"7km ENE of Mammoth Lakes, CA",earthquake,0.53,0.61,0.12,11,automatic,nc,nc
 2023-05-24T16:02:08.639Z,61.6491,-149.7004,45.6,2.3,ml,,,,0.13,ak,ak0236mexcug,2023-05-24T17:47:12.922Z,"5 km WNW of Meadow Lakes, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-05-24T16:01:09.130Z,38.7515,-122.716,1.25,0.31,md,19,96,0.01131,0.04,nc,nc73889440,2023-05-24T17:59:11.914Z,"3km SW of Anderson Springs, CA",earthquake,0.24,0.36,0.153,13,reviewed,nc,nc
+2023-05-24T16:01:09.130Z,38.7515,-122.716,1.25,0.31,md,19,96,0.01131,0.04,nc,nc73889440,2023-05-24T18:31:14.101Z,"3km SW of Anderson Springs, CA",earthquake,0.24,0.36,0.153,13,reviewed,nc,nc
 2023-05-24T15:56:52.590Z,44.745,-110.8393333,3.53,-0.36,md,4,172,0.04405,0.09,uu,uu60540796,2023-05-24T16:33:10.010Z,"22 km ENE of West Yellowstone, Montana",earthquake,1.3,31.61,0.214,2,reviewed,uu,uu
 2023-05-24T15:50:35.560Z,33.2583333,-115.9996667,4.59,1.53,ml,51,69,0.0246,0.15,ci,ci40232895,2023-05-24T17:46:15.980Z,"6km SW of Salton City, CA",earthquake,0.15,0.34,0.095,22,reviewed,ci,ci
 2023-05-24T15:49:34.919Z,-6.9826,129.5289,166.459,6.2,mww,115,28,2.472,0.9,us,us7000k3h5,2023-05-24T18:19:55.227Z,"Banda Sea",earthquake,7,4.31,0.042,54,reviewed,us,us
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T01:04:42.510Z,33.8953333,-117.7581667,10.68,1.46,ml,61,68,0.04964,0.19,ci,ci40232631,2023-05-24T14:02:46.145Z,"5km E of Yorba Linda, CA",earthquake,0.2,0.3,0.157,36,reviewed,ci,ci
 2023-05-24T01:04:15.780Z,38.8356667,-122.7896652,1.68,0.77,md,11,66,0.002789,0.01,nc,nc73889235,2023-05-24T01:42:14.935Z,"6km WNW of Cobb, CA",earthquake,0.33,0.76,0.16,12,automatic,nc,nc
 2023-05-24T01:04:01.830Z,19.4086666666667,-155.274833333333,6.31,1.74,ml,17,64,,0.1,hv,hv73418152,2023-05-24T02:21:20.020Z,"5 km SW of Volcano, Hawaii",earthquake,0.33,0.51,0.13362800766861,9,reviewed,hv,hv
-2023-05-24T01:02:40.590Z,37.796,-122.191,9.52,1.15,md,25,107,0.01865,0.09,nc,nc73889230,2023-05-24T17:12:14.624Z,"3km E of Oakland, CA",earthquake,0.22,0.45,0.321,18,reviewed,nc,nc
+2023-05-24T01:02:40.590Z,37.796,-122.191,9.52,1.15,md,25,107,0.01865,0.09,nc,nc73889230,2023-05-24T18:26:11.070Z,"3km E of Oakland, CA",earthquake,0.22,0.45,0.321,18,reviewed,nc,nc
 2023-05-24T01:02:32.270Z,38.8160019,-122.8256683,2.36,0.76,md,14,90,0.007633,0.02,nc,nc73889225,2023-05-24T01:22:10.698Z,"7km NW of The Geysers, CA",earthquake,0.35,0.98,0.47,15,automatic,nc,nc
 2023-05-24T00:44:06.683Z,5.6926,124.3785,10,5.2,mww,80,75,1.815,0.75,us,us7000k3d7,2023-05-24T07:47:52.994Z,"40 km SSW of Maitum, Philippines",earthquake,7.7,1.867,0.093,11,reviewed,us,us
 2023-05-24T00:30:25.200Z,37.2783333,-117.5841667,6.16,3.04,ml,14,170,0.06695,0.16,ci,ci40232623,2023-05-24T04:02:13.658Z,"64km ENE of Big Pine, CA",earthquake,0.56,0.45,0.193,61,reviewed,ci,ci
@@ -210,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T18:40:12.690Z,19.4318333333333,-155.322833333333,5.37,2.35,ml,34,126,,0.09,hv,hv73417602,2023-05-23T19:12:00.210Z,"9 km W of Volcano, Hawaii",earthquake,0.28,0.47,0.216905062456412,17,reviewed,hv,hv
 2023-05-23T18:38:30.930Z,37.9766667,-122.4643333,-0.02,1.47,md,12,89,0.02656,0.07,nc,nc73889110,2023-05-23T22:57:25.631Z,"6km ESE of Santa Venetia, CA",quarry blast,0.34,31.61,0.235,9,reviewed,nc,nc
 2023-05-23T18:32:41.132Z,60.4206,-151.0631,46.1,3,ml,,,,0.36,ak,ak0236ksrdld,2023-05-23T19:29:32.040Z,"7 km S of Soldotna, Alaska",earthquake,,2,,,automatic,ak,ak
-2023-05-23T18:31:23.435Z,60.8487,-151.0144,20,1.5,ml,,,,0.3,ak,ak0236ksr4if,2023-05-23T18:33:14.847Z,"19 km WSW of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-23T18:30:31.160Z,35.4995,-118.3985,8.57,1.33,ml,23,67,0.1742,0.12,ci,ci40232423,2023-05-23T20:28:05.265Z,"13km SE of Bodfish, CA",earthquake,0.17,0.64,0.093,11,reviewed,ci,ci
-2023-05-23T18:23:04.025Z,5.7205,124.4945,63.536,4.8,mb,79,76,1.72,0.69,us,us7000k3b3,2023-05-24T00:16:10.974Z,"33 km SSW of Kiamba, Philippines",earthquake,7.96,3.173,0.065,77,reviewed,us,us
