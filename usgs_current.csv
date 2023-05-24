@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-24T19:17:42.220Z,38.8380013,-122.8105011,1.64,0.27,md,6,152,0.01459,0.01,nc,nc73889520,2023-05-24T19:19:15.462Z,"8km WNW of Cobb, CA",earthquake,0.81,1.66,0.17,7,automatic,nc,nc
+2023-05-24T19:17:42.220Z,38.8380013,-122.8105011,1.64,0.27,md,6,152,0.01459,0.01,nc,nc73889520,2023-05-24T19:33:11.482Z,"8km WNW of Cobb, CA",earthquake,0.81,1.66,0.17,7,automatic,nc,nc
 2023-05-24T19:13:21.840Z,33.2388333,-117.1625,3.35,0.9,ml,19,101,0.05256,0.35,ci,ci40233047,2023-05-24T19:16:59.863Z,"9km ENE of Vista, CA",earthquake,0.79,0.84,0.131,13,automatic,ci,ci
 2023-05-24T19:11:52.260Z,33.9505,-116.6416667,11.71,2.25,ml,78,24,0.05492,0.2,ci,ci40233039,2023-05-24T19:23:21.000Z,"10km WNW of Garnet, CA",earthquake,0.17,0.51,0.176,26,automatic,ci,ci
 2023-05-24T19:07:30.339Z,59.5483,-150.199,8.7,1.7,ml,,,,0.82,ak,ak0236mgqu46,2023-05-24T19:10:33.456Z,"54 km SE of Fox River, Alaska",earthquake,,3.2,,,automatic,ak,ak
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T17:14:20.081Z,61.5655,-146.6731,30.2,1.4,ml,,,,0.78,ak,ak0236mfl8l5,2023-05-24T17:47:48.755Z,"47 km S of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-24T17:12:10.019Z,35.93883333,-97.901,7.97,1.34,ml,60,48,0.07288569734,0.33,ok,ok2023kcoz,2023-05-24T17:23:08.641Z,"4 km S of Dover, Oklahoma",earthquake,,0.9,0.22,27,reviewed,ok,ok
 2023-05-24T17:10:44.610Z,38.8138351,-122.8266678,2.01,0.76,md,17,57,0.005333,0.02,nc,nc73889480,2023-05-24T18:06:15.951Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.63,0.16,18,automatic,nc,nc
-2023-05-24T17:09:38.310Z,38.7253342,-122.9163361,6.3,1.5,md,34,94,0.06973,0.04,nc,nc73889475,2023-05-24T19:16:10.364Z,"12km SE of Cloverdale, CA",earthquake,0.28,0.81,0.24,31,automatic,nc,nc
+2023-05-24T17:09:38.310Z,38.7253342,-122.9163361,6.3,1.5,md,34,94,0.06973,0.04,nc,nc73889475,2023-05-24T19:32:13.472Z,"12km SE of Cloverdale, CA",earthquake,0.28,0.81,0.24,31,automatic,nc,nc
 2023-05-24T17:08:02.840Z,33.2245,-116.7568333,19.25,0.92,ml,34,46,0.01156,0.14,ci,ci40232951,2023-05-24T17:50:20.398Z,"2km SSE of Lake Henshaw, CA",earthquake,0.18,0.48,0.154,14,reviewed,ci,ci
 2023-05-24T17:07:00.840Z,34.215,-117.5633333,4.17,1.34,ml,43,63,0.05326,0.2,ci,ci40232943,2023-05-24T17:44:19.669Z,"8km SW of Lytle Creek, CA",earthquake,0.2,0.4,0.182,26,reviewed,ci,ci
 2023-05-24T17:05:54.880Z,38.824,-122.797,3.06,0.43,md,26,32,0.01023,0.02,nc,nc73889470,2023-05-24T18:43:16.175Z,"6km NW of The Geysers, CA",earthquake,0.19,0.39,0.188,25,reviewed,nc,nc
@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T08:55:38.340Z,38.7543335,-122.7170029,0.88,0.96,md,9,172,0.009502,0.02,nc,nc73889320,2023-05-24T10:15:10.929Z,"3km SW of Anderson Springs, CA",earthquake,0.36,0.57,0.2,9,automatic,nc,nc
 2023-05-24T08:47:38.390Z,19.5228,-65.7673,76,3.84,md,9,282,1.3084,0.47,pr,pr2023144000,2023-05-24T10:07:39.252Z,"121 km N of Suárez, Puerto Rico",earthquake,7.66,16.87,0.07,5,reviewed,pr,pr
 2023-05-24T08:42:02.470Z,38.7538338,-122.7213364,0.95,2.28,md,33,75,0.03173,0.05,nc,nc73889310,2023-05-24T16:20:03.245Z,"4km SW of Anderson Springs, CA",earthquake,0.2,0.57,0.12,36,automatic,nc,nc
-2023-05-24T08:41:58.690Z,38.7505,-122.7136667,1.24,1.12,md,15,81,0.009898,0.03,nc,nc73889305,2023-05-24T19:18:15.983Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.4,0.232,4,reviewed,nc,nc
+2023-05-24T08:41:58.690Z,38.7505,-122.7136667,1.24,1.12,md,15,81,0.009898,0.03,nc,nc73889305,2023-05-24T19:27:10.433Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.4,0.232,4,reviewed,nc,nc
 2023-05-24T08:30:22.360Z,-18.0924,168.0641,35,4.4,mb,12,152,4.325,1.22,us,us7000k3f1,2023-05-24T11:11:51.040Z,"Vanuatu",earthquake,11.04,1.98,0.179,10,reviewed,us,us
 2023-05-24T08:18:52.450Z,33.5356667,-116.6816667,8.75,0.73,ml,31,38,0.0527,0.12,ci,ci40232759,2023-05-24T13:05:11.641Z,"2km SSW of Anza, CA",earthquake,0.17,0.39,0.207,22,reviewed,ci,ci
 2023-05-24T08:18:46.310Z,38.8423347,-122.8414993,1.7,0.94,md,17,107,0.006003,0.03,nc,nc73889300,2023-05-24T09:31:11.654Z,"10km NW of The Geysers, CA",earthquake,0.27,0.46,0.2,18,automatic,nc,nc
