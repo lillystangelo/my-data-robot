@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-24T04:22:12.264Z,66.0653,-150.4175,0,1.2,ml,,,,0.8,ak,ak0236m7wg8a,2023-05-24T04:24:23.367Z,"60 km W of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-24T04:03:29.490Z,18.0645,-66.2386666666667,18.48,2.86,md,16,139,0.09529,0.17,pr,pr71410708,2023-05-24T04:19:55.760Z,"0 km S of Vázquez, Puerto Rico",earthquake,0.45,0.33,0.225325058723931,7,reviewed,pr,pr
 2023-05-24T04:01:31.500Z,33.5871667,-116.6163333,13.32,0.61,ml,22,61,0.02021,0.17,ci,ci40232703,2023-05-24T04:05:03.447Z,"6km NE of Anza, CA",earthquake,0.32,0.49,0.171,14,automatic,ci,ci
 2023-05-24T03:43:29.390Z,18.171,-67.5008333333333,5.33,3.27,md,19,144,0.2133,0.36,pr,pr71410693,2023-05-24T04:01:37.270Z,"31 km WSW of Stella, Puerto Rico",earthquake,0.66,1.19,0.0241315277683971,7,reviewed,pr,pr
@@ -232,7 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-23T07:35:40.270Z,46.133833333333335,-122.62716666666667,13.6,1.16,ml,15,62,0.08152,0.1,uw,uw61918527,2023-05-23T17:15:41.860Z,"21 km E of Kelso, Washington",earthquake,0.33,0.69,0.1123665886228502,6,reviewed,uw,uw
 2023-05-23T07:34:12.550Z,18.903,-64.3606666666667,18.51,3.39,md,6,316,0.6893,0.23,pr,pr71410608,2023-05-23T07:50:50.900Z,"78 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,7.94,15.72,0.016435066791177,4,reviewed,pr,pr
 2023-05-23T07:22:45.980Z,58.2603333333333,-154.975333333333,3.1,0.54,ml,9,145,,0.21,av,av91770007,2023-05-23T17:35:37.390Z,"82 km NNW of Karluk, Alaska",earthquake,0.48,1.39,0.375072552024064,9,reviewed,av,av
-2023-05-23T07:21:34.690Z,48.232,-122.5215,60.58,3.11,ml,63,24,0.09404,0.21,uw,uw61918522,2023-05-23T22:04:05.024Z,"6 km N of Camano, Washington",earthquake,0.4,0.53,0.22294753619007568,54,reviewed,uw,uw
+2023-05-23T07:21:34.690Z,48.232,-122.5215,60.58,3.11,ml,63,24,0.09404,0.21,uw,uw61918522,2023-05-24T04:23:10.500Z,"6 km N of Camano, Washington",earthquake,0.4,0.53,0.22294753619007568,54,reviewed,uw,uw
 2023-05-23T07:17:42.150Z,58.179,-155.3355,2.33,0.93,ml,10,149,,0.08,av,av91770002,2023-05-23T17:31:39.170Z,"85 km NW of Karluk, Alaska",earthquake,0.27,0.31,0.404815772462019,10,reviewed,av,av
 2023-05-23T07:17:24.406Z,58.051,-155.8514,145.9,1.8,ml,,,,1.05,ak,ak0236km4cwo,2023-05-23T07:19:29.272Z,"Alaska Peninsula",earthquake,,6.7,,,automatic,ak,ak
 2023-05-23T07:14:02.160Z,19.114,-65.7136,136,3.93,md,9,257,0.9145,0.56,pr,pr2023143000,2023-05-23T07:46:08.762Z,"Puerto Rico region",earthquake,10.78,8.89,0,3,reviewed,pr,pr
