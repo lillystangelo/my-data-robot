@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-25T02:30:51.907Z,57.3657,-154.9435,72.6,0.4,ml,,,,0.84,ak,ak0236nuaujm,2023-05-25T02:33:08.506Z,"37 km SW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-05-25T02:02:21.480Z,38.8143349,-122.8246689,1.86,0.77,md,8,76,0.01193,0.01,nc,nc73889620,2023-05-25T02:21:10.965Z,"7km NW of The Geysers, CA",earthquake,0.49,1.39,0.09,8,automatic,nc,nc
+2023-05-25T02:02:21.480Z,38.8143349,-122.8246689,1.86,0.77,md,8,76,0.01193,0.01,nc,nc73889620,2023-05-25T02:46:12.113Z,"7km NW of The Geysers, CA",earthquake,0.49,1.39,0.09,8,automatic,nc,nc
 2023-05-25T01:57:34.730Z,33.4611667,-116.614,11.06,0.13,ml,13,99,0.1061,0.38,ci,ci40233199,2023-05-25T02:01:11.675Z,"12km SSE of Anza, CA",earthquake,1.26,2.55,0.044,3,automatic,ci,ci
 2023-05-25T01:56:14.480Z,38.7746658,-122.7181702,2.6,0.73,md,6,131,0.01406,0.02,nc,nc73889615,2023-05-25T02:36:13.053Z,"2km W of Anderson Springs, CA",earthquake,0.48,0.69,0.3,6,automatic,nc,nc
 2023-05-25T01:54:39.480Z,38.8283348,-122.8014984,1.55,0.49,md,9,81,0.008319,0.01,nc,nc73889610,2023-05-25T02:26:11.992Z,"7km W of Cobb, CA",earthquake,0.43,1.26,0.32,10,automatic,nc,nc
@@ -236,7 +236,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T04:55:39.090Z,35.7768333,-117.5685,7.68,1.08,ml,10,140,0.04543,0.19,ci,ci40232719,2023-05-24T13:06:01.598Z,"15km W of Searles Valley, CA",earthquake,0.5,0.99,0.109,8,reviewed,ci,ci
 2023-05-24T04:42:13.265Z,63.2854,-150.3873,109.5,1.4,ml,,,,0.3,ak,ak0236m80qmm,2023-05-24T04:44:18.028Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-24T04:36:13.800Z,33.774,-116.9308333,13.48,0.67,ml,31,150,0.08689,0.14,ci,ci40232711,2023-05-24T16:04:06.921Z,"3km ESE of San Jacinto, CA",earthquake,0.26,0.44,0.1,9,reviewed,ci,ci
-2023-05-24T04:30:08.170Z,40.227,-124.1815,11.05,1.51,md,18,156,0.02458,0.11,nc,nc73889275,2023-05-25T00:58:11.448Z,"14km SE of Petrolia, CA",earthquake,0.29,0.3,0.171,9,reviewed,nc,nc
+2023-05-24T04:30:08.170Z,40.227,-124.1815,11.05,1.51,md,18,156,0.02458,0.11,nc,nc73889275,2023-05-25T02:53:16.152Z,"14km SE of Petrolia, CA",earthquake,0.29,0.3,0.171,9,reviewed,nc,nc
 2023-05-24T04:22:12.264Z,66.0653,-150.4175,0,1.2,ml,,,,0.8,ak,ak0236m7wg8a,2023-05-24T04:24:23.367Z,"60 km W of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-24T04:20:47.360Z,36.6998333,-121.3823333,-0.43,0.92,md,17,57,0.02978,0.17,nc,nc73889270,2023-05-24T21:58:14.386Z,"12km SSW of Tres Pinos, CA",earthquake,0.32,1.17,0.271,13,reviewed,nc,nc
 2023-05-24T04:07:43.053Z,-0.8165,98.4678,19.486,4.4,mb,24,114,2.287,0.85,us,us7000k3ef,2023-05-25T01:32:21.040Z,"170 km SSE of Teluk Dalam, Indonesia",earthquake,9.72,5.057,0.149,13,reviewed,us,us
@@ -262,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T03:08:13.055Z,31.66205375,-104.3719144,6.131567383,2.9,ml,20,69,0.04951924757,0.3,tx,tx2023kbnf,2023-05-24T23:22:31.040Z,"56 km S of Whites City, New Mexico",earthquake,1.301946673,1.028554309,0.2,10,reviewed,tx,tx
 2023-05-24T03:04:39.542Z,31.67997354,-104.3726089,6.131567383,2.1,ml,27,56,0.04542796125,0.3,tx,tx2023kbnb,2023-05-24T14:52:18.009Z,"54 km S of Whites City, New Mexico",earthquake,1.09229417,0.934862095,0.1,19,reviewed,tx,tx
 2023-05-24T03:04:31.098Z,40.0112,-120.1733,9.1,1.3,ml,6,199.94,0.203,0.0454,nn,nn00860265,2023-05-24T20:55:26.071Z,"6 km WSW of Doyle, California",earthquake,,4.9,0.38,5,reviewed,nn,nn
-2023-05-24T02:50:22.620Z,38.8116684,-122.8286667,1.17,0.65,md,9,92,0.002825,0.02,nc,nc73889260,2023-05-24T03:07:14.328Z,"7km WNW of The Geysers, CA",earthquake,0.31,0.7,0.3,10,automatic,nc,nc
-2023-05-24T02:48:53.110Z,56.2243333333333,-159.472333333333,6.12,0.08,ml,4,285,,0.05,av,av91099858,2023-05-24T21:57:31.900Z,"35 km N of Ivanof Bay, Alaska",earthquake,0.52,0.46,0.296128032085554,4,reviewed,av,av
