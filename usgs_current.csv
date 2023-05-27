@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T22:47:16.378Z,58.1912,-155.3914,1.1,1.9,ml,,,,0.82,ak,ak0236rhdnth,2023-05-27T22:49:32.121Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-27T22:45:53.299Z,58.2499,-155.1457,1.3,1.6,ml,,,,0.1,ak,ak0236rhdb8h,2023-05-27T22:46:43.877Z,"86 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-27T22:41:46.880Z,38.8676682,-122.973999,6.93,0.28,md,8,190,0.07657,0.05,nc,nc73890745,2023-05-27T22:58:14.223Z,"8km NNE of Cloverdale, CA",earthquake,2.21,1.73,0.08,4,automatic,nc,nc
-2023-05-27T22:24:32.630Z,36.6931648,-121.3563309,1.01,2.16,md,28,53,0.01631,0.18,nc,nc73890735,2023-05-27T23:03:15.250Z,"11km SSW of Tres Pinos, CA",earthquake,0.33,0.79,0.14,26,automatic,nc,nc
+2023-05-27T22:24:32.630Z,36.6931648,-121.3563309,1.01,2.16,md,28,53,0.01631,0.18,nc,nc73890735,2023-05-27T23:26:09.444Z,"11km SSW of Tres Pinos, CA",earthquake,0.33,0.79,0.14,26,automatic,nc,nc
 2023-05-27T22:21:20.656Z,36.4818,-116.6207,2.9,1.4,ml,20,169.71,0.098,0.1534,nn,nn00860422,2023-05-27T22:23:21.021Z,"21 km E of Furnace Creek, California",earthquake,,1.2,0.8,15,automatic,nn,nn
 2023-05-27T22:15:33.009Z,61.4667,-148.4735,32,1.6,ml,,,,0.47,ak,ak0236rh6u6s,2023-05-27T22:17:13.426Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-05-27T22:15:07.407Z,35.80385208,-96.65880585,1.948899627,1.75,ml,26,46.21245718,0.1360961199,0.4898172163,ok,ok2023kilm,2023-05-27T22:18:20.998Z,"6 km N of Stroud, Oklahoma",earthquake,2.263838889,1.903692756,0.29,9,automatic,ok,ok
@@ -202,7 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-27T00:06:48.000Z,33.5441667,-116.4221667,10.07,-0.04,ml,7,173,0.07304,0.1,ci,ci40234647,2023-05-27T00:25:42.781Z,"17km SW of La Quinta, CA",earthquake,0.7,1.33,0.083,3,reviewed,ci,ci
 2023-05-26T23:55:23.420Z,38.7838326,-122.7444992,0.92,1.25,md,12,131,0.02055,0.03,nc,nc73890385,2023-05-27T01:30:15.591Z,"1km NE of The Geysers, CA",earthquake,0.3,0.62,0.08,12,automatic,nc,nc
 2023-05-26T23:41:30.910Z,37.5463333,-118.9858333,1.69,0.52,md,11,262,0.07185,0.03,nc,nc73890380,2023-05-27T04:11:15.452Z,"10km S of Mammoth Lakes, CA",earthquake,1,1.98,0.158,12,reviewed,nc,nc
-2023-05-26T23:31:37.710Z,38.7878342,-122.74617,1.92,1.04,md,8,126,0.01659,0.01,nc,nc73890375,2023-05-26T23:48:15.981Z,"2km NE of The Geysers, CA",earthquake,0.45,0.91,0.24,9,automatic,nc,nc
-2023-05-26T23:26:44.179Z,62.4511,-149.818,14,1.5,ml,,,,0.33,ak,ak0236pubb1d,2023-05-26T23:28:41.937Z,"14 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-26T23:26:30.290Z,36.7608337,-121.1708298,8.57,2.16,md,27,75,0.09003,0.13,nc,nc73890370,2023-05-27T00:47:19.345Z,"14km ESE of Tres Pinos, CA",earthquake,0.4,0.76,0.13,23,automatic,nc,nc
-2023-05-26T23:23:51.687Z,52.4751,-170.8533,65.5,2.9,ml,,,,0.71,ak,ak0236puasdy,2023-05-27T02:51:03.460Z,"144 km WSW of Nikolski, Alaska",earthquake,,0.9,,,reviewed,ak,ak
