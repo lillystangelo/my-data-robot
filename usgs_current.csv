@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-27T19:21:46.320Z,38.8121681,-122.8355026,12.14,0.82,md,12,87,0.005939,0.1,nc,nc73890675,2023-05-27T19:23:26.900Z,"8km WNW of The Geysers, CA",earthquake,1.19,1.49,0.08,13,automatic,nc,nc
-2023-05-27T19:16:12.030Z,38.831501,-122.819664,1.54,0.83,md,7,101,0.01103,0.02,nc,nc73890670,2023-05-27T19:17:45.731Z,"8km NW of The Geysers, CA",earthquake,0.39,0.95,0.24,7,automatic,nc,nc
+2023-05-27T19:21:46.320Z,38.8121681,-122.8355026,12.14,0.82,md,12,87,0.005939,0.1,nc,nc73890675,2023-05-27T19:35:11.947Z,"8km WNW of The Geysers, CA",earthquake,1.19,1.49,0.08,13,automatic,nc,nc
+2023-05-27T19:16:12.030Z,38.831501,-122.819664,1.54,0.83,md,7,101,0.01103,0.02,nc,nc73890670,2023-05-27T19:32:12.928Z,"8km NW of The Geysers, CA",earthquake,0.39,0.95,0.24,7,automatic,nc,nc
 2023-05-27T19:07:40.450Z,35.9896667,-117.569,0.09,1.05,ml,14,153,0.1947,0.18,ci,ci40235407,2023-05-27T19:11:11.967Z,"29km NNW of Searles Valley, CA",earthquake,0.45,0.83,0.112,7,automatic,ci,ci
 2023-05-27T19:03:13.680Z,19.4356670379639,-155.325164794922,4.34999990463257,1.75,ml,22,88,,0.150000006,hv,hv73424787,2023-05-27T19:08:43.770Z,"9 km W of Volcano, Hawaii",earthquake,0.36,1.07000005,0.24,4,automatic,hv,hv
 2023-05-27T18:59:23.730Z,38.7939987,-122.7578354,3.61,1.03,md,9,109,0.02352,0.01,nc,nc73890665,2023-05-27T19:16:11.827Z,"2km N of The Geysers, CA",earthquake,0.38,1.05,0.07,10,automatic,nc,nc
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T19:43:54.920Z,19.2478332519531,-155.401840209961,32.2799987792969,1.88999999,md,42,131,,0.150000006,hv,hv73423137,2023-05-26T19:47:08.590Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.670000017,1.55999994,10,automatic,hv,hv
 2023-05-26T19:40:35.050Z,35.0335,-118.9361667,12.75,1.2,ml,14,144,0.1111,0.16,ci,ci40234407,2023-05-26T23:11:25.270Z,"10km N of Grapevine, CA",earthquake,0.5,1.07,0.115,9,reviewed,ci,ci
 2023-05-26T19:39:15.098Z,32.28973389,-101.8127144,6.627237956,2.4,ml,20,66,0.03024187086,0.3,tx,tx2023kgkv,2023-05-27T15:09:23.666Z,"17 km N of Stanton, Texas",earthquake,0.9082423044,0.8505536975,0.1,13,reviewed,tx,tx
-2023-05-26T19:30:09.940Z,58.1825,-155.32,1.17,-0.3,ml,7,105,,0.06,av,av91772837,2023-05-27T01:48:24.590Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.78,0.163211876909032,7,reviewed,av,av
