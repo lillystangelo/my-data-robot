@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T10:08:16.930Z,31.64729159,-104.2638828,6.157275391,3,ml,18,67,0.1090813934,0.3,tx,tx2023kjja,2023-05-28T10:32:02.272Z,"57 km NW of Toyah, Texas",earthquake,1.424237981,1.905734149,0.2,12,reviewed,tx,tx
 2023-05-28T10:07:20.400Z,18.0996666666667,-66.148,15.49,3.07,md,14,96,0.009573,0.12,pr,pr71411453,2023-05-28T10:37:20.120Z,"2 km SE of Cayey, Puerto Rico",earthquake,0.29,0.35,0.037115397224311,4,reviewed,pr,pr
 2023-05-28T09:54:04.203Z,61.4052,-150.0657,32.1,1.5,ml,,,,0.25,ak,ak0236sx7uis,2023-05-28T09:55:18.941Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-28T09:36:02.915Z,19.004,-65.0598,21.748,2.6,ml,15,272,0.655,0.39,us,us7000k4lg,2023-05-28T09:46:27.040Z,"74 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,6.01,14.935,0.066,30,reviewed,us,us
+2023-05-28T09:36:02.290Z,19.07,-64.8066,24,3.6,md,21,281,0.7331,0.36,pr,pr2023148006,2023-05-28T10:56:36.526Z,"Virgin Islands region",earthquake,1.39,22.15,0.08,8,reviewed,pr,pr
 2023-05-28T09:32:13.090Z,19.0926,-64.8685,23,3.61,md,20,280,0.7452,0.36,pr,pr2023148005,2023-05-28T10:19:13.537Z,"83 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.42,24.56,0.08,8,reviewed,pr,pr
 2023-05-28T09:31:02.205Z,58.1751,-155.3413,16.3,0.9,ml,,,,0.94,ak,ak0236sx2wwc,2023-05-28T09:33:00.130Z,"85 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-28T09:13:26.468Z,57.3637,-156.3571,38.4,2.5,ml,,,,1.11,ak,ak0236swz3vn,2023-05-28T09:17:14.556Z,"64 km ESE of Ugashik, Alaska",earthquake,,6.4,,,automatic,ak,ak
