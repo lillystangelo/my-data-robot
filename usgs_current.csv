@@ -10,8 +10,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T17:12:24.330Z,32.7285,-115.424,6.71,1.49,ml,14,99,0.07897,0.2,ci,ci40237983,2023-05-30T17:15:59.054Z,"9km NE of Calexico, CA",earthquake,0.52,1.66,0.22,16,automatic,ci,ci
 2023-05-30T17:11:44.648Z,37.2792,-117.5785,2.3,1,ml,9,135.25,0.071,0.186,nn,nn00860521,2023-05-30T17:14:13.629Z,"53 km S of Silver Peak, Nevada",earthquake,,5.3,0.85,7,automatic,nn,nn
 2023-05-30T17:11:17.870Z,32.7386667,-115.4271667,7.8,1.73,ml,19,103,0.06849,0.18,ci,ci40237975,2023-05-30T17:22:34.180Z,"9km SSW of Holtville, CA",earthquake,0.48,0.98,0.254,22,automatic,ci,ci
-2023-05-30T17:06:51.910Z,38.8441658,-122.7928314,-0.39,1.19,md,14,185,0.006068,0.09,nc,nc73891660,2023-05-30T17:44:11.859Z,"6km WNW of Cobb, CA",earthquake,0.42,0.57,0.14,16,automatic,nc,nc
-2023-05-30T17:05:10.383Z,37.4228,-115.5455,20.1,1.5,ml,14,127.99,0.273,0.1599,nn,nn00860520,2023-05-30T18:20:04.031Z,"Nevada",earthquake,,2.4,0.25,10,reviewed,nn,nn
+2023-05-30T17:06:51.910Z,38.8441658,-122.7928314,-0.39,1.19,md,14,185,0.006068,0.09,nc,nc73891660,2023-05-30T18:27:13.111Z,"6km WNW of Cobb, CA",earthquake,0.42,0.57,0.14,16,automatic,nc,nc
+2023-05-30T17:05:10.378Z,37.436,-115.5316,14.3,1.6,ml,20,133.57,0.27,0.1493,nn,nn00860520,2023-05-30T18:29:32.680Z,"29 km SE of Rachel, Nevada",earthquake,,3.9,0.22,13,reviewed,nn,nn
 2023-05-30T16:51:36.770Z,-20.6675,-70.6367,37.375,5.5,mww,92,111,0.617,1.36,us,us7000k51s,2023-05-30T18:17:22.229Z,"68 km SW of La Tirana, Chile",earthquake,4.69,5.624,0.083,14,reviewed,us,us
 2023-05-30T16:44:37.399Z,58.1769,-155.4031,0.1,1.5,ml,,,,0.51,ak,ak0236wcei57,2023-05-30T16:46:12.253Z,"88 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-30T16:41:09.823Z,63.4993,-149.2894,36.7,1.5,ml,,,,0.69,ak,ak0236wcdsva,2023-05-30T16:43:06.316Z,"20 km NW of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T02:49:43.600Z,37.5325,-87.3443333333333,0.69,2.51,md,17,103,0.1217,0.28,nm,nm60500763,2023-05-30T17:17:11.165Z,"7 km W of Calhoun, Kentucky",earthquake,0.92,1.65,0.184107851597688,13,reviewed,nm,nm
 2023-05-30T02:49:39.581Z,59.4755,-152.7885,83.7,1.7,ml,,,,0.19,ak,ak0236w43ifa,2023-05-30T02:51:01.218Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-30T02:47:22.120Z,34.4108333,-119.8983333,10.98,1.33,ml,10,131,0.1136,0.27,ci,ci40237215,2023-05-30T02:51:02.609Z,"3km W of Isla Vista, CA",earthquake,0.69,1.77,0.108,13,automatic,ci,ci
-2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T17:55:13.683Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
+2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T18:28:34.742Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
 2023-05-30T02:43:31.570Z,45.92,-111.218333333333,4.97,1.15,ml,9,114,0.1935,0.23,mb,mb90016278,2023-05-30T17:53:06.680Z,"11 km NE of Manhattan, Montana",earthquake,1.04,14.49,0.192761013698453,7,reviewed,mb,mb
 2023-05-30T02:40:23.010Z,41.5016667,-112.1768333,8.05,1.36,ml,18,92,0.1044,0.1,uu,uu60541226,2023-05-30T14:50:20.150Z,"7 km SW of Corinne, Utah",earthquake,0.32,1.43,0.106,2,reviewed,uu,uu
 2023-05-30T02:35:40.986Z,58.2571,-155.1346,1.9,0.8,ml,,,,0.32,ak,ak0236w40iia,2023-05-30T02:37:07.802Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T18:39:25.330Z,33.539,-116.6806667,9.62,0.75,ml,35,43,0.05012,0.2,ci,ci40237047,2023-05-29T18:43:01.447Z,"2km SSW of Anza, CA",earthquake,0.29,0.49,0.186,19,automatic,ci,ci
 2023-05-29T18:38:17.590Z,19.1088333129883,-155.407501220703,31.1299991607666,1.72,ml,46,187,,0.129999995,hv,hv73428827,2023-05-29T18:43:49.030Z,"12 km SE of Pāhala, Hawaii",earthquake,0.59,0.779999971,3.55,6,automatic,hv,hv
 2023-05-29T18:35:29.910Z,19.204833984375,-155.366333007812,31.5100002288818,1.88,ml,32,177,,0.109999999,hv,hv73428822,2023-05-29T18:41:02.270Z,"11 km E of Pāhala, Hawaii",earthquake,0.56,0.779999971,0.12,3,automatic,hv,hv
-2023-05-29T18:30:39.060Z,36.3605003,-120.9301682,6.8,1.94,md,20,165,0.04458,0.06,nc,nc73891415,2023-05-29T19:54:14.801Z,"24km WSW of New Idria, CA",earthquake,0.34,0.57,0.16,16,automatic,nc,nc
-2023-05-29T18:25:52.072Z,36.8052,-116.2209,1.4,-0.1,ml,9,121.09,0.078,0.2592,nn,nn00860490,2023-05-29T18:27:59.830Z,"California-Nevada border region",earthquake,,3.9,0.98,6,automatic,nn,nn
