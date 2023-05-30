@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-30T05:13:01.550Z,38.7891655,-122.7679977,2.03,1.28,md,17,104,0.01315,0.03,nc,nc73891550,2023-05-30T05:14:39.479Z,"2km NW of The Geysers, CA",earthquake,0.27,0.47,0.21,16,automatic,nc,nc
-2023-05-30T05:05:56.482Z,63.2488,-150.5333,129.6,2.1,ml,,,,0.52,ak,ak0236w5mf0e,2023-05-30T05:08:17.792Z,"67 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-05-30T05:22:18.150Z,34.1571667,-116.4285,8.37,1.07,ml,26,70,0.04375,0.2,ci,ci40237287,2023-05-30T05:25:59.165Z,"5km N of Yucca Valley, CA",earthquake,0.3,0.82,0.167,28,automatic,ci,ci
+2023-05-30T05:19:51.733Z,61.3367,-149.6397,32.4,1.3,ml,,,,0.4,ak,ak0236w5pep1,2023-05-30T05:21:35.000Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-30T05:18:46.690Z,38.8078346,-122.8195038,1.99,1.63,md,32,56,0.007629,0.04,nc,nc73891555,2023-05-30T05:22:05.770Z,"6km WNW of The Geysers, CA",earthquake,0.17,0.29,0.14,32,automatic,nc,nc
+2023-05-30T05:13:01.550Z,38.7891655,-122.7679977,2.03,1.28,md,17,104,0.01315,0.03,nc,nc73891550,2023-05-30T05:25:11.294Z,"2km NW of The Geysers, CA",earthquake,0.27,0.47,0.21,16,automatic,nc,nc
+2023-05-30T05:05:56.482Z,63.2488,-150.5333,129.6,2.1,ml,,,,0.52,ak,ak0236w5mf0e,2023-05-30T05:18:35.040Z,"67 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-30T05:03:47.650Z,34.1653333,-116.4283333,10.32,0.81,ml,12,115,0.0365,0.12,ci,ci40237279,2023-05-30T05:07:09.986Z,"6km N of Yucca Valley, CA",earthquake,0.35,0.58,0.138,8,automatic,ci,ci
 2023-05-30T04:57:12.970Z,34.1588333,-116.4286667,8.35,1.81,ml,47,52,0.04232,0.2,ci,ci40237271,2023-05-30T05:08:06.670Z,"5km N of Yucca Valley, CA",earthquake,0.25,0.68,0.109,26,automatic,ci,ci
 2023-05-30T04:50:39.780Z,61.8992,-149.3083,2.8,1.4,ml,,,,0.8,ak,ak0236w5ald6,2023-05-30T04:52:38.652Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -187,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T05:42:43.472Z,62.5415,-150.1332,13.6,1.6,ml,,,,0.59,ak,ak0236uiaz17,2023-05-29T05:44:42.695Z,"10 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-29T05:36:39.250Z,33.2396667,-116.0961667,7.44,1.27,ml,37,56,0.1031,0.26,ci,ci40236607,2023-05-29T05:47:45.630Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.3,1.09,0.163,26,automatic,ci,ci
 2023-05-29T05:28:05.790Z,34.2656667,-116.8793333,10.43,1.07,ml,23,75,0.03447,0.22,ci,ci40236599,2023-05-29T05:31:46.758Z,"3km W of Big Bear City, CA",earthquake,0.47,0.77,0.23,24,automatic,ci,ci
-2023-05-29T05:18:46.190Z,38.8250008,-122.8498306,2.16,1.17,md,22,60,0.006059,0.01,nc,nc73891210,2023-05-29T06:00:10.343Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.41,0.14,21,automatic,nc,nc
-2023-05-29T05:18:35.020Z,35.6486667,-118.3185,7.48,1.32,ml,21,68,0.05372,0.15,ci,ci40236591,2023-05-29T05:22:19.479Z,"14km ESE of Wofford Heights, CA",earthquake,0.26,0.58,0.177,16,automatic,ci,ci
