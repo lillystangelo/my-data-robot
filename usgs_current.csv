@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-31T07:41:35.222Z,37.1842,-117.2676,0.1,1,ml,15,175.83,0.204,0.3696,nn,nn00860558,2023-05-31T07:43:56.688Z,"54 km NW of Beatty, Nevada",earthquake,,16.2,0.95,10,automatic,nn,nn
 2023-05-31T07:30:19.160Z,35.8751667,-117.7188333,9.87,1.59,ml,15,114,0.07627,0.17,ci,ci40238591,2023-05-31T07:40:41.180Z,"18km ESE of Little Lake, CA",earthquake,0.45,0.93,0.142,16,automatic,ci,ci
 2023-05-31T07:14:03.829Z,64.8684,-147.5452,14.3,1.2,ml,,,,0.19,ak,ak0236xueg4e,2023-05-31T07:15:23.500Z,"7 km N of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-31T07:12:48.357Z,40.2292,77.2073,10,4.3,mb,22,73,1.458,1.3,us,us7000k565,2023-05-31T08:41:29.040Z,"133 km NE of Kashgar, China",earthquake,3.73,1.961,0.237,5,reviewed,us,us
 2023-05-31T06:59:25.960Z,17.6698333333333,-66.7558333333333,13.11,2.79,md,10,251,0.3255,0.1,pr,pr71411843,2023-05-31T08:37:25.810Z,"36 km S of Tallaboa, Puerto Rico",earthquake,0.58,1.51,0.0399298261118501,6,reviewed,pr,pr
 2023-05-31T06:57:10.090Z,38.8230019,-122.8001633,1.51,0.8,md,9,96,0.007752,0.02,nc,nc73891930,2023-05-31T07:13:09.694Z,"6km NW of The Geysers, CA",earthquake,0.46,0.68,0.2,9,automatic,nc,nc
 2023-05-31T06:54:10.760Z,33.4436667,-116.6338333,4.04,0.56,ml,20,65,0.05736,0.13,ci,ci40238583,2023-05-31T06:57:42.880Z,"13km SSE of Anza, CA",earthquake,0.26,0.52,0.111,15,automatic,ci,ci
@@ -216,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T09:02:31.308Z,37.2626,-117.5868,7.6,1.1,ml,8,104.48,0.056,0.1797,nn,nn00860505,2023-05-31T02:04:04.801Z,"California-Nevada border region",earthquake,,2,0.25,4,reviewed,nn,nn
 2023-05-30T08:52:32.000Z,38.7906685,-122.7606659,1.9,1.07,md,13,110,0.00997,0.02,nc,nc73891585,2023-05-30T09:42:11.876Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.47,0.18,14,automatic,nc,nc
 2023-05-30T08:49:17.485Z,37.4587,137.5347,11.346,4.6,mb,33,95,1.057,0.82,us,us7000k4y8,2023-05-30T09:08:20.040Z,"54 km NNW of Itoigawa, Japan",earthquake,6.55,4.855,0.083,43,reviewed,us,us
-2023-05-30T08:43:55.830Z,19.2071666717529,-155.401992797852,34.5999984741211,2.02999997,md,48,162,,0.119999997,hv,hv73429872,2023-05-30T08:47:07.710Z,"8 km E of Pāhala, Hawaii",earthquake,0.6,0.699999988,0.449999988,17,automatic,hv,hv
-2023-05-30T08:40:43.760Z,33.2298333,-115.6395,3.24,1.27,ml,19,58,0.04869,0.18,ci,ci40237439,2023-05-30T17:28:24.918Z,"11km W of Niland, CA",earthquake,0.28,0.37,0.224,10,reviewed,ci,ci
-2023-05-30T08:38:42.315Z,36.71,-116.3075,11,0,ml,15,121.8,0.022,0.08,nn,nn00860537,2023-05-31T02:04:24.023Z,"45 km ESE of Beatty, Nevada",earthquake,,0.9,0.25,7,reviewed,nn,nn
