@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T10:48:02.400Z,33.316,-116.7971667,6.5,0.13,ml,16,89,0.06642,0.16,ci,ci40478616,2023-06-05T10:51:38.471Z,"8km SE of Palomar Observatory, CA",earthquake,0.41,0.74,0.02,3,automatic,ci,ci
 2023-06-05T10:40:05.785Z,64.8642,-147.7108,9.5,0.8,ml,,,,0.48,ak,ak023766126a,2023-06-05T10:41:44.997Z,"2 km N of Fairbanks, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-05T10:25:53.878Z,67.1044,-158.6727,0,3.2,ml,,,,0.7,ak,ak023765xy44,2023-06-05T10:34:34.040Z,"northern Alaska",earthquake,,298.8,,,automatic,ak,ak
 2023-06-05T10:17:20.645Z,60.7406,-150.4679,44.2,1.8,ml,,,,0.42,ak,ak023765w5uo,2023-06-05T10:18:58.342Z,"23 km SSE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T08:25:53.270Z,33.5065,-116.4795,12.06,0.48,ml,14,134,0.1032,0.19,ci,ci40478592,2023-06-05T08:29:19.690Z,"19km ESE of Anza, CA",earthquake,0.48,0.87,0.105,10,automatic,ci,ci
 2023-06-05T08:23:48.060Z,32.772,-116.1305,10.47,0.67,ml,14,76,0.03434,0.25,ci,ci40478584,2023-06-05T08:27:26.707Z,"14km WNW of Ocotillo, CA",earthquake,0.56,0.85,0.19,4,automatic,ci,ci
 2023-06-05T08:23:36.921Z,37.2822,-117.5769,4.3,1.3,ml,18,101.17,0.074,0.4147,nn,nn00860853,2023-06-05T08:26:11.499Z,"52 km S of Silver Peak, Nevada",earthquake,,2.6,0.91,12,automatic,nn,nn
-2023-06-05T08:22:19.440Z,38.4570007,-122.6425018,7.08,2.46,md,55,39,0.06957,0.15,nc,nc73897186,2023-06-05T10:08:28.938Z,"6km E of Santa Rosa, CA",earthquake,0.24,0.8,0.12,64,automatic,nc,nc
+2023-06-05T08:22:19.440Z,38.4570007,-122.6425018,7.08,2.46,md,55,39,0.06957,0.15,nc,nc73897186,2023-06-05T10:56:12.876Z,"6km E of Santa Rosa, CA",earthquake,0.24,0.8,0.12,64,automatic,nc,nc
 2023-06-05T08:19:16.002Z,58.1246,-155.6194,21.8,2,ml,,,,0.75,ak,ak023764potu,2023-06-05T08:31:12.527Z,"87 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-05T08:09:24.430Z,38.8191681,-122.7854996,1.44,1.19,md,23,47,0.006997,0.03,nc,nc73897176,2023-06-05T10:13:15.645Z,"5km NNW of The Geysers, CA",earthquake,0.19,0.38,0.15,23,automatic,nc,nc
 2023-06-05T07:52:42.243Z,62.5984,-152.2108,0,1.3,ml,,,,0.64,ak,ak023764berk,2023-06-05T07:54:55.439Z,"75 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -189,7 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T11:11:40.600Z,38.8303337,-122.8181686,1.14,0.39,md,7,146,0.00938,0.03,nc,nc73896856,2023-06-04T11:49:14.380Z,"8km NW of The Geysers, CA",earthquake,0.52,1.14,0.09,4,automatic,nc,nc
 2023-06-04T11:03:57.327Z,59.8447,-150.6635,26.7,2,ml,,,,0.88,ak,ak02374ivbro,2023-06-04T11:05:58.041Z,"16 km E of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-04T11:01:47.324Z,59.7736,-152.9644,99.6,1.5,ml,,,,0.51,ak,ak02374iuvkc,2023-06-04T11:04:13.498Z,"63 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-04T10:57:46.220Z,32.5718333,-116.3905,14.73,0.92,ml,19,124,0.1066,0.15,ci,ci40477808,2023-06-04T13:34:58.832Z,"8km ESE of Campo, CA",earthquake,0.38,0.67,0.255,7,reviewed,ci,ci
-2023-06-04T10:56:11.010Z,33.5396667,-116.6783333,11.58,0.37,ml,18,87,0.04813,0.23,ci,ci40477800,2023-06-04T10:59:41.957Z,"2km SSW of Anza, CA",earthquake,0.48,0.77,0.142,6,automatic,ci,ci
-2023-06-04T10:54:21.087Z,58.2566,-155.1554,1.1,0.4,ml,,,,0.27,ak,ak02374ikqvw,2023-06-04T10:55:48.881Z,"87 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-06-04T10:53:02.980Z,33.9838333,-116.4386667,7.11,0.46,ml,14,97,0.04971,0.14,ci,ci40477792,2023-06-04T10:56:28.264Z,"6km ENE of Desert Hot Springs, CA",earthquake,0.35,0.58,0.122,6,automatic,ci,ci
