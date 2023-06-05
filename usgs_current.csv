@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T04:46:06.960Z,38.8510017,-122.7806702,1.36,0.22,md,9,156,0.009027,0.02,nc,nc73897141,2023-06-05T04:47:39.998Z,"6km WNW of Cobb, CA",earthquake,0.37,0.51,0.09,8,automatic,nc,nc
 2023-06-05T04:16:34.356Z,66.3178,-150.8591,8.3,1.1,ml,,,,0.36,ak,ak023762bdkb,2023-06-05T04:18:51.888Z,"72 km SSE of Bettles, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-05T04:16:14.973Z,28.5183,-88.029,5,3.3,ml,50,131,2.775,0.75,us,us7000k6cb,2023-06-05T04:32:07.040Z,"Gulf of Mexico",earthquake,8.47,2.003,0.077,22,reviewed,us,us
 2023-06-05T03:54:04.790Z,19.1928329467773,-155.500839233398,31.7900009155273,2.05,ml,44,72,,0.100000001,hv,hv73440277,2023-06-05T03:59:35.050Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.49,0.850000024,3.32,7,automatic,hv,hv
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T04:52:51.289Z,39.6138,-119.9713,6.7,1.2,ml,13,113.92,0.01,0.105,nn,nn00860814,2023-06-04T13:29:14.944Z,"7 km S of Cold Springs, Nevada",earthquake,,0.9,0.09,6,reviewed,nn,nn
 2023-06-04T04:51:11.751Z,34.1007,46.4222,10,4.5,mb,76,145,1.711,0.52,us,us7000k67c,2023-06-04T05:52:48.289Z,"western Iran",earthquake,8.49,1.901,0.071,58,reviewed,us,us
 2023-06-04T04:50:27.129Z,58.4495,-155.5242,47.1,1.2,ml,,,,1.4,ak,ak02374ezbeh,2023-06-04T07:10:44.390Z,"71 km ESE of King Salmon, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-06-04T04:43:02.890Z,33.1406667,-116.5265,7.72,3.16,ml,114,15,0.0974,0.19,ci,ci40477624,2023-06-05T04:20:24.270Z,"10km NE of Julian, CA",earthquake,0.11,0.61,0.153,128,reviewed,ci,ci
