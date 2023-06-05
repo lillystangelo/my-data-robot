@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T18:51:47.354Z,66.1141,-143.3582,8.8,2.3,ml,,,,1.19,ak,ak02376auz3j,2023-06-05T18:54:31.289Z,"45 km NE of Circle, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-05T18:41:39.168Z,57.8734,-153.8095,35.4,2.3,ml,,,,0.59,ak,ak02376astb0,2023-06-05T18:43:36.881Z,"38 km NNE of Larsen Bay, Alaska",earthquake,,7.5,,,automatic,ak,ak
 2023-06-05T18:41:22.693Z,66.0707,-143.3488,12.6,2.2,ml,,,,1.03,ak,ak02376ass19,2023-06-05T18:44:51.326Z,"42 km NE of Circle, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-06-05T18:39:30.730Z,19.4031658172607,-155.272827148438,1.39999997615814,2.11999989,md,10,61,,0.100000001,hv,hv73441037,2023-06-05T18:42:20.490Z,"5 km SW of Volcano, Hawaii",earthquake,0.22,0.910000026,2.1400001,4,automatic,hv,hv
@@ -198,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T19:24:23.110Z,38.8146667,-122.8123322,2.51,1.08,md,15,47,0.008892,0.02,nc,nc73897036,2023-06-04T19:49:14.374Z,"6km NW of The Geysers, CA",earthquake,0.3,0.78,0.28,16,automatic,nc,nc
 2023-06-04T19:13:45.413Z,61.4747,-150.1146,33.9,1,ml,,,,0.62,ak,ak02374nowul,2023-06-04T19:15:51.466Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-04T19:05:45.166Z,37.2592,-117.8576,8.3,1.2,ml,9,109.11,0.171,0.2394,nn,nn00860840,2023-06-04T22:17:23.131Z,"39 km ENE of Big Pine, California",earthquake,,1.7,0.82,7,reviewed,nn,nn
-2023-06-04T18:51:56.500Z,38.4280014,-119.5581665,2.32,2.55,md,6,110,0.1218,0.01,nc,nc73897021,2023-06-04T22:14:10.968Z,"12km SW of Walker, CA",earthquake,0.54,2.45,0.23,3,automatic,nc,nc
-2023-06-04T18:51:27.290Z,35.8775,-117.7205,10.08,0.65,ml,9,174,0.07767,0.1,ci,ci40478208,2023-06-04T18:54:55.247Z,"18km ESE of Little Lake, CA",earthquake,0.48,0.77,0.175,4,automatic,ci,ci
