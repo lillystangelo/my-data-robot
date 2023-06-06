@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T14:59:55.440Z,38.8358345,-122.7904968,2,1.06,md,17,66,0.002574,0.02,nc,nc73897286,2023-06-05T17:17:15.223Z,"6km WNW of Cobb, CA",earthquake,0.25,0.43,0.09,17,automatic,nc,nc
 2023-06-05T14:53:28.310Z,47.6086666666667,-113.918,16.39,0.72,ml,15,91,0.1135,0.17,mb,mb90016818,2023-06-05T16:04:25.250Z,"13 km ESE of Turtle Lake, Montana",earthquake,0.5,0.63,0.115861894288427,4,reviewed,mb,mb
 2023-06-05T14:40:31.090Z,38.8358345,-122.795166,2.08,0.73,md,12,67,0.00456,0.01,nc,nc73897281,2023-06-05T14:57:13.407Z,"6km WNW of Cobb, CA",earthquake,0.32,0.94,0.18,12,automatic,nc,nc
-2023-06-05T14:35:54.890Z,33.9995,-117.1703333,13.21,1.01,ml,29,79,0.06002,0.13,ci,ci40478728,2023-06-06T00:00:15.126Z,"6km S of Redlands, CA",earthquake,0.23,0.53,0.073,16,reviewed,ci,ci
