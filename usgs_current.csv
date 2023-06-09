@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-09T12:41:50.400Z,36.6339989,-121.2423325,8.41,1.52,md,13,118,0.06261,0.18,nc,nc73899101,2023-06-09T12:43:26.451Z,"14km NW of Pinnacles, CA",earthquake,0.65,1.55,0.2,9,automatic,nc,nc
+2023-06-09T12:41:50.400Z,36.6339989,-121.2423325,8.41,1.52,md,13,118,0.06261,0.18,nc,nc73899101,2023-06-09T12:55:10.560Z,"14km NW of Pinnacles, CA",earthquake,0.65,1.55,0.2,9,automatic,nc,nc
 2023-06-09T12:40:06.850Z,34.1623333,-117.4043333,2.12,1.07,ml,25,37,0.03576,0.17,ci,ci40481376,2023-06-09T12:43:38.668Z,"6km W of Muscoy, CA",earthquake,0.28,0.41,0.185,29,automatic,ci,ci
 2023-06-09T12:39:57.740Z,33.6783333,-117.2091667,4.12,1.48,ml,9,183,0.1689,0.22,ci,ci40481368,2023-06-09T12:43:39.551Z,"8km SW of Menifee, CA",earthquake,2,31.61,0.383,34,automatic,ci,ci
 2023-06-09T12:18:30.790Z,33.2473333,-116.3951667,6.72,0.65,ml,21,142,0.0278,0.2,ci,ci40481352,2023-06-09T12:22:06.453Z,"2km WSW of Borrego Springs, CA",earthquake,0.52,0.63,0.134,12,automatic,ci,ci
@@ -7,6 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T12:09:14.600Z,38.8256683,-122.80233,2.41,1.2,md,25,72,0.006461,0.04,nc,nc73899081,2023-06-09T12:29:20.395Z,"7km NW of The Geysers, CA",earthquake,0.24,0.43,0.14,27,automatic,nc,nc
 2023-06-09T11:59:02.340Z,38.8334999,-122.7958298,2.07,1.47,md,25,43,0.00651,0.03,nc,nc73899076,2023-06-09T12:34:10.652Z,"6km WNW of Cobb, CA",earthquake,0.21,0.39,0.17,28,automatic,nc,nc
 2023-06-09T11:54:41.122Z,58.1841,-155.3419,8.8,1.1,ml,,,,0.48,ak,ak0237csuyjf,2023-06-09T11:56:38.655Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-06-09T11:50:55.340Z,18.929,-65.3506666666667,12.66,3.15,md,14,248,0.6216,0.17,pr,pr71412793,2023-06-09T12:57:10.710Z,"69 km N of Culebra, Puerto Rico",earthquake,1.21,1.7,0.0572388837517848,8,reviewed,pr,pr
 2023-06-09T11:37:01.886Z,59.4908,-152.47,68.6,2.2,ml,,,,0.37,ak,ak0237csr8b0,2023-06-09T12:00:51.040Z,"34 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-09T11:33:35.761Z,7.1964,-33.9989,10,5.3,mww,65,55,12.788,0.57,us,us7000k7bx,2023-06-09T11:53:52.040Z,"central Mid-Atlantic Ridge",earthquake,10.72,1.87,0.078,16,reviewed,us,us
 2023-06-09T11:29:56.190Z,38.8066673,-122.8373337,1.44,0.75,md,7,115,0.002645,0.03,nc,nc73899071,2023-06-09T11:47:20.146Z,"8km WNW of The Geysers, CA",earthquake,0.46,0.94,0.1,8,automatic,nc,nc
@@ -184,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T13:21:06.400Z,38.783165,-122.7573318,2.48,0.31,md,6,100,0.01406,0.01,nc,nc73898661,2023-06-08T14:53:18.724Z,"1km N of The Geysers, CA",earthquake,0.62,1.61,0.14,8,automatic,nc,nc
 2023-06-08T13:18:52.371Z,61.5963,-151.0621,58.8,2.6,ml,,,,0.45,ak,ak0237b6asb9,2023-06-08T13:20:44.138Z,"29 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-08T13:18:18.370Z,19.1931667327881,-155.52766418457,34.0499992370605,1.76999998,md,36,122,,0.170000002,hv,hv73445647,2023-06-08T13:21:27.660Z,"5 km WSW of Pāhala, Hawaii",earthquake,0.66,0.939999998,0.879999995,8,automatic,hv,hv
-2023-06-08T12:49:50.329Z,35.13366667,-97.722,6.33,1.25,ml,67,49,0.09538128294,0.35,ok,ok2023ldqw,2023-06-08T13:44:09.932Z,"5 km W of Blanchard, Oklahoma",earthquake,,0.6,0.2,26,reviewed,ok,ok
-2023-06-08T12:49:20.480Z,34.1391667,-117.2485,8.18,1.19,ml,46,59,0.0303,0.15,ci,ci40480528,2023-06-08T12:59:49.950Z,"4km WNW of Highland, CA",earthquake,0.18,0.48,0.143,26,automatic,ci,ci
