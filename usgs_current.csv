@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-09T03:30:19.600Z,40.5513344,-124.2825012,16.05,2.24,md,16,186,0.08652,0.14,nc,nc73898951,2023-06-09T03:36:11.262Z,"3km SSW of Ferndale, CA",earthquake,1.2,0.97,0.07,9,automatic,nc,nc
 2023-06-09T03:04:56.670Z,36.4985008,-121.0633316,7.57,1.4,md,10,141,0.04335,0.05,nc,nc73898936,2023-06-09T03:21:10.175Z,"8km ESE of Pinnacles, CA",earthquake,0.73,1.52,0.26,6,automatic,nc,nc
-2023-06-09T03:04:21.850Z,38.8046684,-122.7838364,0.85,1.09,md,17,60,0.008924,0.04,nc,nc73898931,2023-06-09T03:05:58.197Z,"4km NW of The Geysers, CA",earthquake,0.22,0.43,0.18,18,automatic,nc,nc
+2023-06-09T03:04:21.850Z,38.8046684,-122.7838364,0.85,1.09,md,17,60,0.008924,0.04,nc,nc73898931,2023-06-09T03:33:13.242Z,"4km NW of The Geysers, CA",earthquake,0.22,0.43,0.18,18,automatic,nc,nc
 2023-06-09T02:55:59.091Z,58.1835,-155.2999,1.1,0.7,ml,,,,0.64,ak,ak0237cnib5x,2023-06-09T02:57:36.355Z,"84 km NW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2023-06-09T02:52:19.050Z,38.793335,-122.765831,2.1,0.88,md,17,70,0.008709,0.04,nc,nc73898921,2023-06-09T03:09:15.104Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.55,0.21,18,automatic,nc,nc
 2023-06-09T02:48:44.638Z,65.872,-151.0092,3.9,0.9,ml,,,,0.55,ak,ak0237cngs17,2023-06-09T02:51:21.364Z,"56 km NW of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -224,6 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-08T04:02:32.706Z,-55.4319,-1.8101,10,5.2,mww,51,95,16.31,0.74,us,us7000k71w,2023-06-09T01:41:27.040Z,"Bouvet Island region",earthquake,12.31,1.844,0.098,10,reviewed,us,us
 2023-06-08T04:01:41.070Z,35.7773333,-121.3608333,6.24,1.65,md,30,199,0.1433,0.11,nc,nc73898511,2023-06-08T18:06:14.968Z,"21km NW of San Simeon, CA",earthquake,0.36,0.83,0.121,31,reviewed,nc,nc
 2023-06-08T03:47:23.327Z,36.6558,-116.2744,7.2,0.2,ml,20,184.59,0.053,0.1049,nn,nn00861002,2023-06-08T14:51:34.616Z,"California-Nevada border region",earthquake,,1,0.36,6,reviewed,nn,nn
-2023-06-08T03:38:42.631Z,37.789,36.324,10,4.3,mb,49,44,0.209,0.65,us,us7000k71u,2023-06-09T01:23:56.040Z,"central Turkey",earthquake,4.84,1.938,0.118,20,reviewed,us,us
-2023-06-08T03:37:57.331Z,65.6068,-147.9664,6.4,1.1,ml,,,,0.57,ak,ak0237b0gj91,2023-06-08T03:47:09.847Z,"28 km ENE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-08T03:33:17.180Z,37.0893333,-121.8706667,8.81,1.31,md,12,162,0.01315,0.03,nc,nc73898506,2023-06-08T08:29:19.303Z,"6km N of Day Valley, CA",earthquake,0.72,0.68,0.175,12,reviewed,nc,nc
