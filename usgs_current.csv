@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T06:05:14.721Z,64.9427,-148.972,24.7,1.8,ml,,,,0.39,ak,ak0237ed4kuo,2023-06-10T06:06:30.673Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-10T05:39:47.683Z,64.9517,-147.3155,0,1.2,ml,,,,0.54,ak,ak0237ecqi5i,2023-06-10T05:42:37.673Z,"14 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-10T05:38:39.538Z,63.5244,-147.6864,13,1.3,ml,,,,0.9,ak,ak0237ecq9sh,2023-06-10T05:40:34.012Z,"64 km ENE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-10T05:31:54.877Z,22.854,120.6509,25.817,4.9,mwr,119,71,0.397,0.71,us,us7000k7l7,2023-06-10T08:53:46.238Z,"35 km SSE of Yujing, Taiwan",earthquake,4.43,4.886,0.061,26,reviewed,us,us
+2023-06-10T05:31:54.877Z,22.854,120.6509,25.817,4.9,mwr,119,71,0.397,0.71,us,us7000k7l7,2023-06-10T09:28:51.689Z,"35 km SSE of Yujing, Taiwan",earthquake,4.43,4.886,0.061,26,reviewed,us,us
 2023-06-10T05:26:30.835Z,58.2596,-155.1314,1.2,0.6,ml,,,,0.18,ak,ak0237ecnoiz,2023-06-10T05:28:08.314Z,"86 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-10T05:20:21.060Z,35.207,-118.6666667,6.05,1.05,ml,18,61,0.03008,0.18,ci,ci40482272,2023-06-10T05:23:54.062Z,"15km E of Arvin, CA",earthquake,0.42,0.74,0.338,8,automatic,ci,ci
 2023-06-10T05:13:23.397Z,-4.7947,143.4499,100.844,4.3,mb,43,112,3.556,0.57,us,us7000k7l3,2023-06-10T05:50:36.040Z,"81 km NNE of Porgera, Papua New Guinea",earthquake,5.68,7.827,0.098,30,reviewed,us,us
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T10:03:18.290Z,38.7885017,-122.7710037,-0.15,1.1,md,16,80,0.01402,0.06,nc,nc73899041,2023-06-09T12:17:22.316Z,"2km NW of The Geysers, CA",earthquake,0.21,0.67,0.22,16,automatic,nc,nc
 2023-06-09T10:02:42.822Z,62.0929,-150.2705,24.4,1.3,ml,,,,0.19,ak,ak0237crydsq,2023-06-09T10:04:18.495Z,"23 km WSW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-09T09:38:33.120Z,44.8678333,-110.373,5.85,0.56,md,12,152,0.184,0.16,uu,uu60541896,2023-06-09T14:29:33.660Z,"28 km ESE of Mammoth, Wyoming",earthquake,0.69,2.97,0.338,8,reviewed,uu,uu
-2023-06-09T09:30:18.264Z,39.6164,-119.9783,6.4,1.3,ml,13,122.69,0.016,0.1171,nn,nn00861046,2023-06-09T16:36:54.996Z,"7 km S of Cold Springs, Nevada",earthquake,,1.2,0.21,7,reviewed,nn,nn
-2023-06-09T09:24:38.997Z,44.1688,149.4259,53.013,4.6,mb,83,135,4.918,0.54,us,us7000k7bd,2023-06-09T10:39:36.040Z,"169 km SE of Kuril’sk, Russia",earthquake,10.47,7.284,0.042,171,reviewed,us,us
