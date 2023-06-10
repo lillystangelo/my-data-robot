@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-10T06:09:56.540Z,39.7574997,-120.2938309,1.36,2.08,md,11,84,0.2971,0.06,nc,nc73899441,2023-06-10T06:11:49.960Z,"10km NNW of Loyalton, CA",earthquake,0.43,2.93,0.18,5,automatic,nc,nc
+2023-06-10T06:05:14.721Z,64.9427,-148.972,24.7,1.8,ml,,,,0.39,ak,ak0237ed4kuo,2023-06-10T06:06:30.673Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-10T05:39:47.683Z,64.9517,-147.3155,0,1.2,ml,,,,0.54,ak,ak0237ecqi5i,2023-06-10T05:42:37.673Z,"14 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-10T05:38:39.538Z,63.5244,-147.6864,13,1.3,ml,,,,0.9,ak,ak0237ecq9sh,2023-06-10T05:40:34.012Z,"64 km ENE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-10T05:31:54.877Z,22.854,120.6509,25.817,4.9,mwr,119,71,0.397,0.71,us,us7000k7l7,2023-06-10T05:49:37.040Z,"35 km SSE of Yujing, Taiwan",earthquake,4.43,4.886,0.061,26,reviewed,us,us
+2023-06-10T05:31:54.877Z,22.854,120.6509,25.817,4.9,mwr,119,71,0.397,0.71,us,us7000k7l7,2023-06-10T06:04:44.935Z,"35 km SSE of Yujing, Taiwan",earthquake,4.43,4.886,0.061,26,reviewed,us,us
 2023-06-10T05:26:30.835Z,58.2596,-155.1314,1.2,0.6,ml,,,,0.18,ak,ak0237ecnoiz,2023-06-10T05:28:08.314Z,"Alaska Peninsula",earthquake,,1.6,,,automatic,ak,ak
 2023-06-10T05:20:21.060Z,35.207,-118.6666667,6.05,1.05,ml,18,61,0.03008,0.18,ci,ci40482272,2023-06-10T05:23:54.062Z,"15km E of Arvin, CA",earthquake,0.42,0.74,0.338,8,automatic,ci,ci
 2023-06-10T05:13:23.397Z,-4.7947,143.4499,100.844,4.3,mb,43,112,3.556,0.57,us,us7000k7l3,2023-06-10T05:50:36.040Z,"New Guinea, Papua New Guinea",earthquake,5.68,7.827,0.098,30,reviewed,us,us
@@ -133,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T15:10:24.238Z,63.3211,-151.6609,6.8,2.6,ml,,,,0.72,ak,ak0237cuz849,2023-06-09T16:13:08.040Z,"24 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-09T15:08:45.110Z,36.6783,71.4834,171.403,4,mb,25,70,2.786,0.45,us,us7000k7fk,2023-06-09T16:30:56.040Z,"4 km W of Ashkāsham, Afghanistan",earthquake,5.63,14.123,0.258,4,reviewed,us,us
 2023-06-09T15:07:15.536Z,60.5776,-150.6551,35.1,1.3,ml,,,,0.35,ak,ak0237cuykap,2023-06-09T15:08:53.597Z,"7 km NE of Sterling, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-09T14:49:52.662Z,58.5236,-152.9052,53,2.5,ml,,,,0.26,ak,ak0237cum7mq,2023-06-09T14:51:23.172Z,"51 km N of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-06-09T14:49:52.662Z,58.5236,-152.9052,53,2.5,ml,,,,0.26,ak,ak0237cum7mq,2023-06-10T06:07:14.040Z,"51 km N of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-09T14:37:42.560Z,38.831501,-122.8166656,2.36,0.53,md,8,103,0.009593,0.01,nc,nc73899126,2023-06-09T14:55:14.301Z,"8km NW of The Geysers, CA",earthquake,0.55,1.95,0.28,11,automatic,nc,nc
 2023-06-09T14:33:17.372Z,65.0131,-148.882,19.6,0.7,ml,,,,0.08,ak,ak0237cuipg9,2023-06-09T14:35:08.983Z,"26 km SE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-09T14:22:24.860Z,36.5371667,-121.1268333,3.78,2.27,md,54,83,0.01532,0.1,nc,nc73899121,2023-06-10T01:39:17.347Z,"2km ENE of Pinnacles, CA",earthquake,0.17,0.31,0.189,51,reviewed,nc,nc
@@ -195,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-09T06:20:31.240Z,19.2273330688477,-155.387832641602,34.0699996948242,2.15,ml,39,149,,0.140000001,hv,hv73446822,2023-06-09T06:30:37.827Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.779999971,5.76,3,automatic,hv,hv
 2023-06-09T06:18:35.090Z,36.6566,-116.2707,6.5,0.1,ml,25,93.79,0.056,0.1048,nn,nn00861044,2023-06-09T16:24:29.575Z,"51 km ESE of Beatty, Nevada",earthquake,,0.7,0.5,10,reviewed,nn,nn
 2023-06-09T06:18:34.520Z,36.0223333,-120.9703333,6.79,1.74,md,53,66,0.06576,0.11,nc,nc73898991,2023-06-09T11:24:14.008Z,"6km W of San Ardo, CA",earthquake,0.18,0.39,0.172,41,reviewed,nc,nc
-2023-06-09T06:14:38.910Z,38.802166,-122.8219986,2.77,0.65,md,11,78,0.008732,0.02,nc,nc73898986,2023-06-09T06:16:14.645Z,"6km WNW of The Geysers, CA",earthquake,0.33,0.99,0.22,12,automatic,nc,nc
-2023-06-09T06:09:07.878Z,-13.2265,66.2255,10,4.9,mb,56,82,26.477,0.42,us,us7000k7ax,2023-06-09T06:36:39.040Z,"Mid-Indian Ridge",earthquake,12.59,1.863,0.083,46,reviewed,us,us
-2023-06-09T06:07:34.320Z,33.4668333,-116.5706667,11.57,0.52,ml,21,82,0.0383,0.21,ci,ci40481272,2023-06-09T06:11:05.741Z,"14km SE of Anza, CA",earthquake,0.42,0.79,0.115,9,automatic,ci,ci
-2023-06-09T06:03:43.971Z,65.0081,-147.4882,0,1.4,ml,,,,0.86,ak,ak0237cpkv6l,2023-06-09T06:06:21.752Z,"8 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
