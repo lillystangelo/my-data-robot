@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-11T20:41:23.710Z,33.5901667,-116.6121667,17.84,0.8,ml,31,46,0.01568,0.28,ci,ci40483512,2023-06-11T20:45:00.439Z,"7km NE of Anza, CA",earthquake,0.43,0.6,0.148,22,automatic,ci,ci
 2023-06-11T20:17:27.334Z,35.3572731,-98.0898819,0.1038393378,2.5,ml,43,54.04524231,0.08320523798,1.090935644,ok,ok2023ljsd,2023-06-11T20:21:00.860Z,"14 km WSW of Union City, Oklahoma",earthquake,1.878525164,1.375899094,0.34,32,automatic,ok,ok
-2023-06-11T20:09:38.710Z,38.729332,-122.3759995,5.31,1.66,md,10,75,0.03947,0.08,nc,nc73900131,2023-06-11T20:27:18.237Z,"18km ESE of Hidden Valley Lake, CA",earthquake,0.37,0.85,0.05,9,automatic,nc,nc
+2023-06-11T20:09:38.710Z,38.729332,-122.3759995,5.31,1.66,md,10,75,0.03947,0.08,nc,nc73900131,2023-06-11T20:43:09.326Z,"18km ESE of Hidden Valley Lake, CA",earthquake,0.37,0.85,0.05,9,automatic,nc,nc
 2023-06-11T19:26:25.810Z,33.4418333,-116.6328333,0.75,0.47,ml,7,92,0.151,0.18,ci,ci40483496,2023-06-11T19:29:59.393Z,"13km SSE of Anza, CA",earthquake,1.16,2.91,0.085,5,automatic,ci,ci
 2023-06-11T19:25:03.780Z,33.6481667,-116.7015,16.39,0.65,ml,16,80,0.06372,0.17,ci,ci40483488,2023-06-11T20:14:18.298Z,"10km S of Idyllwild, CA",earthquake,0.45,0.6,0.232,8,reviewed,ci,ci
 2023-06-11T19:23:46.090Z,33.4588333,-116.5266667,14.36,0.65,ml,16,102,0.07256,0.3,ci,ci40483480,2023-06-11T19:27:17.009Z,"17km SE of Anza, CA",earthquake,0.79,1.6,0.087,12,automatic,ci,ci
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T14:48:42.150Z,38.779335,-122.7576675,1.51,0.64,md,8,140,0.01067,0.02,nc,nc73899961,2023-06-11T16:35:17.943Z,"0km NNW of The Geysers, CA",earthquake,0.8,0.79,0.19,8,automatic,nc,nc
 2023-06-11T14:40:47.220Z,34.2316667,-117.4963333,8.55,0.87,ml,20,66,0.01174,0.17,ci,ci40483360,2023-06-11T18:27:01.683Z,"3km S of Lytle Creek, CA",earthquake,0.28,0.46,0.177,3,reviewed,ci,ci
 2023-06-11T14:37:14.210Z,38.7815018,-122.7576675,1.55,0.94,md,11,100,0.01646,0.03,nc,nc73899956,2023-06-11T16:08:14.630Z,"0km NNW of The Geysers, CA",earthquake,0.29,0.71,0.35,11,automatic,nc,nc
-2023-06-11T14:32:20.304Z,65.572,-144.4798,13.5,5,ml,,,,0.82,ak,ak0237g5l70e,2023-06-11T20:31:39.618Z,"14 km E of Central, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2023-06-11T14:32:20.304Z,65.572,-144.4798,13.5,5,ml,,,,0.82,ak,ak0237g5l70e,2023-06-11T20:42:38.521Z,"14 km E of Central, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-06-11T14:23:48.576Z,60.7312,-146.6772,17.2,1.8,ml,,,,0.65,ak,ak0237g5jbop,2023-06-11T14:56:16.291Z,"14 km S of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-06-11T14:15:31.850Z,34.0216667,-117.506,18.01,1.43,ml,48,59,0.04339,0.2,ci,ci40483344,2023-06-11T18:18:32.870Z,"2km WNW of Glen Avon, CA",earthquake,0.28,0.45,0.233,30,reviewed,ci,ci
 2023-06-11T14:11:12.040Z,58.2271666666667,-155.114166666667,5.65,0.86,ml,8,100,,0.11,av,av91921776,2023-06-11T16:43:10.540Z,"Alaska Peninsula",earthquake,0.35,0.87,0.355210518129214,8,reviewed,av,av
