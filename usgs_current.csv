@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-12T11:12:17.420Z,38.7938347,-122.7288361,1.78,0.74,md,6,101,0.01225,0.01,nc,nc73900316,2023-06-12T11:13:55.711Z,"3km NE of The Geysers, CA",earthquake,0.59,4.57,0.17,7,automatic,nc,nc
+2023-06-12T11:12:17.420Z,38.7938347,-122.7288361,1.78,0.74,md,6,101,0.01225,0.01,nc,nc73900316,2023-06-12T11:32:14.960Z,"3km NE of The Geysers, CA",earthquake,0.59,4.57,0.17,7,automatic,nc,nc
 2023-06-12T11:07:55.150Z,33.6826667,-116.7136667,15.89,0.41,ml,13,106,0.02843,0.19,ci,ci40483760,2023-06-12T11:11:25.139Z,"6km S of Idyllwild, CA",earthquake,0.55,0.68,0.146,4,automatic,ci,ci
 2023-06-12T10:48:14.180Z,33.258,-116.2993333,9.85,0.85,ml,22,94,0.07541,0.19,ci,ci40483752,2023-06-12T10:51:42.032Z,"7km E of Borrego Springs, CA",earthquake,0.41,0.73,0.145,17,automatic,ci,ci
 2023-06-12T10:42:44.180Z,38.5130005,-119.5208359,2.05,2.45,md,9,83,0.07283,0.07,nc,nc73900311,2023-06-12T11:04:10.776Z,"4km W of Walker, CA",earthquake,0.4,2.22,0.42,10,automatic,nc,nc
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T09:08:39.789Z,-5.6763,104.1248,72.959,4.9,mb,72,108,1.751,0.75,us,us7000k7y6,2023-06-12T09:49:31.040Z,"southern Sumatra, Indonesia",earthquake,8.79,7.32,0.07,66,reviewed,us,us
 2023-06-12T09:08:00.086Z,38.1074,-118.0297,5.4,1.3,ml,8,130.48,0.098,0.3234,nn,nn00861131,2023-06-12T09:10:43.046Z,"32 km SSE of Mina, Nevada",earthquake,,0.7,0.32,5,automatic,nn,nn
 2023-06-12T09:06:55.000Z,19.2479991912842,-155.404159545898,30.7800006866455,1.91999996,md,38,130,,0.119999997,hv,hv73449262,2023-06-12T09:10:16.130Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.75999999,0.289999992,9,automatic,hv,hv
-2023-06-12T09:06:04.620Z,38.8226662,-122.8044968,3.22,0.75,md,9,71,0.01634,0.02,nc,nc73900296,2023-06-12T09:23:20.134Z,"6km NW of The Geysers, CA",earthquake,0.39,1.1,0.13,11,automatic,nc,nc
+2023-06-12T09:06:04.620Z,38.8226662,-122.8044968,3.22,0.75,md,9,71,0.01634,0.02,nc,nc73900296,2023-06-12T11:32:15.960Z,"6km NW of The Geysers, CA",earthquake,0.39,1.1,0.13,11,automatic,nc,nc
 2023-06-12T08:51:44.683Z,-19.9631,-69.2074,98.445,4,mb,22,97,0.293,0.52,us,us7000k7y3,2023-06-12T09:08:26.040Z,"59 km E of Huara, Chile",earthquake,5.92,5.242,0.259,4,reviewed,us,us
 2023-06-12T08:30:45.015Z,63.1064,-150.976,124.3,1.6,ml,,,,0.33,ak,ak0237hpjkad,2023-06-12T08:32:43.397Z,"Central Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-06-12T08:28:10.310Z,38.8101654,-122.8125,3.22,0.95,md,12,90,0.01309,0.02,nc,nc73900291,2023-06-12T11:05:19.786Z,"6km NW of The Geysers, CA",earthquake,0.36,0.73,0.14,12,automatic,nc,nc
