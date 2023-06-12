@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-12T20:28:04.260Z,58.1935,-155.3396,2.3,1.9,ml,,,,0.54,ak,ak0237hwo8y5,2023-06-12T20:30:18.409Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-12T20:20:24.900Z,38.8198318,-122.7786636,1.59,0.26,md,7,110,0.01263,0.01,nc,nc73900426,2023-06-12T20:22:01.124Z,"5km W of Cobb, CA",earthquake,0.46,1.92,0.15,8,automatic,nc,nc
+2023-06-12T20:19:36.676Z,63.2294,-149.9784,64.6,1.7,ml,,,,0.49,ak,ak0237hwmdfv,2023-06-12T20:22:11.340Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-12T19:51:46.080Z,34.0121667,-116.3441667,3.47,0.98,ml,28,50,0.06851,0.18,ci,ci40484168,2023-06-12T19:55:14.242Z,"14km SSW of Joshua Tree, CA",earthquake,0.26,0.79,0.177,17,automatic,ci,ci
 2023-06-12T19:51:08.750Z,19.2003326416016,-155.278503417969,43.189998626709,2,md,26,190,,0.150000006,hv,hv73449517,2023-06-12T19:54:21.480Z,"Island of Hawaii, Hawaii",earthquake,0.75,1.33000004,1.70000005,10,automatic,hv,hv
 2023-06-12T19:35:31.081Z,62.7821,-148.6074,13.6,2,ml,,,,1.05,ak,ak0237hw4dg4,2023-06-12T19:37:29.320Z,"70 km SSE of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -60,6 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T10:42:44.180Z,38.5130005,-119.5208359,2.05,2.45,md,9,83,0.07283,0.07,nc,nc73900311,2023-06-12T16:03:00.080Z,"4km W of Walker, CA",earthquake,0.4,2.22,0.42,10,automatic,nc,nc
 2023-06-12T10:40:19.120Z,19.1700000762939,-155.490829467773,31.3299999237061,1.80999994,md,31,104,,0.129999995,hv,hv73449277,2023-06-12T10:43:34.100Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.6,0.980000019,0.569999993,7,automatic,hv,hv
 2023-06-12T10:40:13.291Z,59.3696,-152.7937,76.1,1.7,ml,,,,0.31,ak,ak0237hqsi7l,2023-06-12T10:42:31.626Z,"49 km W of Nanwalek, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-06-12T10:35:46.400Z,45.5883333333333,-112.384166666667,4.99,0.62,ml,5,126,0.2385,0.07,mb,mb90017783,2023-06-12T20:22:02.680Z,"6 km NW of Twin Bridges, Montana",earthquake,0.61,7.09,0.271720754103549,4,reviewed,mb,mb
 2023-06-12T10:35:34.870Z,33.145,-116.4995,10.87,0.65,ml,32,66,0.08488,0.16,ci,ci40483744,2023-06-12T18:24:02.564Z,"12km NE of Julian, CA",earthquake,0.26,0.4,0.126,7,reviewed,ci,ci
 2023-06-12T09:51:31.035Z,63.1166,-151.3714,0,1.4,ml,,,,0.9,ak,ak0237hq9gun,2023-06-12T09:54:00.948Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-12T09:48:21.960Z,34.0663333,-116.7481667,14.29,0.67,ml,28,125,0.08771,0.14,ci,ci40483736,2023-06-12T13:33:06.936Z,"16km W of Morongo Valley, CA",earthquake,0.23,0.4,0.227,8,reviewed,ci,ci
@@ -142,4 +146,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T20:58:54.160Z,58.1773333333333,-155.313333333333,1.91,0.37,ml,4,244,,0.04,av,av91922371,2023-06-11T22:25:51.000Z,"84 km NW of Karluk, Alaska",earthquake,0.65,0.58,0.215415561895648,4,reviewed,av,av
 2023-06-11T20:41:23.840Z,33.5806667,-116.6131667,16.89,0.74,ml,31,43,0.02014,0.13,ci,ci40483512,2023-06-12T15:38:33.334Z,"6km ENE of Anza, CA",earthquake,0.18,0.33,0.15,16,reviewed,ci,ci
 2023-06-11T20:35:23.413Z,-22.0201,-68.787,105.989,4.6,mwr,109,41,0.897,0.58,us,us7000k7w6,2023-06-11T21:10:33.040Z,"Antofagasta, Chile",earthquake,5.1,4.216,0.065,23,reviewed,us,us
-2023-06-11T20:22:21.050Z,58.2186666666667,-155.094666666667,4.12,0.21,ml,4,110,,0.12,av,av91922331,2023-06-11T22:16:34.020Z,"Alaska Peninsula",earthquake,0.86,2.15,0.129490236554799,4,reviewed,av,av
