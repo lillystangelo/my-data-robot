@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-12T21:31:54.050Z,34.9866676,-118.2061691,2.49,1.19,ml,13,65,0.1092,0.16,ci,ci40484216,2023-06-12T21:34:18.535Z,"8km SSW of Mojave, CA",earthquake,0.5,0.94,0.201,4,automatic,ci,ci
+2023-06-12T21:27:32.790Z,34.1775,-117.3276667,3.79,1.07,ml,17,73,0.04324,0.32,ci,ci40484208,2023-06-12T21:31:03.200Z,"3km NNE of Muscoy, CA",earthquake,0.74,1.17,0.16,21,automatic,ci,ci
 2023-06-12T21:11:04.390Z,38.8330002,-122.8805008,2.34,0.28,md,8,129,0.005702,0.05,nc,nc73900436,2023-06-12T21:12:41.027Z,"12km ENE of Cloverdale, CA",earthquake,0.53,0.82,0.16,8,automatic,nc,nc
 2023-06-12T21:10:34.457Z,60.9439,-150.7137,33.7,2,ml,,,,0.19,ak,ak0237hx5w0l,2023-06-12T21:11:57.848Z,"2 km NNW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-12T21:06:54.275Z,55.4513,162.1042,62.06,4.3,mb,42,136,3.167,0.59,us,us7000k822,2023-06-12T21:22:05.040Z,"89 km SSW of Ust’-Kamchatsk Staryy, Russia",earthquake,13.28,11.002,0.076,49,reviewed,us,us
