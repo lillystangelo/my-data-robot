@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-13T04:12:55.582Z,61.508,-150.7289,52.5,1.4,ml,,,,0.59,ak,ak0237jalcae,2023-06-13T04:15:43.284Z,"12 km WSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-13T04:04:18.420Z,38.8206673,-122.7893295,1.15,0.84,md,15,48,0.01002,0.03,nc,nc73900576,2023-06-13T04:05:51.826Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.41,0.26,15,automatic,nc,nc
 2023-06-13T04:03:07.020Z,38.7804985,-122.7636642,0.97,0.93,md,16,71,0.009898,0.05,nc,nc73900571,2023-06-13T04:04:41.905Z,"1km WNW of The Geysers, CA",earthquake,0.25,0.47,0.21,16,automatic,nc,nc
 2023-06-13T04:00:48.680Z,38.836834,-122.7888336,1.7,1.09,md,19,125,0.001966,0.05,nc,nc73900566,2023-06-13T04:02:22.040Z,"6km WNW of Cobb, CA",earthquake,0.25,0.45,0.15,19,automatic,nc,nc
@@ -121,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T12:38:26.220Z,44.681,-114.2466,6.295,3.7,mwr,38,31,0.602,0.62,us,us7000k7yj,2023-06-12T19:47:14.009Z,"19 km N of Challis, Idaho",earthquake,4.4,5.974,0.033,86,reviewed,us,us
 2023-06-12T12:37:20.162Z,-18.9443,-67.8935,10,4.8,mb,41,72,1.424,0.59,us,us7000k7yi,2023-06-12T12:58:09.040Z,"86 km ENE of Colchane, Chile",earthquake,3.94,1.914,0.065,73,reviewed,us,us
 2023-06-12T12:33:24.100Z,35.6601667,-117.5156667,6.44,0.99,ml,11,117,0.07504,0.12,ci,ci40483840,2023-06-12T12:49:27.225Z,"15km ENE of Ridgecrest, CA",earthquake,0.35,1.05,0.044,7,reviewed,ci,ci
-2023-06-12T12:28:34.080Z,35.7158333,-121.084,6.58,1.47,md,31,72,0.06585,0.1,nc,nc73900321,2023-06-13T04:04:12.587Z,"12km NE of San Simeon, CA",earthquake,0.15,0.36,0.183,25,reviewed,nc,nc
+2023-06-12T12:28:34.080Z,35.7158333,-121.084,6.58,1.47,md,31,72,0.06585,0.1,nc,nc73900321,2023-06-13T04:27:13.734Z,"12km NE of San Simeon, CA",earthquake,0.15,0.36,0.183,25,reviewed,nc,nc
 2023-06-12T12:23:36.910Z,33.9566667,-117.7125,12.96,1.6,ml,59,43,0.05161,0.17,ci,ci40483824,2023-06-12T19:07:02.700Z,"6km SE of Chino Hills, CA",earthquake,0.18,0.36,0.135,39,reviewed,ci,ci
 2023-06-12T12:18:50.392Z,60.3979,-153.0001,147.3,2.5,ml,,,,0.89,ak,ak0237hruqj3,2023-06-12T12:21:13.638Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-12T12:13:12.615Z,60.0508,-152.0711,77,1.7,ml,,,,0.19,ak,ak0237hrtl19,2023-06-12T12:14:52.681Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -180,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T04:33:28.630Z,38.7961655,-122.7580032,3.17,1.55,md,24,70,0.02105,0.04,nc,nc73900241,2023-06-12T07:34:11.414Z,"2km N of The Geysers, CA",earthquake,0.25,0.56,0.12,24,automatic,nc,nc
 2023-06-12T04:29:45.704Z,63.5282,-152.4625,0,2,ml,,,,1.3,ak,ak0237hn5m7e,2023-06-12T04:31:51.406Z,"36 km W of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-12T04:29:07.460Z,33.4521667,-116.4251667,8.64,0.62,ml,26,105,0.07105,0.15,ci,ci40483656,2023-06-12T17:09:42.163Z,"22km NNW of Borrego Springs, CA",earthquake,0.26,0.74,0.135,10,reviewed,ci,ci
-2023-06-12T04:24:39.770Z,37.6128349,-122.4608307,7.78,1.23,md,8,135,0.0421,0.01,nc,nc73900236,2023-06-12T05:32:10.639Z,"2km E of Pacifica, CA",earthquake,0.41,0.91,0.23,6,automatic,nc,nc
-2023-06-12T04:21:24.430Z,33.7033333,-116.8088333,15.59,1.06,ml,32,101,0.0793,0.16,ci,ci40483648,2023-06-12T12:51:16.358Z,"9km ESE of Valle Vista, CA",earthquake,0.34,0.45,0.308,26,reviewed,ci,ci
-2023-06-12T04:14:26.598Z,60.227,-139.6543,0,2.5,ml,,,,0.84,ak,ak0237hn2czn,2023-06-12T04:17:04.807Z,"75 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
