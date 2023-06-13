@@ -171,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T07:03:02.330Z,17.9718333333333,-66.783,13.72,1.98,md,6,203,0.09167,0.11,pr,pr71413093,2023-06-12T07:15:28.280Z,"Puerto Rico region",earthquake,0.95,0.38,0.0720439436345048,5,reviewed,pr,pr
 2023-06-12T06:57:12.790Z,17.9481666666667,-67.012,7.61,2.16,md,4,225,0.03726,0.08,pr,pr71413118,2023-06-12T09:43:44.300Z,"4 km SE of La Parguera, Puerto Rico",earthquake,1.29,0.56,0.00488141664084174,2,reviewed,pr,pr
 2023-06-12T06:50:17.840Z,33.9648333,-117.4865,3.48,0.97,ml,44,51,0.01044,0.17,ci,ci40483712,2023-06-12T18:03:21.459Z,"2km SW of Pedley, CA",earthquake,0.16,0.19,0.091,14,reviewed,ci,ci
-2023-06-12T06:30:43.709Z,52.8349,-170.4283,113.7,3.9,ml,,,,0.68,ak,ak0237hocpk9,2023-06-12T16:51:31.302Z,"106 km W of Nikolski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-06-12T06:21:03.435Z,64.2571,-148.2042,3.1,1.1,ml,,,,0.91,ak,ak0237hoaksu,2023-06-12T16:35:42.958Z,"47 km E of Clear, Alaska",earthquake,,0.2,,,reviewed,ak,ak
