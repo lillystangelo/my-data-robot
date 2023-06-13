@@ -176,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T05:58:33.800Z,37.1146667,-121.5063333,8.22,0.92,md,19,54,0.05022,0.09,nc,nc73900256,2023-06-12T21:54:02.271Z,"10km ENE of San Martin, CA",earthquake,0.27,0.64,0.267,18,reviewed,nc,nc
 2023-06-12T05:45:59.520Z,35.2415,-84.2935,6.21,1.78,md,7,104,0.1567,0.18,se,se60500828,2023-06-12T15:10:56.685Z,"13 km S of Tellico Plains, Tennessee",earthquake,0.65,4.11,0.0446448577643859,5,reviewed,se,se
 2023-06-12T05:37:18.542Z,39.61,-119.964,6.3,1.1,ml,9,120.26,0.003,0.1355,nn,nn00861130,2023-06-12T17:20:32.535Z,"7 km S of Cold Springs, Nevada",earthquake,,1.2,0.29,7,reviewed,nn,nn
-2023-06-12T05:32:03.530Z,33.2648333,-116.4246667,4.77,0.64,ml,30,55,0.007129,0.18,ci,ci40483688,2023-06-12T17:30:58.953Z,"5km WNW of Borrego Springs, CA",earthquake,0.23,0.44,0.091,11,reviewed,ci,ci
