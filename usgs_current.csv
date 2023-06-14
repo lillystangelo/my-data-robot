@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T19:01:01.627Z,31.934,-103.3466,1.479,2.7,ml,35,39,0.224,0.43,us,us7000k8h2,2023-06-14T20:07:46.040Z,"24 km SW of Jal, New Mexico",earthquake,1.82,7.993,0.097,22,reviewed,us,us
 2023-06-14T18:33:31.090Z,34.0348333,-116.3206667,8.65,1.22,ml,27,45,0.06701,0.19,ci,ci40485832,2023-06-14T18:37:03.155Z,"11km S of Joshua Tree, CA",earthquake,0.32,0.71,0.129,28,automatic,ci,ci
 2023-06-14T18:30:46.205Z,65.2858,-152.3705,4.8,1.9,ml,,,,1.24,ak,ak0237l6klf0,2023-06-14T18:32:53.401Z,"18 km NW of Tanana, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-14T18:27:37.580Z,36.5421667,-121.1298333,3.67,1.63,md,21,116,0.01599,0.07,nc,nc73901161,2023-06-14T19:55:15.518Z,"2km NE of Pinnacles, CA",earthquake,0.2,0.32,0.197,21,reviewed,nc,nc
+2023-06-14T18:27:37.580Z,36.5421667,-121.1298333,3.67,1.63,md,21,116,0.01599,0.07,nc,nc73901161,2023-06-14T21:25:11.135Z,"2km NE of Pinnacles, CA",earthquake,0.2,0.32,0.197,21,reviewed,nc,nc
 2023-06-14T18:25:50.170Z,36.5495,-121.1291667,3.31,1.35,md,18,122,0.02194,0.11,nc,nc73901156,2023-06-14T20:51:14.820Z,"2km NNE of Pinnacles, CA",earthquake,0.33,0.46,0.105,14,reviewed,nc,nc
 2023-06-14T18:25:46.790Z,61.3638,-147.8832,18.5,0.9,ml,,,,0.17,ak,ak0237l6jivr,2023-06-14T18:27:51.347Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-14T18:24:16.550Z,38.7801666,-122.7668304,1.3,1,md,9,113,0.00947,0.02,nc,nc73901151,2023-06-14T18:51:16.099Z,"1km WNW of The Geysers, CA",earthquake,0.37,0.8,0.13,10,automatic,nc,nc
@@ -226,6 +226,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T21:54:52.550Z,18.2933333333333,-66.457,47.15,2.69,md,13,94,0.09292,0.15,pr,pr71413293,2023-06-13T22:09:25.820Z,"Puerto Rico",earthquake,0.59,0.75,0.0516652006836236,6,reviewed,pr,pr
 2023-06-13T21:46:17.030Z,44.7945,-110.9988333,6.26,0.79,md,11,159,0.03555,0.16,uu,uu60542141,2023-06-13T22:41:30.370Z,"15 km E of Hebgen Lake Estates, Montana",earthquake,0.51,0.84,0.254,8,reviewed,uu,uu
 2023-06-13T21:43:53.331Z,-23.1887,-179.8691,526.808,4.8,mb,69,62,4.768,0.8,us,us7000k89j,2023-06-13T21:59:41.040Z,"south of the Fiji Islands",earthquake,10.12,8.093,0.059,89,reviewed,us,us
-2023-06-13T21:38:39.210Z,36.9428333,-121.4355,6.22,1.89,md,56,46,,0.1,nc,nc73900806,2023-06-14T21:16:15.422Z,"11km NNW of Hollister, CA",earthquake,0.16,0.45,0.195,47,reviewed,nc,nc
-2023-06-13T21:30:37.990Z,58.1861666666667,-155.331666666667,3.47,0.31,ml,9,200,,0.14,av,av91925146,2023-06-14T00:23:29.650Z,"86 km NW of Karluk, Alaska",earthquake,0.71,1.53,0.326357956270538,9,reviewed,av,av
-2023-06-13T21:27:39.803Z,62.9015,-150.4882,82,1.4,ml,,,,0.45,ak,ak0237jksw3g,2023-06-13T21:57:07.136Z,"47 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-06-13T21:38:39.210Z,36.9428333,-121.4355,6.22,1.89,md,56,46,,0.1,nc,nc73900806,2023-06-14T21:25:11.008Z,"11km NNW of Hollister, CA",earthquake,0.16,0.45,0.195,47,reviewed,nc,nc
