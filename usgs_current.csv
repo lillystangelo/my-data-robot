@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-14T02:43:38.170Z,38.7871666,-122.7471695,1.17,1.06,md,15,83,0.009057,0.03,nc,nc73900911,2023-06-14T02:45:14.000Z,"1km NE of The Geysers, CA",earthquake,0.24,0.43,0.13,15,automatic,nc,nc
 2023-06-14T02:36:09.461Z,62.9184,-150.8525,27,1.4,ml,,,,0.64,ak,ak0237kx2v76,2023-06-14T02:38:10.800Z,"47 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-14T02:34:34.946Z,-8.532,116.8012,10.82,4.5,mb,15,81,1.008,0.61,us,us7000k8be,2023-06-14T02:53:09.040Z,"15 km ESE of Labuan Lombok, Indonesia",earthquake,5.81,5.924,0.314,4,reviewed,us,us
 2023-06-14T02:23:31.930Z,33.518,-115.9515,5.23,1.2,ml,27,194,0.1689,0.32,ci,ci40485224,2023-06-14T02:27:06.456Z,"2km SW of North Shore, CA",earthquake,1.5,12.69,0.209,27,automatic,ci,ci
 2023-06-14T02:09:18.730Z,38.8235016,-122.7838364,0.78,0.94,md,14,109,0.01052,0.03,nc,nc73900901,2023-06-14T02:33:14.273Z,"5km W of Cobb, CA",earthquake,0.34,0.66,0.23,15,automatic,nc,nc
 2023-06-14T02:03:36.362Z,36.6552,-116.2663,0,0.7,ml,21,95.17,0.059,0.3494,nn,nn00861196,2023-06-14T02:05:32.331Z,"52 km ESE of Beatty, Nevada",earthquake,,2.7,0.91,14,automatic,nn,nn
@@ -33,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T23:03:15.601Z,61.865,-149.2666,18.4,1.2,ml,,,,0.56,ak,ak0237jluk94,2023-06-14T01:03:42.483Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-13T22:59:06.680Z,32.8975,-116.9485,1.22,1.21,ml,19,150,0.08678,0.3,ci,ci40485112,2023-06-13T23:02:37.955Z,"5km NNW of Lakeside, CA",earthquake,0.73,1.12,0.065,6,automatic,ci,ci
 2023-06-13T22:52:47.010Z,33.3428333,-116.3343333,10.11,1.41,ml,56,28,0.02843,0.18,ci,ci40485104,2023-06-13T23:04:20.460Z,"10km NNE of Borrego Springs, CA",earthquake,0.21,0.42,0.18,27,automatic,ci,ci
-2023-06-13T22:51:45.200Z,40.3428345,-124.2545013,13.4,1.99,md,8,296,0.07238,0.13,nc,nc73900836,2023-06-14T00:37:10.565Z,"3km NE of Petrolia, CA",earthquake,9.56,4.76,0.12,5,automatic,nc,nc
+2023-06-13T22:51:45.200Z,40.3428345,-124.2545013,13.4,1.99,md,8,296,0.07238,0.13,nc,nc73900836,2023-06-14T02:47:16.356Z,"3km NE of Petrolia, CA",earthquake,9.56,4.76,0.12,5,automatic,nc,nc
 2023-06-13T22:48:40.980Z,33.3635,-116.318,9.75,0.82,ml,19,50,0.00712,0.21,ci,ci40485088,2023-06-13T22:52:10.283Z,"13km NNE of Borrego Springs, CA",earthquake,0.51,0.77,0.103,12,automatic,ci,ci
 2023-06-13T22:45:43.790Z,36.5368333,-121.1455,2.6,3.29,ml,65,107,0.005624,0.12,nc,nc73900831,2023-06-14T02:33:26.474Z,"1km NNW of Pinnacles, CA",earthquake,0.15,0.24,0.21,78,reviewed,nc,nc
 2023-06-13T22:42:16.430Z,19.263500213623,-155.372497558594,28.7299995422363,2.1099999,md,42,135,,0.129999995,hv,hv73450377,2023-06-13T22:46:18.850Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.56,0.699999988,1.71000004,22,automatic,hv,hv
@@ -208,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T03:12:59.030Z,17.9565,-66.3385,7.79,2.81,md,16,185,0.1236,0.27,pr,pr71413193,2023-06-13T03:25:11.970Z,"Puerto Rico region",earthquake,0.6,1.32,0.0921083769778539,7,reviewed,pr,pr
 2023-06-13T03:11:04.690Z,33.929,-117.1283333,15.77,1,ml,38,76,0.0928,0.17,ci,ci40484392,2023-06-13T16:43:53.204Z,"9km E of Moreno Valley, CA",earthquake,0.2,0.64,0.134,14,reviewed,ci,ci
 2023-06-13T03:02:08.086Z,64.5963,-147.0658,4.6,1.1,ml,,,,0.23,ak,ak0237j9xnuw,2023-06-13T03:03:39.651Z,"7 km S of Eielson Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-13T02:48:19.610Z,19.1911659240723,-155.491333007812,35.0200004577637,2.0999999,md,37,77,,0.109999999,hv,hv73449837,2023-06-13T02:51:45.550Z,"1 km SW of Pāhala, Hawaii",earthquake,0.48,0.720000029,0.980000019,15,automatic,hv,hv
-2023-06-13T02:47:18.270Z,35.723,-117.5723333,11.1,0.81,ml,14,124,0.1341,0.16,ci,ci40484376,2023-06-13T16:23:00.088Z,"15km NE of Ridgecrest, CA",earthquake,0.39,0.65,0.101,6,reviewed,ci,ci
