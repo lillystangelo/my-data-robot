@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-13T18:07:35.330Z,58.2558333333333,-155.067833333333,4.11,-0.43,ml,8,110,,0.18,av,av91924951,2023-06-13T20:08:28.220Z,"84 km NNW of Karluk, Alaska",earthquake,0.39,0.88,0.214887887780754,8,reviewed,av,av
 2023-06-13T17:38:14.819Z,-29.3917,-177.0835,17.564,5.2,mww,137,53,0.742,0.64,us,us7000k87x,2023-06-14T14:51:25.040Z,"Kermadec Islands, New Zealand",earthquake,8.92,3.557,0.068,21,reviewed,us,us
 2023-06-13T17:38:04.896Z,65.4213,-144.7098,0,1.4,ml,,,,0.9,ak,ak0237jihfux,2023-06-13T17:40:43.206Z,"17 km SSE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-13T17:31:07.256Z,60.3513,-141.3044,8.3,1.5,ml,,,,0.89,ak,ak0237jify11,2023-06-13T17:33:22.565Z,"125 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-06-13T17:26:18.020Z,33.0421667,-114.9551667,-0.23,1.17,ml,10,63,0.07237,0.23,ci,ci40484816,2023-06-13T18:52:34.709Z,"43km NNW of Los Algodones, B.C., MX",quarry blast,0.66,31.61,0.185,5,reviewed,ci,ci
