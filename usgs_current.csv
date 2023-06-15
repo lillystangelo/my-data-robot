@@ -158,8 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T15:18:43.000Z,38.8335,-122.7901667,2.01,1.25,md,45,41,0.004904,0.03,nc,nc73901101,2023-06-14T23:06:15.583Z,"6km WNW of Cobb, CA",earthquake,0.12,0.19,0.136,37,reviewed,nc,nc
 2023-06-14T15:06:05.271Z,64.964,-147.4947,0,0.9,ml,,,,0.65,ak,ak0237l4n281,2023-06-14T15:08:20.516Z,"5 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-14T15:00:53.691Z,61.9724,-149.6038,38.3,1.2,ml,,,,0.42,ak,ak0237l4lvnh,2023-06-14T16:19:43.270Z,"24 km SSE of Susitna North, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2023-06-14T14:56:06.125Z,58.1768,-155.3542,1.3,1.1,ml,,,,0.41,ak,ak0237l4ccis,2023-06-14T14:58:17.857Z,"86 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-14T14:52:18.081Z,57.214,-154.9157,233,1.7,ml,,,,1.04,ak,ak0237l4bikw,2023-06-14T14:54:56.614Z,"Kodiak Island region, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-06-14T14:52:08.010Z,32.9391667,-116.287,11.54,0.76,ml,21,66,0.02065,0.19,ci,ci40485616,2023-06-14T17:58:10.789Z,"26km ENE of Pine Valley, CA",earthquake,0.31,0.74,0.14,9,reviewed,ci,ci
-2023-06-14T14:49:41.280Z,32.9355,-116.2838333,10.41,2.37,ml,82,32,0.02516,0.19,ci,ci40485608,2023-06-14T19:36:08.480Z,"26km ENE of Pine Valley, CA",earthquake,0.14,0.38,0.107,25,reviewed,ci,ci
-2023-06-14T14:48:00.372Z,58.2144,-155.2929,2.1,1.2,ml,,,,0.57,ak,ak0237l4amcl,2023-06-14T14:50:27.588Z,"87 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
