@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-15T13:37:01.490Z,38.725666,-122.9198303,5.74,1.38,md,18,198,0.07169,0.03,nc,nc73901346,2023-06-15T13:38:35.160Z,"12km SE of Cloverdale, CA",earthquake,0.7,1.09,0.23,18,automatic,nc,nc
 2023-06-15T13:13:09.036Z,61.2075,-149.1631,30,1.7,ml,,,,0.32,ak,ak0237mr11uf,2023-06-15T13:14:41.487Z,"25 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-15T13:01:32.549Z,63.241,-151.7519,0,1.9,ml,,,,0.95,ak,ak0237mqyj2e,2023-06-15T13:03:46.225Z,"33 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-15T12:57:26.187Z,64.6304,-147.6261,8.7,0.5,ml,,,,0.25,ak,ak0237mqp33a,2023-06-15T12:59:58.301Z,"18 km SW of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -167,5 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-14T13:55:29.350Z,37.1346664,-121.5656662,0.24,1.05,md,5,152,0.05643,0.08,nc,nc73901071,2023-06-14T15:47:25.947Z,"7km NE of San Martin, CA",earthquake,0.7,9.42,0.13,8,automatic,nc,nc
 2023-06-14T13:53:28.520Z,51.8561666666667,-178.058333333333,-1.8,2.1,ml,7,108,,0.3,av,av91925836,2023-06-15T02:40:27.990Z,"98 km W of Adak, Alaska",earthquake,0.69,1.74,0.280792425154616,7,reviewed,av,av
 2023-06-14T13:47:47.338Z,60.6413,-149.118,6,1.5,ml,,,,0.54,ak,ak0237l3p2nh,2023-06-14T13:49:38.100Z,"22 km NE of Moose Pass, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-14T13:37:40.590Z,33.1541667,-115.9801667,7.37,0.97,ml,29,56,0.01938,0.16,ci,ci40485536,2023-06-14T19:05:07.570Z,"14km E of Ocotillo Wells, CA",earthquake,0.2,0.51,0.152,17,reviewed,ci,ci
-2023-06-14T13:29:14.173Z,62.3862,-149.0841,15,0.6,ml,,,,0.44,ak,ak0237l3l5l1,2023-06-14T14:58:13.887Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.9,,,reviewed,ak,ak
