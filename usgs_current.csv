@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-15T23:26:35.840Z,38.8063316,-122.7826691,2.13,1.96,md,35,41,0.007089,0.06,nc,nc73901576,2023-06-15T23:30:48.255Z,"4km NW of The Geysers, CA",earthquake,0.18,0.33,0.17,30,automatic,nc,nc
 2023-06-15T23:10:41.900Z,33.63,-116.6885,13.02,0.62,ml,21,76,0.07274,0.16,ci,ci40486904,2023-06-15T23:14:11.282Z,"8km N of Anza, CA",earthquake,0.35,0.56,0.205,15,automatic,ci,ci
 2023-06-15T22:58:16.380Z,38.8334999,-122.8138351,1.18,0.89,md,17,69,0.01051,0.05,nc,nc73901571,2023-06-15T23:00:58.517Z,"8km W of Cobb, CA",earthquake,0.24,0.52,0.24,16,automatic,nc,nc
 2023-06-15T22:55:03.400Z,38.8263321,-122.8553314,1.64,0.77,md,8,210,0.01975,0.02,nc,nc73901561,2023-06-15T22:56:38.621Z,"10km WNW of The Geysers, CA",earthquake,0.47,0.92,0.2,9,automatic,nc,nc
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T22:18:36.460Z,38.7735,-122.7203333,1.36,1.37,md,38,43,0.01241,0.05,nc,nc73901531,2023-06-15T23:06:10.179Z,"2km W of Anderson Springs, CA",earthquake,0.17,0.24,0.158,31,reviewed,nc,nc
 2023-06-15T22:16:36.867Z,62.1132,-147.7322,32,1.7,ml,,,,0.86,ak,ak0237mwenl2,2023-06-15T22:18:22.713Z,"34 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-15T22:02:50.378Z,34.7377,23.2862,10,4.1,mb,43,185,1.426,0.71,us,us7000k8t3,2023-06-15T22:30:29.040Z,"65 km SSW of Palaióchora, Greece",earthquake,7.14,1.934,0.104,25,reviewed,us,us
-2023-06-15T22:02:00.640Z,38.8403333,-122.8246667,1.94,0.47,md,26,68,0.008628,0.02,nc,nc73901526,2023-06-15T22:52:20.149Z,"9km WNW of Cobb, CA",earthquake,0.18,0.39,0.141,25,reviewed,nc,nc
+2023-06-15T22:02:00.640Z,38.8403333,-122.8246667,1.94,0.47,md,26,68,0.008628,0.02,nc,nc73901526,2023-06-15T23:28:12.306Z,"9km WNW of Cobb, CA",earthquake,0.18,0.39,0.141,25,reviewed,nc,nc
 2023-06-15T21:46:07.820Z,38.8278351,-122.7986679,1.94,0.77,md,7,140,0.0124,0,nc,nc73901521,2023-06-15T22:14:11.849Z,"7km W of Cobb, CA",earthquake,0.44,1.48,0.18,10,automatic,nc,nc
 2023-06-15T21:36:06.150Z,19.173999786377,-155.48649597168,32.8699989318848,2.27999997,md,39,94,,0.100000001,hv,hv73452157,2023-06-15T21:41:38.020Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.61,1.03999996,0.319999993,21,automatic,hv,hv
 2023-06-15T21:34:47.028Z,38.7565,-118.5336,3,1.7,ml,14,87.25,0.445,0.201,nn,nn00861275,2023-06-15T21:37:26.838Z,"California-Nevada border region",earthquake,,2,0.22,9,automatic,nn,nn
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T12:28:55.960Z,36.821,-120.75,9.67,1.81,md,36,65,0.01457,0.18,nc,nc73901341,2023-06-15T21:11:11.495Z,"18km SSW of South Dos Palos, CA",earthquake,0.41,0.29,0.234,35,reviewed,nc,nc
 2023-06-15T12:18:26.189Z,66.3698,-142.0414,21.2,3.1,ml,,,,0.72,ak,ak0237mqgq0i,2023-06-15T14:00:38.402Z,"81 km ESE of Chalkyitsik, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-06-15T12:01:55.600Z,32.9183333,-116.3448333,9.19,1.77,ml,51,61,0.05023,0.19,ci,ci40486512,2023-06-15T13:12:40.920Z,"20km ENE of Pine Valley, CA",earthquake,0.21,0.58,0.199,27,reviewed,ci,ci
-2023-06-15T11:51:53.770Z,40.2416667,-121.1515,5.89,2.87,md,41,28,0.007624,0.28,nc,nc73901331,2023-06-15T20:45:11.362Z,"4km NE of Almanor, CA",earthquake,0.41,0.66,0.18,86,reviewed,nc,nc
+2023-06-15T11:51:53.770Z,40.2416667,-121.1515,5.89,2.87,md,41,28,0.007624,0.28,nc,nc73901331,2023-06-15T23:28:13.307Z,"4km NE of Almanor, CA",earthquake,0.41,0.66,0.18,86,reviewed,nc,nc
 2023-06-15T11:45:30.150Z,36.5843333,-121.1913333,7.42,1.17,md,21,137,0.01348,0.09,nc,nc73901326,2023-06-15T19:53:18.076Z,"7km NW of Pinnacles, CA",earthquake,0.32,0.46,0.206,16,reviewed,nc,nc
 2023-06-15T11:43:41.220Z,36.5456667,-121.1296667,4.38,1.95,md,35,81,0.01863,0.12,nc,nc73901321,2023-06-15T19:32:15.947Z,"2km NE of Pinnacles, CA",earthquake,0.26,0.48,0.171,37,reviewed,nc,nc
 2023-06-15T11:37:12.292Z,61.695,-150.163,1.8,2.2,ml,,,,0.57,ak,ak0237mpzc0u,2023-06-15T14:09:28.540Z,"Southern Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -181,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T01:34:05.380Z,37.4723333,-118.8461667,6.46,1.1,md,20,170,0.1183,0.03,nc,nc73901221,2023-06-15T20:17:20.207Z,"18km SW of Toms Place, CA",earthquake,0.55,1.18,0.087,14,reviewed,nc,nc
 2023-06-15T01:29:34.796Z,59.4157,-153.9874,44,1.5,ml,,,,0.63,ak,ak0237mjzc13,2023-06-15T01:31:02.886Z,"32 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-15T01:25:47.966Z,59.5842,-152.3531,60.1,2,ml,,,,0.58,ak,ak0237mjyi6k,2023-06-15T01:27:51.887Z,"35 km NW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-15T01:13:05.542Z,33.5871,141.1257,35,4.4,mb,29,130,1.195,1,us,us7000k8jq,2023-06-15T23:30:46.040Z,"188 km SSE of Katsuura, Japan",earthquake,4.93,1.926,0.135,16,reviewed,us,us
 2023-06-15T01:09:56.368Z,-9.1854,123.8442,35,4.7,mb,40,54,8.025,0.69,us,us7000k8jp,2023-06-15T22:53:05.040Z,"46 km N of Naisano Dua, Indonesia",earthquake,8.71,1.916,0.101,30,reviewed,us,us
 2023-06-15T01:08:10.350Z,58.256,-155.142666666667,32.54,-0.03,ml,11,96,,0.23,av,av91107493,2023-06-15T19:44:51.930Z,"86 km NNW of Karluk, Alaska",earthquake,0.77,1.08,0.303229433157606,10,reviewed,av,av
 2023-06-15T01:06:09.867Z,60.2576,-151.1412,51.3,1.4,ml,,,,0.55,ak,ak0237mjucmy,2023-06-15T01:13:35.983Z,"11 km SE of Kasilof, Alaska",earthquake,,1.6,,,automatic,ak,ak
