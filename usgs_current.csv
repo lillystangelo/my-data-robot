@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-16T07:04:12.834Z,55.4848,-156.9512,0.1,4.7,ml,,,,0.52,ak,ak0237oaxvrl,2023-06-16T07:06:41.440Z,"128 km SE of Chignik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-06-16T06:53:59.230Z,38.8344994,-122.8744965,2.76,1.32,md,21,64,0.007154,0.05,nc,nc73901661,2023-06-16T07:04:11.181Z,"12km WNW of The Geysers, CA",earthquake,0.29,0.62,0.14,26,automatic,nc,nc
+2023-06-16T07:11:48.539Z,59.2901,-155.3586,4.5,1.8,ml,,,,0.59,ak,ak0237oazgbp,2023-06-16T07:14:45.226Z,"30 km E of Igiugig, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-16T07:04:13.434Z,55.3289,-156.7338,9.5,4.6,ml,,,,0.55,ak,ak0237oaxvrl,2023-06-16T07:19:57.040Z,"150 km SE of Chignik, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2023-06-16T06:53:59.230Z,38.8344994,-122.8744965,2.76,1.32,md,21,64,0.007154,0.05,nc,nc73901661,2023-06-16T07:10:15.218Z,"12km WNW of The Geysers, CA",earthquake,0.29,0.62,0.14,26,automatic,nc,nc
 2023-06-16T06:31:18.022Z,63.391,-149.4337,0,1.9,ml,,,,0.82,ak,ak0237oai8oq,2023-06-16T06:33:41.083Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-16T05:56:43.387Z,62.2616,-152.261,122.9,1.8,ml,,,,0.59,ak,ak0237oa27xv,2023-06-16T06:00:09.779Z,"54 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-16T05:38:04.770Z,19.6496,-65.734,49,3.8,md,7,297,1.3854,0.31,pr,pr2023167000,2023-06-16T06:13:01.152Z,"135 km N of Suárez, Puerto Rico",earthquake,4.03,18.52,0.13,3,reviewed,pr,pr
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T05:10:21.060Z,38.8273315,-122.8151703,2.12,0.63,md,9,76,0.005594,0.01,nc,nc73901651,2023-06-16T05:25:13.730Z,"8km NW of The Geysers, CA",earthquake,0.37,0.93,0.29,11,automatic,nc,nc
 2023-06-16T04:53:52.070Z,38.8110008,-122.8223343,2.23,1.07,md,13,59,0.005755,0.03,nc,nc73901646,2023-06-16T05:13:12.543Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.5,0.21,14,automatic,nc,nc
 2023-06-16T04:50:47.180Z,17.9435,-66.3931666666667,5.42,2.22,md,13,188,0.22,0.09,pr,pr71413593,2023-06-16T05:08:18.160Z,"2 km SSE of Santa Isabel, Puerto Rico",earthquake,0.34,0.3,0.172759252560735,8,reviewed,pr,pr
-2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-16T06:51:23.453Z,"India-Bangladesh border region",earthquake,8.43,1.87,0.067,70,reviewed,us,us
+2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-16T07:09:35.251Z,"India-Bangladesh border region",earthquake,8.43,1.87,0.067,70,reviewed,us,us
 2023-06-16T04:35:09.985Z,58.7967,-153.5358,15,2.1,ml,,,,0.96,ak,ak0237o9c7ms,2023-06-16T04:41:01.176Z,"89 km NNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-16T03:58:29.360Z,34.0303333,-116.7416667,15.4,1.4,ml,51,36,0.05511,0.14,ci,ci40486992,2023-06-16T04:09:23.740Z,"13km NNE of Cabazon, CA",earthquake,0.17,0.44,0.194,26,automatic,ci,ci
 2023-06-16T03:46:21.840Z,38.8261681,-122.8063354,1.97,0.77,md,8,109,0.004024,0.01,nc,nc73901636,2023-06-16T04:12:15.121Z,"7km NW of The Geysers, CA",earthquake,0.38,1.05,0.16,9,automatic,nc,nc
@@ -179,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T07:34:15.564Z,61.4195,-150.1204,29.9,1.9,ml,,,,0.49,ak,ak0237mnkyr8,2023-06-15T07:37:00.688Z,"10 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-15T07:26:53.070Z,46.224,-119.60233333333333,6.98,1.29,ml,14,164,0.05977,0.08,uw,uw61933441,2023-06-15T17:02:33.890Z,"9 km WSW of Benton City, Washington",earthquake,0.6,0.22,0.10114568321946371,12,reviewed,uw,uw
 2023-06-15T07:24:59.920Z,36.7635,-121.4186667,12.2,0.65,md,16,80,0.02294,0.09,nc,nc73901291,2023-06-15T19:00:59.539Z,"7km SW of Ridgemark, CA",earthquake,0.28,0.5,0.141,10,reviewed,nc,nc
-2023-06-15T07:19:29.710Z,38.833,-122.7985,2.35,1.44,md,44,29,0.008351,0.03,nc,nc73901286,2023-06-15T20:49:15.386Z,"7km W of Cobb, CA",earthquake,0.15,0.24,0.149,37,reviewed,nc,nc
-2023-06-15T07:14:32.679Z,61.5684,-150.1893,29.3,1.5,ml,,,,0.85,ak,ak0237mngpr7,2023-06-15T07:16:34.037Z,"13 km WNW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
