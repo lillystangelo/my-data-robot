@@ -6,12 +6,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T05:10:21.060Z,38.8273315,-122.8151703,2.12,0.63,md,9,76,0.005594,0.01,nc,nc73901651,2023-06-16T05:25:13.730Z,"8km NW of The Geysers, CA",earthquake,0.37,0.93,0.29,11,automatic,nc,nc
 2023-06-16T04:53:52.070Z,38.8110008,-122.8223343,2.23,1.07,md,13,59,0.005755,0.03,nc,nc73901646,2023-06-16T05:13:12.543Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.5,0.21,14,automatic,nc,nc
 2023-06-16T04:50:47.180Z,17.9435,-66.3931666666667,5.42,2.22,md,13,188,0.22,0.09,pr,pr71413593,2023-06-16T05:08:18.160Z,"2 km SSE of Santa Isabel, Puerto Rico",earthquake,0.34,0.3,0.172759252560735,8,reviewed,pr,pr
-2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-16T06:20:03.817Z,"India-Bangladesh border region",earthquake,8.43,1.87,0.067,70,reviewed,us,us
+2023-06-16T04:46:11.403Z,24.7503,92.0418,10,5,mb,63,71,6.234,1.01,us,us7000k8uw,2023-06-16T06:51:23.453Z,"India-Bangladesh border region",earthquake,8.43,1.87,0.067,70,reviewed,us,us
 2023-06-16T04:35:09.985Z,58.7967,-153.5358,15,2.1,ml,,,,0.96,ak,ak0237o9c7ms,2023-06-16T04:41:01.176Z,"89 km NNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-16T03:58:29.360Z,34.0303333,-116.7416667,15.4,1.4,ml,51,36,0.05511,0.14,ci,ci40486992,2023-06-16T04:09:23.740Z,"13km NNE of Cabazon, CA",earthquake,0.17,0.44,0.194,26,automatic,ci,ci
 2023-06-16T03:46:21.840Z,38.8261681,-122.8063354,1.97,0.77,md,8,109,0.004024,0.01,nc,nc73901636,2023-06-16T04:12:15.121Z,"7km NW of The Geysers, CA",earthquake,0.38,1.05,0.16,9,automatic,nc,nc
 2023-06-16T03:42:16.140Z,38.7588348,-122.7268295,1.84,1.24,md,9,141,0.003155,0.03,nc,nc73901631,2023-06-16T06:23:14.954Z,"3km SE of The Geysers, CA",earthquake,0.44,1.14,0.15,11,automatic,nc,nc
 2023-06-16T03:30:56.695Z,58.1942,-155.2558,0,1.6,ml,,,,0.75,ak,ak0237o8pt4w,2023-06-16T03:32:56.836Z,"84 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-16T03:23:57.390Z,52.026,178.372,0.02,0.32,ml,4,347,,0.24,av,av91927021,2023-06-16T06:53:43.050Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.87,31.61,0.278524227154455,4,reviewed,av,av
 2023-06-16T03:20:20.080Z,53.8805,-166.630333333333,6.77,1.39,ml,13,159,,0.22,av,av91927016,2023-06-16T06:42:32.860Z,"5 km W of Dutch Harbor, Alaska",earthquake,0.72,0.59,0.375464654870906,13,reviewed,av,av
 2023-06-16T02:56:05.970Z,38.8166656,-122.8144989,2.69,0.99,md,16,78,0.007557,0.05,nc,nc73901621,2023-06-16T03:36:11.877Z,"7km NW of The Geysers, CA",earthquake,0.32,0.71,0.22,17,automatic,nc,nc
 2023-06-16T02:47:49.000Z,38.8354988,-122.8123322,1.86,0.46,md,10,87,0.01221,0.06,nc,nc73901616,2023-06-16T05:25:13.609Z,"8km W of Cobb, CA",earthquake,0.47,1.64,0.33,10,automatic,nc,nc
@@ -183,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-15T06:55:59.317Z,61.0257,-149.4896,33.3,1.1,ml,,,,0.41,ak,ak0237mn44kb,2023-06-15T06:57:56.870Z,"14 km NE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-15T06:55:45.660Z,33.706,-116.755,15.91,0.47,ml,21,74,0.03443,0.09,ci,ci40486360,2023-06-15T17:47:30.097Z,"5km SW of Idyllwild, CA",earthquake,0.21,0.3,0.13,8,reviewed,ci,ci
 2023-06-15T06:55:18.055Z,60.531,-152.1144,92.7,1.3,ml,,,,0.08,ak,ak0237mn41dp,2023-06-15T06:56:31.227Z,"44 km WSW of Salamatof, Alaska",earthquake,,3.6,,,automatic,ak,ak
-2023-06-15T06:53:28.260Z,38.8198318,-122.82267,2.25,0.48,md,10,68,0.01046,0.01,nc,nc73901281,2023-06-15T08:39:12.911Z,"7km NW of The Geysers, CA",earthquake,0.31,0.71,0.27,12,automatic,nc,nc
