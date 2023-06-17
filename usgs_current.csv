@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-17T11:48:41.900Z,38.8173332,-122.8106689,2.63,1.03,md,18,43,0.006071,0.06,nc,nc73902046,2023-06-17T11:50:18.189Z,"6km NW of The Geysers, CA",earthquake,0.29,0.63,0.2,18,automatic,nc,nc
+2023-06-17T11:44:05.178Z,62.3992,-151.5199,237.6,2.6,ml,,,,1.02,ak,ak0237q13iit,2023-06-17T11:47:04.464Z,"40 km WSW of Petersville, Alaska",earthquake,,7.2,,,automatic,ak,ak
 2023-06-17T11:37:34.950Z,38.7923317,-122.7774963,4.22,0.79,md,5,163,0.02091,0.02,nc,nc73902031,2023-06-17T11:40:21.841Z,"2km NW of The Geysers, CA",earthquake,2.03,4.17,0.02,2,automatic,nc,nc
+2023-06-17T11:36:00.859Z,47.9548,147.3618,417.698,5.7,mww,122,43,3.277,0.56,us,us7000k96n,2023-06-17T11:52:42.040Z,"northwest of the Kuril Islands",earthquake,9.43,5.385,0.056,31,reviewed,us,us
 2023-06-17T11:31:12.730Z,33.6843333,-116.7491667,14.9,0.42,ml,19,107,0.03959,0.12,ci,ci40487672,2023-06-17T11:34:49.253Z,"7km SSW of Idyllwild, CA",earthquake,0.45,0.39,0.121,11,automatic,ci,ci
+2023-06-17T11:26:21.874Z,-23.4419,-175.4278,35,6,mww,29,129,2.27,0.9,us,us7000k96l,2023-06-17T11:52:43.072Z,"237 km SSW of ‘Ohonua, Tonga",earthquake,8.7,2,0.056,31,reviewed,us,us
 2023-06-17T11:08:24.015Z,59.8381,-153.3532,123.6,2.1,ml,,,,0.26,ak,ak0237q0vsje,2023-06-17T11:25:24.040Z,"42 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-17T10:45:09.420Z,17.963,-66.6668333333333,12.96,2.33,md,11,201,0.09811,0.27,pr,pr71413738,2023-06-17T11:39:03.710Z,"Puerto Rico region",earthquake,0.84,0.61,0.0852385053774216,5,reviewed,pr,pr
 2023-06-17T10:37:16.580Z,38.8209991,-122.8266678,2.03,0.26,md,6,185,0.01227,0.02,nc,nc73902021,2023-06-17T11:05:14.211Z,"8km NW of The Geysers, CA",earthquake,0.65,1.16,0.12,7,automatic,nc,nc
@@ -145,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T16:51:30.497Z,43.0506,-110.8507,4.366,2.6,ml,32,88,0.339,0.73,us,us7000k90s,2023-06-16T17:52:33.580Z,"12 km NE of Star Valley Ranch, Wyoming",earthquake,1.38,3.969,0.045,66,reviewed,us,us
 2023-06-16T16:46:00.960Z,44.7855,-111.0065,8.68,0.37,md,9,247,0.02617,0.13,uu,uu60542331,2023-06-16T18:28:06.980Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,1.54,1.29,0.24,4,reviewed,uu,uu
 2023-06-16T16:39:48.410Z,32.9235,-116.2365,12.13,0.89,ml,24,78,0.06422,0.18,ci,ci40487264,2023-06-16T19:51:04.215Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.26,0.75,0.104,11,reviewed,ci,ci
-2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-17T11:24:10.722Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
+2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-17T11:50:12.714Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
 2023-06-16T16:37:56.320Z,46.3156666666667,-111.609166666667,-2,0.84,ml,8,145,0.3238,0.25,mb,mb90018543,2023-06-16T17:34:56.900Z,"6 km W of Townsend, Montana",quarry blast,2.04,31.61,0.206760337618721,5,reviewed,mb,mb
 2023-06-16T16:37:39.120Z,44.7878333,-111.0056667,9.61,0.83,ml,12,152,0.0285,0.1,uu,uu60542326,2023-06-16T17:03:48.260Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.51,0.99,0.206,2,reviewed,uu,uu
 2023-06-16T16:32:20.500Z,38.8289986,-122.8071671,1.48,0.7,md,15,60,0.006039,0.02,nc,nc73901771,2023-06-16T17:03:14.797Z,"7km NW of The Geysers, CA",earthquake,0.24,0.66,0.38,17,automatic,nc,nc
@@ -191,8 +195,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-16T12:40:50.950Z,58.2548333333333,-155.075,4.37,-0.3,ml,7,122,,0.21,av,av91927371,2023-06-16T17:02:26.800Z,"84 km NNW of Karluk, Alaska",earthquake,0.42,0.99,0.312185749859204,7,reviewed,av,av
 2023-06-16T12:31:36.735Z,61.8955,-149.978,23,1.8,ml,,,,0.83,ak,ak0237oe2vtd,2023-06-16T12:33:53.842Z,"16 km N of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-16T12:24:09.336Z,35.6261,140.7662,44.189,4.9,mwr,91,113,2.264,0.77,us,us7000k8ws,2023-06-17T04:20:55.067Z,"13 km SSW of Hasaki, Japan",earthquake,6.75,5.605,0.068,21,reviewed,us,us
-2023-06-16T12:14:02.673Z,35.713,140.1985,71.049,4.4,mb,32,155,1.811,0.63,us,us7000k8wp,2023-06-17T02:29:35.526Z,"3 km W of Sakura, Japan",earthquake,4.84,9.131,0.149,14,reviewed,us,us
+2023-06-16T12:14:02.673Z,35.713,140.1985,71.049,4.4,mb,32,155,1.811,0.63,us,us7000k8wp,2023-06-17T11:52:46.981Z,"3 km W of Sakura, Japan",earthquake,4.84,9.131,0.149,14,reviewed,us,us
 2023-06-16T12:12:53.550Z,53.8711666666667,-166.6195,4.17,0.4,ml,4,251,,0.25,av,av91927351,2023-06-16T16:46:11.450Z,"5 km WSW of Dutch Harbor, Alaska",earthquake,2.99,2.25,0.200761023600194,4,reviewed,av,av
 2023-06-16T12:12:18.800Z,35.8258333,-117.6381667,11.46,0.9,ml,19,73,0.1044,0.11,ci,ci40487088,2023-06-16T18:49:26.574Z,"22km WNW of Searles Valley, CA",earthquake,0.21,0.61,0.112,9,reviewed,ci,ci
-2023-06-16T11:53:30.930Z,44.3308333333333,-116.194333333333,4.26,2.08,ml,8,98,0.294,0.32,mb,mb90018498,2023-06-16T16:55:52.360Z,"8 km WNW of Smiths Ferry, Idaho",earthquake,0.95,3.03,0.202738940658228,10,reviewed,mb,mb
-2023-06-16T11:48:08.246Z,-23.717,-175.5352,30.342,4.5,mb,19,94,2.554,1.01,us,us7000k8wn,2023-06-16T12:08:13.040Z,"269 km SSW of ‘Ohonua, Tonga",earthquake,8.23,6.326,0.15,13,reviewed,us,us
