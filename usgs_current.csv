@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T19:18:37.530Z,36.074501,-120.6484985,4.13,2.57,md,36,65,0.04276,0.16,nc,nc73902581,2023-06-18T19:27:15.686Z,"24km ENE of San Ardo, CA",earthquake,0.31,1,0.13,32,automatic,nc,nc
+2023-06-18T19:15:19.374Z,63.4835,-149.3159,33.3,1.5,ml,,,,0.68,ak,ak0237rt856p,2023-06-18T19:21:48.254Z,"20 km WNW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-18T18:38:27.522Z,60.2532,-152.8496,107.7,1.7,ml,,,,0.56,ak,ak0237rsrnog,2023-06-18T18:41:16.229Z,"69 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T18:33:50.642Z,63.2453,-152.7461,9.6,1.2,ml,,,,0.84,ak,ak0237rsqmvq,2023-06-18T18:37:21.948Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-18T18:31:59.990Z,18.0833333333333,-66.9823333333333,13.47,2.57,md,5,161,0.1432,0.08,pr,pr71413918,2023-06-18T18:40:26.880Z,"2 km WNW of Sabana Grande, Puerto Rico",earthquake,1.17,1.55,0.0591360781098258,3,reviewed,pr,pr
@@ -17,11 +19,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T16:26:47.420Z,33.1235,-115.6148333,11.15,1.37,ml,14,94,0.02919,0.21,ci,ci40488248,2023-06-18T16:30:29.017Z,"9km W of Calipatria, CA",earthquake,0.77,1.17,0.251,24,automatic,ci,ci
 2023-06-18T16:26:34.430Z,-29.8767,-72.122,10,4.2,mb,19,184,0.768,0.84,us,us7000k9e1,2023-06-18T17:05:11.040Z,"76 km W of Coquimbo, Chile",earthquake,5.22,1.943,0.305,3,reviewed,us,us
 2023-06-18T16:22:00.920Z,46.21366666666667,-119.5905,6.89,1.31,ml,11,224,0.06689,0.14,uw,uw61934101,2023-06-18T17:24:15.620Z,"9 km SW of Benton City, Washington",earthquake,0.75,0.29,0.05939575432254918,9,reviewed,uw,uw
-2023-06-18T16:15:18.281Z,59.5049,-151.9156,53.4,1.9,ml,,,,0.5,ak,ak0237rrfuac,2023-06-18T16:17:14.867Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-18T16:15:18.281Z,59.5049,-151.9156,53.4,1.9,ml,,,,0.5,ak,ak0237rrfuac,2023-06-18T16:17:14.867Z,"13 km WNW of Seldovia, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T15:53:56.046Z,-23.7135,-175.7205,10,4.6,mb,23,115,2.576,0.85,us,us7000k9dw,2023-06-18T16:17:32.040Z,"274 km SSW of ‘Ohonua, Tonga",earthquake,10.69,1.911,0.107,26,reviewed,us,us
 2023-06-18T15:36:29.521Z,38.1274,38.6026,10,4.5,mb,55,63,0.707,0.94,us,us7000k9dr,2023-06-18T16:24:14.040Z,"10 km N of Sincik, Turkey",earthquake,2.55,1.847,0.075,52,reviewed,us,us
 2023-06-18T15:33:10.730Z,18.0741666666667,-67.0051666666667,22.51,2.38,md,15,107,0.03071,0.19,pr,pr71413898,2023-06-18T15:54:47.370Z,"Puerto Rico",earthquake,0.48,0.71,0.0652223328386961,8,reviewed,pr,pr
-2023-06-18T15:31:04.770Z,41.803333333333335,-118.47433333333333,-1.22,2.37,ml,6,275,0.6416,0.41,uw,uw61934081,2023-06-18T17:12:57.340Z,"Nevada",earthquake,11.07,13.56,0.006428317590866595,3,reviewed,uw,uw
+2023-06-18T15:31:04.770Z,41.803333333333335,-118.47433333333333,-1.22,2.37,ml,6,275,0.6416,0.41,uw,uw61934081,2023-06-18T17:12:57.340Z,"24 km SSE of Denio, Nevada",earthquake,11.07,13.56,0.006428317590866595,3,reviewed,uw,uw
 2023-06-18T15:22:45.155Z,63.6655,-147.3434,250,1.5,ml,,,,0.92,ak,ak0237rqvyrn,2023-06-18T15:35:45.094Z,"78 km E of Denali Park, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-18T15:04:49.691Z,-23.7728,-175.7382,10,5.8,mww,39,121,2.638,0.94,us,us7000k9dk,2023-06-18T17:09:29.387Z,"280 km SSW of ‘Ohonua, Tonga",earthquake,9.5,1.862,0.093,11,reviewed,us,us
 2023-06-18T15:04:13.667Z,64.9961,-147.3866,1.8,1.6,ml,,,,0.57,ak,ak0237rqs1gb,2023-06-18T15:06:47.508Z,"11 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T09:30:57.958Z,62.3025,-150.9993,70.9,1.4,ml,,,,0.5,ak,ak0237rnd3ur,2023-06-18T09:33:11.428Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-18T09:27:59.380Z,19.2391662597656,-155.411331176758,34.810001373291,1.95,ml,47,141,,0.119999997,hv,hv73454572,2023-06-18T09:33:29.780Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.47,0.660000026,3.66,10,automatic,hv,hv
 2023-06-18T09:15:00.930Z,33.5138333,-116.5055,13.27,0.35,ml,18,83,0.08302,0.19,ci,ci40488072,2023-06-18T09:18:31.258Z,"16km ESE of Anza, CA",earthquake,0.45,0.77,0.183,5,automatic,ci,ci
-2023-06-18T09:14:31.472Z,58.0955,-154.6014,86,5,mww,,,,0.5,ak,ak0237rn9mb0,2023-06-18T17:30:50.338Z,"59 km N of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-06-18T09:14:31.472Z,58.0955,-154.6014,86,5,mww,,,,0.5,ak,ak0237rn9mb0,2023-06-18T19:22:05.481Z,"59 km N of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-06-18T09:13:46.010Z,18.8166675567627,-155.281494140625,9.42000007629395,1.82000005,md,29,266,,0.150000006,hv,hv73454557,2023-06-18T09:16:56.130Z,"Hawaii region, Hawaii",earthquake,1.72,1.13999999,1.82000005,4,automatic,hv,hv
 2023-06-18T09:11:11.700Z,33.6698333,-116.7266667,13.52,0.34,ml,14,94,0.04252,0.08,ci,ci40488064,2023-06-18T09:14:45.238Z,"8km S of Idyllwild, CA",earthquake,0.25,0.49,0.183,5,automatic,ci,ci
 2023-06-18T09:10:28.952Z,-0.6701,-77.5812,25.791,5,mww,75,132,6.373,0.52,us,us7000k9bu,2023-06-18T17:09:37.217Z,"36 km NE of Archidona, Ecuador",earthquake,8.92,5.331,0.089,12,reviewed,us,us
