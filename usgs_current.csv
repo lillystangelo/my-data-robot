@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-22T05:09:29.920Z,38.8026657,-122.8150024,3.21,0.79,md,17,71,0.01269,0.07,nc,nc73903816,2023-06-22T05:12:12.674Z,"6km WNW of The Geysers, CA",earthquake,0.37,0.92,0.47,17,automatic,nc,nc
 2023-06-22T05:08:13.420Z,37.6049995,-118.8470001,-0.48,0.75,md,7,143,0.01886,0.29,nc,nc73903811,2023-06-22T05:09:47.513Z,"12km ESE of Mammoth Lakes, CA",earthquake,1.27,1.08,0.03,8,automatic,nc,nc
-2023-06-22T04:42:23.050Z,38.8341675,-122.7908325,1.88,0.29,md,10,75,0.004252,0.01,nc,nc73903801,2023-06-22T04:59:16.939Z,"6km WNW of Cobb, CA",earthquake,0.35,1.11,0.22,12,automatic,nc,nc
+2023-06-22T04:42:23.050Z,38.8341675,-122.7908325,1.88,0.29,md,10,75,0.004252,0.01,nc,nc73903801,2023-06-22T05:20:12.045Z,"6km WNW of Cobb, CA",earthquake,0.35,1.11,0.22,12,automatic,nc,nc
 2023-06-22T04:38:56.972Z,64.784,-149.0436,18.3,1,ml,,,,0.54,ak,ak0237y6l1gh,2023-06-22T04:40:29.168Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-22T04:25:19.130Z,34.0561667,-117.1738333,12.69,0.87,ml,22,101,0.08035,0.2,ci,ci40491664,2023-06-22T04:28:49.214Z,"1km E of Redlands, CA",earthquake,0.36,0.85,0.148,19,automatic,ci,ci
 2023-06-22T04:07:16.440Z,19.216833114624,-155.376327514648,32.0299987792969,2,md,42,157,,0.109999999,hv,hv73458017,2023-06-22T04:10:25.790Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,1.01999998,0.850000024,17,automatic,hv,hv
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T17:43:02.460Z,19.1765003204346,-155.491333007812,31.4300003051758,2.23,ml,45,149,,0.129999995,hv,hv73457497,2023-06-21T19:29:27.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.810000002,2.36,14,automatic,hv,hv
 2023-06-21T17:42:59.470Z,33.494,-116.4805,12.53,0.68,ml,28,63,0.05437,0.15,ci,ci40491152,2023-06-21T18:59:09.342Z,"19km ESE of Anza, CA",earthquake,0.21,0.53,0.095,11,reviewed,ci,ci
 2023-06-21T17:31:29.460Z,33.5038333,-116.5096667,13.74,0.92,ml,45,69,0.07281,0.17,ci,ci40491136,2023-06-21T18:36:32.360Z,"16km ESE of Anza, CA",earthquake,0.18,0.36,0.209,24,reviewed,ci,ci
-2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"80 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-06-21T17:07:54.310Z,35.613,-117.4413333,6.24,0.31,ml,7,86,0.03144,0.15,ci,ci40491088,2023-06-21T20:56:54.443Z,"18km S of Searles Valley, CA",earthquake,0.39,0.72,0.048,2,reviewed,ci,ci
 2023-06-21T16:37:57.770Z,38.8366661,-122.810997,1.79,1.09,md,20,84,0.01327,0.02,nc,nc73903666,2023-06-21T18:36:15.346Z,"8km WNW of Cobb, CA",earthquake,0.22,0.39,0.08,22,automatic,nc,nc
 2023-06-21T16:29:34.810Z,33.1778333,-116.3991667,7.04,0.19,ml,8,92,0.09138,0.12,ci,ci40491008,2023-06-21T18:09:59.555Z,"9km SSW of Borrego Springs, CA",earthquake,0.39,1.33,0.083,4,reviewed,ci,ci
@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T05:48:27.880Z,38.7475,-122.716,1.26,0.28,md,14,72,0.007605,0.04,nc,nc73903491,2023-06-21T08:09:16.676Z,"4km SW of Anderson Springs, CA",earthquake,0.18,0.34,0.265,9,reviewed,nc,nc
 2023-06-21T05:43:34.018Z,-29.3834,-176.6225,10,4.9,mb,39,69,1.14,1.27,us,us7000ka18,2023-06-21T06:17:30.040Z,"Kermadec Islands region",earthquake,10.39,1.88,0.075,55,reviewed,us,us
 2023-06-21T05:43:03.050Z,36.1776666666667,-91.2928333333333,18.27,2.29,md,9,87,0.03222,0.09,nm,nm60500878,2023-06-21T13:15:24.780Z,"7 km SSW of Ravenden, Arkansas",earthquake,0.72,0.52,0.0395157372718411,8,reviewed,nm,nm
-2023-06-21T05:21:08.099Z,61.1987,-147.22,4.3,2,ml,,,,0.65,ak,ak0237wjjdjp,2023-06-21T05:22:53.609Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-21T05:17:42.710Z,33.27,-116.4345,2.78,1.03,ml,36,59,0.01464,0.2,ci,ci40490592,2023-06-21T13:16:38.400Z,"6km WNW of Borrego Springs, CA",earthquake,0.29,0.67,0.125,27,reviewed,ci,ci
