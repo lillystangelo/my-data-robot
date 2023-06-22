@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T20:39:41.941Z,60.5999,-142.8092,14,1.8,ml,,,,0.9,ak,ak0237yg45oy,2023-06-22T20:41:42.476Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-22T20:30:22.480Z,32.6003333,-116.9796667,3.11,1.22,ml,19,204,0.0424,0.21,ci,ci40492264,2023-06-22T20:33:54.800Z,"7km ESE of Chula Vista, CA",quarry blast,0.9,0.45,0.08,10,automatic,ci,ci
 2023-06-22T20:26:27.112Z,58.2826,-154.9176,68.3,0.9,ml,,,,0.93,ak,ak0237yg1c8n,2023-06-22T20:28:40.229Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-22T20:25:34.979Z,58.188,-155.1479,43.2,0.8,ml,,,,0.55,ak,ak0237yg154p,2023-06-22T20:27:34.431Z,"80 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -207,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T21:00:11.959Z,31.88323975,-101.8920303,12.30074056,2,ml,20,70,0.1228797847,0.1,tx,tx2023mcaq,2023-06-22T19:28:33.555Z,"21 km SE of Midland, Texas",earthquake,0.6539224154,1.321396904,0.1,7,reviewed,tx,tx
 2023-06-21T20:58:33.490Z,40.4728333,-124.328,15.95,1.73,md,22,107,0.007734,0.11,nc,nc73903731,2023-06-22T10:32:11.997Z,"13km SSW of Ferndale, CA",earthquake,0.49,0.43,0.115,13,reviewed,nc,nc
 2023-06-21T20:49:12.585Z,60.1788,-151.0361,68.6,1.5,ml,,,,0.27,ak,ak0237wsmw3e,2023-06-22T00:06:38.788Z,"20 km ESE of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-06-21T20:45:20.594Z,62.8991,-148.9408,10.6,1.3,ml,,,,0.63,ak,ak0237wslvmk,2023-06-21T20:47:33.511Z,"54 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-21T20:45:10.326Z,54.7901,-156.7817,10,3.1,ml,,,,0.96,ak,ak0237wsm1g9,2023-06-21T22:50:02.445Z,"195 km SE of Perryville, Alaska",earthquake,,4.8,,,reviewed,ak,ak
-2023-06-21T20:38:12.035Z,55.2489,-157.7277,131.8,2.7,ml,,,,0.78,ak,ak0237wskj6b,2023-06-21T20:57:02.040Z,"115 km SE of Perryville, Alaska",earthquake,,1.6,,,automatic,ak,ak
