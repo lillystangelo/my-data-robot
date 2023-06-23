@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-23T10:28:33.760Z,36.2086678,-121.7200012,6.33,1.38,md,11,184,0.0427,0.04,nc,nc73904221,2023-06-23T10:31:18.279Z,"19km SE of Point Sur, CA",earthquake,1.21,1.17,0.15,8,automatic,nc,nc
+2023-06-23T10:34:12.930Z,38.8045006,-122.7598343,-0.62,0.63,md,8,155,0.02469,0.1,nc,nc73904226,2023-06-23T10:37:02.368Z,"3km N of The Geysers, CA",earthquake,0.57,2.83,0.09,8,automatic,nc,nc
+2023-06-23T10:28:33.760Z,36.2086678,-121.7200012,6.33,1.38,md,11,184,0.0427,0.04,nc,nc73904221,2023-06-23T10:42:11.019Z,"19km SE of Point Sur, CA",earthquake,1.21,1.17,0.15,8,automatic,nc,nc
 2023-06-23T10:25:13.009Z,58.2729,-155.0863,1.4,1.6,ml,,,,0.41,ak,ak0237zxm3vo,2023-06-23T10:26:41.897Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-06-23T10:05:02.840Z,38.8171654,-122.8201675,2.77,0.92,md,19,49,0.01004,0.02,nc,nc73904211,2023-06-23T10:21:14.128Z,"7km NW of The Geysers, CA",earthquake,0.24,0.65,0.25,18,automatic,nc,nc
 2023-06-23T09:58:23.385Z,39.618,-119.9854,7.2,1.2,ml,9,124.03,0.021,0.1295,nn,nn00861600,2023-06-23T10:00:23.633Z,"Nevada",earthquake,,0.7,0.55,6,automatic,nn,nn
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T10:53:47.470Z,19.5331,-65.7678,96,3.81,md,7,282,1.3181,0.32,pr,pr2023173000,2023-06-22T12:15:43.611Z,"122 km N of Suárez, Puerto Rico",earthquake,6.23,10.67,0.06,4,reviewed,pr,pr
 2023-06-22T10:49:46.540Z,37.9121667,-122.2968333,3.88,1.27,md,52,58,0.02168,0.07,nc,nc73903886,2023-06-23T03:33:25.711Z,"1km ESE of El Cerrito, CA",earthquake,0.12,0.24,0.184,34,reviewed,nc,nc
 2023-06-22T10:49:10.730Z,64.8743,-153.1253,8.4,0.8,ml,,,,1,ak,ak0237ya7we8,2023-06-22T10:52:25.587Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-06-22T10:38:09.780Z,59.7989,-152.379,76.9,1.2,ml,,,,0.62,ak,ak0237ya5jkz,2023-06-22T10:40:21.717Z,"30 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
