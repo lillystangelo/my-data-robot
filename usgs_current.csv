@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-24T19:35:19.010Z,38.8330002,-122.8143311,1.38,0.93,md,16,54,0.01015,0.02,nc,nc73904781,2023-06-24T19:36:54.419Z,"8km NW of The Geysers, CA",earthquake,0.21,0.59,0.25,19,automatic,nc,nc
 2023-06-24T19:29:11.800Z,19.242000579834,-155.383331298828,32.3300018310547,1.77999997,md,31,142,,0.100000001,hv,hv73460792,2023-06-24T19:32:33.230Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.68,0.819999993,0.550000012,11,automatic,hv,hv
 2023-06-24T18:52:50.320Z,38.8071671,-122.8151703,2.81,0.7,md,11,74,0.01108,0.02,nc,nc73904761,2023-06-24T19:11:16.263Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.87,0.33,13,automatic,nc,nc
 2023-06-24T18:44:34.550Z,38.838665,-122.8238297,1.71,0.72,md,18,87,0.009104,0.01,nc,nc73904751,2023-06-24T19:01:12.191Z,"9km WNW of Cobb, CA",earthquake,0.23,0.5,0.12,18,automatic,nc,nc
@@ -207,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T19:55:08.010Z,46.8353333333333,-111.599,3.8,0.96,ml,16,160,0.3154,0.14,mb,mb90019553,2023-06-23T22:15:39.810Z,"30 km ENE of Helena Valley Northeast, Montana",earthquake,0.47,2.32,0.0851718020804166,3,reviewed,mb,mb
 2023-06-23T19:54:06.864Z,63.3554,-145.5333,0,1.2,ml,,,,0.85,ak,ak02380357m6,2023-06-23T19:56:08.401Z,"29 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-23T19:49:16.720Z,58.2626666666667,-155.081833333333,31.9,-0.16,ml,6,106,,0.11,av,av91108493,2023-06-24T08:30:25.700Z,"85 km NNW of Karluk, Alaska",earthquake,0.71,1.11,0.195660171706888,6,reviewed,av,av
-2023-06-23T19:38:31.536Z,58.2565,-155.0718,2.9,0.7,ml,,,,0.12,ak,ak0238031u29,2023-06-24T08:22:47.540Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-23T19:34:33.969Z,63.1569,-147.6692,9.2,1.7,ml,,,,0.63,ak,ak0238030zdw,2023-06-23T19:37:03.798Z,"69 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
