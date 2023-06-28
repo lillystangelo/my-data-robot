@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-28T19:38:38.188Z,60.0237,-151.7953,58.8,1.9,ml,,,,0.45,ak,ak02388cql1m,2023-06-28T19:40:35.349Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-28T19:23:09.012Z,61.6261,-149.9309,45.3,1.3,ml,,,,0.45,ak,ak02388cnb1x,2023-06-28T19:29:17.849Z,"6 km W of Houston, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-06-28T19:16:59.943Z,59.1128,-152.2858,49.1,1.5,ml,,,,0.58,ak,ak02388clwyy,2023-06-28T19:18:37.018Z,"34 km SW of Nanwalek, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-06-28T19:15:37.450Z,33.8673333,-117.4975,0.58,1.29,ml,31,43,0.06623,0.27,ci,ci40498280,2023-06-28T19:19:14.860Z,"2km ESE of Home Gardens, CA",quarry blast,0.41,31.61,0.147,32,automatic,ci,ci
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T20:01:46.400Z,34.8481667,-118.7815,-1.19,1.59,ml,28,52,0.07136,0.21,ci,ci40497376,2023-06-27T20:58:57.651Z,"8km E of Lebec, CA",quarry blast,0.37,31.61,0.129,28,reviewed,ci,ci
 2023-06-27T19:54:08.630Z,44.6801667,-110.056,12.5,0.83,md,5,162,0.09319,0.17,uu,uu60544152,2023-06-27T20:10:52.800Z,"36 km S of Silver Gate, Montana",earthquake,0.91,1.86,0.365,4,reviewed,uu,uu
 2023-06-27T19:49:24.261Z,61.6935,-141.8164,10.4,1.3,ml,,,,0.28,ak,ak02386p9kcq,2023-06-27T19:50:38.958Z,"Southern Alaska",earthquake,,4.8,,,automatic,ak,ak
-2023-06-27T19:35:22.510Z,40.2013,-119.8295,0,0.5,ml,3,242.04,0.081,0.1621,nn,nn00861860,2023-06-28T00:59:58.426Z,"26 km ENE of Herlong, California",earthquake,,0,0.4,2,reviewed,nn,nn
