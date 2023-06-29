@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-29T19:27:42.730Z,19.4361667633057,-155.179168701172,8.89999961853027,1.92999995,md,8,193,,0.310000002,hv,hv73465327,2023-06-29T19:30:57.510Z,"5 km SW of Fern Forest, Hawaii",earthquake,2.55,1.86000001,1.92999995,4,automatic,hv,hv
+2023-06-29T19:27:37.210Z,19.4885005950928,-155.4443359375,-2.42000007629395,2.50999999,md,37,73,,0.219999999,hv,hv73465322,2023-06-29T19:30:52.470Z,"22 km WNW of Volcano, Hawaii",earthquake,0.35,0.230000004,0.639999986,29,automatic,hv,hv
 2023-06-29T19:16:25.020Z,33.8336667,-117.6696667,3.27,1.3,ml,22,50,0.06333,0.23,ci,ci40499536,2023-06-29T19:20:01.342Z,"10km WSW of Corona, CA",earthquake,0.36,0.48,0.277,26,automatic,ci,ci
 2023-06-29T19:15:32.604Z,63.0238,-150.8663,24.8,1.3,ml,,,,1.6,ak,ak0238a04zn0,2023-06-29T19:19:04.264Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-29T19:03:06.519Z,35.8645,-98.05716667,6.38,1.71,ml,89,29,0.1052793406,0.22,ok,ok2023mqmt,2023-06-29T19:13:43.404Z,"11 km W of Kingfisher, Oklahoma",earthquake,,0.5,0.23,46,reviewed,ok,ok
@@ -114,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T08:12:45.518Z,39.6448,-119.6555,9.3,1.7,ml,22,72.69,0.122,0.1529,nn,nn00861942,2023-06-29T18:35:24.566Z,"4 km E of Spanish Springs, Nevada",earthquake,,1.6,0.28,9,reviewed,nn,nn
 2023-06-29T08:09:00.211Z,2.1386,126.5861,43.738,4.7,mb,56,60,5.891,0.62,us,us6000knub,2023-06-29T08:31:42.040Z,"164 km WNW of Tobelo, Indonesia",earthquake,6.72,6.926,0.055,113,reviewed,us,us
 2023-06-29T07:57:15.798Z,65.1535,-149.1897,10.7,1,ml,,,,0.33,ak,ak02389t8r5n,2023-06-29T07:59:08.477Z,"7 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-29T07:52:54.395Z,36.7181,-115.7128,0.6,1.4,ml,20,145.6,0.208,0.2716,nn,nn00861940,2023-06-29T07:55:09.236Z,"16 km NNW of Indian Springs, Nevada",earthquake,,11.1,0.84,17,automatic,nn,nn
+2023-06-29T07:52:55.229Z,36.7102,-115.7195,6.8,1.4,ml,33,126.18,0.2,0.1507,nn,nn00861940,2023-06-29T19:27:46.655Z,"16 km NNW of Indian Springs, Nevada",earthquake,,2.7,0.15,20,reviewed,nn,nn
 2023-06-29T07:47:55.500Z,35.869,-98.05066667,4.63,1.53,ml,71,65,0.09898057663,0.35,ok,ok2023mpqm,2023-06-29T13:12:54.827Z,"10 km W of Kingfisher, Oklahoma",earthquake,,0.8,0.24,31,reviewed,ok,ok
 2023-06-29T07:46:36.730Z,18.0413333333333,-66.8765,18.66,1.97,md,7,118,0.06597,0.17,pr,pr71415073,2023-06-29T08:32:46.920Z,"2 km WNW of Yauco, Puerto Rico",earthquake,0.61,1.31,0.0452692308501084,3,reviewed,pr,pr
 2023-06-29T07:40:53.840Z,19.2006664276123,-155.373840332031,30.2999992370605,1.80999994,md,38,163,,0.109999999,hv,hv73464957,2023-06-29T07:44:17.070Z,"11 km E of Pāhala, Hawaii",earthquake,0.7,0.829999983,1.80999994,4,automatic,hv,hv
@@ -178,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T02:38:58.260Z,35.8045006,-120.350502,3.81,1.08,md,11,123,0.0263,0.04,nc,nc73906536,2023-06-29T03:00:14.461Z,"10km NNW of Cholame, CA",earthquake,0.62,0.53,0.23,4,automatic,nc,nc
 2023-06-29T02:13:32.970Z,33.0535,-115.6011667,8.24,1.42,ml,25,81,0.02219,0.24,ci,ci40498624,2023-06-29T16:20:47.595Z,"3km NE of Westmorland, CA",earthquake,0.38,0.58,0.247,20,reviewed,ci,ci
 2023-06-29T02:09:25.919Z,61.348,-150.6522,48.1,1.1,ml,,,,0.41,ak,ak02389pzbjj,2023-06-29T02:11:44.405Z,"23 km SSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-06-29T02:04:47.630Z,38.8356667,-122.7988358,1.68,1.84,md,35,41,0.007175,0.03,nc,nc73906521,2023-06-29T05:31:13.373Z,"7km WNW of Cobb, CA",earthquake,0.16,0.25,0.14,32,automatic,nc,nc
+2023-06-29T02:04:47.620Z,38.8356667,-122.7973333,1.81,1.71,md,44,33,0.006107,0.06,nc,nc73906521,2023-06-29T19:25:28.870Z,"7km WNW of Cobb, CA",earthquake,0.14,0.21,0.177,44,reviewed,nc,nc
 2023-06-29T02:02:43.980Z,40.6090012,-124.2961655,19.19,2.04,md,8,191,0.2869,0.09,nc,nc73906516,2023-06-29T05:02:16.179Z,"5km NW of Ferndale, CA",earthquake,1.11,1.64,,1,automatic,nc,nc
 2023-06-29T02:01:58.119Z,59.7902,-153.0903,95.7,1.4,ml,,,,0.45,ak,ak02389pxoar,2023-06-29T02:03:53.470Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-29T01:43:56.645Z,31.63465809,-104.4819866,6.697143555000001,1.7,ml,35,128,0.03758314576,0.3,tx,tx2023mpem,2023-06-29T12:50:02.504Z,"60 km S of Whites City, New Mexico",earthquake,1.527148452,0.7539271962,0.1,20,reviewed,tx,tx
@@ -249,6 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T20:05:55.380Z,38.8330002,-122.7959976,2.27,1.18,md,24,41,0.006976,0.02,nc,nc73906421,2023-06-28T21:21:12.359Z,"6km W of Cobb, CA",earthquake,0.2,0.41,0.17,24,automatic,nc,nc
 2023-06-28T20:00:35.740Z,35.537,-96.7395,6.45,2.13,ml,72,32,0.1214761622,0.21,ok,ok2023motd,2023-06-29T13:27:47.743Z,"7 km NW of Prague, Oklahoma",earthquake,,0.5,0.15,10,reviewed,ok,ok
 2023-06-28T19:38:38.188Z,60.0237,-151.7953,58.8,1.9,ml,,,,0.45,ak,ak02388cql1m,2023-06-28T19:40:35.349Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-06-28T19:28:52.120Z,58.2395,-155.163,3.17,-0.3,ml,7,77,,0.11,av,av91941871,2023-06-28T21:31:43.270Z,"85 km NNW of Karluk, Alaska",earthquake,0.5,1.38,0.253241646805227,7,reviewed,av,av
-2023-06-28T19:23:38.650Z,46.854,-121.7495,0.5,0.1,ml,9,116,0.02056,0.08,uw,uw61937026,2023-06-28T20:15:55.830Z,"23 km ENE of Ashford, Washington",earthquake,0.29,0.99,0.12538716988293686,5,reviewed,uw,uw
-2023-06-28T19:23:09.012Z,61.6261,-149.9309,45.3,1.3,ml,,,,0.45,ak,ak02388cnb1x,2023-06-28T19:29:17.849Z,"6 km W of Houston, Alaska",earthquake,,1.9,,,automatic,ak,ak
