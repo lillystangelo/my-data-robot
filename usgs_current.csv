@@ -1,10 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-29T08:38:32.760Z,57.0937,-156.2035,11.9,3.1,ml,,,,0.63,ak,ak02389tq5gs,2023-06-29T08:40:17.285Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2023-06-29T08:38:24.740Z,32.4121667,-115.185,3.35,2.06,ml,22,56,0.07358,0.39,ci,ci40498784,2023-06-29T08:42:02.730Z,"6km N of Delta, B.C., MX",earthquake,0.66,1.2,0.163,18,automatic,ci,ci
 2023-06-29T08:24:42.095Z,35.86960983,-98.04782104,4.559867859,1.88,ml,15,82.75839806,0.09742604196,0.3541799248,ok,ok2023mprs,2023-06-29T08:27:39.893Z,"10 km W of Kingfisher, Oklahoma",earthquake,3.350673162,2.745598887,0.26,9,automatic,ok,ok
-2023-06-29T08:17:56.650Z,38.8328323,-122.7993317,2.18,0.27,md,8,98,0.00896,0.01,nc,nc73906611,2023-06-29T08:19:29.139Z,"7km W of Cobb, CA",earthquake,0.47,1.39,0.17,8,automatic,nc,nc
+2023-06-29T08:19:42.320Z,18.9351666666667,-67.2565,20.05,3.31,md,6,314,0.4851,0.16,pr,pr71415083,2023-06-29T08:34:20.000Z,"Mona Passage",earthquake,1.54,15.92,0.136720239948122,3,reviewed,pr,pr
+2023-06-29T08:17:56.650Z,38.8328323,-122.7993317,2.18,0.27,md,8,98,0.00896,0.01,nc,nc73906611,2023-06-29T08:34:13.429Z,"7km W of Cobb, CA",earthquake,0.47,1.39,0.17,8,automatic,nc,nc
 2023-06-29T08:12:44.778Z,39.6478,-119.6618,15.5,1.7,ml,14,72.34,0.193,0.2813,nn,nn00861942,2023-06-29T08:15:08.994Z,"Nevada",earthquake,,0.7,0.11,7,automatic,nn,nn
+2023-06-29T08:09:00.211Z,2.1386,126.5861,43.738,4.7,mb,56,60,5.891,0.62,us,us6000knub,2023-06-29T08:31:42.040Z,"164 km WNW of Tobelo, Indonesia",earthquake,6.72,6.926,0.055,113,reviewed,us,us
 2023-06-29T07:57:15.798Z,65.1535,-149.1897,10.7,1,ml,,,,0.33,ak,ak02389t8r5n,2023-06-29T07:59:08.477Z,"7 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-29T07:52:54.395Z,36.7181,-115.7128,0.6,1.4,ml,20,145.6,0.208,0.2716,nn,nn00861940,2023-06-29T07:55:09.236Z,"16 km NNW of Indian Springs, Nevada",earthquake,,11.1,0.84,17,automatic,nn,nn
 2023-06-29T07:47:56.003Z,35.86341095,-98.02263641,2.736894131,1.86,ml,7,98.73745728,0.09494464099,0.9304602084,ok,ok2023mpqm,2023-06-29T07:50:16.460Z,"8 km W of Kingfisher, Oklahoma",earthquake,4.337130022,3.625033274,0.23,4,automatic,ok,ok
+2023-06-29T07:46:36.730Z,18.0413333333333,-66.8765,18.66,1.97,md,7,118,0.06597,0.17,pr,pr71415073,2023-06-29T08:32:46.920Z,"2 km WNW of Yauco, Puerto Rico",earthquake,0.61,1.31,0.0452692308501084,3,reviewed,pr,pr
 2023-06-29T07:40:53.840Z,19.2006664276123,-155.373840332031,30.2999992370605,1.80999994,md,38,163,,0.109999999,hv,hv73464957,2023-06-29T07:44:17.070Z,"11 km E of Pāhala, Hawaii",earthquake,0.7,0.829999983,1.80999994,4,automatic,hv,hv
 2023-06-29T07:32:40.260Z,19.2126,-67.4315,46,3.93,md,20,285,0.811,0.48,pr,pr2023180000,2023-06-29T08:19:56.683Z,"87 km NNW of San Antonio, Puerto Rico",earthquake,3.22,11.83,0.08,14,reviewed,pr,pr
 2023-06-29T07:27:58.580Z,37.0526,-115.0903,6.3,1.6,ml,17,168.72,0.55,0.2956,nn,nn00861938,2023-06-29T07:30:39.242Z,"35 km S of Alamo, Nevada",earthquake,,1.6,0.82,13,automatic,nn,nn
@@ -229,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T09:11:51.677Z,43.7059,-64.3474,10.339,2.4,ml,11,242,1.079,0.28,us,us6000knt5,2023-06-29T04:56:05.040Z,"74 km S of Lunenburg, Canada",earthquake,4.63,8.862,0.115,10,reviewed,us,us
 2023-06-28T08:48:50.140Z,38.7808342,-122.7208328,1.25,0.86,md,6,105,0.01265,0.02,nc,nc73906281,2023-06-28T09:05:17.887Z,"3km WNW of Anderson Springs, CA",earthquake,1.07,2.7,0.28,8,automatic,nc,nc
 2023-06-28T08:43:07.049Z,35.12066667,-97.53866667,6.49,1.34,ml,74,33,0.04949028832,0.38,ok,ok2023mnwu,2023-06-28T12:08:14.269Z,"3 km ENE of Cole, Oklahoma",earthquake,,0.7,0.23,31,reviewed,ok,ok
-2023-06-28T08:34:36.160Z,35.5013333,-118.3998333,6.4,1.41,ml,25,67,0.1721,0.12,ci,ci40497832,2023-06-28T18:20:52.130Z,"13km SE of Bodfish, CA",earthquake,0.16,0.67,0.127,11,reviewed,ci,ci
