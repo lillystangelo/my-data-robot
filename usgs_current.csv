@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-03T14:33:21.060Z,38.8349991,-122.7894974,1.88,0.56,md,9,84,0.003469,0.01,nc,nc73908296,2023-07-03T14:36:03.388Z,"6km WNW of Cobb, CA",earthquake,0.43,0.46,0.36,8,automatic,nc,nc
 2023-07-03T14:21:54.440Z,38.8336678,-122.805336,1.99,0.79,md,17,52,0.0109,0.01,nc,nc73908291,2023-07-03T14:24:39.313Z,"7km W of Cobb, CA",earthquake,0.25,0.48,0.3,17,automatic,nc,nc
 2023-07-03T14:13:27.090Z,34.1973333,-117.0501667,1.24,0.93,ml,24,90,0.09901,0.23,ci,ci40502592,2023-07-03T14:24:07.550Z,"6km ESE of Running Springs, CA",earthquake,0.34,0.58,0.145,22,automatic,ci,ci
+2023-07-03T14:01:36.050Z,17.9641666666667,-67.065,6.66,2.88,md,13,229,0.02046,0.16,pr,pr71416093,2023-07-03T14:41:36.940Z,"Puerto Rico region",earthquake,0.54,0.2,0.113626565191323,8,reviewed,pr,pr
 2023-07-03T13:53:38.910Z,37.0516663,-121.4980011,7.88,1.22,md,13,91,0.05914,0.15,nc,nc73908286,2023-07-03T14:07:10.622Z,"8km NE of Gilroy, CA",earthquake,0.51,1.62,0.05,6,automatic,nc,nc
 2023-07-03T13:52:29.460Z,38.8436661,-122.76017,0.92,1.03,md,13,183,0.01272,0.03,nc,nc73908281,2023-07-03T13:54:02.877Z,"4km NW of Cobb, CA",earthquake,0.4,0.51,0.23,15,automatic,nc,nc
 2023-07-03T13:49:36.120Z,38.8455009,-122.7558365,-0.25,0.93,md,10,191,0.01632,0.09,nc,nc73908276,2023-07-03T13:51:13.105Z,"4km NW of Cobb, CA",earthquake,0.57,1.17,0.15,12,automatic,nc,nc
 2023-07-03T13:46:33.460Z,38.7963,-119.6573,6.8,1.6,ml,15,97.82,0.105,0.1396,nn,nn00862072,2023-07-03T13:48:55.908Z,"7 km S of Carter Springs, Nevada",earthquake,,1,0.12,9,automatic,nn,nn
 2023-07-03T13:45:45.550Z,38.8396683,-122.836998,1.33,1.33,md,22,92,0.001598,0.04,nc,nc73908266,2023-07-03T13:58:11.454Z,"10km NW of The Geysers, CA",earthquake,0.21,0.38,0.15,20,automatic,nc,nc
-2023-07-03T13:24:47.050Z,38.8330002,-122.8036652,2.1,2.15,md,40,31,0.01082,0.05,nc,nc73908261,2023-07-03T13:32:10.195Z,"7km W of Cobb, CA",earthquake,0.16,0.25,0.16,40,automatic,nc,nc
+2023-07-03T13:24:47.050Z,38.8330002,-122.8036652,2.1,2.15,md,40,31,0.01082,0.05,nc,nc73908261,2023-07-03T14:37:10.565Z,"7km W of Cobb, CA",earthquake,0.16,0.25,0.16,40,automatic,nc,nc
 2023-07-03T13:24:14.536Z,63.2609,-151.8871,6.8,1.4,ml,,,,0.52,ak,ak0238giro19,2023-07-03T13:25:57.685Z,"32 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-03T13:20:01.480Z,17.9795,-67.0656666666667,6.59,3.06,md,11,188,0.02274,0.12,pr,pr71416073,2023-07-03T14:28:39.080Z,"2 km WNW of La Parguera, Puerto Rico",earthquake,0.47,0.19,0.0000777148541999395,3,reviewed,pr,pr
 2023-07-03T13:17:53.620Z,17.9946666666667,-67.0535,6.64,3.21,md,19,123,0.02661,0.34,pr,pr71416063,2023-07-03T14:30:29.380Z,"2 km NNW of La Parguera, Puerto Rico",earthquake,0.73,0.38,0.0576139089181031,8,reviewed,pr,pr
@@ -246,10 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T15:00:40.830Z,38.8414993,-122.876503,2.62,1.19,md,22,88,0.006335,0.02,nc,nc73907836,2023-07-02T17:04:12.864Z,"13km NW of The Geysers, CA",earthquake,0.28,0.45,0.16,19,automatic,nc,nc
 2023-07-02T14:59:10.010Z,19.0261666666667,-65.3473333333333,60.33,3.17,md,14,256,0.7175,0.41,pr,pr71415893,2023-07-02T15:51:27.840Z,"80 km N of Culebra, Puerto Rico",earthquake,3.68,7.18,0.141226817513185,6,reviewed,pr,pr
 2023-07-02T14:46:08.238Z,65.3548,-148.9051,0,0.9,ml,,,,0.24,ak,ak0238evygev,2023-07-02T14:48:28.619Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-02T14:43:31.258Z,58.2503,-155.1324,3.4,1,ml,,,,0.16,ak,ak0238evxv1h,2023-07-03T05:35:18.850Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-02T14:43:01.790Z,37.5435,-118.8705,4.86,1.04,md,15,196,0.05691,0.05,nc,nc73907826,2023-07-03T06:21:46.075Z,"14km SE of Mammoth Lakes, CA",earthquake,0.5,0.79,0.116,14,reviewed,nc,nc
-2023-07-02T14:41:42.569Z,60.5174,-152.1861,88.1,1.4,ml,,,,0.26,ak,ak0238evxghc,2023-07-02T14:45:46.024Z,"48 km WSW of Salamatof, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-07-02T14:38:41.541Z,61.5618,-151.6162,71.3,1.1,ml,,,,0.17,ak,ak0238evwt96,2023-07-02T14:40:41.068Z,"49 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-02T14:37:16.980Z,36.6416667,-121.259,4.56,1.82,md,42,127,0.05432,0.07,nc,nc73907821,2023-07-03T11:26:14.409Z,"16km NW of Pinnacles, CA",earthquake,0.17,0.44,0.232,41,reviewed,nc,nc
-2023-07-02T14:37:10.330Z,18.965,-65.3521666666667,68.16,3.26,md,18,251,0.6574,0.4,pr,pr71415883,2023-07-02T15:24:08.070Z,"73 km N of Culebra, Puerto Rico",earthquake,3.24,4.94,0.100245032431737,9,reviewed,pr,pr
-2023-07-02T14:34:45.694Z,63.4605,-145.0133,5.3,0.7,ml,,,,0.41,ak,ak0238evvypq,2023-07-02T14:37:17.733Z,"27 km SW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
