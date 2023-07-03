@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-03T14:47:28.524Z,61.3139,-149.5829,24.1,4.7,ml,,,,0.7,ak,ak0238gji26s,2023-07-03T14:51:02.543Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-03T14:43:16.500Z,34.2941667,-116.8373333,5.72,1.58,ml,40,40,0.05434,0.17,ci,ci40502608,2023-07-03T14:46:53.516Z,"4km N of Big Bear City, CA",earthquake,0.23,0.69,0.155,28,automatic,ci,ci
 2023-07-03T14:33:21.060Z,38.8349991,-122.7894974,1.88,0.56,md,9,84,0.003469,0.01,nc,nc73908296,2023-07-03T14:36:03.388Z,"6km WNW of Cobb, CA",earthquake,0.43,0.46,0.36,8,automatic,nc,nc
 2023-07-03T14:21:54.440Z,38.8336678,-122.805336,1.99,0.79,md,17,52,0.0109,0.01,nc,nc73908291,2023-07-03T14:24:39.313Z,"7km W of Cobb, CA",earthquake,0.25,0.48,0.3,17,automatic,nc,nc
 2023-07-03T14:13:27.090Z,34.1973333,-117.0501667,1.24,0.93,ml,24,90,0.09901,0.23,ci,ci40502592,2023-07-03T14:24:07.550Z,"6km ESE of Running Springs, CA",earthquake,0.34,0.58,0.145,22,automatic,ci,ci
@@ -19,9 +21,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T12:58:47.530Z,17.9675,-67.0661666666667,7.12,2.39,md,7,226,0.02097,0.2,pr,pr71416043,2023-07-03T13:16:01.550Z,"2 km WSW of La Parguera, Puerto Rico",earthquake,0.96,0.38,0.160445152030516,5,reviewed,pr,pr
 2023-07-03T12:57:14.098Z,61.994,-150.2692,46.9,1.8,ml,,,,0.31,ak,ak0238gidb0x,2023-07-03T12:58:45.458Z,"28 km SW of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-07-03T12:52:56.948Z,58.253,-155.2143,0.1,0.8,ml,,,,0.51,ak,ak0238gicbr2,2023-07-03T12:54:36.216Z,"88 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-03T12:44:34.790Z,17.9478,-67.0815,7,4.18,md,22,199,0.0431,0.1,pr,pr2023184002,2023-07-03T14:16:54.598Z,"Puerto Rico region",earthquake,0.7,0.23,0.11,12,reviewed,pr,pr
+2023-07-03T12:44:34.790Z,17.9478,-67.0815,7,4.18,md,22,199,0.0431,0.1,pr,pr2023184002,2023-07-03T14:48:59.518Z,"Puerto Rico region",earthquake,0.7,0.23,0.11,12,reviewed,pr,pr
 2023-07-03T12:40:05.167Z,-3.7258,140.1678,10,4.7,mb,26,102,1.316,0.65,us,us6000kpts,2023-07-03T12:59:41.040Z,"135 km SSW of Abepura, Indonesia",earthquake,7.76,1.909,0.104,28,reviewed,us,us
-2023-07-03T12:37:06.300Z,38.762001,-122.7074966,1.58,1.34,md,14,173,0.008905,0.04,nc,nc73908246,2023-07-03T13:38:10.233Z,"2km SW of Anderson Springs, CA",earthquake,0.44,0.4,0.18,10,automatic,nc,nc
+2023-07-03T12:37:06.300Z,38.762001,-122.7074966,1.58,1.34,md,14,173,0.008905,0.04,nc,nc73908246,2023-07-03T14:50:13.648Z,"2km SW of Anderson Springs, CA",earthquake,0.44,0.4,0.18,10,automatic,nc,nc
 2023-07-03T12:19:11.800Z,38.8041649,-122.8176651,2.83,1.12,md,19,70,0.01015,0.02,nc,nc73908241,2023-07-03T14:19:13.464Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.56,0.34,21,automatic,nc,nc
 2023-07-03T12:12:47.030Z,35.7401667,-117.5428333,10.35,1.56,ml,19,71,0.1225,0.19,ci,ci40502552,2023-07-03T12:23:42.680Z,"13km WSW of Searles Valley, CA",earthquake,0.43,0.87,0.154,15,automatic,ci,ci
 2023-07-03T11:39:06.352Z,60.0827,-152.8486,111.9,3.4,ml,,,,0.46,ak,ak0238ghnzxp,2023-07-03T11:53:04.040Z,"64 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -247,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-02T15:01:03.700Z,34.319,-116.8473333,2.56,2.05,ml,55,39,0.03329,0.19,ci,ci40502080,2023-07-02T15:18:25.130Z,"6km N of Big Bear City, CA",earthquake,0.2,0.53,0.171,25,automatic,ci,ci
 2023-07-02T15:00:40.830Z,38.8414993,-122.876503,2.62,1.19,md,22,88,0.006335,0.02,nc,nc73907836,2023-07-02T17:04:12.864Z,"13km NW of The Geysers, CA",earthquake,0.28,0.45,0.16,19,automatic,nc,nc
 2023-07-02T14:59:10.010Z,19.0261666666667,-65.3473333333333,60.33,3.17,md,14,256,0.7175,0.41,pr,pr71415893,2023-07-02T15:51:27.840Z,"80 km N of Culebra, Puerto Rico",earthquake,3.68,7.18,0.141226817513185,6,reviewed,pr,pr
-2023-07-02T14:46:08.238Z,65.3548,-148.9051,0,0.9,ml,,,,0.24,ak,ak0238evygev,2023-07-02T14:48:28.619Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
