@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-07T10:05:26.138Z,61.3551,-141.0964,0,2,ml,,,,0.62,ak,ak0238n30phh,2023-07-07T10:07:40.499Z,"97 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-07T09:58:25.270Z,37.7423325,-122.5575027,0.65,1.9,md,15,187,0.0841,0.04,nc,nc73909851,2023-07-07T10:12:10.304Z,"5km WNW of San Francisco Zoo, CA",earthquake,0.47,7.1,0.19,9,automatic,nc,nc
 2023-07-07T09:54:24.630Z,38.831665,-122.8111649,1.77,0.76,md,13,89,0.008302,0.01,nc,nc73909846,2023-07-07T09:55:59.522Z,"8km NW of The Geysers, CA",earthquake,0.33,0.79,0.11,13,automatic,nc,nc
 2023-07-07T09:41:09.980Z,33.2538333,-116.2921667,8.04,0.74,ml,24,65,0.06886,0.19,ci,ci39606330,2023-07-07T09:44:48.831Z,"8km E of Borrego Springs, CA",earthquake,0.37,1.2,0.153,14,automatic,ci,ci
 2023-07-07T09:26:46.135Z,58.2732,-155.1075,30.2,0.7,ml,,,,0.59,ak,ak0238n2jtgl,2023-07-07T09:29:12.516Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -6,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T09:12:34.506Z,48.3497,-123.0033,38.098,2.5,ml,32,59,0.373,0.26,us,us6000kqnz,2023-07-07T09:24:06.040Z,"Strait of Juan de Fuca, Washington",earthquake,2.1,11.55,0.043,72,reviewed,us,us
 2023-07-07T08:56:08.050Z,18.2128333333333,-66.6995,8.66,2.12,md,8,161,0.04433,0.13,pr,pr71416648,2023-07-07T09:07:10.550Z,"5 km S of Utuado, Puerto Rico",earthquake,0.35,0.71,0.150082992076371,5,reviewed,pr,pr
 2023-07-07T08:41:43.975Z,65.4313,-148.0036,14.4,1.4,ml,,,,0.31,ak,ak0238n21lfh,2023-07-07T08:43:52.344Z,"27 km ESE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-07T08:36:14.400Z,38.781,-122.7428333,0.67,1.12,md,40,50,0.005271,0.04,nc,nc73909831,2023-07-07T09:24:12.992Z,"1km ENE of The Geysers, CA",earthquake,0.13,0.22,0.259,34,reviewed,nc,nc
+2023-07-07T08:36:14.400Z,38.781,-122.7428333,0.67,1.12,md,40,50,0.005271,0.04,nc,nc73909831,2023-07-07T10:09:11.285Z,"1km ENE of The Geysers, CA",earthquake,0.13,0.22,0.259,34,reviewed,nc,nc
 2023-07-07T08:35:55.280Z,33.2655,-116.4283333,3.9,1.31,ml,43,67,0.009741,0.18,ci,ci39606322,2023-07-07T08:39:48.421Z,"5km WNW of Borrego Springs, CA",earthquake,0.28,0.7,0.175,26,automatic,ci,ci
 2023-07-07T08:12:52.150Z,19.220666885376,-155.390335083008,34.6500015258789,2.02999997,md,41,152,,0.119999997,hv,hv73473392,2023-07-07T08:15:55.930Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.600000024,0.920000017,7,automatic,hv,hv
 2023-07-07T08:09:22.959Z,64.746,-149.1905,13.5,1.9,ml,,,,0.82,ak,ak0238n1uow7,2023-07-07T08:11:52.564Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -213,8 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T10:31:11.260Z,58.2668333333333,-155.129666666667,31.43,0.48,ml,10,94,,0.28,av,av91950661,2023-07-07T02:08:06.500Z,"87 km NNW of Karluk, Alaska",earthquake,0.78,1.34,0.287145830341056,10,reviewed,av,av
 2023-07-06T10:31:10.751Z,-61.0811,154.2137,10,5.9,mww,67,30,7.066,1.36,us,us6000kqez,2023-07-06T17:29:16.040Z,"Balleny Islands region",earthquake,11.35,1.788,0.059,28,reviewed,us,us
 2023-07-06T10:30:43.540Z,38.8349991,-122.8123322,0.82,0.77,md,10,96,0.01172,0.05,nc,nc73909506,2023-07-06T10:52:14.389Z,"8km W of Cobb, CA",earthquake,0.29,0.83,0.15,10,automatic,nc,nc
-2023-07-06T10:16:29.510Z,38.7874985,-122.7671661,3.05,1.1,md,16,79,0.01679,0.02,nc,nc73909501,2023-07-06T13:06:16.157Z,"2km NW of The Geysers, CA",earthquake,0.29,0.68,0.24,14,automatic,nc,nc
-2023-07-06T10:14:55.410Z,38.7911682,-122.7593307,0.98,0.82,md,9,95,0.009448,0.02,nc,nc73909496,2023-07-06T10:31:18.385Z,"2km N of The Geysers, CA",earthquake,0.29,0.72,0.2,10,automatic,nc,nc
-2023-07-06T10:09:45.975Z,-21.5162,-68.7137,140.183,4.7,mb,25,56,0.862,1.06,us,us6000kqey,2023-07-06T10:37:54.040Z,"57 km SW of Ollagüe, Chile",earthquake,6.72,8.876,0.208,7,reviewed,us,us
-2023-07-06T10:05:15.470Z,34.3611667,-116.7156667,2.07,1.04,ml,17,151,0.08536,0.2,ci,ci40504496,2023-07-06T10:08:57.498Z,"16km NE of Big Bear City, CA",earthquake,0.7,0.77,0.144,14,automatic,ci,ci
-2023-07-06T09:58:32.910Z,38.7885017,-122.7666702,1.31,0.79,md,19,76,0.01327,0.05,nc,nc73909491,2023-07-06T10:16:15.181Z,"2km NW of The Geysers, CA",earthquake,0.27,0.47,0.12,15,automatic,nc,nc
