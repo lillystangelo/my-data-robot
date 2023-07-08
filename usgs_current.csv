@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T18:50:34.890Z,47.8935,-122.59333333333333,23.63,1.3900000000000001,ml,19,57,0.02125,0.2,uw,uw61938851,2023-07-07T21:16:19.020Z,"4 km SW of Hansville, Washington",earthquake,0.51,0.62,0.0726634782764719,10,reviewed,uw,uw
 2023-07-07T18:49:09.580Z,44.02066666666666,-123.00583333333333,-0.59,1.07,md,6,130,0.176,0.13,uw,uw61938846,2023-07-07T21:40:36.490Z,"3 km SSE of Springfield, Oregon",explosion,0.72,31.61,0.07735078402243101,4,reviewed,uw,uw
 2023-07-07T18:40:47.266Z,61.4095,-151.5113,81.2,1,ml,,,,0.87,ak,ak0238n7zq0m,2023-07-07T18:42:51.057Z,"37 km NW of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-07-07T18:12:10.130Z,19.0475,-155.416833333333,38.38,1.62,md,21,213,,0.15,hv,hv73473737,2023-07-08T03:45:45.600Z,"17 km E of Naalehu, Hawaii",earthquake,0.7,0.8,0.126753565530239,10,reviewed,hv,hv
 2023-07-07T18:08:21.650Z,48.472833333333334,-121.85983333333333,7.25,0.41000000000000003,md,6,93,0.1071,0.14,uw,uw61938841,2023-07-07T21:33:44.370Z,"10 km ESE of Hamilton, Washington",earthquake,0.46,2.13,0.10589935133015627,5,reviewed,uw,uw
 2023-07-07T18:04:24.360Z,63.2535,-144.8894,0,1.7,ml,,,,0.59,ak,ak0238n7ryh0,2023-07-07T18:06:39.680Z,"40 km ENE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-07T18:02:17.010Z,33.8485,-117.4923333,1.3,1.49,ml,48,51,0.05012,0.24,ci,ci39606826,2023-07-07T18:06:01.935Z,"4km SE of Home Gardens, CA",quarry blast,0.32,0.5,0.123,32,automatic,ci,ci
@@ -213,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T04:00:38.017Z,63.8728,-22.6028,10,4,mb,11,151,1.04,1.02,us,us6000kqmw,2023-07-07T06:27:38.427Z,"8 km WNW of Grindavík, Iceland",earthquake,7.13,1.989,0.195,7,reviewed,us,us
 2023-07-07T03:58:51.433Z,59.8708,-153.0717,123.4,1.6,ml,,,,0.56,ak,ak0238mz635j,2023-07-07T04:18:58.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-07T03:56:34.274Z,40.0916,-119.6601,14.1,0.1,ml,3,186,0.096,0.0314,nn,nn00862311,2023-07-08T02:16:32.876Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,4.6,0,1,reviewed,nn,nn
-2023-07-07T03:49:09.030Z,33.9416667,-116.0211667,7.93,1.07,ml,14,108,0.0618,0.14,ci,ci37555804,2023-07-07T17:48:29.845Z,"22km SSE of Twentynine Palms, CA",earthquake,0.26,0.82,0.142,9,reviewed,ci,ci
-2023-07-07T03:48:42.760Z,33.3931667,-116.3621667,2.19,0.93,ml,30,67,0.06639,0.17,ci,ci39606186,2023-07-07T17:43:16.794Z,"15km N of Borrego Springs, CA",earthquake,0.23,0.33,0.104,21,reviewed,ci,ci
