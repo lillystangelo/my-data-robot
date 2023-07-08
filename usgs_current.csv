@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-08T10:57:04.050Z,34.0778333,-118.2463333,12.09,1.48,ml,12,171,0.1062,0.27,ci,ci39607586,2023-07-08T11:00:50.909Z,"1km ENE of Echo Park, CA",earthquake,1.17,1.56,0.211,18,automatic,ci,ci
+2023-07-08T11:02:04.446Z,39.5126,-118.4,11.7,1.4,ml,10,205.83,0.379,0.1887,nn,nn00862327,2023-07-08T11:04:29.070Z,"29 km ENE of Fallon Station, Nevada",earthquake,,1.4,0.1,6,automatic,nn,nn
+2023-07-08T10:57:04.050Z,34.0778333,-118.2463333,12.09,1.48,ml,12,171,0.1062,0.27,ci,ci39607586,2023-07-08T11:04:20.237Z,"1km ENE of Echo Park, CA",earthquake,1.17,1.56,0.211,18,automatic,ci,ci
 2023-07-08T10:53:03.861Z,39.4058,-120.2442,8.5,1.1,ml,8,200.39,0.196,0.0732,nn,nn00862326,2023-07-08T10:54:58.521Z,"10 km NNW of Truckee, California",earthquake,,3.2,0.18,7,automatic,nn,nn
 2023-07-08T10:49:23.130Z,35.3536667,-117.615,5.63,1.02,ml,16,94,0.137,0.21,ci,ci39607578,2023-07-08T10:52:54.862Z,"3km SE of Johannesburg, CA",earthquake,0.45,2.29,0.133,13,automatic,ci,ci
 2023-07-08T10:43:09.910Z,36.0353333,-117.7738333,3.08,0.9,ml,6,241,0.05989,0.14,ci,ci39607570,2023-07-08T10:46:38.778Z,"16km E of Coso Junction, CA",earthquake,1.72,1.09,0.131,4,automatic,ci,ci
