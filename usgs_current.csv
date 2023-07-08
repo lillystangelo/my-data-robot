@@ -214,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T09:54:24.630Z,38.831665,-122.8111649,1.77,0.76,md,13,89,0.008302,0.01,nc,nc73909846,2023-07-07T10:23:14.369Z,"8km NW of The Geysers, CA",earthquake,0.33,0.79,0.11,13,automatic,nc,nc
 2023-07-07T09:52:47.079Z,38.5344,-118.1444,7,0.8,ml,5,206.57,0.4,0.1309,nn,nn00862313,2023-07-08T02:22:46.552Z,"California-Nevada border region",earthquake,,2,0.25,2,reviewed,nn,nn
 2023-07-07T09:41:09.920Z,33.25,-116.3033333,10.49,0.79,ml,35,68,0.07055,0.23,ci,ci39606330,2023-07-07T20:01:54.591Z,"7km E of Borrego Springs, CA",earthquake,0.31,0.51,0.138,16,reviewed,ci,ci
-2023-07-07T09:26:46.201Z,58.2557,-155.0863,32,1.1,ml,,,,0.46,ak,ak0238n2jtgl,2023-07-08T01:06:52.679Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,reviewed,ak,ak
