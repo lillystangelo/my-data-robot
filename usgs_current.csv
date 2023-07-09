@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T08:56:02.695Z,59.9651,-151.5901,63.9,1.5,ml,,,,0.39,ak,ak0238qd7ez1,2023-07-09T08:58:03.746Z,"8 km ENE of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-07-09T08:53:13.890Z,33.365,-116.2793333,9.95,0.74,ml,19,125,0.1505,0.21,ci,ci39608178,2023-07-09T08:56:40.874Z,"15km NE of Borrego Springs, CA",earthquake,0.53,1.44,0.122,15,automatic,ci,ci
 2023-07-09T08:50:29.700Z,36.1326667,-118.2225,1.92,1.87,ml,19,123,0.2808,0.16,ci,ci39608170,2023-07-09T08:54:03.131Z,"26km SW of Olancha, CA",earthquake,0.4,1.56,0.133,16,automatic,ci,ci
+2023-07-09T08:46:04.672Z,61.2744,-147.5359,0,1.1,ml,,,,0.6,ak,ak0238qd5an7,2023-07-09T09:37:13.212Z,"59 km S of Glacier View, Alaska",ice quake,,0,,,reviewed,ak,ak
 2023-07-09T08:42:06.213Z,59.1908,-153.122,53.7,1.2,ml,,,,0.24,ak,ak0238qd4f7x,2023-07-09T08:43:25.749Z,"70 km WSW of Nanwalek, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-09T08:39:44.350Z,35.541,-117.4895,10.89,1.03,ml,13,88,0.1032,0.22,ci,ci39608162,2023-07-09T08:43:11.705Z,"19km ESE of Ridgecrest, CA",earthquake,0.59,1.21,0.119,9,automatic,ci,ci
 2023-07-09T08:31:42.736Z,63.3329,-149.404,5,1.2,ml,,,,0.54,ak,ak0238qd255t,2023-07-09T08:34:08.374Z,"23 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T05:37:18.890Z,38.8250008,-122.8054962,1.2,0.74,md,12,100,0.003919,0.01,nc,nc73910566,2023-07-09T05:38:55.740Z,"7km NW of The Geysers, CA",earthquake,0.36,0.72,0.25,12,automatic,nc,nc
 2023-07-09T05:32:46.550Z,38.7560005,-122.7376633,1.47,1.29,md,9,163,0.006287,0.03,nc,nc73910546,2023-07-09T05:48:11.914Z,"3km SE of The Geysers, CA",earthquake,0.38,0.5,0.16,7,automatic,nc,nc
 2023-07-09T05:32:30.580Z,38.7574997,-122.7353363,0.99,1.16,md,7,139,0.008626,0.02,nc,nc73910541,2023-07-09T05:45:10.896Z,"3km SE of The Geysers, CA",earthquake,0.57,0.4,0.3,5,automatic,nc,nc
-2023-07-09T05:30:39.750Z,38.7495003,-122.732666,1.17,3.49,ml,56,46,0.009819,0.07,nc,nc73910536,2023-07-09T07:37:01.648Z,"4km SSE of The Geysers, CA",earthquake,0.13,0.22,0.204,30,automatic,nc,nc
+2023-07-09T05:30:39.750Z,38.7495003,-122.732666,1.17,3.49,ml,56,46,0.009819,0.07,nc,nc73910536,2023-07-09T09:38:14.231Z,"4km SSE of The Geysers, CA",earthquake,0.13,0.22,0.204,30,automatic,nc,nc
 2023-07-09T05:30:05.750Z,38.7506676,-122.7348328,1.29,3.09,ml,64,37,0.007855,0.12,nc,nc73910531,2023-07-09T09:22:15.144Z,"4km SSE of The Geysers, CA",earthquake,0.16,0.28,0.275,14,automatic,nc,nc
 2023-07-09T05:29:41.210Z,19.1641674041748,-155.489166259766,32.9799995422363,1.85000002,md,33,108,,0.100000001,hv,hv73475592,2023-07-09T05:32:44.470Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.57,0.930000007,0.600000024,7,automatic,hv,hv
 2023-07-09T05:25:28.460Z,38.8546677,-122.8410034,0.13,0.79,md,10,170,0.01378,0.06,nc,nc73910521,2023-07-09T05:27:05.423Z,"11km WNW of Cobb, CA",earthquake,0.4,0.99,0.15,11,automatic,nc,nc
@@ -172,9 +173,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T17:09:53.920Z,37.3343333,-121.6908333,8.13,0.95,md,21,59,0.03915,0.07,nc,nc73910256,2023-07-08T19:54:13.460Z,"13km ESE of Alum Rock, CA",earthquake,0.22,0.35,0.221,16,reviewed,nc,nc
 2023-07-08T17:05:42.079Z,58.1999,-155.2965,2.6,1.2,ml,,,,0.29,ak,ak0238ouq4fz,2023-07-08T17:07:19.069Z,"86 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-08T16:34:32.610Z,19.1468334197998,-155.480499267578,29.8199996948242,1.72000003,md,29,170,,0.170000002,hv,hv73475077,2023-07-08T16:37:36.010Z,"6 km S of Pāhala, Hawaii",earthquake,1.12,1.45000005,0.670000017,5,automatic,hv,hv
-2023-07-08T16:34:27.249Z,20.0233,-64.9903,35.891,3.4,ml,13,261,1.662,0.4,us,us6000kqzp,2023-07-08T17:07:52.770Z,"186 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,9.5,24.045,0.071,26,reviewed,us,us
+2023-07-08T16:34:27.249Z,20.0233,-64.9903,35.891,3.4,ml,13,261,1.662,0.4,us,us6000kqzp,2023-07-08T17:07:52.770Z,"North of the Virgin Islands",earthquake,9.5,24.045,0.071,26,reviewed,us,us
 2023-07-08T16:30:04.250Z,34.9495,-119.0681667,16.76,1.15,ml,18,138,0.1095,0.2,ci,ci39607866,2023-07-08T16:33:37.768Z,"13km W of Grapevine, CA",earthquake,0.46,1.04,0.123,11,automatic,ci,ci
-2023-07-08T16:29:09.359Z,63.5066,-147.6382,15.6,1.2,ml,,,,0.61,ak,ak0238ou9rhz,2023-07-08T16:30:49.283Z,"66 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-08T16:29:09.359Z,63.5066,-147.6382,15.6,1.2,ml,,,,0.61,ak,ak0238ou9rhz,2023-07-08T16:30:49.283Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-08T16:09:03.122Z,-31.4034,179.7261,395.876,4.6,mb,34,134,2.949,1.01,us,us6000kqzg,2023-07-08T16:35:07.040Z,"Kermadec Islands region",earthquake,16.28,8.586,0.084,42,reviewed,us,us
 2023-07-08T15:56:28.430Z,34.6091667,-118.6456667,9.94,1.01,ml,15,67,0.06442,0.19,ci,ci39607826,2023-07-08T16:00:03.943Z,"14km N of Castaic, CA",earthquake,0.49,0.73,0.205,13,automatic,ci,ci
 2023-07-08T15:54:10.290Z,38.8364983,-122.7900009,1.79,0.67,md,11,79,0.001927,0.01,nc,nc73910251,2023-07-08T16:52:14.290Z,"6km WNW of Cobb, CA",earthquake,0.39,0.85,0.22,11,automatic,nc,nc
@@ -229,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T10:05:43.195Z,63.1123,-151.3638,0,1.1,ml,,,,0.62,ak,ak0238oqk3an,2023-07-08T10:07:44.355Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-08T09:55:15.604Z,62.3217,-154.7643,0.9,1.4,ml,,,,0.6,ak,ak0238oq9bd4,2023-07-08T09:56:58.375Z,"79 km SSW of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-08T09:51:09.930Z,38.8293343,-122.8141632,2.34,0.88,md,17,52,0.006736,0.01,nc,nc73910196,2023-07-08T12:37:13.818Z,"8km NW of The Geysers, CA",earthquake,0.27,0.68,0.23,17,automatic,nc,nc
-2023-07-08T09:41:20.679Z,61.1644,-151.1283,62.5,2.6,ml,,,,0.2,ak,ak0238oq6bqb,2023-07-08T09:53:21.040Z,"3 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-08T09:40:37.546Z,65.082,-150.1722,14.4,1,ml,,,,0.89,ak,ak0238oq65be,2023-07-08T09:42:32.965Z,"23 km ENE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
