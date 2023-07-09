@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-09T15:38:43.240Z,38.8193321,-122.8040009,1.77,0.76,md,11,89,0.006242,0.03,nc,nc73910741,2023-07-09T15:40:17.698Z,"6km NW of The Geysers, CA",earthquake,0.35,0.73,0.11,12,automatic,nc,nc
-2023-07-09T15:25:53.000Z,38.8188324,-122.8034973,2.39,2.97,md,65,25,0.006867,0.07,nc,nc73910736,2023-07-09T15:41:16.554Z,"6km NW of The Geysers, CA",earthquake,0.13,0.19,0.18,73,automatic,nc,nc
+2023-07-09T15:50:31.520Z,38.8213348,-122.8040009,1.65,0.79,md,10,97,0.005171,0.01,nc,nc73910756,2023-07-09T15:53:21.913Z,"6km NW of The Geysers, CA",earthquake,0.42,1,0.12,11,automatic,nc,nc
+2023-07-09T15:46:36.840Z,38.8191681,-122.807663,6.76,0.77,md,7,100,0.004622,0.03,nc,nc73910746,2023-07-09T15:48:12.804Z,"6km NW of The Geysers, CA",earthquake,1.34,6.5,0.09,8,automatic,nc,nc
+2023-07-09T15:38:43.240Z,38.8193321,-122.8040009,1.77,0.76,md,11,89,0.006242,0.03,nc,nc73910741,2023-07-09T15:55:12.635Z,"6km NW of The Geysers, CA",earthquake,0.35,0.73,0.11,12,automatic,nc,nc
+2023-07-09T15:25:53.000Z,38.8188324,-122.8034973,2.39,2.97,md,65,25,0.006867,0.07,nc,nc73910736,2023-07-09T15:50:10.603Z,"6km NW of The Geysers, CA",earthquake,0.13,0.19,0.18,73,automatic,nc,nc
 2023-07-09T15:25:41.788Z,-16.3361,-173.4199,51.996,4.8,mb,23,87,3.451,1.01,us,us6000kr53,2023-07-09T15:46:27.040Z,"Tonga",earthquake,10.18,5.978,0.111,25,reviewed,us,us
 2023-07-09T15:23:26.989Z,63.0283,-150.3593,95.9,1.2,ml,,,,0.25,ak,ak0238qh6e36,2023-07-09T15:25:49.090Z,"62 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-09T15:23:06.930Z,38.821167,-122.8044968,2.93,0.78,md,7,132,0.004892,0.01,nc,nc73910731,2023-07-09T15:41:16.670Z,"6km NW of The Geysers, CA",earthquake,0.76,1.68,0.19,10,automatic,nc,nc
@@ -241,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T16:30:04.250Z,34.9495,-119.0681667,16.76,1.15,ml,18,138,0.1095,0.2,ci,ci39607866,2023-07-08T16:33:37.768Z,"13km W of Grapevine, CA",earthquake,0.46,1.04,0.123,11,automatic,ci,ci
 2023-07-08T16:29:09.359Z,63.5066,-147.6382,15.6,1.2,ml,,,,0.61,ak,ak0238ou9rhz,2023-07-08T16:30:49.283Z,"66 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-08T16:09:03.122Z,-31.4034,179.7261,395.876,4.6,mb,34,134,2.949,1.01,us,us6000kqzg,2023-07-08T16:35:07.040Z,"Kermadec Islands region",earthquake,16.28,8.586,0.084,42,reviewed,us,us
-2023-07-08T15:56:28.430Z,34.6091667,-118.6456667,9.94,1.01,ml,15,67,0.06442,0.19,ci,ci39607826,2023-07-08T16:00:03.943Z,"14km N of Castaic, CA",earthquake,0.49,0.73,0.205,13,automatic,ci,ci
-2023-07-08T15:54:10.290Z,38.8364983,-122.7900009,1.79,0.67,md,11,79,0.001927,0.01,nc,nc73910251,2023-07-08T16:52:14.290Z,"6km WNW of Cobb, CA",earthquake,0.39,0.85,0.22,11,automatic,nc,nc
