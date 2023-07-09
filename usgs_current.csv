@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-09T08:31:42.736Z,63.3329,-149.404,5,1.2,ml,,,,0.54,ak,ak0238qd255t,2023-07-09T08:34:08.374Z,"23 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-09T08:23:38.840Z,38.7716675,-122.7231674,1.51,0.81,md,7,88,0.01015,0.02,nc,nc73910611,2023-07-09T08:26:21.286Z,"3km W of Anderson Springs, CA",earthquake,0.47,0.8,0.24,6,automatic,nc,nc
 2023-07-09T08:05:32.816Z,58.2739,-154.933,1.3,0.9,ml,,,,0.75,ak,ak0238qcwjsb,2023-07-09T08:07:38.980Z,"83 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-07-09T08:01:18.693Z,61.4521,-147.2189,8.9,1.4,ml,,,,0.96,ak,ak0238qcvntp,2023-07-09T08:03:20.147Z,"45 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -227,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T08:39:55.450Z,38.78,-122.7575,1.25,1.13,md,14,73,0.01129,0.03,nc,nc71130819,2023-07-09T01:45:15.489Z,"0km NNW of The Geysers, CA",earthquake,0.25,0.59,0.19,8,reviewed,nc,nc
 2023-07-08T08:39:53.710Z,38.7786667,-122.7573333,1.01,1.09,md,33,60,0.01031,0.04,nc,nc71130814,2023-07-08T22:58:12.509Z,"0km NNW of The Geysers, CA",earthquake,0.16,0.27,0.129,24,reviewed,nc,nc
 2023-07-08T08:39:45.510Z,39.338,-123.224,-0.55,1.27,md,13,63,0.08249,0.06,nc,nc73910191,2023-07-08T23:56:13.837Z,"8km NNW of Redwood Valley, CA",earthquake,0.22,0.98,0.193,13,reviewed,nc,nc
-2023-07-08T08:37:01.160Z,33.8141667,-116.5915,12.59,0.22,ml,10,194,0.1233,0.25,ci,ci39607482,2023-07-08T08:40:36.154Z,"6km W of Palm Springs, CA",earthquake,1.54,1.77,0.006,2,automatic,ci,ci
