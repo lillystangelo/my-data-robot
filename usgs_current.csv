@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-11T09:36:28.780Z,32.822834,-115.484169,6.69,1.33,ml,22,87,0.036,0.21,ci,ci39609586,2023-07-11T09:38:33.040Z,"8 km ENE of El Centro, CA",earthquake,0.59,0.83,0.514,5,automatic,ci,ci
 2023-07-11T09:21:51.771Z,60.6694,-147.6952,24.3,1.2,ml,,,,0.15,ak,ak0238too5ah,2023-07-11T09:23:07.689Z,"55 km ESE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-11T09:02:07.855Z,63.2908,-150.6626,30.2,1.3,ml,,,,1.07,ak,ak0238tojzap,2023-07-11T09:04:26.939Z,"59 km ESE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-07-11T08:59:15.170Z,33.8225,-116.9986667,11.68,0.67,ml,13,87,0.1141,0.17,ci,ci39609578,2023-07-11T09:02:46.313Z,"6km NW of San Jacinto, CA",earthquake,0.49,1,0.129,8,automatic,ci,ci
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-10T09:52:34.420Z,40.5766667,-124.2003333,17.28,1.91,md,27,78,0.04825,0.12,nc,nc73911051,2023-07-10T21:22:13.092Z,"4km WSW of Fortuna, CA",earthquake,0.33,0.47,0.102,16,reviewed,nc,nc
 2023-07-10T09:49:13.947Z,62.1752,-145.5224,27.7,1.2,ml,,,,0.42,ak,ak0238s1apxe,2023-07-10T09:50:42.782Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-10T09:39:03.870Z,36.02783333,-97.91666667,3.03,1.47,ml,81,39,0.09358163609,0.21,ok,ok2023njwr,2023-07-10T13:53:36.507Z,"5 km N of Dover, Oklahoma",earthquake,,0.5,0.24,44,reviewed,ok,ok
-2023-07-10T09:33:03.953Z,60.2555,-152.6981,110.9,1.6,ml,,,,0.27,ak,ak0238s179p7,2023-07-10T09:34:55.106Z,"61 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
