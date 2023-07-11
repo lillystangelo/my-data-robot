@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-11T10:51:43.432Z,65.431,-147.9398,1.2,0.5,ml,,,,0.62,ak,ak0238tpfzqe,2023-07-11T10:53:55.939Z,"29 km ESE of Livengood, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2023-07-11T10:38:05.993Z,65.4505,-148.0696,14.1,1.7,ml,,,,0.47,ak,ak0238tpd4jb,2023-07-11T10:40:09.884Z,"23 km ESE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-11T10:37:19.360Z,32.8166667,-115.4651667,9.35,1.87,ml,23,79,0.01917,0.28,ci,ci39609626,2023-07-11T10:40:58.024Z,"8km W of Holtville, CA",earthquake,0.62,1.14,0.205,25,automatic,ci,ci
 2023-07-11T10:34:43.170Z,34.5786667,-117.6711667,6.84,0.75,ml,10,150,0.03979,0.1,ci,ci39609618,2023-07-11T10:38:19.939Z,"14km NE of Llano, CA",earthquake,0.32,0.53,0.131,10,automatic,ci,ci
