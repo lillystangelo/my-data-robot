@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-13T07:20:12.860Z,65.2401,-151.1096,8.3,0.5,ml,,,,0.83,ak,ak0238wyjocm,2023-07-13T07:21:58.248Z,"34 km NW of Manley Hot Springs, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-07-13T07:12:12.132Z,67.0973,-156.2018,4.3,2.3,ml,,,,0.24,ak,ak0238wyhykd,2023-07-13T07:15:06.622Z,"36 km NE of Kobuk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-13T07:11:28.943Z,61.3382,-146.8328,28.1,1.3,ml,,,,0.48,ak,ak0238wyhs5a,2023-07-13T07:13:05.817Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-13T07:11:25.100Z,34.1818352,-116.8199997,4.01,1.25,ml,40,44,0.1158,0.16,ci,ci39611538,2023-07-13T07:13:29.064Z,"9 km SSE of Big Bear City, CA",earthquake,0.25,0.63,0.225,7,automatic,ci,ci
+2023-07-13T07:11:25.100Z,34.1848333,-116.8236667,5.28,1.13,ml,30,60,0.1115,0.18,ci,ci39611538,2023-07-13T07:22:24.940Z,"9km SSE of Big Bear City, CA",earthquake,0.32,1.07,0.174,26,automatic,ci,ci
 2023-07-13T07:00:48.090Z,33.6735,-116.7648333,16.39,0.26,ml,15,126,0.05653,0.11,ci,ci39611530,2023-07-13T07:04:22.759Z,"8km SSW of Idyllwild, CA",earthquake,0.39,0.51,0.112,5,automatic,ci,ci
 2023-07-13T06:50:18.650Z,38.8396683,-122.8223343,2.01,1.08,md,22,62,0.01033,0.05,nc,nc73912141,2023-07-13T07:08:11.690Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.55,0.31,24,automatic,nc,nc
+2023-07-13T06:50:03.350Z,18.4896,-63.9826,74,3.59,md,7,319,0.9835,0.49,pr,pr2023194005,2023-07-13T07:24:33.507Z,"87 km ENE of Cruz Bay, U.S. Virgin Islands",earthquake,6.2,4.53,0.13,4,reviewed,pr,pr
 2023-07-13T06:45:37.206Z,63.1044,-149.1709,7.3,1.3,ml,,,,0.41,ak,ak0238wy3niw,2023-07-13T06:47:20.595Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-13T06:41:46.879Z,21.5093,143.2318,320.497,4.3,mb,72,55,6.691,0.59,us,us7000kfcf,2023-07-13T07:08:58.040Z,"Mariana Islands region",earthquake,10.34,4.621,0.047,128,reviewed,us,us
-2023-07-13T06:39:00.364Z,63.6277,-149.9236,139.9,3.5,ml,,,,0.38,ak,ak0238wy2apd,2023-07-13T06:58:16.040Z,"51 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-07-13T06:39:00.364Z,63.6277,-149.9236,139.9,3.5,ml,,,,0.38,ak,ak0238wy2apd,2023-07-13T07:13:33.711Z,"51 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-13T06:17:00.655Z,62.1622,-149.0145,33.1,1,ml,,,,0.8,ak,ak0238wxxknl,2023-07-13T06:19:39.263Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-13T06:16:23.958Z,38.0035,-117.4217,0.3,1.4,ml,16,185.3,0.237,0.2127,nn,nn00862511,2023-07-13T06:19:25.036Z,"Nevada",earthquake,,3.8,0.8,14,automatic,nn,nn
 2023-07-13T06:16:04.790Z,19.1985,-64.7698,49,3.9,md,11,292,0.8665,0.62,pr,pr2023194004,2023-07-13T06:56:40.292Z,"96 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.78,18.13,0.08,6,reviewed,pr,pr
@@ -248,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-12T07:46:55.956Z,31.6811017,-104.3387017,6.131567383,2.2,ml,44,67,0.06362881074,0.2,tx,tx2023nnjz,2023-07-12T21:10:10.693Z,"54 km S of Whites City, New Mexico",earthquake,0.5980633343000001,0.6281832592999999,0,7,reviewed,tx,tx
 2023-07-12T07:39:50.080Z,52.7236666666667,-169.926333333333,8.01,1.16,ml,5,281,,0.15,av,av91110043,2023-07-12T18:14:34.580Z,"75 km WSW of Nikolski, Alaska",earthquake,2.19,3.45,0.255584368194817,5,reviewed,av,av
 2023-07-12T07:28:38.969Z,65.4962,-144.7627,3.8,1.1,ml,,,,0.71,ak,ak0238vb23ub,2023-07-12T07:31:29.495Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-12T07:19:40.300Z,52.7238333333333,-169.916333333333,7.76,1.17,ml,5,280,,0.17,av,av91110038,2023-07-12T18:07:30.470Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,2.46,3.96,0.243804063050143,5,reviewed,av,av
