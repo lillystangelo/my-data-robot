@@ -55,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T10:46:36.840Z,38.7903328,-122.8056641,3.47,0.84,md,17,103,0.002851,0.05,nc,nc73913196,2023-07-15T12:38:15.209Z,"4 km WNW of The Geysers, CA",earthquake,0.33,0.87,0.13,18,automatic,nc,nc
 2023-07-15T10:42:08.900Z,38.7915001,-122.8050003,4.24,0.76,md,13,84,0.00351,0.06,nc,nc73913191,2023-07-15T12:10:15.027Z,"4 km WNW of The Geysers, CA",earthquake,0.49,1.34,0.14,12,automatic,nc,nc
 2023-07-15T10:34:37.095Z,62.2829,-153.2917,0,1,ml,,,,1.03,ak,ak02390bhq1p,2023-07-15T10:36:43.725Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-15T10:21:07.610Z,37.5646667,-118.8593333,-1.13,0.72,md,12,246,0.03489,0.07,nc,nc73913181,2023-07-15T18:37:24.416Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.76,0.45,0.097,12,reviewed,nc,nc
 2023-07-15T10:14:31.362Z,58.4603,-155.4489,122.7,1,ml,,,,0.25,ak,ak02390bdfa8,2023-07-15T10:16:32.623Z,"74 km ESE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-15T10:03:57.466Z,59.7895,-153.4616,122.9,1.9,ml,,,,0.31,ak,ak02390bb4g0,2023-07-15T10:14:50.040Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-15T10:02:21.400Z,36.6930008,-121.3608322,0.53,2.13,md,31,49,,0.16,nc,nc73913176,2023-07-15T11:16:13.666Z,"11 km SSW of Tres Pinos, CA",earthquake,0.28,0.82,0.11,10,automatic,nc,nc
@@ -218,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T18:56:02.360Z,34.9891667,-118.1893333,-0.91,1.35,ml,23,52,0.1147,0.17,ci,ci39613074,2023-07-14T19:11:48.869Z,"7km S of Mojave, CA",quarry blast,0.29,31.61,0.146,10,reviewed,ci,ci
 2023-07-14T18:54:56.986Z,10.4054,125.1523,81.467,4.2,mb,31,122,3.341,0.7,us,us7000kft2,2023-07-14T21:54:12.040Z,"12 km WNW of Hinundayan, Philippines",earthquake,15.61,9.613,0.108,27,reviewed,us,us
 2023-07-14T18:53:49.606Z,61.2505,-149.2741,31.4,1,ml,,,,0.5,ak,ak0238ystxyo,2023-07-14T18:55:23.055Z,"17 km ESE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-14T18:39:42.910Z,36.0938333,-117.9015,4.73,2.82,ml,39,81,0.04459,0.16,ci,ci39613050,2023-07-15T06:02:42.083Z,"7km NE of Coso Junction, CA",earthquake,0.2,0.57,0.133,38,reviewed,ci,ci
-2023-07-14T18:37:30.770Z,33.6691667,-116.7225,13.04,0.48,ml,15,103,0.04062,0.07,ci,ci39613034,2023-07-14T18:56:24.185Z,"8km S of Idyllwild, CA",earthquake,0.27,0.42,0.18,11,reviewed,ci,ci
-2023-07-14T18:36:07.020Z,39.4005,-123.2695,6.08,1.34,md,15,77,0.08629,0.05,nc,nc73912966,2023-07-15T00:20:13.785Z,"8 km E of Willits, CA",earthquake,0.2,0.8,0.171,15,reviewed,nc,nc
