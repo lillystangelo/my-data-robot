@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-15T11:26:37.690Z,37.6258316,-119.0223312,2.28,1.14,md,10,83,0.01146,0.02,nc,nc73913211,2023-07-15T11:29:26.076Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.38,0.79,0.22,8,automatic,nc,nc
-2023-07-15T11:15:29.750Z,38.8235016,-122.7958298,2.54,1.08,md,16,56,0.01113,0.05,nc,nc73913206,2023-07-15T11:18:11.116Z,"6 km NNW of The Geysers, CA",earthquake,0.32,0.88,0.31,16,automatic,nc,nc
+2023-07-15T11:26:37.690Z,37.6258316,-119.0223312,2.28,1.14,md,10,83,0.01146,0.02,nc,nc73913211,2023-07-15T11:36:10.804Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.38,0.79,0.22,8,automatic,nc,nc
+2023-07-15T11:15:29.750Z,38.8235016,-122.7958298,2.54,1.08,md,16,56,0.01113,0.05,nc,nc73913206,2023-07-15T11:35:16.798Z,"6 km NNW of The Geysers, CA",earthquake,0.32,0.88,0.31,16,automatic,nc,nc
+2023-07-15T11:05:34.570Z,19.6435,-65.7483333333333,64.09,3.3,md,7,299,1.376,0.14,pr,pr71417983,2023-07-15T11:31:29.400Z,"134 km N of Suárez, Puerto Rico",earthquake,2.27,7.64,0.0048716559894153,3,reviewed,pr,pr
 2023-07-15T10:47:33.403Z,58.2597,-155.122,119.7,0.1,ml,,,,0.25,ak,ak02390bkiei,2023-07-15T10:52:32.873Z,"86 km NNW of Karluk, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-07-15T10:46:36.840Z,38.7903328,-122.8056641,3.47,0.84,md,17,103,0.002851,0.05,nc,nc73913196,2023-07-15T11:19:14.686Z,"4 km WNW of The Geysers, CA",earthquake,0.33,0.87,0.13,18,automatic,nc,nc
 2023-07-15T10:42:08.900Z,38.7915001,-122.8050003,4.24,0.76,md,13,84,0.00351,0.06,nc,nc73913191,2023-07-15T11:08:15.627Z,"4 km WNW of The Geysers, CA",earthquake,0.49,1.34,0.14,12,automatic,nc,nc
