@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-16T10:37:12.480Z,31.541666,-115.6719971,5.09,3.95,mlr,26,66,0.1778,0.26,ci,ci39614090,2023-07-16T10:39:25.767Z,"87 km ESE of Maneadero, B.C., MX",earthquake,0.32,2.33,0.24,20,automatic,ci,ci
+2023-07-16T10:47:02.480Z,19.1336669921875,-155.403167724609,30.0200004577637,1.83000004,md,43,181,,0.129999995,hv,hv73483567,2023-07-16T10:50:18.450Z,"11 km SE of Pāhala, Hawaii",earthquake,0.57,0.800000012,0.119999997,9,automatic,hv,hv
+2023-07-16T10:41:08.880Z,35.582,-118.3471667,7.07,0.79,ml,11,86,0.1129,0.16,ci,ci39614098,2023-07-16T10:44:36.556Z,"12km ESE of Lake Isabella, CA",earthquake,0.39,1.67,0.145,4,automatic,ci,ci
+2023-07-16T10:37:12.480Z,31.541666,-115.6719971,5.09,3.93,mlr,26,66,0.1778,0.26,ci,ci39614090,2023-07-16T10:48:26.810Z,"87km ESE of Maneadero, B.C., MX",earthquake,0.32,2.33,0.139,58,reviewed,ci,ci
 2023-07-16T10:26:31.410Z,33.2235,-116.0645,9.64,0.91,ml,27,58,0.08677,0.25,ci,ci39614074,2023-07-16T10:30:03.604Z,"11km NE of Ocotillo Wells, CA",earthquake,0.39,1.08,0.113,14,automatic,ci,ci
 2023-07-16T10:24:27.940Z,31.5345,-115.6675,0.53,1.97,ml,5,119,0.174,0.15,ci,ci39614066,2023-07-16T10:28:13.700Z,"88km ESE of Maneadero, B.C., MX",earthquake,0.39,31.61,0.051,6,automatic,ci,ci
 2023-07-16T10:16:03.504Z,54.6475,-159.6762,35,3.8,mb,40,169,0.841,0.59,us,us7000kg40,2023-07-16T10:29:13.040Z,"93 km SE of Sand Point, Alaska",earthquake,6.59,1.996,0.191,7,reviewed,us,us
@@ -23,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T07:30:06.535Z,54.3674,-160.7307,4.739,3.5,ml,35,207,0.995,0.79,us,us7000kg3e,2023-07-16T08:42:59.075Z,"Alaska Peninsula",earthquake,7.14,11.551,0.128,8,reviewed,us,us
 2023-07-16T07:15:56.540Z,18.0343333333333,-66.8838333333333,11.15,2.56,md,11,93,0.02762,0.17,pr,pr71418098,2023-07-16T07:27:19.600Z,"2 km ESE of Lluveras, Puerto Rico",earthquake,0.43,0.75,0.148283753900493,6,reviewed,pr,pr
 2023-07-16T07:13:13.660Z,33.7958333,-117.8106667,5.03,1.18,ml,17,42,0.0288,0.21,ci,ci39614050,2023-07-16T07:17:02.843Z,"2km S of Villa Park, CA",earthquake,0.44,0.62,0.243,29,automatic,ci,ci
-2023-07-16T07:12:30.698Z,54.3624,-160.7996,25.4,3.2,ml,,,,0.92,ak,ak02391x41io,2023-07-16T08:20:33.921Z,"110 km S of Sand Point, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2023-07-16T07:12:31.849Z,54.3786,-160.8277,35,3,ml,48,214,0.994,0.49,us,us7000kg3j,2023-07-16T10:49:44.040Z,"108 km S of Sand Point, Alaska",earthquake,2.69,2.014,0.109,11,reviewed,us,us
 2023-07-16T07:03:22.988Z,54.3141,-160.8799,40.194,4.4,mb,28,169,1.063,0.84,us,us7000kg37,2023-07-16T08:06:09.954Z,"116 km SSW of Sand Point, Alaska",earthquake,8.16,9.963,0.203,7,reviewed,us,us
 2023-07-16T07:02:00.040Z,54.5192,-160.9962,6.8,3.8,ml,,,,0.78,ak,ak02391x1ua6,2023-07-16T07:41:15.805Z,"96 km SSW of Sand Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-07-16T07:00:22.912Z,54.5021,-161.0341,8.136,3.4,ml,31,203,0.908,0.49,us,us7000kg34,2023-07-16T07:40:41.193Z,"98 km SSW of Sand Point, Alaska",earthquake,2.9,8.8,0.128,8,reviewed,us,us
@@ -187,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T11:06:52.973Z,39.9413,-120.7323,11.1,1.4,ml,7,196.02,0.296,0.1866,nn,nn00862671,2023-07-15T16:04:11.733Z,"4 km NNE of Greenhorn, California",earthquake,,1.9,0.19,5,reviewed,nn,nn
 2023-07-15T11:05:34.570Z,19.6435,-65.7483333333333,64.09,3.3,md,7,299,1.376,0.14,pr,pr71417983,2023-07-15T11:31:29.400Z,"134 km N of Suárez, Puerto Rico",earthquake,2.27,7.64,0.0048716559894153,3,reviewed,pr,pr
 2023-07-15T11:01:35.680Z,37.624,-119.0428333,0.37,0.34,md,15,81,0.01815,0.04,nc,nc73913201,2023-07-15T21:45:14.467Z,"6 km WSW of Mammoth Lakes, CA",earthquake,0.26,0.31,0.226,14,reviewed,nc,nc
-2023-07-15T10:46:36.840Z,38.7903328,-122.8056641,3.47,0.84,md,17,103,0.002851,0.05,nc,nc73913196,2023-07-15T12:38:15.209Z,"4 km WNW of The Geysers, CA",earthquake,0.33,0.87,0.13,18,automatic,nc,nc
-2023-07-15T10:42:08.900Z,38.7915001,-122.8050003,4.24,0.76,md,13,84,0.00351,0.06,nc,nc73913191,2023-07-15T12:10:15.027Z,"4 km WNW of The Geysers, CA",earthquake,0.49,1.34,0.14,12,automatic,nc,nc
