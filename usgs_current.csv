@@ -251,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T00:09:08.400Z,33.389,-116.9073333,12.95,1.18,ml,41,39,0.05142,0.22,ci,ci39613906,2023-07-16T00:12:51.104Z,"6km NW of Palomar Observatory, CA",earthquake,0.27,0.66,0.148,27,automatic,ci,ci
 2023-07-15T23:49:31.067Z,35.00614166,-97.9047699,0.6853352785,1.97,ml,27,57.97462463,0.08018687367,0.8104478851,ok,ok2023nucg,2023-07-16T14:13:23.599Z,"5 km SSE of Chickasha, Oklahoma",earthquake,2.262995496,1.722122242,0.22,20,automatic,ok,ok
 2023-07-15T23:32:22.546Z,31.72577955,-104.5281339,3.45793457,2.5,ml,11,169,0.007296100276,0.1,tx,tx2023nubr,2023-07-15T23:51:34.453Z,"51 km SSW of Whites City, New Mexico",earthquake,0.9196079802,0.6156869694,0.2,10,reviewed,tx,tx
-2023-07-15T23:17:20.933Z,64.9924,-147.397,1.5,1.6,ml,,,,1.01,ak,ak02390j4ohp,2023-07-15T23:20:18.212Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T23:16:37.863Z,39.6426,-107.4736,5,2.5,ml,17,78,0.257,0.34,us,us7000kg16,2023-07-16T14:37:46.162Z,"7 km NNW of Chacra, Colorado",earthquake,1.6,1.902,0.094,15,reviewed,us,us
