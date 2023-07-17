@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T04:53:44.990Z,61.4746,-146.691,28.3,1.7,ml,,,,0.55,ak,ak02393j3wmb,2023-07-17T04:55:20.603Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-17T04:50:30.961Z,-16.7572,-175.1205,179.685,4.6,mb,22,85,2.163,0.66,us,us7000kgae,2023-07-17T05:15:56.040Z,"167 km WSW of Hihifo, Tonga",earthquake,13.08,10.143,0.067,67,reviewed,us,us
 2023-07-17T04:42:14.284Z,-1.4911,126.487,10,5.6,mww,210,35,2.414,0.81,us,us7000kga2,2023-07-17T05:26:06.731Z,"Kepulauan Sula, Indonesia",earthquake,6.22,1.832,0.098,10,reviewed,us,us
-2023-07-17T04:33:13.450Z,37.4568329,-122.4708328,8.06,1.94,md,25,192,0.05632,0.07,nc,nc73913841,2023-07-17T05:28:11.026Z,"4 km W of Half Moon Bay, CA",earthquake,0.68,0.47,0.14,17,automatic,nc,nc
+2023-07-17T04:33:13.450Z,37.4568329,-122.4708328,8.06,1.94,md,25,192,0.05632,0.07,nc,nc73913841,2023-07-17T05:59:18.199Z,"4 km W of Half Moon Bay, CA",earthquake,0.68,0.47,0.14,17,automatic,nc,nc
 2023-07-17T04:32:12.080Z,38.8238335,-122.7996674,2.88,1.21,md,19,47,0.01621,0.02,nc,nc73913831,2023-07-17T05:05:18.882Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.51,0.23,19,automatic,nc,nc
 2023-07-17T04:28:59.320Z,19.1986675262451,-155.377166748047,30.9599990844727,1.80999994,md,29,178,,0.100000001,hv,hv73484607,2023-07-17T04:31:59.410Z,"10 km E of Pāhala, Hawaii",earthquake,0.69,0.779999971,0.899999976,3,automatic,hv,hv
 2023-07-17T04:27:38.184Z,53.3912,-166.0948,28.2,3.6,ml,,,,0.53,ak,ak02393iybl1,2023-07-17T05:30:42.934Z,"61 km SSE of Unalaska, Alaska",earthquake,,1.6,,,reviewed,ak,ak
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T19:33:20.780Z,31.5301667,-114.3841667,5.96,3.11,ml,8,133,0.5271,0.34,ci,ci39614330,2023-07-16T21:00:11.797Z,"94km SE of Estacion Coahuila, B.C., MX",earthquake,0.78,31.61,0.187,75,reviewed,ci,ci
 2023-07-16T19:25:55.245Z,27.3262,54.4283,10,4.1,mb,31,145,2.858,0.73,us,us7000kg6y,2023-07-16T20:41:11.040Z,"47 km SE of Gerāsh, Iran",earthquake,9.96,1.93,0.109,23,reviewed,us,us
 2023-07-16T19:18:13.825Z,11.2114,125.4522,10.898,4.5,mb,36,113,4.117,0.68,us,us7000kg75,2023-07-16T20:35:53.040Z,"9 km NW of Quinapundan, Philippines",earthquake,13.34,4.46,0.094,33,reviewed,us,us
-2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T05:36:24.954Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
+2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T05:51:21.458Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
 2023-07-16T19:15:20.294Z,39.3965,-119.7177,5.4,0.7,ml,7,124.31,0.037,0.1326,nn,nn00862820,2023-07-16T20:09:27.020Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.7,0.39,4,reviewed,nn,nn
 2023-07-16T19:14:43.490Z,38.8359985,-122.7699966,1.96,1.04,md,14,143,0.00552,0.03,nc,nc73913711,2023-07-16T20:40:11.858Z,"4 km WNW of Cobb, CA",earthquake,0.29,0.46,0.07,14,automatic,nc,nc
 2023-07-16T19:11:39.600Z,36.5698318,-121.1549988,7.15,1.69,md,12,132,0.02455,0.06,nc,nc73913706,2023-07-16T20:13:11.694Z,"4 km NNW of Pinnacles, CA",earthquake,0.5,0.7,0.33,6,automatic,nc,nc
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T06:11:57.008Z,38.5365,-118.1662,6.8,2.1,ml,11,62.9,0.366,0.2098,nn,nn00862724,2023-07-16T16:35:18.527Z,"16 km NNW of Mina, Nevada",earthquake,,1.6,0.18,7,reviewed,nn,nn
 2023-07-16T06:10:58.000Z,37.3709984,-118.7115021,2.68,1.7,md,9,172,0.2753,0.03,nc,nc73913541,2023-07-16T08:33:15.531Z,"11 km WSW of Round Valley, CA",earthquake,0.65,6.72,0.18,10,automatic,nc,nc
 2023-07-16T06:03:00.118Z,38.5412,-118.1553,8.1,1.8,ml,9,61.08,0.367,0.2238,nn,nn00862721,2023-07-16T16:28:58.007Z,"17 km NNW of Mina, Nevada",earthquake,,1.8,0.3,6,reviewed,nn,nn
-2023-07-16T05:59:31.622Z,38.5344,-118.1584,5.7,1.2,ml,7,73.98,0.392,0.2117,nn,nn00862785,2023-07-16T16:25:45.289Z,"16 km NNW of Mina, Nevada",earthquake,,1.5,0.19,5,reviewed,nn,nn
