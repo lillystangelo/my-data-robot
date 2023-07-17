@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-17T23:39:18.665Z,57.3797,-156.4283,99.2,2,ml,,,,0.27,ak,ak02393uc322,2023-07-17T23:41:20.084Z,"60 km ESE of Ugashik, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-07-17T23:28:15.326Z,59.4184,-152.0458,55.1,2,ml,,,,0.47,ak,ak02393u9px8,2023-07-17T23:29:47.208Z,"9 km NW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-17T23:23:10.591Z,58.1814,-155.3952,0,0.9,ml,,,,0.8,ak,ak02393u8mzp,2023-07-17T23:25:32.771Z,"88 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-17T23:13:03.687Z,31.65076327,-104.2593344,6.645727539,2.9,ml,16,59,0.02140461543,0.2,tx,tx2023nxsb,2023-07-17T23:23:02.635Z,"western Texas",earthquake,0.9115479330000001,0.9328779525,0.1,8,reviewed,tx,tx
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-17T22:10:36.150Z,38.8105011,-122.8231659,2.48,0.79,md,17,60,0.004972,0.02,nc,nc73914076,2023-07-17T22:48:16.736Z,"7 km WNW of The Geysers, CA",earthquake,0.27,0.54,0.43,18,automatic,nc,nc
 2023-07-17T22:10:07.150Z,38.8105011,-122.82267,2.16,0.57,md,8,102,0.00534,0.01,nc,nc73914071,2023-07-17T22:39:15.677Z,"7 km WNW of The Geysers, CA",earthquake,0.41,1.1,0.31,8,automatic,nc,nc
 2023-07-17T21:59:19.470Z,34.4151667,-118.6405,7.48,1.28,ml,20,70,0.01984,0.27,ci,ci39615106,2023-07-17T22:03:01.197Z,"8km SW of Valencia, CA",earthquake,0.56,0.9,0.198,32,automatic,ci,ci
-2023-07-17T21:59:05.068Z,53.9006,-163.5466,48.498,4.9,mww,67,153,0.911,0.53,us,us7000kgh1,2023-07-17T23:30:57.373Z,"106 km S of False Pass, Alaska",earthquake,3.27,6.077,0.086,13,reviewed,us,us
+2023-07-17T21:59:05.068Z,53.9006,-163.5466,48.498,4.9,mww,67,153,0.911,0.53,us,us7000kgh1,2023-07-17T23:34:00.464Z,"106 km S of False Pass, Alaska",earthquake,3.27,6.077,0.086,13,reviewed,us,us
 2023-07-17T21:57:04.980Z,40.526165,-124.2561646,23.62,2.16,md,8,227,0.2051,0.04,nc,nc73914061,2023-07-17T23:27:11.787Z,"6 km S of Ferndale, CA",earthquake,2.64,2.29,0.14,4,automatic,nc,nc
 2023-07-17T21:47:35.410Z,33.7041667,-117.5308333,16.96,1.41,ml,19,57,0.07205,0.28,ci,ci39615090,2023-07-17T21:51:16.899Z,"7km NE of Trabuco Canyon, CA",earthquake,0.61,1.05,0.441,25,automatic,ci,ci
 2023-07-17T21:42:21.622Z,58.8846,-154.604,116.7,1.9,ml,,,,0.31,ak,ak02393t5v82,2023-07-17T21:56:37.040Z,"62 km S of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
