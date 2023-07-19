@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-19T11:08:03.460Z,19.2451667785645,-155.407669067383,32.7900009155273,2.33999991,md,36,146,,0.100000001,hv,hv73488477,2023-07-19T11:11:18.830Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.48,0.709999979,1.20000005,19,automatic,hv,hv
+2023-07-19T10:58:46.990Z,38.8378334,-122.7828369,1.95,0.71,md,11,74,0.005891,0.01,nc,nc73914536,2023-07-19T11:00:23.444Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.56,0.19,12,automatic,nc,nc
+2023-07-19T10:57:52.510Z,34.026,-116.437,8.65,1.1,ml,36,52,0.05826,0.16,ci,ci39616090,2023-07-19T11:09:00.390Z,"9km NE of Desert Hot Springs, CA",earthquake,0.22,0.59,0.148,26,automatic,ci,ci
 2023-07-19T10:12:28.587Z,-7.9671,-74.3087,137.583,5,mb,68,95,4.71,0.48,us,us7000kgth,2023-07-19T10:27:17.040Z,"52 km NNE of Pucallpa, Peru",earthquake,10.56,7.346,0.049,134,reviewed,us,us
 2023-07-19T10:11:37.005Z,12.8349,-88.1827,79.6,4.7,mb,122,167,0.645,0.74,us,us7000kgtg,2023-07-19T10:41:34.863Z,"42 km SSW of Intipucá, El Salvador",earthquake,9.7,9.946,0.041,178,reviewed,us,us
 2023-07-19T10:07:42.160Z,58.2901,-155.2302,13.2,0.9,ml,,,,1.27,ak,ak02396xhbtb,2023-07-19T10:10:28.514Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
@@ -34,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T06:00:51.277Z,38.4786,-119.4944,6.9,1.3,ml,9,164.41,0.109,0.1286,nn,nn00862968,2023-07-19T06:03:26.708Z,"California-Nevada border region",earthquake,,0.7,0.09,7,automatic,nn,nn
 2023-07-19T05:58:19.460Z,33.4915,-116.421,8.21,0.82,ml,27,112,0.03206,0.16,ci,ci39616026,2023-07-19T06:02:03.534Z,"22km SSW of La Quinta, CA",earthquake,0.26,0.62,0.126,22,automatic,ci,ci
 2023-07-19T05:52:32.140Z,34.051,-117.5221667,6.83,1.75,ml,67,26,0.05671,0.21,ci,ci39616018,2023-07-19T06:44:25.598Z,"6km NW of Glen Avon, CA",earthquake,0.21,0.56,0.218,25,automatic,ci,ci
-2023-07-19T05:47:46.280Z,28.97644043,-98.27826287,2.983479818,3.2,ml,19,83,0.148853531,0.3,tx,tx2023oaap,2023-07-19T08:19:31.818Z,"19 km E of Pleasanton, Texas",earthquake,1.3479017760000003,1.89809221,0.1,9,reviewed,tx,tx
+2023-07-19T05:47:46.280Z,28.97644043,-98.27826287,2.983479818,3.2,ml,19,83,0.148853531,0.3,tx,tx2023oaap,2023-07-19T11:06:33.018Z,"19 km E of Pleasanton, Texas",earthquake,1.3479017760000003,1.89809221,0.1,9,reviewed,tx,tx
 2023-07-19T05:40:52.420Z,38.8146667,-122.817337,2.5,1.33,md,25,51,0.0104,0.03,nc,nc73914466,2023-07-19T08:05:21.904Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.41,0.11,27,automatic,nc,nc
 2023-07-19T05:34:41.346Z,63.1327,-152.2308,3.4,0.9,ml,,,,0.52,ak,ak02396unybq,2023-07-19T05:36:57.328Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-19T05:32:48.986Z,60.021,-141.7238,2.3,2,ml,,,,0.93,ak,ak02396unjhe,2023-07-19T05:35:09.725Z,"123 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -165,5 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T11:39:45.630Z,46.654,-121.918,7.77,0.37,ml,20,142,0.0862,0.13,uw,uw61932817,2023-07-18T23:39:48.290Z,"14 km SE of Ashford, Washington",earthquake,0.35,0.57,0.15508161100840656,5,reviewed,uw,uw
 2023-07-18T11:33:59.427Z,62.9407,-150.8316,27.8,1.2,ml,,,,1.02,ak,ak02395ap152,2023-07-18T11:36:02.919Z,"49 km N of Petersville, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-18T11:23:13.730Z,38.8223333,-122.8001667,3.28,0.45,md,23,50,0.01484,0.03,nc,nc73914261,2023-07-18T22:06:15.588Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.28,0.154,18,reviewed,nc,nc
-2023-07-18T11:06:32.887Z,54.6246,-160.7377,35,4.4,mb,79,148,0.742,1.06,us,us7000kgjj,2023-07-18T19:43:42.892Z,"Alaska Peninsula",earthquake,6.59,1.918,0.066,66,reviewed,us,us
-2023-07-18T10:59:09.447Z,61.0681,-152.4666,24.3,0.7,ml,,,,0.88,ak,ak02395a92ao,2023-07-18T11:01:11.879Z,"71 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
