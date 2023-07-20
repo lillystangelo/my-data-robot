@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-20T09:33:42.590Z,33.4874992,-116.768837,8.6,1.56,ml,69,32,0.03618,0.18,ci,ci39617274,2023-07-20T09:35:47.919Z,"10 km ENE of Aguanga, CA",earthquake,0.19,0.54,0.194,27,automatic,ci,ci
+2023-07-20T09:33:42.630Z,33.4891667,-116.7686667,7.67,1.53,ml,63,39,0.03516,0.21,ci,ci39617274,2023-07-20T09:44:33.680Z,"10km ENE of Aguanga, CA",earthquake,0.18,0.59,0.117,26,automatic,ci,ci
 2023-07-20T09:24:55.130Z,33.4535,-116.5771667,9.36,0.44,ml,17,91,0.04611,0.13,ci,ci39617266,2023-07-20T09:28:22.851Z,"14km SE of Anza, CA",earthquake,0.38,0.7,0.143,11,automatic,ci,ci
 2023-07-20T09:24:00.520Z,19.1886672973633,-155.503662109375,31.6599998474121,2.07999992,md,31,74,,0.129999995,hv,hv73489487,2023-07-20T09:27:13.980Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.69,0.920000017,0.709999979,7,automatic,hv,hv
+2023-07-20T09:15:58.488Z,-1.3805,126.4126,44.811,4.7,mb,24,77,2.341,0.93,us,us7000kh32,2023-07-20T09:39:28.040Z,"89 km NNE of Sanana, Indonesia",earthquake,5.98,9.172,0.152,13,reviewed,us,us
 2023-07-20T09:02:09.220Z,18.3425,-66.9103333333333,18.01,2.45,md,11,106,0.1486,0.2,pr,pr71418583,2023-07-20T09:11:11.510Z,"3 km NNE of Juncal, Puerto Rico",earthquake,0.4,0.84,0.17522785811923,6,reviewed,pr,pr
 2023-07-20T08:57:08.075Z,56.3863,-35.1794,10,4.6,mb,76,63,7.154,0.53,us,us7000kh2y,2023-07-20T09:26:40.040Z,"Reykjanes Ridge",earthquake,9.15,1.874,0.035,239,reviewed,us,us
 2023-07-20T08:55:24.280Z,38.8251648,-122.7959976,2.8,0.76,md,14,53,0.01114,0.01,nc,nc73914876,2023-07-20T09:13:13.180Z,"6 km W of Cobb, CA",earthquake,0.36,0.56,0.17,14,automatic,nc,nc
