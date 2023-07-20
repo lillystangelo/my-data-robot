@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T11:59:43.367Z,62.1547,-151.2119,74.6,1.1,ml,,,,0.35,ak,ak02396ydx0g,2023-07-19T12:01:50.020Z,"20 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-19T11:57:48.356Z,39.5391,-116.5791,3.2,3.4,ml,14,48,1.02,0.1957,nn,nn00862982,2023-07-19T12:30:30.799Z,"42 km E of Austin, Nevada",earthquake,,4,0.25,10,reviewed,nn,nn
 2023-07-19T11:52:46.283Z,31.6334803,-104.4860107,6.825683594,2.2,ml,21,130,0.03736281067,0.2,tx,tx2023oamq,2023-07-19T15:32:34.067Z,"61 km S of Whites City, New Mexico",earthquake,1.848294788,1.096692236,0.1,6,reviewed,tx,tx
-2023-07-19T11:42:10.490Z,18.8031,-64.1115,58,3.67,md,6,343,1.2715,0.17,pr,pr2023200001,2023-07-20T11:25:56.040Z,"88 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,4.34,7.17,0.17,4,reviewed,pr,pr
-2023-07-19T11:40:50.225Z,60.6159,-149.586,25.6,1.8,ml,,,,0.65,ak,ak02396y9uxq,2023-07-19T11:42:55.204Z,"18 km NW of Moose Pass, Alaska",earthquake,,0.2,,,automatic,ak,ak
