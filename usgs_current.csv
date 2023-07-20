@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-20T05:42:50.870Z,38.8366661,-122.8355026,1.56,0.95,md,20,85,0.00192,0.03,nc,nc73914831,2023-07-20T05:44:26.153Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.41,0.23,20,automatic,nc,nc
 2023-07-20T05:07:27.170Z,19.1788330078125,-155.496002197266,34.5699996948242,2.17000008,md,41,84,,0.100000001,hv,hv73489277,2023-07-20T05:10:45.150Z,"3 km SW of Pāhala, Hawaii",earthquake,0.63,0.870000005,1.25,23,automatic,hv,hv
 2023-07-20T05:03:52.160Z,38.8373337,-122.8346634,1.75,0.93,md,21,62,0.001409,0.02,nc,nc73914826,2023-07-20T05:05:30.023Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.43,0.16,21,automatic,nc,nc
 2023-07-20T05:02:28.240Z,19.4033336639404,-155.241668701172,1.20000004768372,2,md,9,152,,0.100000001,hv,hv73489262,2023-07-20T05:05:17.260Z,"4 km S of Volcano, Hawaii",earthquake,0.32,0.730000019,2,4,automatic,hv,hv
-2023-07-20T04:59:17.970Z,38.836834,-122.8346634,1.93,1.53,md,28,43,0.001867,0.03,nc,nc73914816,2023-07-20T05:17:20.854Z,"10 km NW of The Geysers, CA",earthquake,0.18,0.34,0.16,23,automatic,nc,nc
+2023-07-20T04:59:17.970Z,38.836834,-122.8346634,1.93,1.53,md,28,43,0.001867,0.03,nc,nc73914816,2023-07-20T05:41:12.874Z,"10 km NW of The Geysers, CA",earthquake,0.18,0.34,0.16,23,automatic,nc,nc
 2023-07-20T04:53:51.990Z,33.6945,-116.7123333,17.56,1.81,ml,63,25,0.01669,0.18,ci,ci39617194,2023-07-20T05:04:47.270Z,"5km S of Idyllwild, CA",earthquake,0.17,0.32,0.221,26,automatic,ci,ci
 2023-07-20T04:53:40.000Z,17.9398333333333,-66.8933333333333,13.81,1.99,md,7,213,0.0375,0.16,pr,pr71418528,2023-07-20T05:07:09.130Z,"3 km SSE of Guánica, Puerto Rico",earthquake,1.16,0.53,0.203976630667776,5,reviewed,pr,pr
 2023-07-20T04:42:37.048Z,54.5442,-160.8603,37.744,3.4,ml,25,192,0.792,1.05,us,us7000kh10,2023-07-20T05:04:18.040Z,"91 km SSW of Sand Point, Alaska",earthquake,8.63,29.202,0.097,14,reviewed,us,us
@@ -225,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T05:58:19.460Z,33.4915,-116.421,8.21,0.82,ml,27,112,0.03206,0.16,ci,ci39616026,2023-07-19T13:28:34.047Z,"22km SSW of La Quinta, CA",earthquake,0.26,0.62,0.126,22,reviewed,ci,ci
 2023-07-19T05:52:32.070Z,34.0476667,-117.5255,7.51,1.82,ml,94,17,0.03535,0.17,ci,ci39616018,2023-07-19T16:59:34.444Z,"6km NW of Glen Avon, CA",earthquake,0.11,0.23,0.199,62,reviewed,ci,ci
 2023-07-19T05:47:46.265Z,28.97735596,-98.27929687,2.714477539,3.2,ml,22,78,0.1500796055,0.3,tx,tx2023oaap,2023-07-20T00:56:19.079Z,"19 km E of Pleasanton, Texas",earthquake,1.425514538,1.999757229,0.1,17,reviewed,tx,tx
-2023-07-19T05:40:52.450Z,38.8146667,-122.8178333,2.26,1.26,md,39,51,0.01059,0.05,nc,nc73914466,2023-07-19T20:11:18.373Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.28,0.163,36,reviewed,nc,nc
