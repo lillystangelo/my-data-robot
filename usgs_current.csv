@@ -223,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T20:12:21.760Z,36.0235,-117.8985,5.38,0.76,ml,12,151,0.01704,0.14,ci,ci39616850,2023-07-20T17:23:56.968Z,"5km ESE of Coso Junction, CA",earthquake,0.3,0.51,0.192,4,reviewed,ci,ci
 2023-07-19T19:58:03.725Z,63.9137,-148.7124,112.6,1.4,ml,,,,0.29,ak,ak023973532s,2023-07-19T20:00:18.804Z,"13 km ENE of Healy, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-19T19:55:15.210Z,19.3746666666667,-155.291666666667,1.86,2,ml,23,95,,0.1,hv,hv73488702,2023-07-19T21:51:45.930Z,"9 km SW of Volcano, Hawaii",earthquake,0.18,0.24,0.190295531411755,6,reviewed,hv,hv
-2023-07-19T19:44:20.305Z,61.0349,-148.1895,13.4,0.8,ml,,,,0.38,ak,ak02397324by,2023-07-19T19:46:17.788Z,"39 km NE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-07-19T19:44:05.730Z,38.7888336,-122.7666702,1.81,1.08,md,17,79,0.01297,0.03,nc,nc73914641,2023-07-19T22:23:15.134Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.53,0.11,14,automatic,nc,nc
