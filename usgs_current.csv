@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T17:39:03.540Z,47.60583333333334,-122.99716666666667,46.56,2.42,ml,38,70,0.05799,0.25,uw,uw61942721,2023-07-21T18:16:12.910Z,"11 km SW of Brinnon, Washington",earthquake,0.63,0.74,0.21969570109197867,29,reviewed,uw,uw
 2023-07-21T17:33:45.010Z,33.1668333,-115.6321667,2.28,1.24,ml,22,73,0.01745,0.13,ci,ci39618602,2023-07-21T17:54:26.819Z,"12km WNW of Calipatria, CA",earthquake,0.22,0.26,0.217,16,reviewed,ci,ci
 2023-07-21T17:25:10.070Z,37.0011667,-119.8186667,-0.62,2.07,md,11,192,0.08929,0.25,nc,nc73915276,2023-07-21T18:23:53.952Z,"5 km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,1.2,31.61,0.072,14,reviewed,nc,nc
-2023-07-21T17:23:14.500Z,36.4830017,-121.0541687,7.54,1.82,md,14,180,0.02784,0.06,nc,nc73915271,2023-07-21T18:28:11.348Z,"10 km SE of Pinnacles, CA",earthquake,0.56,0.88,0.26,10,automatic,nc,nc
+2023-07-21T17:23:14.500Z,36.4830017,-121.0541687,7.54,1.82,md,14,180,0.02784,0.06,nc,nc73915271,2023-07-21T19:38:13.774Z,"10 km SE of Pinnacles, CA",earthquake,0.56,0.88,0.26,10,automatic,nc,nc
 2023-07-21T17:18:42.914Z,66.4326,-154.4846,0,1.6,ml,,,,0.96,ak,ak0239acsf8j,2023-07-21T17:21:06.521Z,"44 km NNW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-21T17:10:37.179Z,36.0345,-97.90866667,5.67,1.48,ml,88,30,0.1025798703,0.21,ok,ok2023oeoc,2023-07-21T17:23:56.466Z,"5 km N of Dover, Oklahoma",earthquake,,0.4,0.23,40,reviewed,ok,ok
 2023-07-21T17:08:43.300Z,37.463665,-118.7314987,5.35,1.52,md,15,139,0.1481,0.05,nc,nc73915266,2023-07-21T19:11:14.593Z,"12 km SSW of Toms Place, CA",earthquake,0.69,2.58,0.09,13,automatic,nc,nc
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T11:11:46.050Z,38.8409996,-122.8255005,2.09,0.55,md,9,98,0.008162,0.02,nc,nc73915151,2023-07-21T11:45:14.883Z,"9 km WNW of Cobb, CA",earthquake,0.39,1.01,0.13,9,automatic,nc,nc
 2023-07-21T11:07:09.863Z,65.8887,-154.2149,0,1.6,ml,,,,1.92,ak,ak0239a95e6u,2023-07-21T11:10:18.961Z,"17 km S of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-21T10:54:49.864Z,61.6293,-150.3717,23.2,0.8,ml,,,,0.32,ak,ak0239a8u4be,2023-07-21T10:56:34.095Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-07-21T10:46:38.330Z,33.9926667,-116.7408333,16.51,0.8,ml,19,72,0.08969,0.2,ci,ci39618298,2023-07-21T10:50:12.851Z,"9km NNE of Cabazon, CA",earthquake,0.41,1.01,0.119,20,automatic,ci,ci
+2023-07-21T10:46:38.270Z,33.9961667,-116.7381667,16.46,0.76,ml,33,73,0.08602,0.18,ci,ci39618298,2023-07-21T19:37:26.407Z,"10km NNE of Cabazon, CA",earthquake,0.28,0.7,0.094,18,reviewed,ci,ci
 2023-07-21T10:46:09.540Z,33.4595,-116.5785,9.12,0.19,ml,22,81,0.04031,0.09,ci,ci39618290,2023-07-21T18:56:44.680Z,"14km SE of Anza, CA",earthquake,0.2,0.34,0.142,14,reviewed,ci,ci
 2023-07-21T10:44:16.312Z,63.4537,-145.9894,0,1.4,ml,,,,0.67,ak,ak0239a8rwkf,2023-07-21T10:46:53.360Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-21T10:37:58.740Z,19.5200004577637,-155.684494018555,5.75,1.84000003,md,28,58,,0.25999999,hv,hv73491087,2023-07-21T10:41:02.350Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.46,0.469999999,0.560000002,9,automatic,hv,hv
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T20:24:56.220Z,18.4876666666667,-67.5251666666667,16.96,2.99,md,10,301,0.1116,0.14,pr,pr71418638,2023-07-20T21:55:20.880Z,"33 km WNW of Rincón, Puerto Rico",earthquake,1,0.49,0.161007647691823,5,reviewed,pr,pr
 2023-07-20T20:14:39.585Z,62.2737,-154.4846,4.9,2.5,ml,,,,0.47,ak,ak02398r0ifq,2023-07-20T20:26:47.040Z,"82 km S of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-20T20:07:47.740Z,47.16866666666667,-121.9375,-0.77,1.4000000000000001,ml,18,94,0.04003,0.18,uw,uw61933597,2023-07-21T00:17:40.900Z,"5 km SE of Enumclaw, Washington",explosion,0.68,31.61,0.05622502581340516,6,reviewed,uw,uw
-2023-07-20T19:39:30.170Z,37.5131667,-118.868,3.18,0.38,md,8,223,0.08272,0.05,nc,nc73915026,2023-07-21T00:49:00.165Z,"17 km SE of Mammoth Lakes, CA",earthquake,0.67,1.58,0.048,7,reviewed,nc,nc
