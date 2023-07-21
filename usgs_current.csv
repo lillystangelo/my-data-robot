@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-21T16:21:55.960Z,38.8361664,-122.8031693,2.14,0.69,md,14,62,0.01026,0.01,nc,nc73915246,2023-07-21T16:23:31.770Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.83,0.18,14,automatic,nc,nc
+2023-07-21T16:36:48.082Z,57.874,-156.9173,7.1,0.9,ml,,,,0.31,ak,ak0239acaux4,2023-07-21T16:39:18.417Z,"46 km SE of Egegik, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-07-21T16:21:55.960Z,38.8361664,-122.8031693,2.14,0.69,md,14,62,0.01026,0.01,nc,nc73915246,2023-07-21T16:40:14.748Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.83,0.18,14,automatic,nc,nc
 2023-07-21T16:07:47.580Z,38.8481674,-122.8168335,1.83,0.68,md,7,85,0.008241,0.01,nc,nc73915241,2023-07-21T16:24:13.657Z,"9 km WNW of Cobb, CA",earthquake,0.54,1.15,0.31,10,automatic,nc,nc
 2023-07-21T16:02:55.845Z,60.4057,-147.416,13.5,1.6,ml,,,,0.98,ak,ak0239ac3l68,2023-07-21T16:04:57.902Z,"50 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-21T15:46:31.840Z,33.242,-116.3035,3.54,0.68,ml,13,128,0.06435,0.27,ci,ci39618522,2023-07-21T15:50:12.113Z,"7km ESE of Borrego Springs, CA",earthquake,0.67,1.53,0.144,10,automatic,ci,ci
@@ -174,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T16:58:47.020Z,46.21083333333333,-122.07,5.42,0.2,ml,7,223,0.05754,0.06,uw,uw61933547,2023-07-20T18:09:07.360Z,"41 km SSE of Morton, Washington",earthquake,0.68,0.87,0.07996520330996501,5,reviewed,uw,uw
 2023-07-20T16:52:41.079Z,59.048,-153.8451,76.7,1.7,ml,,,,0.82,ak,ak02398ouxcb,2023-07-20T16:54:50.169Z,"67 km SSE of Pope-Vannoy Landing, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2023-07-20T16:49:15.835Z,58.2429,-155.2014,0,0.6,ml,,,,0.44,ak,ak02398ou88v,2023-07-20T16:51:00.657Z,"87 km NNW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2023-07-20T16:30:06.120Z,35.7586666666667,-90.1621666666667,4.4,1.96,md,20,96,0.02813,0.31,nm,nm60537341,2023-07-20T17:37:22.630Z,"7 km ENE of Etowah, Arkansas",earthquake,0.55,0.49,0.086990246169818,18,reviewed,nm,nm
