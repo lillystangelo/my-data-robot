@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T19:49:22.827Z,58.172,-155.3982,0,0.6,ml,,,,0.48,ak,ak0239dp8l2y,2023-07-23T19:50:56.780Z,"87 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-07-23T19:46:27.350Z,32.5698333,-115.6685,6.84,1.38,ml,15,90,0.08012,0.22,ci,ci39619986,2023-07-23T19:50:08.826Z,"8km W of Progreso, B.C., MX",earthquake,0.5,1.01,0.365,9,automatic,ci,ci
 2023-07-23T19:37:41.903Z,58.2511,-155.1316,33,0.5,ml,,,,0.24,ak,ak0239dp61ym,2023-07-23T19:39:29.070Z,"85 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-07-23T19:24:26.158Z,-3.3502,-79.9423,52.398,4.4,mb,33,113,0.232,0.43,us,us7000khun,2023-07-23T19:44:54.040Z,"10 km SSE of Machala, Ecuador",earthquake,5.99,8.699,0.091,35,reviewed,us,us
 2023-07-23T19:24:20.640Z,61.9594,-149.4438,50.8,1,ml,,,,0.17,ak,ak0239dp380g,2023-07-23T19:32:36.053Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-23T19:21:22.433Z,58.3794,-154.2893,40,1.5,ml,,,,0.99,ak,ak0239dp2l03,2023-07-23T19:22:44.612Z,"88 km WNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-07-23T19:10:05.290Z,33.73,-116.836,14.56,0.6,ml,12,115,0.0848,0.18,ci,ci39619970,2023-07-23T19:13:37.965Z,"6km ESE of Valle Vista, CA",earthquake,0.63,0.79,0.203,11,automatic,ci,ci
@@ -185,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T20:10:54.229Z,45.088,-112.7528,10.649,2.6,ml,28,42,0.269,0.4,us,us7000khny,2023-07-22T23:04:45.040Z,"western Montana",earthquake,1.6,6.329,0.055,44,reviewed,us,us
 2023-07-22T20:06:59.760Z,36.5786667,-121.2423325,3.41,1.86,md,16,104,0.04635,0.11,nc,nc73915616,2023-07-23T00:09:16.361Z,"10 km WNW of Pinnacles, CA",earthquake,0.36,1.84,0.16,15,automatic,nc,nc
 2023-07-22T19:54:11.340Z,36.7765007,-121.3376694,4.3,1.6,md,11,125,,0.1,nc,nc73915611,2023-07-22T23:42:15.205Z,"2 km SW of Tres Pinos, CA",earthquake,0.4,1.53,0.2,8,automatic,nc,nc
-2023-07-22T19:47:26.615Z,61.6794,-148.1646,24.6,0.9,ml,,,,0.07,ak,ak0239c1otg5,2023-07-22T19:48:30.399Z,"20 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
