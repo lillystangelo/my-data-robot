@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T05:30:52.380Z,61.2129,-147.0706,24.7,1.3,ml,,,,0.77,ak,ak0239dgsiae,2023-07-23T05:33:04.776Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-23T05:28:54.188Z,62.6639,-151.0606,79.2,1.4,ml,,,,0.68,ak,ak0239dgs2zu,2023-07-23T05:31:09.930Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-07-23T05:10:25.814Z,51.4264,178.8726,48.907,3.8,mb,38,211,0.562,0.59,us,us7000khqz,2023-07-23T05:28:55.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,6.6,11.652,0.074,48,reviewed,us,us
 2023-07-23T04:59:33.927Z,58.9644,-151.0899,36.2,1.4,ml,,,,0.3,ak,ak0239dgd90w,2023-07-23T05:01:32.382Z,"60 km SE of Port Graham, Alaska",earthquake,,15.2,,,automatic,ak,ak
 2023-07-23T04:59:28.716Z,62.4197,-150.696,70.9,0.6,ml,,,,0.76,ak,ak0239dgd8ow,2023-07-23T05:06:07.681Z,"9 km SSE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-23T04:52:37.108Z,58.2317,-155.2406,25.5,0.6,ml,,,,0.97,ak,ak0239dgbr9a,2023-07-23T04:54:22.683Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
@@ -162,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T09:54:14.440Z,33.4818333,-116.5346667,13.46,0.62,ml,21,85,0.05788,0.14,ci,ci39619162,2023-07-22T09:57:47.533Z,"15km ESE of Anza, CA",earthquake,0.31,0.48,0.08,17,automatic,ci,ci
 2023-07-22T09:45:59.605Z,38.4474,-119.4038,6.4,1,ml,6,127.68,0.063,0.1794,nn,nn00863113,2023-07-22T14:21:51.519Z,"9 km SE of Walker, California",earthquake,,4.5,0.2,3,reviewed,nn,nn
 2023-07-22T09:38:54.345Z,31.6504,-104.347,5,2.5,mb_lg,16,114,0.132,0.36,us,us7000khl1,2023-07-22T09:51:45.115Z,"58 km S of Whites City, New Mexico",earthquake,1.37,1.914,0.089,45,reviewed,us,us
-2023-07-22T09:24:22.027Z,31.93450928,-102.3422018,7.898885091,3.6,ml,14,82,0.0253545631,0.1,tx,tx2023ofue,2023-07-23T05:01:28.923Z,"10 km NNE of Odessa, Texas",earthquake,0.8546630342,0.7678531700999999,0.1,6,reviewed,tx,tx
+2023-07-22T09:24:22.027Z,31.93450928,-102.3422018,7.898885091,3.6,ml,14,82,0.0253545631,0.1,tx,tx2023ofue,2023-07-23T05:29:48.298Z,"10 km NNE of Odessa, Texas",earthquake,0.8546630342,0.7678531700999999,0.1,6,reviewed,tx,tx
 2023-07-22T09:17:45.432Z,64.674,-147.4794,24.4,0.1,ml,,,,0.74,ak,ak0239bvk3db,2023-07-22T09:23:38.917Z,"10 km SW of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-22T09:17:10.976Z,38.4427,-119.3795,5.9,1.1,ml,6,337.35,0.077,0.1743,nn,nn00863112,2023-07-22T14:18:43.989Z,"11 km SE of Walker, California",earthquake,,2.6,0.01,2,reviewed,nn,nn
 2023-07-22T09:12:27.530Z,37.5786667,-118.792,0.85,0.72,md,14,290,0.03159,0.03,nc,nc73915466,2023-07-22T20:41:17.148Z,"10 km W of Toms Place, CA",earthquake,2.04,0.87,0.237,15,reviewed,nc,nc
