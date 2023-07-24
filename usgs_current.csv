@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-24T09:41:49.830Z,31.5311667,-115.6791667,5.25,2.42,ml,7,89,0.1657,0.24,ci,ci39620258,2023-07-24T09:45:32.250Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.58,4.49,0.139,10,automatic,ci,ci
+2023-07-24T09:39:00.291Z,62.2237,-151.1643,75.8,1.2,ml,,,,0.26,ak,ak0239f6reml,2023-07-24T09:40:47.080Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-24T09:08:15.862Z,63.1592,-150.5743,118.3,2.2,ml,,,,0.36,ak,ak0239f6ksmq,2023-07-24T09:10:19.369Z,"71 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-24T08:57:15.630Z,32.3978333,-115.2281667,11.29,2.06,ml,25,51,0.06849,0.32,ci,ci39620242,2023-07-24T09:07:45.870Z,"6km NW of Delta, B.C., MX",earthquake,0.6,1.12,0.23,20,automatic,ci,ci
 2023-07-24T08:54:56.810Z,33.4858333,-116.8871667,12.62,0.29,ml,20,69,0.06809,0.21,ci,ci39620234,2023-07-24T08:58:32.972Z,"5km NNW of Aguanga, CA",earthquake,0.39,0.87,0.103,8,automatic,ci,ci
@@ -184,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T09:58:38.186Z,59.3385,-153.3395,110.3,1.3,ml,,,,0.36,ak,ak0239djc7nu,2023-07-23T10:00:52.562Z,"66 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-23T09:57:53.010Z,38.7936668,-122.7581635,1.81,1.07,md,12,83,0.01973,0.02,nc,nc73915761,2023-07-23T11:11:17.487Z,"2 km N of The Geysers, CA",earthquake,0.29,0.9,0.16,11,automatic,nc,nc
 2023-07-23T09:47:43.607Z,12.7062,-88.2828,61.391,4.1,mb,29,166,0.759,0.55,us,us7000khs9,2023-07-23T19:58:30.742Z,"off the coast of Central America",earthquake,4.79,3.542,0.093,32,reviewed,us,us
-2023-07-23T09:38:05.480Z,59.7951,-152.1652,70.3,2.7,ml,,,,0.13,ak,ak0239dj7utg,2023-07-23T14:29:32.166Z,"18 km W of Anchor Point, Alaska",earthquake,,1.3,,,automatic,ak,ak
