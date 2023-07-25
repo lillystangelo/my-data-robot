@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-25T20:02:11.176Z,61.2899,-146.5549,53.6,1.4,ml,,,,0.37,ak,ak0239h0mm4d,2023-07-25T20:03:48.719Z,"20 km NNW of Valdez, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2023-07-25T20:01:59.753Z,58.2099,-155.2185,1.2,0.1,ml,,,,0.13,ak,ak0239h0mi5j,2023-07-25T20:03:44.738Z,"84 km NNW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-07-25T19:59:33.526Z,63.2979,-150.0101,92.2,0.9,ml,,,,0.35,ak,ak0239h0dg20,2023-07-25T20:01:31.615Z,"54 km WSW of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-07-25T19:56:59.610Z,33.8778333,-117.4725,7.22,0.79,ml,14,84,0.06444,0.24,ci,ci39621890,2023-07-25T20:00:37.959Z,"4km E of Home Gardens, CA",earthquake,0.58,1.55,0.216,8,automatic,ci,ci
 2023-07-25T19:30:07.731Z,-11.0978,163.0509,45.609,5,mb,77,123,3.471,0.51,us,us6000kvis,2023-07-25T19:49:14.040Z,"142 km ESE of Kirakira, Solomon Islands",earthquake,11.02,6.97,0.045,157,reviewed,us,us
 2023-07-25T19:28:02.358Z,57.0186,-158.3126,6.4,1,ml,,,,0.63,ak,ak0239h06qgb,2023-07-25T19:30:17.442Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-25T19:23:43.296Z,58.1925,-155.331,1.1,0,ml,,,,0.38,ak,ak0239h05r15,2023-07-25T19:25:03.857Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -6,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T19:07:27.501Z,61.2843,-148.7854,24.3,1.2,ml,,,,1.04,ak,ak0239h02acu,2023-07-25T19:09:20.865Z,"20 km SSE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-25T19:01:17.880Z,47.82833333333333,-121.97066666666667,-0.48,1.1300000000000001,md,5,111,0.04258,0.15,uw,uw61943791,2023-07-25T19:40:43.370Z,"Seattle-Tacoma urban area, Washington",explosion,1.11,31.61,0.28596105825048657,5,reviewed,uw,uw
 2023-07-25T18:43:39.930Z,37.9201667,-121.9485,-0.39,0.93,md,11,129,0.03362,0.13,nc,nc73916656,2023-07-25T19:40:41.702Z,"3 km SSW of Clayton, CA",quarry blast,0.39,31.61,0.317,8,reviewed,nc,nc
-2023-07-25T18:03:11.880Z,34.0458333,-117.0381667,19.7,0.96,ml,19,99,0.07838,0.28,ci,ci39621778,2023-07-25T18:06:46.696Z,"1km NNE of Yucaipa, CA",earthquake,0.67,1.5,0.153,15,automatic,ci,ci
+2023-07-25T18:03:11.700Z,34.0495,-117.0271667,20.9,0.96,ml,20,126,0.08759,0.23,ci,ci39621778,2023-07-25T20:10:34.208Z,"2km NE of Yucaipa, CA",earthquake,0.45,1.06,0.115,7,reviewed,ci,ci
 2023-07-25T17:57:13.579Z,59.4078,-153.3913,105,1.4,ml,,,,0.72,ak,ak0239gz63vh,2023-07-25T17:59:32.177Z,"58 km SE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-25T17:53:40.315Z,58.2503,-155.0684,8.7,0.1,ml,,,,0.09,ak,ak0239gz5b2n,2023-07-25T17:55:24.454Z,"84 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-25T17:44:46.530Z,47.4071666666667,-113.1015,15,1.01,ml,16,99,0.3138,0.14,mb,mb90022378,2023-07-25T19:47:59.360Z,"western Montana",earthquake,0.36,31.61,0.110054098535725,5,reviewed,mb,mb
@@ -192,7 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T20:24:40.560Z,19.3836666666667,-155.194666666667,24.22,1.95,md,24,151,,0.08,hv,hv73495857,2023-07-25T05:46:01.700Z,"7 km SSE of Volcano, Hawaii",earthquake,1.19,0.61,0.127900858723131,6,reviewed,hv,hv
 2023-07-24T20:23:33.780Z,56.0584,-158.9195,44.3,1.3,ml,,,,0.29,ak,ak0239fd7teq,2023-07-24T20:24:40.465Z,"21 km NE of Perryville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-24T20:14:30.392Z,22.7759,94.4871,105.736,4.4,mb,26,165,3.098,0.87,us,us7000ki2c,2023-07-24T20:43:33.040Z,"84 km E of Falam, Myanmar",earthquake,13.48,5.144,0.117,21,reviewed,us,us
-2023-07-24T20:09:27.560Z,37.5695,-118.8493333,-0.4,1.02,md,10,273,0.02604,0.03,nc,nc73916281,2023-07-24T21:13:11.886Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.28,0.47,0.136,9,reviewed,nc,nc
-2023-07-24T20:05:09.100Z,36.8896667,-121.612,1.81,1.8,md,33,71,0.01688,0.08,nc,nc73916276,2023-07-24T22:30:53.673Z,"3 km E of Aromas, CA",earthquake,0.16,0.28,0.121,33,reviewed,nc,nc
-2023-07-24T20:03:17.662Z,57.1513,-156.3863,21,1.7,ml,,,,0.68,ak,ak0239fd3hue,2023-07-24T20:05:46.389Z,"73 km SE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-24T19:59:17.833Z,61.9907,-149.8846,46.1,1.1,ml,,,,0.18,ak,ak0239fcu2cn,2023-07-24T20:01:00.615Z,"19 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
