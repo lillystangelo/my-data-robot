@@ -210,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T22:42:16.810Z,33.6551667,-116.7818333,13.15,0.27,ml,12,65,0.07939,0.15,ci,ci39621194,2023-07-24T22:45:45.722Z,"11km SSW of Idyllwild, CA",earthquake,0.48,1.06,0.067,5,automatic,ci,ci
 2023-07-24T22:39:00.209Z,59.6592,-152.5735,73.8,1.1,ml,,,,0.74,ak,ak0239fei1hg,2023-07-24T22:40:39.697Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-24T22:38:33.610Z,32.9083333,-116.9505,3.68,1.25,ml,23,104,0.07107,0.28,ci,ci39621186,2023-07-25T21:22:40.853Z,"6km NNW of Lakeside, CA",earthquake,0.44,1.71,0.231,8,reviewed,ci,ci
-2023-07-24T22:28:38.050Z,37.4835,-118.846,-0.19,1.35,md,14,204,0.1072,0.18,nc,nc73916296,2023-07-25T00:46:10.165Z,"17 km WSW of Toms Place, CA",earthquake,1.78,13.01,0.18,13,reviewed,nc,nc
-2023-07-24T22:28:15.861Z,61.604,-152.0965,4.6,1.1,ml,,,,0.21,ak,ak0239fefcwk,2023-07-24T22:40:29.056Z,"56 km SW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-24T22:26:26.165Z,59.4893,-150.9218,34.6,1.5,ml,,,,0.44,ak,ak0239fefb6g,2023-07-24T22:28:25.362Z,"20 km SE of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
