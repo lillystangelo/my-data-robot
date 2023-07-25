@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-25T22:40:47.549Z,58.7336,-154.1312,59.1,1.2,ml,,,,1.13,ak,ak0239h21nvg,2023-07-25T22:43:21.432Z,"86 km SSE of Kokhanok, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-07-25T22:34:22.998Z,60.2159,-153.1347,124.8,1.5,ml,,,,0.24,ak,ak0239h20d5n,2023-07-25T22:36:38.977Z,"65 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-25T22:26:31.837Z,18.0681,146.5227,61.143,4.9,mb,62,95,2.898,0.8,us,us6000kvjr,2023-07-25T22:41:25.040Z,"Pagan region, Northern Mariana Islands",earthquake,11.29,7.58,0.063,79,reviewed,us,us
 2023-07-25T22:19:50.860Z,19.1634998321533,-155.482330322266,32.1199989318848,2.2,ml,42,107,,0.0900000036,hv,hv73497322,2023-07-25T22:25:20.200Z,"4 km S of Pāhala, Hawaii",earthquake,0.48,0.769999981,4.21,8,automatic,hv,hv
 2023-07-25T22:19:42.422Z,59.9155,-152.7857,94.9,1.6,ml,,,,0.35,ak,ak0239h1x6wy,2023-07-25T22:21:37.065Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-25T22:19:32.270Z,19.1663341522217,-155.473831176758,32.9000015258789,2.22,ml,19,166,,0.129999995,hv,hv73497317,2023-07-25T22:25:02.720Z,"Hawaii region, Hawaii",earthquake,0.98,1.16999996,4.22,8,automatic,hv,hv
@@ -182,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T02:13:06.820Z,57.9327,-155.9532,14.6,1.6,ml,,,,0.91,ak,ak0239gpz5ru,2023-07-25T02:14:57.739Z,"89 km ESE of Egegik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-25T02:11:19.080Z,57.9953,-155.9319,5,2.5,ml,,,,1.21,ak,ak0239gpyrac,2023-07-25T02:13:00.204Z,"88 km SSE of King Salmon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-25T01:58:25.510Z,38.8436661,-122.8746643,2.18,1.77,md,32,86,0.005975,0.03,nc,nc73916336,2023-07-25T04:16:12.513Z,"13 km NW of The Geysers, CA",earthquake,0.22,0.32,0.13,33,automatic,nc,nc
+2023-07-25T01:55:19.710Z,45.3731666666667,-112.132666666667,1.99,0.38,ml,6,98,0.1542,0.05,mb,mb90022478,2023-07-25T22:41:49.490Z,"5 km NNW of Alder, Montana",earthquake,0.37,1.33,0.333157922504102,2,reviewed,mb,mb
 2023-07-25T01:47:17.315Z,61.8117,-149.8602,19.8,1,ml,,,,0.5,ak,ak0239gpl1de,2023-07-25T01:49:57.616Z,"11 km NE of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-25T01:36:43.057Z,48.1196,154.972,10,5.1,mww,69,129,5.287,0.92,us,us7000ki52,2023-07-25T02:44:35.040Z,"296 km SSW of Severo-Kuril’sk, Russia",earthquake,9.26,1.887,0.093,11,reviewed,us,us
 2023-07-25T01:32:24.060Z,44.6121666666667,-112.588666666667,8.51,1.59,ml,9,119,0.03983,0.04,mb,mb90022328,2023-07-25T14:13:15.190Z,"2 km S of Lima, Montana",earthquake,0.25,0.45,0.162162866864218,16,reviewed,mb,mb
@@ -206,7 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T22:57:14.120Z,37.9245,-88.6531666666667,7.82,2.11,md,23,57,0.4934,0.33,nm,nm60538626,2023-07-25T12:57:59.980Z,"Illinois-Kentucky border region",earthquake,0.44,1.54,0.0863889556661901,9,reviewed,nm,nm
 2023-07-24T22:55:46.671Z,64.9957,-147.3845,3.3,2,ml,,,,0.64,ak,ak0239felkiz,2023-07-24T22:57:35.750Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-24T22:50:54.984Z,66.4531,-154.4982,0.1,1.3,ml,,,,1.03,ak,ak0239fekij0,2023-07-24T22:53:22.036Z,"46 km NNW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-24T22:44:29.695Z,64.6562,-146.895,2.6,1,ml,,,,1.02,ak,ak0239fej6c9,2023-07-24T22:46:02.720Z,"7 km E of Eielson Air Force Base, Alaska",earthquake,,3.7,,,automatic,ak,ak
-2023-07-24T22:42:16.810Z,33.6551667,-116.7818333,13.15,0.27,ml,12,65,0.07939,0.15,ci,ci39621194,2023-07-24T22:45:45.722Z,"11km SSW of Idyllwild, CA",earthquake,0.48,1.06,0.067,5,automatic,ci,ci
-2023-07-24T22:39:00.209Z,59.6592,-152.5735,73.8,1.1,ml,,,,0.74,ak,ak0239fei1hg,2023-07-24T22:40:39.697Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-07-24T22:38:33.610Z,32.9083333,-116.9505,3.68,1.25,ml,23,104,0.07107,0.28,ci,ci39621186,2023-07-25T21:22:40.853Z,"6km NNW of Lakeside, CA",earthquake,0.44,1.71,0.231,8,reviewed,ci,ci
