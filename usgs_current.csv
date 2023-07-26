@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-26T08:43:30.860Z,35.3945007,-118.5753326,5.05,1.81,ml,41,55,0.163,0.18,ci,ci39622442,2023-07-26T08:45:40.994Z,"23 km SSW of Bodfish, CA",earthquake,0.23,1.08,0.302,18,automatic,ci,ci
 2023-07-26T08:32:22.797Z,61.9622,-151.0619,51.3,1,ml,,,,0.6,ak,ak0239ih77qf,2023-07-26T08:35:23.925Z,"Southern Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-26T08:29:07.950Z,61.5406,-149.9268,34.1,1.6,ml,,,,0.25,ak,ak0239ih6jfv,2023-07-26T08:30:25.326Z,"2 km NE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-26T08:13:41.630Z,33.045,-116.4088333,14.15,0.7,ml,16,99,0.1264,0.14,ci,ci39622434,2023-07-26T08:17:11.814Z,"18km ESE of Julian, CA",earthquake,0.33,0.61,0.123,7,automatic,ci,ci
