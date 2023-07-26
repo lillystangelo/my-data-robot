@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T04:18:59.150Z,36.7763329,-121.3349991,5.6,1.36,md,10,127,,0.09,nc,nc73916391,2023-07-25T07:26:24.590Z,"2 km SW of Tres Pinos, CA",earthquake,0.46,1.48,0.18,7,automatic,nc,nc
 2023-07-25T04:18:51.710Z,44.4165,-122.58083333333333,7.81,0.86,ml,11,73,0.1551,0.26,uw,uw61943616,2023-07-25T18:17:19.970Z,"8 km WNW of Cascadia, Oregon",earthquake,0.51,5.51,0.3355440200704211,4,reviewed,uw,uw
 2023-07-25T04:00:42.390Z,38.8173332,-122.7986679,1.4,1.17,md,19,57,0.009714,0.01,nc,nc73916386,2023-07-25T06:58:14.417Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.39,0.17,21,automatic,nc,nc
-2023-07-25T03:45:06.584Z,58.1925,-155.2829,4.9,0.4,ml,,,,0.59,ak,ak0239gqrgaf,2023-07-25T03:47:40.775Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-25T03:44:12.870Z,32.5081667,-116.9803333,10.92,1.41,ml,27,123,0.06253,0.16,ci,ci39621274,2023-07-25T14:59:16.246Z,"4km ESE of Tijuana, B.C., MX",earthquake,0.25,0.47,0.23,11,reviewed,ci,ci
