@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-27T15:32:56.260Z,38.8186684,-122.8246689,2.16,0.43,md,8,89,0.009232,0.01,nc,nc73917316,2023-07-27T15:34:30.398Z,"8 km NW of The Geysers, CA",earthquake,0.47,1.2,0.27,7,automatic,nc,nc
+2023-07-27T15:28:31.210Z,66.325,-156.9967,0.1,2.4,ml,,,,1.28,ak,ak0239k8vr8m,2023-07-27T15:32:05.448Z,"63 km S of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-27T15:27:20.519Z,58.3026,-154.8227,0,0.6,ml,,,,0.33,ak,ak0239k8vipf,2023-07-27T15:28:22.292Z,"84 km NNW of Karluk, Alaska",earthquake,,7.6,,,automatic,ak,ak
 2023-07-27T15:13:20.198Z,63.2983,-150.6502,0,1.5,ml,,,,0.74,ak,ak0239k8sinn,2023-07-27T15:15:26.381Z,"60 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-27T14:59:26.645Z,57.6663,-154.5366,250,1.5,ml,,,,0.95,ak,ak0239k8gyr3,2023-07-27T15:02:24.033Z,"11 km NNW of Karluk, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-07-27T14:45:52.303Z,58.2469,-155.1873,1.3,1.4,ml,,,,0.51,ak,ak0239k8e0gs,2023-07-27T14:48:16.767Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-27T14:44:33.720Z,38.7976685,-122.7998352,3.32,1.11,md,27,41,0.009665,0.02,nc,nc73917311,2023-07-27T14:55:10.023Z,"4 km WNW of The Geysers, CA",earthquake,0.24,0.42,0.23,27,automatic,nc,nc
+2023-07-27T14:44:33.720Z,38.7976685,-122.7998352,3.32,1.11,md,27,41,0.009665,0.02,nc,nc73917311,2023-07-27T15:26:10.789Z,"4 km WNW of The Geysers, CA",earthquake,0.24,0.42,0.23,27,automatic,nc,nc
 2023-07-27T14:44:18.678Z,61.158,-152.1974,124.2,2.1,ml,,,,0.31,ak,ak0239k8dq43,2023-07-27T14:46:10.115Z,"58 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-27T14:42:16.745Z,64.1878,-148.0808,17.2,0.8,ml,,,,0.51,ak,ak0239k8daju,2023-07-27T14:48:26.865Z,"53 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T14:40:32.390Z,38.788166,-122.7471695,1.37,1.02,md,13,84,0.009532,0.02,nc,nc73917306,2023-07-27T15:10:12.108Z,"1 km NNE of The Geysers, CA",earthquake,0.24,0.55,0.23,14,automatic,nc,nc
@@ -10,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T14:36:49.970Z,33.6971667,-116.8203333,13.33,0.85,ml,27,61,0.0708,0.19,ci,ci39623530,2023-07-27T14:40:29.149Z,"9km SE of Valle Vista, CA",earthquake,0.36,0.56,0.147,24,automatic,ci,ci
 2023-07-27T14:28:07.860Z,38.7928352,-122.7473297,1.42,1.21,md,16,90,0.01241,0.04,nc,nc73917296,2023-07-27T15:00:10.054Z,"2 km NNE of The Geysers, CA",earthquake,0.27,0.53,0.16,17,automatic,nc,nc
 2023-07-27T14:18:45.516Z,61.5865,-149.8448,33,1.4,ml,,,,0.68,ak,ak0239k887l3,2023-07-27T14:21:29.472Z,"5 km SSW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-27T14:18:03.580Z,38.8373337,-122.8243332,2.08,0.33,md,6,138,0.008801,0,nc,nc73917291,2023-07-27T14:37:11.913Z,"9 km NW of The Geysers, CA",earthquake,0.69,1.91,0.27,7,automatic,nc,nc
+2023-07-27T14:18:03.580Z,38.8373337,-122.8243332,2.08,0.33,md,6,138,0.008801,0,nc,nc73917291,2023-07-27T15:25:48.986Z,"9 km NW of The Geysers, CA",earthquake,0.69,1.91,0.27,7,automatic,nc,nc
 2023-07-27T14:17:45.410Z,34.0936667,-117.2976667,12.39,1.02,ml,20,92,0.04635,0.19,ci,ci39623498,2023-07-27T14:21:34.499Z,"3km NNE of Colton, CA",earthquake,0.38,0.84,0.178,22,automatic,ci,ci
 2023-07-27T13:53:41.230Z,31.38706113,-103.0858249,3.098022461,2.2,ml,23,68,0.04955917191,0.2,tx,tx2023opgn,2023-07-27T15:24:52.753Z,"16 km N of Coyanosa, Texas",earthquake,0.8734015455,1.698253458,0.1,6,reviewed,tx,tx
 2023-07-27T13:47:53.373Z,61.5095,-151.3996,13.4,1.1,ml,,,,0.52,ak,ak0239k7t0cp,2023-07-27T13:49:34.312Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -53,17 +56,18 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T08:31:23.240Z,40.553,-111.2725,10.35,0.87,md,10,212,0.1133,0.14,uu,uu60546332,2023-07-27T13:32:30.920Z,"4 km SW of Woodland, Utah",earthquake,1.4,1.1,0.066,7,reviewed,uu,uu
 2023-07-27T08:27:51.320Z,18.8553,-64.7525,49,3.88,md,21,280,0.5427,0.2,pr,pr2023208000,2023-07-27T08:45:44.754Z,"58 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.13,2.21,0.12,15,reviewed,pr,pr
 2023-07-27T08:26:35.000Z,40.5536667,-111.283,11.13,1.84,ml,29,109,0.1061,0.21,uu,uu60546327,2023-07-27T13:22:07.480Z,"5 km WSW of Woodland, Utah",earthquake,0.53,0.63,0.17,10,reviewed,uu,uu
+2023-07-27T08:16:57.150Z,40.5646667,-111.2635,14.5,1.26,md,11,226,0.1141,0.17,uu,uu60546322,2023-07-27T15:33:45.000Z,"3 km WSW of Woodland, Utah",earthquake,1.28,1.33,0.206,7,reviewed,uu,uu
 2023-07-27T08:14:34.480Z,40.5386667,-111.268,10.84,1.65,ml,11,215,0.1239,0.21,uu,uu60033539,2023-07-27T13:29:54.290Z,"5 km SW of Woodland, Utah",earthquake,1.41,1.71,0.006,2,reviewed,uu,uu
 2023-07-27T08:14:01.570Z,40.5716667,-111.2931667,12.55,1.59,ml,22,119,0.09059,0.17,uu,uu60546317,2023-07-27T13:24:13.090Z,"4 km SSW of Francis, Utah",earthquake,0.62,0.75,0.16,8,reviewed,uu,uu
 2023-07-27T08:01:39.977Z,58.1909,-155.3101,1.1,0.1,ml,,,,0.26,ak,ak0239k4jyct,2023-07-27T08:02:53.360Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-07-27T07:56:52.823Z,61.5761,-149.8365,32.7,2,ml,,,,0.5,ak,ak0239k4ac4i,2023-07-27T07:58:36.500Z,"6 km S of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-27T07:53:57.508Z,62.8421,-150.3147,76.5,1.1,ml,,,,1.37,ak,ak0239k49pc6,2023-07-27T07:56:29.113Z,"44 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-27T07:42:07.430Z,31.56759707,-104.0565342,7.468383789,2.5,ml,32,54,0.01941537205,0.3,tx,tx2023oouk,2023-07-27T12:58:24.719Z,"western Texas",earthquake,0.7456616087,0.7067497273,0.2,23,reviewed,tx,tx
-2023-07-27T07:38:21.710Z,37.854332,-122.2366638,8.92,2.63,md,70,33,,0.05,nc,nc73917236,2023-07-27T15:24:32.844Z,"3 km N of Piedmont, CA",earthquake,0.13,0.27,0.1,74,automatic,nc,nc
+2023-07-27T07:38:21.710Z,37.854332,-122.2366638,8.92,2.63,md,70,33,,0.05,nc,nc73917236,2023-07-27T15:34:45.054Z,"3 km N of Piedmont, CA",earthquake,0.13,0.27,0.1,74,automatic,nc,nc
 2023-07-27T07:32:31.554Z,-14.6718,168.0724,10,4.6,mb,40,54,6.871,0.75,us,us6000kvuz,2023-07-27T08:09:11.040Z,"104 km SSE of Sola, Vanuatu",earthquake,9.54,1.865,0.112,33,reviewed,us,us
 2023-07-27T07:24:05.150Z,38.8161659,-122.8284988,2.12,0.61,md,8,98,0.007307,0.01,nc,nc73917231,2023-07-27T07:42:15.495Z,"8 km NW of The Geysers, CA",earthquake,0.57,1.25,0.2,8,automatic,nc,nc
 2023-07-27T07:21:27.921Z,58.784,-154.2997,112.8,1.4,ml,,,,0.4,ak,ak0239k42s54,2023-07-27T07:25:08.471Z,"77 km SSE of Kokhanok, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-07-27T07:16:50.640Z,33.7928333,-116.0966667,0.31,1.33,ml,34,81,0.1469,0.24,ci,ci39623346,2023-07-27T07:27:59.220Z,"14km NE of Indio, CA",earthquake,0.3,31.61,0.128,27,automatic,ci,ci
+2023-07-27T07:16:50.720Z,33.7948333,-116.088,2.75,1.34,ml,49,45,0.1112,0.16,ci,ci39623346,2023-07-27T15:30:32.740Z,"14km NE of Indio, CA",earthquake,0.14,0.45,0.126,34,reviewed,ci,ci
 2023-07-27T07:10:15.770Z,36.7834,-116.0747,3.5,-0.2,ml,10,154.32,0.03,0.0699,nn,nn00863622,2023-07-27T15:23:09.587Z,"43 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.39,5,reviewed,nn,nn
 2023-07-27T07:03:00.234Z,-14.7663,167.9648,10,5.3,mww,102,51,6.737,0.57,us,us6000kvum,2023-07-27T09:08:01.118Z,"Vanuatu",earthquake,8.13,1.785,0.056,31,reviewed,us,us
 2023-07-27T06:59:21.446Z,61.353,-141.1538,11,1.2,ml,,,,0.25,ak,ak0239k3ph8w,2023-07-27T07:01:07.525Z,"94 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -160,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T19:45:36.826Z,60.9962,-151.5193,68.7,1.5,ml,,,,0.13,ak,ak0239intss2,2023-07-26T19:46:43.334Z,"22 km WSW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-26T19:45:28.101Z,37.2226,-114.6202,2.1,3.2,ml,10,113.41,0.389,0.135,nn,nn00863328,2023-07-26T20:48:30.977Z,"44 km SSW of Caliente, Nevada",earthquake,,14,0.2,7,reviewed,nn,nn
 2023-07-26T19:32:19.940Z,56.875,-158.047166666667,4.5,0.31,ml,4,264,,0.04,av,av91978206,2023-07-27T03:06:22.270Z,"68 km NNE of Chignik, Alaska",earthquake,0.75,1.52,0.574842034466211,4,reviewed,av,av
-2023-07-26T19:31:58.780Z,47.23116666666667,-118.836,-0.49,1.57,ml,12,164,0.1782,0.43,uw,uw61944171,2023-07-27T04:20:11.768Z,"Washington",explosion,1.27,31.61,0.12048182860814127,11,reviewed,uw,uw
+2023-07-26T19:31:58.780Z,47.23116666666667,-118.836,-0.49,1.57,ml,12,164,0.1782,0.43,uw,uw61944171,2023-07-27T04:20:11.768Z,"15 km SW of Odessa, Washington",explosion,1.27,31.61,0.12048182860814127,11,reviewed,uw,uw
 2023-07-26T19:26:34.570Z,56.8773333333333,-158.077666666667,4.42,0.29,ml,6,237,,0.1,av,av91978191,2023-07-27T03:00:53.470Z,"67 km NNE of Chignik, Alaska",earthquake,0.61,0.75,0.24485706405341,6,reviewed,av,av
 2023-07-26T19:23:23.150Z,57.7345,-155.9478,19.2,1.1,ml,,,,0.25,ak,ak0239inp1vh,2023-07-26T19:26:02.086Z,"90 km ENE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-26T19:18:44.660Z,19.1979999542236,-155.385665893555,31.0799999237061,1.83000004,md,35,170,,0.0900000036,hv,hv73498072,2023-07-26T19:21:57.120Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.699999988,1.39999998,7,automatic,hv,hv
@@ -205,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T15:54:19.417Z,58.2631,-155.085,1.1,2.4,ml,,,,0.37,ak,ak0239ilhygl,2023-07-26T15:55:54.436Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-26T15:46:27.300Z,39.4948333,-122.9503333,8.19,2.21,md,37,55,0.1833,0.12,nc,nc73917011,2023-07-26T21:32:14.419Z,"10 km N of Lake Pillsbury, CA",earthquake,0.18,0.75,0.187,48,reviewed,nc,nc
 2023-07-26T15:35:14.700Z,39.4948333,-122.9483333,6.77,2.61,md,41,56,0.1845,0.1,nc,nc73917006,2023-07-26T20:52:15.149Z,"10 km N of Lake Pillsbury, CA",earthquake,0.14,0.76,0.272,67,reviewed,nc,nc
-2023-07-26T15:29:17.885Z,54.6515,-160.9861,40.221,4.7,mwr,114,158,0.712,1.1,us,us6000kvnt,2023-07-26T17:24:18.579Z,"82 km SSW of Sand Point, Alaska",earthquake,4.21,6.3,0.078,16,reviewed,us,us
-2023-07-26T15:27:39.830Z,56.8748333333333,-158.055166666667,5.15,-0.5,ml,5,258,,0.02,av,av91977951,2023-07-27T02:48:25.980Z,"68 km NNE of Chignik, Alaska",earthquake,0.66,1.37,0.139254570694017,5,reviewed,av,av
