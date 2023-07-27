@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-27T02:29:12.850Z,33.7643333,-117.0296667,16.62,1.35,ml,8,135,0.06078,0.08,ci,ci39623274,2023-07-27T02:32:48.715Z,"5km NE of Green Acres, CA",earthquake,0.41,0.63,0.277,8,automatic,ci,ci
 2023-07-27T02:26:20.555Z,62.2648,-149.7583,17,1.4,ml,,,,0.75,ak,ak0239k14o4n,2023-07-27T02:28:40.071Z,"12 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T02:11:41.910Z,35.8573333,-117.698,5.36,1.39,ml,18,117,0.07295,0.22,ci,ci39623266,2023-07-27T02:22:46.560Z,"21km ESE of Little Lake, CA",earthquake,0.42,1.58,0.224,11,automatic,ci,ci
 2023-07-27T01:57:35.099Z,61.9596,-150.6473,13.6,1.2,ml,,,,0.39,ak,ak0239k0pwud,2023-07-27T01:59:30.831Z,"39 km E of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T00:41:12.328Z,-14.6691,168.2928,10,5,mb,30,136,6.986,0.85,us,us6000kvtn,2023-07-27T00:59:20.040Z,"118 km SE of Sola, Vanuatu",earthquake,11.34,1.913,0.12,22,reviewed,us,us
 2023-07-27T00:37:44.489Z,64.628,-147.6711,7.8,1,ml,,,,0.73,ak,ak0239k007n4,2023-07-27T00:39:26.802Z,"20 km SSW of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-27T00:33:53.877Z,61.3452,-148.1115,8.4,1.6,ml,,,,0.79,ak,ak0239jzzdi3,2023-07-27T00:36:07.856Z,"44 km ESE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-27T00:28:57.609Z,-16.2997,-172.8365,10,5.5,mww,94,38,2.996,1.42,us,us6000kvtk,2023-07-27T00:59:13.306Z,"109 km ESE of Hihifo, Tonga",earthquake,7.77,1.828,0.098,10,reviewed,us,us
+2023-07-27T00:28:57.609Z,-16.2997,-172.8365,10,5.5,mww,94,38,2.996,1.42,us,us6000kvtk,2023-07-27T02:32:18.616Z,"109 km ESE of Hihifo, Tonga",earthquake,7.77,1.828,0.098,10,reviewed,us,us
 2023-07-27T00:16:25.126Z,60.5976,-141.7446,17,2.1,ml,,,,0.45,ak,ak0239jzvo40,2023-07-27T00:17:57.064Z,"112 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-26T23:59:26.640Z,47.69,-120.25733333333334,3.3,0.22,ml,6,115,0.03308,0.02,uw,uw61944246,2023-07-27T01:41:35.830Z,"3 km WNW of Entiat, Washington",earthquake,0.21,0.65,0.09661700595586442,3,reviewed,uw,uw
 2023-07-26T23:52:45.235Z,63.2481,-150.6172,132.7,1.8,ml,,,,0.16,ak,ak0239iq91uz,2023-07-26T23:54:28.576Z,"64 km ESE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -41,6 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T21:25:26.160Z,37.5745,-118.8463333,-0.99,0.28,md,8,264,0.02068,0.02,nc,nc73917121,2023-07-26T22:09:57.867Z,"14 km ESE of Mammoth Lakes, CA",earthquake,0.75,0.4,0.197,8,reviewed,nc,nc
 2023-07-26T21:22:26.164Z,61.2433,-147.5216,15.6,1.4,ml,,,,0.33,ak,ak0239iovpp4,2023-07-26T21:24:36.878Z,"62 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-26T21:14:49.830Z,38.8403333,-122.7448333,1.13,0.45,md,16,188,0.0126,0.05,nc,nc73917116,2023-07-26T22:39:10.811Z,"3 km NW of Cobb, CA",earthquake,0.25,0.31,0.198,14,reviewed,nc,nc
+2023-07-26T21:09:49.580Z,48.553666666666665,-123.62716666666667,-0.21,0.62,md,7,146,0.1142,0.28,uw,uw61944186,2023-07-27T02:35:05.660Z,"14 km NW of Langford, Canada",explosion,1.79,31.61,0.2727939506578515,6,reviewed,uw,uw
 2023-07-26T21:06:30.750Z,34.0096667,-116.661,16.94,0.96,ml,29,75,0.03075,0.13,ci,ci39623050,2023-07-26T23:32:03.350Z,"8km WSW of Morongo Valley, CA",earthquake,0.22,0.42,0.152,18,reviewed,ci,ci
 2023-07-26T21:04:37.258Z,63.1588,-150.4043,97.3,1.4,ml,,,,0.71,ak,ak0239iorvnx,2023-07-26T21:07:12.170Z,"76 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-26T21:00:53.990Z,46.2865,-122.05316666666667,7.09,0.34,ml,13,169,0.1061,0.14,uw,uw61944181,2023-07-27T02:29:13.180Z,"34 km SSE of Morton, Washington",earthquake,0.43,1.89,0.17503278520920434,6,reviewed,uw,uw
