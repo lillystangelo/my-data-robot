@@ -47,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T17:29:02.849Z,57.6048,-153.9404,19.2,2.3,ml,,,,0.39,ak,ak0239ka2rzg,2023-07-27T17:43:05.040Z,"7 km NNE of Larsen Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-27T17:26:45.480Z,33.842,-116.3036667,5.74,0.94,ml,24,93,0.05906,0.16,ci,ci39623722,2023-07-27T17:54:56.284Z,"8km ENE of Thousand Palms, CA",earthquake,0.24,0.84,0.209,24,reviewed,ci,ci
 2023-07-27T17:00:16.560Z,38.8268333,-122.8048333,2.85,-0.28,md,12,102,0.005343,0.01,nc,nc73917326,2023-07-27T19:05:19.224Z,"7 km NW of The Geysers, CA",earthquake,0.39,1.46,0.067,10,reviewed,nc,nc
+2023-07-27T16:31:15.700Z,44.5313333,-110.382,2.08,0.75,md,5,127,0.03205,0.11,uu,uu60546362,2023-07-27T22:04:19.620Z,"55 km SSE of Mammoth, Wyoming",earthquake,0.66,8.8,0.289,3,reviewed,uu,uu
 2023-07-27T16:28:20.325Z,60.1252,-152.4611,94.3,1.5,ml,,,,0.4,ak,ak0239k9h60g,2023-07-27T16:31:08.237Z,"44 km W of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-27T16:11:34.186Z,64.8517,-149.0084,15.6,2.1,ml,,,,0.64,ak,ak0239k9djv9,2023-07-27T16:13:40.455Z,"28 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-27T15:58:35.080Z,48.784,-122.78066666666666,16.31,2.52,ml,37,104,0.0807,0.23,uw,uw61944346,2023-07-27T18:50:13.650Z,"Washington",earthquake,0.38,0.67,0.17743739566909977,36,reviewed,uw,uw
