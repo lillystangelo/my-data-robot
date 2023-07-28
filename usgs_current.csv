@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-28T09:29:46.840Z,34.2598343,-118.4131699,4.97,1.24,ml,22,81,0.04756,0.16,ci,ci39624178,2023-07-28T09:31:51.861Z,"1 km SE of Pacoima, CA",earthquake,0.33,0.59,0.201,13,automatic,ci,ci
 2023-07-28T08:51:58.040Z,34.1421667,-117.4198333,3.22,0.77,ml,32,58,0.0507,0.2,ci,ci39624162,2023-07-28T08:55:32.893Z,"6 km NW of Rialto, CA",earthquake,0.27,0.7,0.116,19,automatic,ci,ci
 2023-07-28T08:45:14.210Z,38.8031654,-122.80867,1.71,0.78,md,9,82,0.01149,0.02,nc,nc73917546,2023-07-28T09:03:14.364Z,"5 km WNW of The Geysers, CA",earthquake,0.35,1.36,0.14,9,automatic,nc,nc
 2023-07-28T08:44:10.445Z,63.288,-150.4252,5.3,0.9,ml,,,,0.1,ak,ak0239lscgd0,2023-07-28T08:45:38.135Z,"70 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -229,8 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T09:39:57.305Z,58.8691,-138.9885,0,2.2,ml,,,,1.25,ak,ak0239k5dkia,2023-07-27T09:42:21.747Z,"86 km SSE of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-27T09:36:02.020Z,44.5985,-110.3623333,3.62,0.69,md,6,109,0.1089,0.2,uu,uu60546337,2023-07-27T13:59:16.730Z,"49 km SSE of Mammoth, Wyoming",earthquake,0.89,10.97,0.361,4,reviewed,uu,uu
 2023-07-27T09:35:52.500Z,58.2436666666667,-155.147666666667,1.53,-0.21,ml,10,84,,0.1,av,av91979121,2023-07-28T00:26:24.830Z,"85 km NNW of Karluk, Alaska",earthquake,0.21,1.16,0.171517807557598,10,reviewed,av,av
-2023-07-27T09:31:00.464Z,31.67066914,-104.3902919,7.982543944999999,2.3,ml,31,69,0.03185074752,0.3,tx,tx2023ooxy,2023-07-27T13:49:03.853Z,"56 km S of Whites City, New Mexico",earthquake,0.890275393,0.9601056960999999,0.1,22,reviewed,tx,tx
-2023-07-27T09:30:55.092Z,-14.6299,167.8989,10,5,mb,51,57,6.822,0.73,us,us6000kvvb,2023-07-27T09:48:29.040Z,"91 km SSE of Sola, Vanuatu",earthquake,10.01,1.015,0.072,61,reviewed,us,us
-2023-07-27T09:29:35.380Z,40.6113333,-124.0648333,16.51,1.77,md,30,36,0.1231,0.15,nc,nc73917246,2023-07-28T08:04:13.023Z,"8 km NNE of Hydesville, CA",earthquake,0.27,0.53,0.183,20,reviewed,nc,nc
-2023-07-27T09:23:14.240Z,34.0411667,-117.1935,10.33,1.12,ml,66,65,0.09512,0.15,ci,ci39623362,2023-07-27T15:48:44.730Z,"2km SSW of Redlands, CA",earthquake,0.14,0.31,0.144,33,reviewed,ci,ci
-2023-07-27T09:22:38.540Z,58.239,-155.134833333333,5.42,-0.01,ml,10,91,,0.11,av,av91979101,2023-07-28T00:30:07.830Z,"Alaska Peninsula",earthquake,0.26,0.67,0.217908266660984,10,reviewed,av,av
