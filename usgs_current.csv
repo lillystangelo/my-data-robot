@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T20:54:44.760Z,36.1941667,-120.2951667,10.09,0.84,md,13,202,0.116,0.05,nc,nc73917431,2023-07-28T05:54:14.196Z,"8 km NE of Coalinga, CA",earthquake,0.56,0.72,0.202,7,reviewed,nc,nc
 2023-07-27T20:54:09.020Z,38.838665,-122.8235016,1.51,0.72,md,16,87,0.009361,0.02,nc,nc73917426,2023-07-27T21:14:14.026Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.5,0.14,17,automatic,nc,nc
 2023-07-27T20:50:30.770Z,58.166,-155.355166666667,-1.72,-0.03,ml,5,129,,0.07,av,av91111853,2023-07-28T05:37:41.900Z,"Alaska Peninsula",earthquake,0.26,3.59,0.121106835387037,5,reviewed,av,av
-2023-07-27T20:45:00.890Z,38.8011667,-122.8196667,3.15,0.35,md,21,62,0.01069,0.02,nc,nc73917421,2023-07-28T11:12:14.106Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.38,0.41,21,reviewed,nc,nc
+2023-07-27T20:45:00.890Z,38.8011667,-122.8196667,3.15,0.35,md,21,62,0.01069,0.02,nc,nc73917421,2023-07-28T13:43:13.979Z,"6 km WNW of The Geysers, CA",earthquake,0.25,0.38,0.41,21,reviewed,nc,nc
 2023-07-27T20:42:52.440Z,35.7345,-117.535,5.13,1.01,ml,23,73,0.114,0.14,ci,ci39623962,2023-07-27T21:21:05.819Z,"12 km WSW of Searles Valley, CA",earthquake,0.24,0.69,0.125,7,reviewed,ci,ci
 2023-07-27T20:34:42.510Z,58.1826666666667,-155.334,1.85,0.39,ml,9,109,,0.07,av,av91979836,2023-07-28T04:54:47.590Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.4,0.287638716354011,9,reviewed,av,av
 2023-07-27T20:32:42.640Z,52.784,-169.829833333333,-0.28,0.03,ml,4,226,,0.29,av,av91111848,2023-07-28T05:28:52.090Z,"67 km WSW of Nikolski, Alaska",earthquake,2.79,0.61,0.22330419530251,4,reviewed,av,av
@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T13:47:53.373Z,61.5095,-151.3996,13.4,1.1,ml,,,,0.52,ak,ak0239k7t0cp,2023-07-27T13:49:34.312Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-27T13:45:27.210Z,38.8404999,-122.7491684,1.06,0.74,md,7,184,0.01905,0.01,nc,nc73917286,2023-07-27T14:56:12.027Z,"3 km NW of Cobb, CA",earthquake,0.49,0.92,0.16,8,automatic,nc,nc
 2023-07-27T13:45:07.557Z,61.9647,-150.8585,65.5,1.1,ml,,,,0.47,ak,ak0239k7shdv,2023-07-27T13:47:02.601Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-07-27T13:38:33.900Z,38.8334999,-122.8143311,1.84,1.27,md,22,54,0.01062,0.02,nc,nc73917281,2023-07-27T14:30:09.873Z,"8 km W of Cobb, CA",earthquake,0.19,0.4,0.17,25,automatic,nc,nc
