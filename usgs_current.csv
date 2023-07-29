@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T06:18:25.157Z,37.9803,-118.1106,0,1.7,ml,13,141.46,0.24,0.2754,nn,nn00863688,2023-07-29T06:21:01.456Z,"34 km N of Dyer, Nevada",earthquake,,3.1,0.41,9,automatic,nn,nn
 2023-07-29T06:16:51.360Z,35.7043333,-117.5905,6.84,1.12,ml,15,107,0.1113,0.15,ci,ci39624938,2023-07-29T06:20:31.149Z,"12 km NE of Ridgecrest, CA",earthquake,0.35,1.05,0.147,10,automatic,ci,ci
 2023-07-29T06:11:23.163Z,60.2597,-150.6828,40.5,1.3,ml,,,,0.5,ak,ak0239nehvzw,2023-07-29T06:12:58.768Z,"27 km S of Funny River, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-29T06:04:36.270Z,38.8198318,-122.7561646,1.08,0.62,md,6,135,0.01511,0.01,nc,nc73917846,2023-07-29T06:06:13.979Z,"3 km W of Cobb, CA",earthquake,0.51,1.29,0.23,7,automatic,nc,nc
+2023-07-29T06:04:36.270Z,38.8198318,-122.7561646,1.08,0.62,md,6,135,0.01511,0.01,nc,nc73917846,2023-07-29T06:40:15.980Z,"3 km W of Cobb, CA",earthquake,0.51,1.29,0.23,7,automatic,nc,nc
 2023-07-29T06:04:14.350Z,38.8209991,-122.760498,0.48,0.47,md,6,162,0.01198,0.01,nc,nc73917841,2023-07-29T06:29:18.920Z,"3 km W of Cobb, CA",earthquake,0.59,0.85,0.21,7,automatic,nc,nc
 2023-07-29T05:54:40.724Z,63.3766,-150.641,25.5,1.6,ml,,,,0.86,ak,ak0239ne5pjc,2023-07-29T05:57:08.381Z,"57 km ESE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-07-29T05:51:29.540Z,33.9343333,-116.4948333,20.77,0.85,ml,12,183,0.2623,0.3,ci,ci39624930,2023-07-29T05:55:11.794Z,"3 km SSE of Desert Hot Springs, CA",earthquake,2.3,3.15,0.155,12,automatic,ci,ci
@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T21:04:04.700Z,32.777,-116.8955,-0.34,1.47,ml,32,90,0.05715,0.32,ci,ci39624714,2023-07-28T21:50:53.666Z,"5 km NE of Rancho San Diego, CA",quarry blast,0.45,31.61,0.138,16,reviewed,ci,ci
 2023-07-28T21:01:30.068Z,38.1423,-117.9013,10.1,1.7,ml,5,118.14,0.087,0.1558,nn,nn00863679,2023-07-28T21:42:25.231Z,"Nevada",earthquake,,4.2,0.75,4,reviewed,nn,nn
 2023-07-28T21:01:29.880Z,33.4691667,-116.4701667,11.51,0.7,ml,15,74,0.06562,0.12,ci,ci39624706,2023-07-28T21:47:18.259Z,"21 km ESE of Anza, CA",earthquake,0.26,0.75,0.253,12,reviewed,ci,ci
-2023-07-28T21:00:36.130Z,36.5766667,-121.1253333,11.32,1.78,md,29,141,0.04861,0.08,nc,nc73917736,2023-07-29T06:17:19.854Z,"5 km NNE of Pinnacles, CA",earthquake,0.25,0.41,0.215,32,reviewed,nc,nc
+2023-07-28T21:00:36.130Z,36.5766667,-121.1253333,11.32,1.78,md,29,141,0.04861,0.08,nc,nc73917736,2023-07-29T06:41:11.982Z,"5 km NNE of Pinnacles, CA",earthquake,0.25,0.41,0.215,32,reviewed,nc,nc
 2023-07-28T20:52:37.120Z,40.1913333,-121.069,7.36,2.47,md,32,52,0.08119,0.14,nc,nc73917731,2023-07-29T03:43:14.914Z,"2 km NNE of Canyondam, CA",earthquake,0.27,0.5,0.135,40,reviewed,nc,nc
 2023-07-28T20:52:02.368Z,58.185,-155.262,1.1,1.2,ml,,,,0.38,ak,ak0239lzjcq4,2023-07-29T04:47:11.170Z,"83 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-28T20:46:53.612Z,63.259,-150.406,113.1,1.1,ml,,,,0.18,ak,ak0239lzi6dt,2023-07-28T20:48:58.190Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -108,6 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T18:59:53.700Z,34.9856667,-118.1858333,-0.91,1.15,ml,16,74,0.1122,0.21,ci,ci39624586,2023-07-28T20:31:54.137Z,"8 km S of Mojave, CA",quarry blast,0.45,31.61,0.038,8,reviewed,ci,ci
 2023-07-28T18:53:53.420Z,51.6335,-178.798666666667,16.01,0.65,ml,6,176,,0.24,av,av91981396,2023-07-29T04:07:54.880Z,"151 km W of Adak, Alaska",earthquake,3.2,2.01,0.34383883516452,6,reviewed,av,av
 2023-07-28T18:49:14.980Z,37.5736667,-118.8635,4.56,1.28,md,22,192,0.03183,0.02,nc,nc73917676,2023-07-28T23:02:12.343Z,"12 km SE of Mammoth Lakes, CA",earthquake,0.45,0.55,0.163,19,reviewed,nc,nc
+2023-07-28T18:45:40.840Z,37.9843333,-122.4543333,-0.02,1.52,md,20,84,0.02385,0.11,nc,nc73917671,2023-07-29T06:44:15.400Z,"6 km ESE of Santa Venetia, CA",quarry blast,0.25,31.61,0.202,17,reviewed,nc,nc
 2023-07-28T18:31:48.740Z,38.1421667,-122.2305,9.23,2.22,md,87,67,0.03244,0.16,nc,nc73917666,2023-07-28T22:35:14.195Z,"3 km N of Vallejo, CA",earthquake,0.15,0.24,0.119,81,reviewed,nc,nc
 2023-07-28T18:30:17.880Z,32.596,-117.006,-0.43,1.17,ml,13,209,0.06505,0.27,ci,ci39624514,2023-07-28T20:28:02.015Z,"5 km SE of Chula Vista, CA",quarry blast,1.41,31.61,0.113,6,reviewed,ci,ci
 2023-07-28T18:23:26.960Z,52.8106666666667,-169.907,-1.73,0.42,ml,5,175,,0.22,av,av91112028,2023-07-29T04:14:13.990Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.29,0.55,0.34183701165959,5,reviewed,av,av
@@ -127,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T17:04:18.014Z,-14.6485,167.6423,9.524,4.8,mb,26,202,6.685,1.09,us,us6000kw99,2023-07-28T17:44:31.040Z,"75 km NE of Port-Olry, Vanuatu",earthquake,13.93,6.118,0.121,22,reviewed,us,us
 2023-07-28T17:03:53.512Z,-58.7785,-25.131,32.459,4.8,mb,25,180,7.724,0.97,us,us6000kw9a,2023-07-28T18:40:37.040Z,"South Sandwich Islands region",earthquake,16.21,5.605,0.128,21,reviewed,us,us
 2023-07-28T16:40:50.900Z,34.0701667,-118.1281667,10.4,1.43,ml,15,98,0.02151,0.14,ci,ci39624370,2023-07-28T20:10:22.819Z,"1 km NNW of Monterey Park, CA",earthquake,0.32,0.55,0.135,8,reviewed,ci,ci
+2023-07-28T16:40:21.300Z,37.3481667,-121.705,8.37,1.07,md,21,53,0.05018,0.07,nc,nc73917636,2023-07-29T06:36:14.160Z,"11 km E of Alum Rock, CA",earthquake,0.24,0.42,0.252,19,reviewed,nc,nc
 2023-07-28T16:14:23.950Z,37.5701667,-118.8495,-0.65,0.38,md,11,247,0.0256,0.05,nc,nc73917631,2023-07-29T06:30:43.468Z,"14 km ESE of Mammoth Lakes, CA",earthquake,1.04,0.36,0.144,10,reviewed,nc,nc
 2023-07-28T16:13:03.420Z,37.5805,-118.8505,-0.68,0.92,md,9,222,0.01947,0.05,nc,nc73917626,2023-07-28T17:51:14.623Z,"13 km ESE of Mammoth Lakes, CA",earthquake,0.71,0.54,0.19,10,reviewed,nc,nc
 2023-07-28T16:11:17.560Z,37.5448333,-118.8323333,0.02,1.51,md,21,193,0.04519,0.04,nc,nc73917621,2023-07-28T23:29:14.509Z,"14 km W of Toms Place, CA",earthquake,0.39,1.43,0.164,21,reviewed,nc,nc
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T07:13:15.590Z,-30.5055,59.8736,10,5.4,mww,67,55,10.011,0.57,us,us6000kw2y,2023-07-28T09:16:08.827Z,"Southwest Indian Ridge",earthquake,10,1.857,0.098,10,reviewed,us,us
 2023-07-28T07:03:06.610Z,-30.4629,59.8394,10,5.6,mww,108,36,9.961,0.62,us,us6000kw2w,2023-07-28T09:06:08.545Z,"Southwest Indian Ridge",earthquake,6.26,1.835,0.078,16,reviewed,us,us
 2023-07-28T06:56:34.060Z,51.8561666666667,-177.812333333333,3.02,0.25,ml,4,251,,0.06,av,av91980601,2023-07-28T22:48:01.940Z,"81 km W of Adak, Alaska",earthquake,0.54,0.93,0.166890687208154,4,reviewed,av,av
-2023-07-28T06:43:18.300Z,61.7965,-150.7944,47.6,1.3,ml,,,,0.44,ak,ak0239lr5e1i,2023-07-28T06:45:12.885Z,"31 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-28T06:38:22.562Z,60.0787,-152.9862,109.7,2,ml,,,,0.25,ak,ak0239lr4bsg,2023-07-29T04:12:05.040Z,"70 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
