@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T19:07:42.417Z,-12.63,166.3122,59.573,4.7,mb,45,125,7.006,0.7,us,us6000kwah,2023-07-29T15:27:10.040Z,"192 km NW of Sola, Vanuatu",earthquake,9.26,6.824,0.09,40,reviewed,us,us
 2023-07-28T18:59:53.700Z,34.9856667,-118.1858333,-0.91,1.15,ml,16,74,0.1122,0.21,ci,ci39624586,2023-07-28T20:31:54.137Z,"8 km S of Mojave, CA",quarry blast,0.45,31.61,0.038,8,reviewed,ci,ci
 2023-07-28T18:53:53.420Z,51.6335,-178.798666666667,16.01,0.65,ml,6,176,,0.24,av,av91981396,2023-07-29T04:07:54.880Z,"151 km W of Adak, Alaska",earthquake,3.2,2.01,0.34383883516452,6,reviewed,av,av
-2023-07-28T18:49:14.980Z,37.5736667,-118.8635,4.56,1.28,md,22,192,0.03183,0.02,nc,nc73917676,2023-07-28T23:02:12.343Z,"12 km SE of Mammoth Lakes, CA",earthquake,0.45,0.55,0.163,19,reviewed,nc,nc
-2023-07-28T18:45:40.840Z,37.9843333,-122.4543333,-0.02,1.52,md,20,84,0.02385,0.11,nc,nc73917671,2023-07-29T06:44:15.400Z,"6 km ESE of Santa Venetia, CA",quarry blast,0.25,31.61,0.202,17,reviewed,nc,nc
