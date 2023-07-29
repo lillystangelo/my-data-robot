@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T11:35:03.990Z,32.1451667,-115.8343333,1.06,1.96,ml,8,124,0.17,0.22,ci,ci39625058,2023-07-29T11:39:54.884Z,"54 km SSW of Progreso, B.C., MX",earthquake,1.2,2.85,0.23,20,automatic,ci,ci
+2023-07-29T11:19:09.606Z,1.4318,128.2493,69.517,5,mww,66,66,1.099,0.79,us,us6000kwhp,2023-07-29T11:37:24.040Z,"42 km SE of Tobelo, Indonesia",earthquake,6.31,4.782,0.075,17,reviewed,us,us
 2023-07-29T11:18:04.023Z,58.2591,-155.0944,29.3,0.9,ml,,,,0.27,ak,ak0239nhiik2,2023-07-29T11:19:40.759Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-29T11:08:57.884Z,57.5648,-155.051,250,0.9,ml,,,,0.75,ak,ak0239nhgmpf,2023-07-29T11:11:23.276Z,"35 km W of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2023-07-29T10:55:46.040Z,38.8274994,-122.800499,1.72,1.03,md,16,50,0.008528,0.01,nc,nc73917881,2023-07-29T11:23:15.592Z,"7 km W of Cobb, CA",earthquake,0.24,0.53,0.18,15,automatic,nc,nc
@@ -218,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T11:54:28.950Z,40.2416667,-121.2025,4.03,1.86,md,12,158,0.04412,0.08,nc,nc73917581,2023-07-29T03:28:13.863Z,"4 km NW of Almanor, CA",earthquake,0.4,0.35,0.235,13,reviewed,nc,nc
 2023-07-28T11:53:11.437Z,62.7794,-150.8077,100.5,0.8,ml,,,,0.56,ak,ak0239lu6o7a,2023-07-28T11:55:20.955Z,"31 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-28T11:46:42.029Z,38.5299,-119.4884,7.6,1.1,ml,6,156.05,0.047,0.0369,nn,nn00863658,2023-07-28T14:39:02.463Z,"California-Nevada border region",earthquake,,1.3,0.05,2,reviewed,nn,nn
-2023-07-28T11:44:23.350Z,40.5708333,-124.1935,16.34,2.11,md,17,142,0.07616,0.1,nc,nc73917576,2023-07-28T18:34:13.714Z,"4 km SW of Fortuna, CA",earthquake,0.38,0.78,0.273,14,reviewed,nc,nc
-2023-07-28T11:42:31.950Z,61.2543333333333,-152.206,22.48,-0.31,ml,8,99,,0.31,av,av91981001,2023-07-29T01:21:22.790Z,"61 km WNW of Tyonek, Alaska",earthquake,1.09,1.57,0.227136380149775,8,reviewed,av,av
-2023-07-28T11:38:58.060Z,34.539,-118.8945,19.72,1.89,ml,44,28,0.06233,0.23,ci,ci39624202,2023-07-28T19:31:54.150Z,"16 km N of Fillmore, CA",earthquake,0.23,0.56,0.17,23,reviewed,ci,ci
