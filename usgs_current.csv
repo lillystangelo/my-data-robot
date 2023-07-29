@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T14:02:36.810Z,35.5626678,-120.8131638,4.6,2.41,md,30,52,0.08651,0.11,nc,nc73917906,2023-07-29T14:06:12.760Z,"10 km W of Templeton, CA",earthquake,0.26,0.99,0.11,32,automatic,nc,nc
+2023-07-29T13:50:19.749Z,63.9954,-150.2398,5,0.9,ml,,,,0.68,ak,ak0239niw9w6,2023-07-29T14:01:09.172Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-29T13:48:27.193Z,61.5053,-149.8955,32,1.5,ml,,,,0.6,ak,ak0239nivv0h,2023-07-29T13:49:54.399Z,"3 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T13:08:44.296Z,61.6308,-150.2663,35.3,1.6,ml,,,,0.59,ak,ak0239ninbpp,2023-07-29T13:10:26.766Z,"16 km NE of Susitna, Alaska",earthquake,,7.4,,,automatic,ak,ak
 2023-07-29T13:07:37.390Z,33.9876667,-116.9566667,16.08,0.97,ml,28,89,0.06903,0.18,ci,ci39625082,2023-07-29T13:11:12.594Z,"7 km NNE of Beaumont, CA",earthquake,0.3,0.72,0.142,30,automatic,ci,ci
