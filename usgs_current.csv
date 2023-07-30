@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-30T17:11:24.275Z,60.3964,-147.7684,18.4,2.1,ml,,,,0.4,ak,ak0239p8l08b,2023-07-30T17:13:18.745Z,"39 km NNE of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-30T16:57:27.160Z,38.8190002,-122.8148346,2.67,1.08,md,23,44,0.005752,0.02,nc,nc73918361,2023-07-30T16:59:00.901Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.49,0.16,25,automatic,nc,nc
 2023-07-30T16:57:27.069Z,59.5353,-152.8833,100.2,1.2,ml,,,,0.31,ak,ak0239p89fs2,2023-07-30T16:59:30.514Z,"58 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-30T16:53:54.992Z,63.2146,-151.2692,10,1.1,ml,,,,0.51,ak,ak0239p88n2j,2023-07-30T16:56:02.059Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T14:03:27.730Z,19.4701671600342,-155.888168334961,9.19999980926514,2.17,ml,34,128,,0.219999999,hv,hv73503552,2023-07-30T14:08:57.260Z,"2 km WNW of Honaunau-Napoopoo, Hawaii",earthquake,0.84,0.5,3.8,5,automatic,hv,hv
 2023-07-30T13:57:26.010Z,33.6686667,-116.7645,13.84,0.89,ml,36,57,0.05965,0.18,ci,ci39625610,2023-07-30T14:15:31.110Z,"9 km SSW of Idyllwild, CA",earthquake,0.24,0.4,0.173,26,reviewed,ci,ci
 2023-07-30T13:54:41.037Z,61.311,-152.5109,10.3,1.4,ml,,,,0.14,ak,ak0239p6giw7,2023-07-30T13:55:52.857Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-30T13:49:04.320Z,37.2561667,-121.6323333,5.88,3.61,mw,141,34,0.03266,0.09,nc,nc73918291,2023-07-30T16:58:00.982Z,"14 km N of Morgan Hill, CA",earthquake,0.08,0.17,,6,reviewed,nc,nc
+2023-07-30T13:49:04.320Z,37.2561667,-121.6323333,5.88,3.61,mw,141,34,0.03266,0.09,nc,nc73918291,2023-07-30T17:16:21.316Z,"14 km N of Morgan Hill, CA",earthquake,0.08,0.17,,6,reviewed,nc,nc
 2023-07-30T13:48:58.520Z,36.456,-89.5308333333333,8.87,1.94,md,28,35,0.06759,0.07,nm,nm60540321,2023-07-30T15:20:02.670Z,"10 km NNW of Tiptonville, Tennessee",earthquake,0.43,0.6,0.058940284020365,21,reviewed,nm,nm
 2023-07-30T13:43:01.028Z,68.6604,-148.4505,0,2.2,ml,,,,0.83,ak,ak0239p6e2xi,2023-07-30T13:45:47.127Z,"133 km WNW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-30T13:37:43.239Z,58.1742,-155.3887,1.1,0.2,ml,,,,0.69,ak,ak0239p6cvw3,2023-07-30T13:47:30.385Z,"87 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -223,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T17:34:25.447Z,45.4971,14.4734,8.569,3.9,mwr,34,30,0.766,0.73,us,us6000kwj4,2023-07-30T12:28:14.034Z,"9 km NE of Klana, Croatia",earthquake,2.55,6.481,0.05,38,reviewed,us,us
 2023-07-29T17:33:38.104Z,69.0408,-144.3659,0,2,ml,,,,0.53,ak,ak0239nl6ek2,2023-07-29T17:35:56.642Z,"112 km NNE of Arctic Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-29T17:18:27.453Z,42.9096,-126.2736,13.508,2.8,ml,54,236,1.541,0.74,us,us6000kwj2,2023-07-29T18:27:37.040Z,"146 km W of Port Orford, Oregon",earthquake,7.63,8.715,0.038,92,reviewed,us,us
-2023-07-29T17:10:07.386Z,39.6708,-119.9131,9.9,0.3,ml,4,126.15,0.074,0.1006,nn,nn00863704,2023-07-29T21:24:26.754Z,"5 km E of Cold Springs, Nevada",earthquake,,3.1,0.43,4,reviewed,nn,nn
-2023-07-29T17:04:05.100Z,38.8074989,-122.8154984,3.27,1.33,md,28,59,0.01077,0.03,nc,nc73917956,2023-07-29T19:04:13.478Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.42,0.14,29,automatic,nc,nc
