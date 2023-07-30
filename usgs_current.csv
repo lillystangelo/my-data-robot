@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-30T23:26:56.206Z,39.3363,-119.9782,1.7,1.2,ml,9,105.13,0.063,0.3868,nn,nn00863756,2023-07-30T23:28:53.184Z,"7 km SSE of Floriston, California",earthquake,,6.5,0.55,5,automatic,nn,nn
 2023-07-30T23:14:33.580Z,33.9628333,-116.7593333,17.18,1.08,ml,35,45,0.0826,0.19,ci,ci39625810,2023-07-30T23:18:12.356Z,"6 km NNE of Cabazon, CA",earthquake,0.24,0.61,0.133,27,automatic,ci,ci
 2023-07-30T23:10:09.340Z,19.3583335876465,-155.384994506836,7.30999994277954,1.83,ml,25,59,,0.159999996,hv,hv73504072,2023-07-30T23:15:39.280Z,"18 km WSW of Volcano, Hawaii",earthquake,0.56,0.930000007,0.81,3,automatic,hv,hv
 2023-07-30T23:02:10.908Z,61.3042,-152.492,0,1.9,ml,,,,0.81,ak,ak0239pc3ndu,2023-07-30T23:04:02.301Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T23:55:57.393Z,60.9817,-148.0183,0,1.6,ml,,,,0.57,ak,ak0239novrff,2023-07-29T23:57:33.164Z,"42 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-29T23:41:40.770Z,46.758833333333335,-122.43866666666666,20.11,0.93,ml,23,73,0.0984,0.2,uw,uw61936172,2023-07-30T04:52:57.640Z,"12 km WSW of Alder, Washington",earthquake,0.37,1.04,0.19506573139512529,14,reviewed,uw,uw
 2023-07-29T23:38:32.940Z,45.419333333333334,-117.61666666666666,7.03,1.42,ml,6,79,0.3396,0.27,uw,uw61936167,2023-07-30T05:03:35.200Z,"16 km WSW of Lostine, Oregon",earthquake,0.85,3.54,0.09579511110422279,4,reviewed,uw,uw
-2023-07-29T23:20:38.740Z,33.3506667,-116.3685,12.38,0.94,ml,42,67,0.0239,0.16,ci,ci39625370,2023-07-30T20:30:59.211Z,"11 km N of Borrego Springs, CA",earthquake,0.2,0.41,0.138,24,reviewed,ci,ci
