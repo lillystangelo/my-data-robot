@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-30T13:26:12.652Z,58.1495,-155.4572,26.9,0.5,ml,,,,1.02,ak,ak0239p6agwo,2023-07-30T13:28:52.559Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-07-30T13:20:18.077Z,61.68,-151.2833,72.3,1,ml,,,,0.13,ak,ak0239p696wg,2023-07-30T13:28:18.437Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-30T13:14:19.660Z,33.4421667,-116.6255,9.53,0.17,ml,13,208,0.0559,0.23,ci,ci39625594,2023-07-30T13:17:54.156Z,"13 km SSE of Anza, CA",earthquake,1.07,1.11,0.134,4,automatic,ci,ci
 2023-07-30T13:05:52.980Z,35.0611667,-118.3663333,7.81,1.02,ml,20,47,0.07328,0.15,ci,ci39625586,2023-07-30T13:09:28.105Z,"11 km SE of Tehachapi, CA",earthquake,0.24,0.8,0.205,17,automatic,ci,ci
 2023-07-30T13:03:47.459Z,37.2802,-114.7729,15.4,1.8,ml,16,330.03,0.979,0.3494,nn,nn00863733,2023-07-30T13:06:08.748Z,"35 km ESE of Alamo, Nevada",earthquake,,16.1,0.76,13,automatic,nn,nn
@@ -22,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T11:16:20.810Z,40.246666,-121.1293335,1.08,2.41,md,12,103,0.301,0.18,nc,nc73918256,2023-07-30T11:38:11.297Z,"4 km SW of Hamilton Branch, CA",earthquake,0.57,13.28,0.08,8,automatic,nc,nc
 2023-07-30T11:12:17.150Z,33.5155,-116.5475,14.32,0.64,ml,24,71,0.05019,0.13,ci,ci39625538,2023-07-30T11:15:47.367Z,"12 km ESE of Anza, CA",earthquake,0.2,0.37,0.107,18,automatic,ci,ci
 2023-07-30T10:58:33.720Z,34.0345,-117.0821667,17.77,0.98,ml,24,68,0.07302,0.15,ci,ci39625530,2023-07-30T11:02:15.397Z,"4 km W of Yucaipa, CA",earthquake,0.28,0.69,0.135,27,automatic,ci,ci
-2023-07-30T10:56:29.560Z,38.8274994,-122.8030014,1.63,0.72,md,13,66,0.006879,0.01,nc,nc73918251,2023-07-30T11:18:13.204Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.52,0.09,16,automatic,nc,nc
+2023-07-30T10:56:29.560Z,38.8274994,-122.8030014,1.63,0.72,md,13,66,0.006879,0.01,nc,nc73918251,2023-07-30T13:25:13.898Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.52,0.09,16,automatic,nc,nc
 2023-07-30T10:51:33.400Z,38.8166656,-122.7634964,1.86,0.75,md,10,111,0.01385,0.02,nc,nc73918246,2023-07-30T12:58:13.714Z,"4 km W of Cobb, CA",earthquake,0.38,0.73,0.15,10,automatic,nc,nc
 2023-07-30T10:41:58.816Z,61.4068,-146.7774,21.8,1.3,ml,,,,0.77,ak,ak0239p4lh55,2023-07-30T10:43:49.762Z,"38 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-30T10:41:08.668Z,-40.9432,174.8679,53.442,4.3,mwr,26,71,0.386,0.63,us,us6000kwp2,2023-07-30T13:00:22.341Z,"8 km WNW of Paekakariki, New Zealand",earthquake,4.38,3.401,0.05,38,reviewed,us,us
