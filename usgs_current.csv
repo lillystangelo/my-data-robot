@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-31T15:36:50.290Z,38.8381653,-122.8028336,1.79,0.28,md,10,100,0.009757,0.02,nc,nc73918706,2023-07-31T15:38:27.090Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.99,0.14,10,automatic,nc,nc
+2023-07-31T15:46:28.390Z,32.8891667,-116.2748333,6.51,0.98,ml,8,146,0.1408,0.08,ci,ci39626146,2023-07-31T15:50:06.914Z,"25 km ENE of Pine Valley, CA",earthquake,0.31,1.03,0.419,8,automatic,ci,ci
+2023-07-31T15:36:50.290Z,38.8381653,-122.8028336,1.79,0.28,md,10,100,0.009757,0.02,nc,nc73918706,2023-07-31T15:52:13.197Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.99,0.14,10,automatic,nc,nc
 2023-07-31T15:18:10.993Z,61.6205,-149.9093,45.5,0.9,ml,,,,0.21,ak,ak0239quyyi3,2023-07-31T15:20:08.221Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-31T15:15:41.781Z,60.3685,-152.0759,84,1,ml,,,,0.34,ak,ak0239quydqa,2023-07-31T15:16:57.935Z,"40 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-31T14:56:36.596Z,52.2829,179.1871,183.149,4.3,mb,87,55,2.579,0.72,us,us6000kwuz,2023-07-31T15:29:50.040Z,"290 km W of Adak, Alaska",earthquake,6.41,6.52,0.045,142,reviewed,us,us
