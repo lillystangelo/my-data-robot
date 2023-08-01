@@ -240,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T07:41:44.780Z,62.0651,-147.9608,25.7,1.1,ml,,,,0.36,ak,ak0239qqchqm,2023-07-31T07:43:16.936Z,"32 km NNW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T07:41:11.150Z,-24.2957,-67.3564,184.014,4.4,mb,25,70,1.536,0.9,us,us6000kwtf,2023-07-31T22:40:06.040Z,"105 km W of San Antonio de los Cobres, Argentina",earthquake,9.03,8.034,0.138,15,reviewed,us,us
 2023-07-31T07:40:19.690Z,44.6221666666667,-112.590833333333,6.95,0.53,ml,4,142,0.03828,0.06,mb,mb90023013,2023-07-31T21:39:31.550Z,"1 km S of Lima, Montana",earthquake,0.64,0.63,0.183210536769349,2,reviewed,mb,mb
-2023-07-31T07:39:38.059Z,63.0723,-151.0161,133.6,1.2,ml,,,,0.19,ak,ak0239qqc1sd,2023-07-31T07:42:35.429Z,"63 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-31T07:33:20.880Z,47.62716666666667,-121.7855,11.23,0.9,ml,16,129,0.09277,0.13,uw,uw61936457,2023-07-31T07:51:17.000Z,"9 km ESE of Carnation, Washington",earthquake,0.38,0.68,0.11896812747345697,11,reviewed,uw,uw
