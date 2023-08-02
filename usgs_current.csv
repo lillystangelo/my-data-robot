@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T23:43:02.940Z,33.7501678,-115.9211655,6.38,1.36,ml,29,68,0.0834,0.17,ci,ci39628322,2023-08-02T23:45:24.663Z,"24 km ENE of Thermal, CA",earthquake,0.26,0.86,0.248,11,automatic,ci,ci
+2023-08-02T23:41:52.882Z,59.5441,-154.8834,0.6,2.1,ml,,,,0.6,ak,ak0239uay514,2023-08-02T23:43:51.865Z,"13 km NNW of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-02T23:38:50.610Z,59.986,-152.1909,27.9,1.1,ml,,,,1.06,ak,ak0239uaxhpi,2023-08-02T23:41:45.031Z,"25 km W of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-08-02T23:33:37.690Z,19.3686676025391,-155.309494018555,1.82000005245209,1.82000005,md,12,80,,0.200000003,hv,hv73507857,2023-08-02T23:36:37.890Z,"Hawaii region, Hawaii",earthquake,0.44,0.629999995,0.629999995,10,automatic,hv,hv
 2023-08-02T23:07:09.230Z,60.6783,-141.24,15.5,1,ml,,,,0.17,ak,ak0239uaqrbf,2023-08-02T23:08:49.261Z,"123 km SE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-02T22:59:54.614Z,58.0034,-154.8049,57.4,1.1,ml,,,,0.87,ak,ak0239uagkg5,2023-08-02T23:01:48.847Z,"52 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T22:59:02.118Z,65.5893,-147.8802,9.8,0.8,ml,,,,0.58,ak,ak0239uaggeb,2023-08-02T23:00:32.611Z,"31 km ENE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -7,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T22:20:33.070Z,38.4246667,-112.8485,5.08,-0.23,md,9,220,0.005088,0.08,uu,uu60546907,2023-08-02T22:51:22.260Z,"14 km ENE of Milford, Utah",earthquake,0.69,0.65,0.618,3,reviewed,uu,uu
 2023-08-02T22:20:24.600Z,19.1625003814697,-155.489501953125,29.8299999237061,1.82000005,md,23,166,,0.150000006,hv,hv73507802,2023-08-02T22:23:43.100Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.79,1.01999998,0.899999976,8,automatic,hv,hv
 2023-08-02T22:16:11.770Z,38.733,-122.918,6.15,1.03,md,42,120,0.06634,0.04,nc,nc73919536,2023-08-02T22:59:11.402Z,"12 km SE of Cloverdale, CA",earthquake,0.23,0.65,0.114,33,reviewed,nc,nc
-2023-08-02T22:02:39.440Z,37.559,-118.9071667,-1.57,0.53,md,5,291,0.05341,0.05,nc,nc73919531,2023-08-02T23:07:45.955Z,"11 km SE of Mammoth Lakes, CA",earthquake,3.98,0.89,0.21,5,reviewed,nc,nc
+2023-08-02T22:02:39.440Z,37.559,-118.9071667,-1.57,0.53,md,5,291,0.05341,0.05,nc,nc73919531,2023-08-02T23:36:12.889Z,"11 km SE of Mammoth Lakes, CA",earthquake,3.98,0.89,0.21,5,reviewed,nc,nc
 2023-08-02T22:00:08.497Z,-4.2282,35.2761,10,4.5,mb,34,144,3.328,0.38,us,us6000kxea,2023-08-02T22:21:48.040Z,"15 km W of Bashanet, Tanzania",earthquake,5.83,1.937,0.111,24,reviewed,us,us
 2023-08-02T21:33:35.300Z,38.8366661,-122.8281631,1.76,0.7,md,9,95,0.006033,0.01,nc,nc73919516,2023-08-02T21:51:13.047Z,"9 km NW of The Geysers, CA",earthquake,0.39,0.96,0.27,12,automatic,nc,nc
 2023-08-02T21:12:59.650Z,33.7075,-116.7823333,16.62,0.75,ml,17,88,0.05908,0.19,ci,ci39628234,2023-08-02T21:16:38.015Z,"7 km WSW of Idyllwild, CA",earthquake,0.55,0.96,0.196,15,automatic,ci,ci
@@ -260,12 +264,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T23:54:16.840Z,46.85033333333333,-121.76483333333333,0.44,0.35000000000000003,ml,14,69,0.01931,0.08,uw,uw61937192,2023-08-02T04:31:17.810Z,"22 km ENE of Ashford, Washington",earthquake,0.22,0.47,0.19052224492270958,7,reviewed,uw,uw
 2023-08-01T23:54:00.330Z,38.8255005,-122.8065033,2.49,1.1,md,25,43,0.003493,0.02,nc,nc73919246,2023-08-02T00:45:13.761Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.38,0.15,27,automatic,nc,nc
 2023-08-01T23:53:40.740Z,46.9031666666667,-112.595333333333,10.59,0.49,ml,6,158,0.04699,0.07,mb,mb90023288,2023-08-02T15:52:54.910Z,"8 km SE of Lincoln, Montana",earthquake,0.81,0.69,0.156366858339414,4,reviewed,mb,mb
-2023-08-01T23:51:08.620Z,38.825,-122.809,2.88,2.2,md,72,25,0.001809,0.04,nc,nc73919236,2023-08-02T23:35:10.621Z,"7 km NW of The Geysers, CA",earthquake,0.11,0.16,0.155,76,reviewed,nc,nc
+2023-08-01T23:51:08.620Z,38.825,-122.809,2.88,2.2,md,72,25,0.001809,0.04,nc,nc73919236,2023-08-02T23:36:12.629Z,"7 km NW of The Geysers, CA",earthquake,0.11,0.16,0.155,76,reviewed,nc,nc
 2023-08-01T23:50:12.390Z,-32.6716,-178.1474,35,4.9,mb,22,152,3.404,1.26,us,us6000kx7h,2023-08-02T00:48:14.040Z,"south of the Kermadec Islands",earthquake,8.6,1.948,0.117,23,reviewed,us,us
-2023-08-01T23:45:59.582Z,56.5895,-156.8613,36.3,3,ml,,,,0.42,ak,ak0239snfnx2,2023-08-02T04:44:50.040Z,"100 km ENE of Chignik, Alaska",earthquake,,5,,,automatic,ak,ak
-2023-08-01T23:45:23.799Z,60.5905,-151.4683,50.3,1,ml,,,,0.81,ak,ak0239snfl5k,2023-08-01T23:47:29.460Z,"8 km WSW of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-08-01T23:44:45.330Z,37.5963333,-118.8795,2.52,0.41,md,7,202,0.02616,0.01,nc,nc73919231,2023-08-02T05:10:13.338Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.83,1.7,0.04,7,reviewed,nc,nc
-2023-08-01T23:43:20.970Z,39.3248333,-122.7966667,-0.89,1.64,md,24,68,0.1504,0.21,nc,nc73919226,2023-08-02T06:53:14.947Z,"17 km ESE of Lake Pillsbury, CA",earthquake,0.33,0.95,0.156,22,reviewed,nc,nc
-2023-08-01T23:40:21.470Z,46.905,-112.5985,12.75,0.95,ml,10,110,0.04458,0.1,mb,mb90023278,2023-08-02T15:05:11.130Z,"8 km SE of Lincoln, Montana",earthquake,0.51,0.79,0.141346081940571,5,reviewed,mb,mb
-2023-08-01T23:40:06.270Z,46.9038333333333,-112.596166666667,12.29,0.77,ml,10,110,0.04632,0.1,mb,mb90023218,2023-08-02T15:00:02.560Z,"8 km SE of Lincoln, Montana",earthquake,0.49,0.77,0.127862072555223,3,reviewed,mb,mb
-2023-08-01T23:38:23.500Z,38.811,-122.79,2.91,0.45,md,21,44,0.005131,0.02,nc,nc73919221,2023-08-02T20:59:15.773Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.44,0.244,20,reviewed,nc,nc
