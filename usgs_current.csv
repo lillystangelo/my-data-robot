@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T15:59:39.132Z,-46.3098,166.3521,39.061,4.5,mwr,30,113,0.269,0.83,us,us6000ky4b,2023-08-05T16:12:08.040Z,"128 km W of Riverton, New Zealand",earthquake,10.87,5.875,0.065,23,reviewed,us,us
 2023-08-05T15:42:25.494Z,62.414,-151.3716,11.5,1.3,ml,,,,0.78,ak,ak0239z4sv9x,2023-08-05T15:44:15.496Z,"32 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-05T15:35:46.650Z,32.9163333,-116.2473333,10.96,1,ml,21,142,0.06064,0.21,ci,ci40530320,2023-08-05T15:39:26.436Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.46,0.66,0.142,13,automatic,ci,ci
-2023-08-05T15:17:37.190Z,40.7073333,-121.473,11.58,2.76,md,33,54,0.109,0.15,nc,nc73920686,2023-08-05T18:09:12.311Z,"25 km SE of Burney, CA",earthquake,0.25,0.83,0.154,52,reviewed,nc,nc
+2023-08-05T15:17:37.190Z,40.7073333,-121.473,11.58,2.76,md,33,54,0.109,0.15,nc,nc73920686,2023-08-05T18:24:10.388Z,"25 km SE of Burney, CA",earthquake,0.25,0.83,0.154,52,reviewed,nc,nc
 2023-08-05T14:49:01.260Z,38.8221664,-122.810997,2.97,0.78,md,11,76,0.001423,0.02,nc,nc73920681,2023-08-05T16:47:19.896Z,"7 km NW of The Geysers, CA",earthquake,0.45,1,0.15,14,automatic,nc,nc
 2023-08-05T14:47:17.035Z,36.5494,71.3473,119.955,4.2,mb,20,121,2.747,0.57,us,us6000ky44,2023-08-05T17:12:48.040Z,"22 km SW of Ashkāsham, Afghanistan",earthquake,4.55,9.377,0.199,8,reviewed,us,us
 2023-08-05T14:25:40.393Z,60.7058,-151.6348,8.8,1.6,ml,,,,0.31,ak,ak0239z43tnb,2023-08-05T14:27:29.947Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T08:18:29.312Z,36.8527,-116.2503,13.4,-0.2,ml,12,102.83,0.049,0.0886,nn,nn00864003,2023-08-05T08:20:29.759Z,"Nevada",earthquake,,1,0.27,6,automatic,nn,nn
 2023-08-05T08:17:18.016Z,59.9673,-152.5023,71.8,1.2,ml,,,,0.45,ak,ak0239z0hgk9,2023-08-05T08:18:51.196Z,"43 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-05T08:12:10.206Z,61.1904,-150.9777,54.6,1.7,ml,,,,0.51,ak,ak0239z0gddo,2023-08-05T08:13:52.747Z,"7 km NE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-05T07:47:48.960Z,37.5808333,-118.9651667,6.8,0.62,md,16,215,0.05812,0.03,nc,nc73920536,2023-08-05T18:34:05.562Z,"6 km S of Mammoth Lakes, CA",earthquake,0.66,1.37,0.181,17,reviewed,nc,nc
 2023-08-05T07:32:44.942Z,59.7516,-150.731,40.4,1.3,ml,,,,0.51,ak,ak0239yzzary,2023-08-05T07:35:05.045Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-05T07:22:24.209Z,50.9182,92.5095,10,4.5,mb,34,67,5.597,0.43,us,us6000ky1z,2023-08-05T07:40:50.040Z,"38 km ENE of Khandagayty, Russia",earthquake,5.05,1.929,0.102,28,reviewed,us,us
 2023-08-05T07:20:07.272Z,-28.2143,-63.1854,597.681,6.2,mww,111,33,4.29,0.9,us,us6000ky1y,2023-08-05T09:29:11.838Z,"Santiago Del Estero, Argentina",earthquake,10.14,4.07,0.032,91,reviewed,us,us
@@ -194,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T18:49:05.580Z,33.296,-116.2536667,5.61,0.72,ml,23,74,0.08108,0.26,ci,ci40529720,2023-08-04T18:52:41.761Z,"12 km ENE of Borrego Springs, CA",earthquake,0.47,0.86,0.122,11,automatic,ci,ci
 2023-08-04T18:45:00.330Z,37.533,-118.8553333,5.85,0.8,md,13,287,0.06062,0.02,nc,nc73920296,2023-08-04T19:48:12.818Z,"16 km WSW of Toms Place, CA",earthquake,2.06,1.29,0.089,11,reviewed,nc,nc
 2023-08-04T18:43:36.580Z,34.0805,-117.0336667,12.6,2.13,ml,74,28,0.05951,0.16,ci,ci40529712,2023-08-05T00:53:31.750Z,"5 km N of Yucaipa, CA",earthquake,0.16,0.39,0.137,26,reviewed,ci,ci
-2023-08-04T18:31:48.654Z,-8.1959,116.4542,7.802,4.4,mb,29,51,1.451,0.92,us,us6000kxxq,2023-08-04T19:23:42.040Z,"Lombok region, Indonesia",earthquake,5.05,3.097,0.135,21,reviewed,us,us
-2023-08-04T18:25:51.130Z,38.784832,-122.7659988,2.9,1.09,md,18,78,0.01409,0.03,nc,nc73920271,2023-08-04T19:12:13.604Z,"1 km NW of The Geysers, CA",earthquake,0.29,0.59,0.23,18,automatic,nc,nc
-2023-08-04T18:25:43.030Z,33.8776667,-117.0338333,-0.68,1.46,ml,28,83,0.06216,0.22,ci,ci40529680,2023-08-05T00:56:40.798Z,"8 km SW of Beaumont, CA",quarry blast,0.44,31.61,0.116,25,reviewed,ci,ci
