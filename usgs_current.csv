@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T19:42:09.330Z,38.8393326,-122.7563324,0.8,1.08,md,18,160,0.01381,0.03,nc,nc73920756,2023-08-05T19:43:43.016Z,"4 km WNW of Cobb, CA",earthquake,0.31,0.44,0.15,19,automatic,nc,nc
 2023-08-05T19:37:03.120Z,35.7735,-117.5928333,6.23,1.85,ml,26,68,0.1442,0.17,ci,ci40530472,2023-08-05T19:47:56.130Z,"17 km W of Searles Valley, CA",earthquake,0.3,1.1,0.161,21,automatic,ci,ci
 2023-08-05T19:27:31.188Z,62.946,-151.1234,100.1,1,ml,,,,0.58,ak,ak0239z73ehv,2023-08-05T19:29:54.769Z,"53 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-05T19:25:43.820Z,38.7784996,-122.7553329,1.08,1.51,md,10,103,0.01125,0.02,nc,nc73920741,2023-08-05T20:22:12.234Z,"0 km NE of The Geysers, CA",earthquake,0.27,0.54,0.18,13,automatic,nc,nc
+2023-08-05T19:25:43.820Z,38.7784996,-122.7553329,1.08,1.51,md,10,103,0.01125,0.02,nc,nc73920741,2023-08-05T22:31:12.994Z,"0 km NE of The Geysers, CA",earthquake,0.27,0.54,0.18,13,automatic,nc,nc
 2023-08-05T18:59:31.350Z,19.3863334655762,-155.27116394043,1.23000001907349,2.12,ml,32,48,,0.340000004,hv,hv73511442,2023-08-05T19:05:01.280Z,"7 km SSW of Volcano, Hawaii",earthquake,0.36,0.409999996,0.26,12,automatic,hv,hv
 2023-08-05T18:59:25.400Z,19.3776664733887,-155.278671264648,1.22000002861023,2.28,ml,12,175,,0.129999995,hv,hv73511437,2023-08-05T19:04:56.830Z,"8 km SSW of Volcano, Hawaii",earthquake,0.39,0.310000002,0.25,11,automatic,hv,hv
 2023-08-05T18:59:06.567Z,37.3382,-117.7447,8.9,0.7,ml,14,136.19,0.131,0.3336,nn,nn00864026,2023-08-05T19:01:34.092Z,"Central California",earthquake,,1,0.83,9,automatic,nn,nn
@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T22:39:32.256Z,38.5392,-118.1603,7.8,1.6,ml,9,73.8,0.367,0.167,nn,nn00863991,2023-08-05T02:04:31.808Z,"17 km NNW of Mina, Nevada",earthquake,,2,0.19,5,reviewed,nn,nn
 2023-08-04T22:37:41.672Z,-7.5506,125.1668,370.968,4.3,mb,18,57,2.364,0.49,us,us6000kxzh,2023-08-05T01:02:20.040Z,"116 km N of Likisá, Timor Leste",earthquake,12.5,8.304,0.188,8,reviewed,us,us
 2023-08-04T22:32:52.032Z,64.8813,-148.2427,10.2,0.1,ml,,,,1.07,ak,ak0239xldgwa,2023-08-04T22:35:22.113Z,"11 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-04T22:26:54.690Z,19.3283333333333,-155.131333333333,6.54,1.82,ml,11,142,,0.07,hv,hv73510177,2023-08-04T23:06:56.950Z,"Island of Hawaii, Hawaii",earthquake,0.64,1.42,0.0801304051098246,9,reviewed,hv,hv
-2023-08-04T22:26:21.240Z,19.1229991912842,-155.373336791992,29.5300006866455,2.35,ml,17,228,,0.109999999,hv,hv73510172,2023-08-04T22:31:52.460Z,"14 km SE of Pāhala, Hawaii",earthquake,1.02,2.13000011,0.09,4,automatic,hv,hv
