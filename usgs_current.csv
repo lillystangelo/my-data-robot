@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-06T07:51:52.410Z,40.2388344,-121.1331635,-0.24,2.59,md,18,140,0.2227,0.18,nc,nc73920956,2023-08-06T07:53:26.559Z,"4 km NNE of Prattville, CA",earthquake,0.61,9.53,0.07,15,automatic,nc,nc
-2023-08-06T07:48:26.520Z,38.777832,-122.7803345,3.42,0.76,md,17,97,0.01343,0.02,nc,nc73920951,2023-08-06T07:50:01.486Z,"2 km W of The Geysers, CA",earthquake,0.3,0.65,0.09,17,automatic,nc,nc
+2023-08-06T08:03:11.820Z,60.4558,-142.9811,0,1.2,ml,,,,0.54,ak,ak023a0nxsjy,2023-08-06T08:05:39.161Z,"108 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-06T07:57:50.450Z,35.9806671,-120.5393295,2.15,0.74,md,11,86,0.01174,0.05,nc,nc73920961,2023-08-06T07:59:27.642Z,"13 km NW of Parkfield, CA",earthquake,0.3,0.67,0.14,4,automatic,nc,nc
+2023-08-06T07:51:52.410Z,40.2388344,-121.1331635,-0.24,2.59,md,18,140,0.2227,0.18,nc,nc73920956,2023-08-06T08:17:26.040Z,"4 km NNE of Prattville, CA",earthquake,0.61,9.53,0.07,15,automatic,nc,nc
+2023-08-06T07:48:26.520Z,38.777832,-122.7803345,3.42,0.76,md,17,97,0.01343,0.02,nc,nc73920951,2023-08-06T08:13:13.401Z,"2 km W of The Geysers, CA",earthquake,0.3,0.65,0.09,17,automatic,nc,nc
 2023-08-06T07:40:43.240Z,33.2993333,-116.2638333,4.59,0.59,ml,12,129,0.1067,0.19,ci,ci40530608,2023-08-06T07:44:17.156Z,"11 km ENE of Borrego Springs, CA",earthquake,0.46,1.5,0.201,9,automatic,ci,ci
-2023-08-06T07:33:39.500Z,38.7840004,-122.7356644,1.69,0.74,md,10,82,0.001126,0.01,nc,nc73920941,2023-08-06T07:52:13.278Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.72,0.17,10,automatic,nc,nc
+2023-08-06T07:33:39.500Z,38.7840004,-122.7356644,1.69,0.74,md,10,82,0.001126,0.01,nc,nc73920941,2023-08-06T08:07:14.367Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.72,0.17,10,automatic,nc,nc
+2023-08-06T07:32:10.356Z,47.2433,-113.1586,10,2.5,ml,6,93,0.335,0.44,us,us6000ky8e,2023-08-06T08:08:07.040Z,"24 km N of Ovando, Montana",earthquake,1.72,2.014,0.049,54,reviewed,us,us
 2023-08-06T07:26:17.180Z,60.298,-141.2064,0,1.6,ml,,,,0.53,ak,ak023a0nhaty,2023-08-06T07:28:25.654Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-06T06:51:03.386Z,64.7525,-147.4954,15.9,1.1,ml,,,,0.28,ak,ak023a0n172a,2023-08-06T06:53:16.463Z,"5 km SSE of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-06T06:30:33.930Z,38.8359985,-122.7939987,2.11,1.1,md,20,56,0.003734,0.02,nc,nc73920931,2023-08-06T07:11:18.044Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.41,0.16,20,automatic,nc,nc
@@ -82,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T18:59:06.567Z,37.3382,-117.7447,8.9,0.7,ml,14,136.19,0.131,0.3336,nn,nn00864026,2023-08-05T19:01:34.092Z,"Central California",earthquake,,1,0.83,9,automatic,nn,nn
 2023-08-05T18:55:23.960Z,37.3209991,-118.5251694,10.71,1.77,md,4,178,0.04419,0.01,nc,nc73920736,2023-08-05T20:57:13.432Z,"8 km SW of West Bishop, CA",earthquake,2.01,1.22,0.22,3,automatic,nc,nc
 2023-08-05T18:38:47.631Z,60.337,-151.3461,46.9,1.7,ml,,,,0.34,ak,ak0239z6kcxn,2023-08-05T18:40:36.086Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-08-05T18:33:58.135Z,37.2108,116.3785,10,5.4,mww,167,27,8.166,0.62,us,us6000ky5l,2023-08-06T04:15:51.782Z,"Hebei-Shandong border region, China",earthquake,9.25,1.802,0.068,21,reviewed,us,us
+2023-08-05T18:33:58.135Z,37.2108,116.3785,10,5.4,mww,167,27,8.166,0.62,us,us6000ky5l,2023-08-06T08:16:59.823Z,"Hebei-Shandong border region, China",earthquake,9.25,1.802,0.068,21,reviewed,us,us
 2023-08-05T18:18:27.576Z,62.8904,-148.2125,65,1.3,ml,,,,0.41,ak,ak0239z6fzxq,2023-08-05T18:58:46.271Z,"67 km SSE of Cantwell, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-08-05T18:16:56.890Z,37.563,-118.8183333,1.03,0.09,md,4,338,0.02831,0.01,nc,nc73920726,2023-08-05T21:01:11.456Z,"12 km W of Toms Place, CA",earthquake,3.59,1.42,0.32,4,reviewed,nc,nc
 2023-08-05T18:10:32.440Z,60.0923,-139.9988,3.8,2.7,ml,,,,0.41,ak,ak0239z6ebpo,2023-08-05T21:29:50.040Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
@@ -170,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T08:25:10.852Z,37.0895,-115.9849,16,0.3,ml,8,281.91,0.254,0.2469,nn,nn00864004,2023-08-05T08:27:08.714Z,"Nevada",earthquake,,3.4,1.21,6,automatic,nn,nn
 2023-08-05T08:18:29.312Z,36.8527,-116.2503,13.4,-0.2,ml,12,102.83,0.049,0.0886,nn,nn00864003,2023-08-05T08:20:29.759Z,"45 km E of Beatty, Nevada",earthquake,,1,0.27,6,automatic,nn,nn
 2023-08-05T08:18:23.340Z,37.5281667,-118.9898333,2.26,1.21,md,19,253,0.08706,0.06,nc,nc73920541,2023-08-05T23:44:13.427Z,"12 km S of Mammoth Lakes, CA",earthquake,0.68,1.23,0.215,16,reviewed,nc,nc
-2023-08-05T08:17:18.016Z,59.9673,-152.5023,71.8,1.2,ml,,,,0.45,ak,ak0239z0hgk9,2023-08-05T08:18:51.196Z,"43 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-05T08:12:10.206Z,61.1904,-150.9777,54.6,1.7,ml,,,,0.51,ak,ak0239z0gddo,2023-08-05T19:52:00.085Z,"7 km NE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
