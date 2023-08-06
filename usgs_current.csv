@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-06T06:51:03.386Z,64.7525,-147.4954,15.9,1.1,ml,,,,0.28,ak,ak023a0n172a,2023-08-06T06:53:16.463Z,"5 km SSE of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-06T06:30:33.930Z,38.8359985,-122.7939987,2.11,1.1,md,20,56,0.003734,0.02,nc,nc73920931,2023-08-06T07:02:11.988Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.41,0.16,20,automatic,nc,nc
+2023-08-06T06:30:33.930Z,38.8359985,-122.7939987,2.11,1.1,md,20,56,0.003734,0.02,nc,nc73920931,2023-08-06T07:11:18.044Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.41,0.16,20,automatic,nc,nc
 2023-08-06T06:25:49.760Z,33.2731667,-116.4335,1.5,0.7,ml,21,81,0.01456,0.2,ci,ci40530600,2023-08-06T06:29:17.726Z,"6 km WNW of Borrego Springs, CA",earthquake,0.29,0.59,0.142,13,automatic,ci,ci
 2023-08-06T06:22:32.378Z,-16.8776,-69.5526,183.664,4.3,mb,16,123,0.711,0.39,us,us6000ky86,2023-08-06T06:58:13.040Z,"23 km SE of Mazo Cruz, Peru",earthquake,8.58,6.694,0.16,11,reviewed,us,us
 2023-08-06T06:22:18.471Z,57.5656,-155.4113,74.9,2.2,ml,,,,0.55,ak,ak023a0mv0h6,2023-08-06T06:36:37.040Z,"57 km W of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
