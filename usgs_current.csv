@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-08T04:03:09.757Z,31.67702989,-104.4016538,6.131567383,3.2,ml,37,65,0.03325750827,0.3,tx,tx2023pklf,2023-08-08T04:17:48.253Z,"55 km S of Whites City, New Mexico",earthquake,1.064519897,0.863895809,0.1,19,reviewed,tx,tx
+2023-08-08T03:59:39.177Z,60.0455,-147.9032,17.7,1.8,ml,,,,0.57,ak,ak023a3wddq5,2023-08-08T04:01:46.568Z,"6 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-08T03:46:26.330Z,34.1408333,-116.8515,1.81,1.01,ml,23,83,0.08441,0.19,ci,ci40531640,2023-08-08T03:50:02.645Z,"13 km SSE of Big Bear Lake, CA",earthquake,0.34,0.54,0.178,24,automatic,ci,ci
 2023-08-08T03:40:50.423Z,58.1837,-155.3325,0.7,0.5,ml,,,,0.3,ak,ak023a3w9bzm,2023-08-08T03:42:20.429Z,"86 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-08-08T03:26:30.380Z,35.7961655,-121.3103333,15.23,1.46,md,5,210,0.1708,0.01,nc,nc73921661,2023-08-08T04:00:10.723Z,"20 km NNW of San Simeon, CA",earthquake,1.56,2.3,0.13,5,automatic,nc,nc
