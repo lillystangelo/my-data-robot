@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-08T04:03:09.757Z,31.67702989,-104.4016538,6.131567383,3.2,ml,37,65,0.03325750827,0.3,tx,tx2023pklf,2023-08-08T04:17:48.253Z,"55 km S of Whites City, New Mexico",earthquake,1.064519897,0.863895809,0.1,19,reviewed,tx,tx
 2023-08-08T03:46:26.330Z,34.1408333,-116.8515,1.81,1.01,ml,23,83,0.08441,0.19,ci,ci40531640,2023-08-08T03:50:02.645Z,"13 km SSE of Big Bear Lake, CA",earthquake,0.34,0.54,0.178,24,automatic,ci,ci
 2023-08-08T03:40:50.423Z,58.1837,-155.3325,0.7,0.5,ml,,,,0.3,ak,ak023a3w9bzm,2023-08-08T03:42:20.429Z,"86 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-08-08T03:26:30.380Z,35.7961655,-121.3103333,15.23,1.46,md,5,210,0.1708,0.01,nc,nc73921661,2023-08-08T04:00:10.723Z,"20 km NNW of San Simeon, CA",earthquake,1.56,2.3,0.13,5,automatic,nc,nc
@@ -181,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T04:42:15.480Z,34.0186667,-116.3238333,9.39,1.04,ml,36,45,0.07459,0.12,ci,ci40531072,2023-08-07T19:33:04.697Z,"13 km S of Joshua Tree, CA",earthquake,0.15,0.35,0.145,23,reviewed,ci,ci
 2023-08-07T04:38:14.870Z,38.8209991,-122.7983322,1.98,0.7,md,11,53,0.009479,0.01,nc,nc73921306,2023-08-07T04:57:16.766Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.96,0.18,12,automatic,nc,nc
 2023-08-07T04:33:07.915Z,10.6124,-86.9251,10,4.8,mb,114,64,1.592,0.62,us,us6000kydn,2023-08-07T22:39:40.040Z,"123 km WNW of Tamarindo, Costa Rica",earthquake,6.38,1.853,0.031,331,reviewed,us,us
-2023-08-07T04:21:23.770Z,33.334,-116.3538333,12.48,0.71,ml,30,124,0.01329,0.19,ci,ci40531064,2023-08-07T19:26:14.616Z,"9 km NNE of Borrego Springs, CA",earthquake,0.38,0.73,0.162,19,reviewed,ci,ci
-2023-08-07T04:21:11.150Z,37.6338333,-119.0585,-0.67,0.11,md,8,130,0.01663,0.02,nc,nc73921301,2023-08-07T21:42:15.583Z,"7 km W of Mammoth Lakes, CA",earthquake,0.34,0.44,0.204,8,reviewed,nc,nc
