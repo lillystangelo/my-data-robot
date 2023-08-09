@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T19:48:22.450Z,19.5028324127197,-155.45866394043,1.87000000476837,2.21,ml,17,90,,0.150000006,hv,hv73517602,2023-08-09T19:53:52.790Z,"24 km WNW of Volcano, Hawaii",earthquake,0.38,1.41999996,0.17,3,automatic,hv,hv
 2023-08-09T19:38:18.780Z,62.522,-147.0757,4.7,1.4,ml,,,,0.56,ak,ak023a5tb4ae,2023-08-09T19:40:46.979Z,"38 km NW of Lake Louise, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-09T19:34:02.034Z,61.6988,-146.9567,27.2,1.4,ml,,,,0.98,ak,ak023a5ta84r,2023-08-09T19:36:47.704Z,"28 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-09T19:16:33.590Z,35.6935,-117.5086667,11.09,1.14,ml,15,126,0.07474,0.21,ci,ci40532672,2023-08-09T19:20:11.680Z,"12 km SW of Searles Valley, CA",earthquake,0.66,0.9,0.11,7,automatic,ci,ci
