@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T14:32:53.758Z,63.0043,-150.5002,93.8,1,ml,,,,0.45,ak,ak023a5qaqnz,2023-08-09T14:34:49.762Z,"58 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-09T14:12:38.069Z,65.6621,-148.109,0,1.5,ml,,,,0.84,ak,ak023a5q6f4u,2023-08-09T14:15:12.516Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-09T14:03:31.320Z,19.2403335571289,-155.401168823242,30.6100006103516,2.11999989,md,34,153,,0.109999999,hv,hv73517067,2023-08-09T14:06:42.220Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.899999976,0.75,11,automatic,hv,hv
 2023-08-09T13:39:17.960Z,33.581,-116.7483333,11.88,0.77,ml,23,65,0.01808,0.17,ci,ci40532408,2023-08-09T13:42:49.476Z,"8 km WNW of Anza, CA",earthquake,0.38,0.54,0.117,13,automatic,ci,ci
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T13:19:21.240Z,19.1638336181641,-155.659332275391,-0.100000001490116,2.00999999,md,23,88,,0.219999999,hv,hv73516952,2023-08-09T13:22:17.550Z,"11 km NNW of Wai‘ōhinu, Hawaii",earthquake,0.47,0.289999992,0.529999971,9,automatic,hv,hv
 2023-08-09T13:18:29.130Z,33.968,-118.2551667,14.41,1.58,ml,20,88,0.01928,0.32,ci,ci40532392,2023-08-09T13:22:18.692Z,"1 km W of Florence-Graham, CA",earthquake,1.07,1.37,0.199,31,automatic,ci,ci
 2023-08-09T13:01:02.270Z,33.1045,-116.04,11.89,1.47,ml,32,80,0.08638,0.18,ci,ci40532360,2023-08-09T13:04:46.524Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.26,0.53,0.165,26,automatic,ci,ci
-2023-08-09T12:55:07.940Z,37.6189995,-122.3731689,11.59,2.19,md,54,35,0.05006,0.07,nc,nc73922196,2023-08-09T13:28:16.470Z,"3 km NNE of Millbrae, CA",earthquake,0.16,0.35,0.16,47,automatic,nc,nc
+2023-08-09T12:55:07.940Z,37.6189995,-122.3731689,11.59,2.19,md,54,35,0.05006,0.07,nc,nc73922196,2023-08-09T14:34:12.651Z,"3 km NNE of Millbrae, CA",earthquake,0.16,0.35,0.16,47,automatic,nc,nc
 2023-08-09T12:51:58.881Z,58.2326,-155.0887,33.6,1,ml,,,,0.38,ak,ak023a5p7ygg,2023-08-09T12:54:15.525Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-08-09T12:47:03.613Z,58.6181,-153.8857,83.1,1.3,ml,,,,0.42,ak,ak023a5p6zbt,2023-08-09T12:49:42.110Z,"84 km NW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T12:46:10.791Z,63.6061,-147.1263,0,1.2,ml,,,,1.11,ak,ak023a5p6s5z,2023-08-09T12:47:58.517Z,"83 km SW of Delta Junction, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T15:00:20.300Z,58.2363333333333,-155.204,3.41,0.2,ml,9,111,,0.1,av,av91994986,2023-08-09T03:32:46.620Z,"Alaska Peninsula",earthquake,0.26,0.61,0.208925024297456,10,reviewed,av,av
 2023-08-08T14:56:54.060Z,38.8296661,-122.8134995,1.64,0.93,md,18,47,0.00681,0.02,nc,nc73921821,2023-08-08T15:35:15.800Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.51,0.18,19,automatic,nc,nc
 2023-08-08T14:46:33.082Z,37.4948,-118.0035,0,1.6,ml,11,112.96,0.129,0.1405,nn,nn00864146,2023-08-08T19:10:34.561Z,"19 km SSE of Dyer, Nevada",earthquake,,2.4,0.58,8,reviewed,nn,nn
-2023-08-08T14:37:54.170Z,33.6841667,-116.7731667,13.84,0.71,ml,21,119,0.05916,0.11,ci,ci40531816,2023-08-08T16:33:45.459Z,"8 km SW of Idyllwild, CA",earthquake,0.25,0.41,0.16,13,reviewed,ci,ci
