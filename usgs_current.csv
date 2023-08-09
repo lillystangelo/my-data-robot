@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T09:33:26.567Z,16.1809,-93.577,110.502,5.8,mww,139,78,1.387,1.21,us,us6000kyty,2023-08-09T09:53:36.802Z,"19 km SSW of Agrónomos Mexicanos, Mexico",earthquake,8.2,4.929,0.038,68,reviewed,us,us
 2023-08-09T09:29:16.270Z,33.976,-116.6776667,17.7,0.68,ml,10,112,0.06707,0.13,ci,ci40532344,2023-08-09T09:32:53.994Z,"12 km SW of Morongo Valley, CA",earthquake,0.38,0.87,0.131,19,automatic,ci,ci
 2023-08-09T09:27:22.208Z,65.4433,-145.0099,1.2,1.8,ml,,,,0.9,ak,ak023a5nafjc,2023-08-09T09:29:19.397Z,"17 km SSW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-09T09:27:19.440Z,60.1558,-152.5026,99,1.8,ml,,,,0.26,ak,ak023a5na9tc,2023-08-09T09:28:55.304Z,"47 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-09T09:22:43.020Z,38.8318329,-122.8001633,1.11,0.21,md,12,52,0.0101,0.01,nc,nc73922121,2023-08-09T09:43:11.995Z,"7 km W of Cobb, CA",earthquake,0.26,0.97,0.09,12,automatic,nc,nc
+2023-08-09T09:21:34.360Z,17.9581666666667,-67.1075,11.97,2.36,md,3,273,0.04801,0.06,pr,pr71420978,2023-08-09T09:47:35.480Z,"Puerto Rico",earthquake,1.99,0.7,0.00660573104905593,3,reviewed,pr,pr
 2023-08-09T09:20:39.600Z,34.6631667,-119.4683333,0.85,1.09,ml,14,90,0.09056,0.19,ci,ci40532336,2023-08-09T09:24:16.465Z,"29 km NNE of Montecito, CA",earthquake,0.31,0.75,0.156,12,automatic,ci,ci
-2023-08-09T09:20:29.562Z,13.4243,144.1103,450.982,5.6,mww,144,29,0.755,0.76,us,us6000kytu,2023-08-09T09:46:11.681Z,"59 km W of Agat Village, Guam",earthquake,9.46,6.288,0.098,10,reviewed,us,us
+2023-08-09T09:20:29.562Z,13.4243,144.1103,450.982,5.6,mww,144,29,0.755,0.76,us,us6000kytu,2023-08-09T09:56:37.585Z,"59 km W of Agat Village, Guam",earthquake,9.46,6.288,0.098,10,reviewed,us,us
 2023-08-09T09:09:02.889Z,31.6702,-104.4391,9.123,2.7,ml,27,127,0.053,0.43,us,us6000kytt,2023-08-09T09:21:15.648Z,"western Texas",earthquake,2.81,5.907,0.077,35,reviewed,us,us
 2023-08-09T09:08:31.010Z,33.7196667,-116.7741667,16.28,0.3,ml,14,188,0.0522,0.06,ci,ci40532328,2023-08-09T09:12:06.983Z,"6 km WSW of Idyllwild, CA",earthquake,0.52,0.52,0.141,6,automatic,ci,ci
 2023-08-09T09:05:10.397Z,63.29,-149.4087,83.2,2.4,ml,,,,0.64,ak,ak023a5n5oyb,2023-08-09T09:19:28.040Z,"25 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
