@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T09:12:29.795Z,65.003,-149.0973,16.3,1,ml,,,,0.58,ak,ak023a7aqkyr,2023-08-10T09:14:19.838Z,"20 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-10T08:49:49.920Z,58.1981,-155.2811,0,0.3,ml,,,,0.41,ak,ak023a7ad4eo,2023-08-10T08:52:13.206Z,"85 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-10T08:46:19.150Z,19.3920001983643,-155.277160644531,0.980000019073486,2.11,ml,21,50,,0.189999998,hv,hv73518202,2023-08-10T08:51:50.660Z,"7 km SW of Volcano, Hawaii",earthquake,0.3,0.230000004,0.14,7,automatic,hv,hv
 2023-08-10T08:41:50.280Z,34.6698333,-120.2051667,15.75,1.16,ml,9,167,0.05713,0.25,ci,ci40533032,2023-08-10T08:45:30.444Z,"6 km N of Buellton, CA",earthquake,1.18,1.69,0.198,7,automatic,ci,ci
-2023-08-10T08:36:57.860Z,35.8610001,-120.3986664,4.78,1.49,md,17,146,0.0393,0.04,nc,nc73922446,2023-08-10T08:53:17.084Z,"5 km SE of Parkfield, CA",earthquake,0.43,0.72,0.21,6,automatic,nc,nc
+2023-08-10T08:36:57.860Z,35.8610001,-120.3986664,4.78,1.49,md,17,146,0.0393,0.04,nc,nc73922446,2023-08-10T09:10:11.189Z,"5 km SE of Parkfield, CA",earthquake,0.43,0.72,0.21,6,automatic,nc,nc
 2023-08-10T08:25:03.316Z,-5.7232,133.8003,10,4.6,mb,41,69,3.186,0.62,us,us6000kz11,2023-08-10T08:46:31.040Z,"116 km E of Tual, Indonesia",earthquake,7.61,1.851,0.103,31,reviewed,us,us
 2023-08-10T08:18:35.166Z,58.171,-155.0818,15.6,0.2,ml,,,,0.69,ak,ak023a7a6g3d,2023-08-10T08:21:14.277Z,"76 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-10T08:09:23.403Z,59.8815,-153.1624,126.2,1.9,ml,,,,0.32,ak,ak023a7a4hpj,2023-08-10T08:24:20.040Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -241,9 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T09:27:19.440Z,60.1558,-152.5026,99,1.8,ml,,,,0.26,ak,ak023a5na9tc,2023-08-09T09:28:55.304Z,"47 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-09T09:23:59.560Z,47.6075,-121.7895,18.11,0.5700000000000001,ml,9,145,0.1093,0.13,uw,uw61948571,2023-08-09T18:12:15.660Z,"8 km ENE of Fall City, Washington",earthquake,0.45,0.56,0.19204516891983053,5,reviewed,uw,uw
 2023-08-09T09:22:43.020Z,38.8318329,-122.8001633,1.11,0.21,md,12,52,0.0101,0.01,nc,nc73922121,2023-08-09T11:07:12.462Z,"7 km W of Cobb, CA",earthquake,0.26,0.97,0.09,12,automatic,nc,nc
-2023-08-09T09:21:34.360Z,17.9581666666667,-67.1075,11.97,2.36,md,3,273,0.04801,0.06,pr,pr71420978,2023-08-09T09:47:35.480Z,"Puerto Rico",earthquake,1.99,0.7,0.00660573104905593,3,reviewed,pr,pr
-2023-08-09T09:20:39.640Z,34.6728333,-119.4721667,7.19,1.07,ml,16,87,0.08619,0.15,ci,ci40532336,2023-08-10T00:36:15.194Z,"30 km NNE of Montecito, CA",earthquake,0.28,0.99,0.164,10,reviewed,ci,ci
-2023-08-09T09:20:29.562Z,13.4243,144.1103,450.982,5.6,mww,144,29,0.755,0.76,us,us6000kytu,2023-08-10T03:30:34.052Z,"59 km W of Agat Village, Guam",earthquake,9.46,6.288,0.098,10,reviewed,us,us
-2023-08-09T09:13:24.640Z,58.1671666666667,-155.332833333333,2.02,0.28,ml,13,62,,0.07,av,av91995856,2023-08-09T22:53:46.810Z,"Alaska Peninsula",earthquake,0.18,0.34,0.252106688448579,14,reviewed,av,av
-2023-08-09T09:11:53.130Z,45.6845,-110.577166666667,18.69,0.87,ml,8,190,0.1582,0.07,mb,mb90024088,2023-08-09T17:30:31.150Z,"2 km NNW of Livingston, Montana",earthquake,0.46,0.97,0.135374277589883,7,reviewed,mb,mb
-2023-08-09T09:09:03.150Z,31.67605077,-104.4107968,6.080151367,2.6,ml,38,66,0.01355995494,0.3,tx,tx2023pmqu,2023-08-09T14:22:06.158Z,"55 km S of Whites City, New Mexico",earthquake,1.185198745,0.9463248314,0.1,21,reviewed,tx,tx
