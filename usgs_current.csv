@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T08:36:57.860Z,35.8610001,-120.3986664,4.78,1.49,md,17,146,0.0393,0.04,nc,nc73922446,2023-08-10T08:38:31.523Z,"5 km SE of Parkfield, CA",earthquake,0.43,0.72,0.21,6,automatic,nc,nc
 2023-08-10T08:18:35.166Z,58.171,-155.0818,15.6,0.2,ml,,,,0.69,ak,ak023a7a6g3d,2023-08-10T08:21:14.277Z,"76 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-10T08:09:23.403Z,59.8815,-153.1624,126.2,1.9,ml,,,,0.32,ak,ak023a7a4hpj,2023-08-10T08:24:20.040Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-10T08:03:09.130Z,38.8268318,-122.7976685,2.21,0.73,md,16,47,0.01028,0.02,nc,nc73922441,2023-08-10T08:19:16.872Z,"6 km W of Cobb, CA",earthquake,0.23,0.5,0.14,18,automatic,nc,nc
 2023-08-10T07:46:16.490Z,19.2398338317871,-155.371994018555,31.4500007629395,2.11999989,md,35,165,,0.109999999,hv,hv73518172,2023-08-10T07:49:36.630Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.74,0.620000005,1.19000006,15,automatic,hv,hv
-2023-08-10T07:38:40.990Z,38.8408318,-122.8225021,1.92,0.99,md,21,64,0.01038,0.02,nc,nc73922431,2023-08-10T07:56:11.733Z,"9 km WNW of Cobb, CA",earthquake,0.21,0.48,0.22,22,automatic,nc,nc
+2023-08-10T07:38:40.990Z,38.8408318,-122.8225021,1.92,0.99,md,21,64,0.01038,0.02,nc,nc73922431,2023-08-10T08:34:13.971Z,"9 km WNW of Cobb, CA",earthquake,0.21,0.48,0.22,22,automatic,nc,nc
 2023-08-10T07:37:56.673Z,-1.271,136.7589,22.766,4.6,mb,32,76,4.131,0.5,us,us6000kz0y,2023-08-10T07:55:58.040Z,"Biak region, Indonesia",earthquake,7.89,4.464,0.095,34,reviewed,us,us
 2023-08-10T07:08:47.923Z,-31.5308,-69.4435,114.017,4.4,mb,34,57,0.648,0.86,us,us6000kz0v,2023-08-10T07:28:00.040Z,"21 km S of Calingasta, Argentina",earthquake,4.46,5.101,0.155,13,reviewed,us,us
 2023-08-10T06:58:38.277Z,-5.6413,133.8409,10,5.1,mb,45,109,3.136,0.94,us,us6000kz0u,2023-08-10T07:12:55.040Z,"120 km E of Tual, Indonesia",earthquake,5.32,1.859,0.085,45,reviewed,us,us
@@ -245,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T09:08:30.900Z,33.7138333,-116.7728333,16.51,0.35,ml,21,146,0.05079,0.1,ci,ci40532328,2023-08-10T00:32:50.758Z,"6 km WSW of Idyllwild, CA",earthquake,0.29,0.35,0.165,8,reviewed,ci,ci
 2023-08-09T09:05:10.397Z,63.29,-149.4087,83.2,2.4,ml,,,,0.64,ak,ak023a5n5oyb,2023-08-09T09:19:28.040Z,"25 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T08:58:49.430Z,58.1676666666667,-155.391833333333,3.02,0.05,ml,10,79,,0.08,av,av91995841,2023-08-09T22:20:44.260Z,"Alaska Peninsula",earthquake,0.22,0.67,0.166895129131375,10,reviewed,av,av
-2023-08-09T08:38:08.590Z,61.2723,-152.5538,2.2,1.5,ml,,,,0.65,ak,ak023a5mrbuj,2023-08-09T22:09:18.970Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
