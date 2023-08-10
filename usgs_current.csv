@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T03:48:21.918Z,58.6372,-153.6888,72.4,1.4,ml,,,,0.22,ak,ak023a77doie,2023-08-10T03:50:44.569Z,"Kodiak Island region, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-10T03:37:37.881Z,38.1386,-118.1463,4.9,1.7,ml,13,65.96,0.141,0.3626,nn,nn00864240,2023-08-10T03:40:23.065Z,"California-Nevada border region",earthquake,,0.7,0.7,8,automatic,nn,nn
-2023-08-10T03:35:24.250Z,38.7808342,-122.7655029,2.19,0.43,md,8,104,0.0101,0.02,nc,nc73922386,2023-08-10T03:37:01.212Z,"1 km WNW of The Geysers, CA",earthquake,0.72,1.25,0.28,7,automatic,nc,nc
+2023-08-10T03:35:24.250Z,38.7808342,-122.7655029,2.19,0.43,md,8,104,0.0101,0.02,nc,nc73922386,2023-08-10T03:52:12.328Z,"1 km WNW of The Geysers, CA",earthquake,0.72,1.25,0.28,7,automatic,nc,nc
 2023-08-10T03:11:16.231Z,4.0238,125.8168,116.45,4.7,mb,41,79,3.035,0.81,us,us6000kz05,2023-08-10T03:31:00.040Z,"157 km SSE of Sarangani, Philippines",earthquake,8.34,6.661,0.061,81,reviewed,us,us
 2023-08-10T02:35:43.228Z,61.3347,-147.216,19.3,1.8,ml,,,,0.56,ak,ak023a76pi8i,2023-08-10T02:37:52.314Z,"51 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-10T02:19:01.150Z,18.5266666666667,-66.1011666666667,94.56,3.23,md,11,211,0.217,0.17,pr,pr71421058,2023-08-10T02:51:47.430Z,"6 km N of San Juan, Puerto Rico",earthquake,2.3,0.86,0.130353053231174,8,reviewed,pr,pr
