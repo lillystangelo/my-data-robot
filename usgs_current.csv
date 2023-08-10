@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T06:26:42.258Z,66.0725,-148.8035,0,1.5,ml,,,,0.73,ak,ak023a791b4x,2023-08-10T06:29:36.740Z,"14 km ENE of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-10T06:02:40.890Z,61.3597,-150.3056,56.4,1,ml,,,,0.49,ak,ak023a78w5oh,2023-08-10T06:06:13.384Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-08-10T05:57:30.880Z,32.3433,-104.6183,5,2.6,ml,19,249,0.631,0.49,us,us6000kz0l,2023-08-10T06:10:11.040Z,"29 km NW of Whites City, New Mexico",earthquake,1.77,1.988,0.06,54,reviewed,us,us
 2023-08-10T05:55:53.800Z,34.0148333,-116.771,18.53,2.21,ml,70,18,0.03666,0.21,ci,ci40533000,2023-08-10T06:07:17.040Z,"11 km N of Cabazon, CA",earthquake,0.2,0.38,0.201,27,automatic,ci,ci
@@ -259,4 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T06:57:17.910Z,36.1888351,-120.7668304,6.8,1.48,md,17,144,0.0388,0.12,nc,nc73922056,2023-08-09T09:30:11.902Z,"22 km NNE of San Ardo, CA",earthquake,0.5,0.69,0.14,7,automatic,nc,nc
 2023-08-09T06:41:40.108Z,40.1102,-119.6762,16,0.3,ml,4,186.26,0.074,0.2014,nn,nn00864232,2023-08-09T21:19:03.713Z,"Nevada",earthquake,,3.4,0.29,2,reviewed,nn,nn
 2023-08-09T06:39:02.810Z,39.1731667,-120.4405,9.09,2.21,md,21,41,0.1321,0.12,nc,nc73922051,2023-08-09T20:03:16.594Z,"24 km W of Sunnyside-Tahoe City, CA",earthquake,0.22,0.7,0.326,26,reviewed,nc,nc
-2023-08-09T06:22:55.235Z,60.2943,-145.9037,18.2,1.4,ml,,,,0.73,ak,ak023a5lh4s3,2023-08-09T06:25:34.471Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
