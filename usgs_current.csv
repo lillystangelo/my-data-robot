@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-11T07:02:43.690Z,35.9531667,-117.9176667,6.82,1.84,ml,23,127,0.08121,0.1,ci,ci40533992,2023-08-11T07:06:22.335Z,"2 km NNW of Little Lake, CA",earthquake,0.21,0.67,0.136,16,automatic,ci,ci
+2023-08-11T07:02:43.690Z,35.9531667,-117.9176667,6.82,1.84,ml,23,127,0.08121,0.1,ci,ci40533992,2023-08-11T07:13:22.060Z,"2 km NNW of Little Lake, CA",earthquake,0.21,0.67,0.136,16,automatic,ci,ci
 2023-08-11T06:48:30.292Z,36.42939758,-96.95295715,1.482537746,2.47,ml,42,57.87994385,0.01763230935,0.6723765482,ok,ok2023pqde,2023-08-11T06:53:46.302Z,"15 km NNE of Morrison, Oklahoma",earthquake,1.869074353,1.305676555,0.38,31,automatic,ok,ok
 2023-08-11T06:46:17.798Z,63.4921,-147.7299,14.4,1.1,ml,,,,0.34,ak,ak023a8wow2b,2023-08-11T06:48:28.305Z,"61 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-11T06:40:05.361Z,5.4734,-82.5829,10,4.6,mb,85,154,3.009,0.66,us,us6000kz7d,2023-08-11T06:54:56.040Z,"283 km SW of Arenas, Panama",earthquake,10.57,1.924,0.059,84,reviewed,us,us
