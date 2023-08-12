@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-12T22:33:38.848Z,37.1026,-116.2156,0,0.3,ml,10,181.74,0.156,0.3685,nn,nn00864384,2023-08-12T22:35:31.345Z,"52 km ENE of Beatty, Nevada",earthquake,,7.1,0.68,8,automatic,nn,nn
 2023-08-12T22:10:04.236Z,61.6591,-150.1738,9.5,1.4,ml,,,,0.07,ak,ak023aatjfev,2023-08-12T22:11:29.429Z,"12 km SW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-12T22:00:28.330Z,38.7879982,-122.7328339,1.54,0.72,md,10,90,0.005644,0.01,nc,nc73923436,2023-08-12T22:34:12.237Z,"2 km ENE of The Geysers, CA",earthquake,0.28,1.09,0.22,10,automatic,nc,nc
 2023-08-12T21:53:05.980Z,19.179666519165,-155.467498779297,35.0800018310547,1.85000002,md,31,108,,0.100000001,hv,hv73522007,2023-08-12T21:56:13.710Z,"Island of Hawaii, Hawaii",earthquake,0.8,1.13999999,1.25999999,8,automatic,hv,hv
@@ -167,5 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T23:05:08.035Z,63.1226,-148.5935,65.8,1.1,ml,,,,0.38,ak,ak023a96kg8j,2023-08-11T23:06:36.445Z,"34 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-11T22:53:08.590Z,44.8798333333333,-111.386,5.52,1.18,ml,13,113,0.05828,0.12,mb,mb90024328,2023-08-12T13:56:59.070Z,"Idaho-Montana border region",earthquake,0.34,1.03,0.139122951846297,9,reviewed,mb,mb
 2023-08-11T22:50:28.600Z,35.0446667,-119.2298333,16.26,1.12,ml,16,123,0.1831,0.13,ci,ci40534816,2023-08-11T23:23:43.223Z,"16 km E of Maricopa, CA",earthquake,0.33,1.09,0.126,10,reviewed,ci,ci
-2023-08-11T22:43:42.320Z,32.4283333,-115.4853333,11.07,2.7,ml,37,56,0.1361,0.26,ci,ci40534808,2023-08-11T23:21:28.280Z,"19 km SSE of Progreso, B.C., MX",earthquake,0.27,0.73,0.235,25,reviewed,ci,ci
-2023-08-11T22:39:10.940Z,38.8289986,-122.8113327,0.96,0.31,md,8,89,0.005681,0.02,nc,nc73923176,2023-08-11T22:58:13.289Z,"8 km NW of The Geysers, CA",earthquake,0.3,1.43,0.2,7,automatic,nc,nc
