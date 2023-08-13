@@ -171,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T06:15:46.510Z,34.3831667,-119.3943333,0.72,1.13,ml,13,168,0.1616,0.16,ci,ci40535032,2023-08-12T06:19:38.066Z,"12 km E of Carpinteria, CA",earthquake,0.68,31.61,0.121,14,automatic,ci,ci
 2023-08-12T06:13:50.302Z,37.3168,-117.6051,0.8,0.7,ml,8,179.94,0.09,0.351,nn,nn00864364,2023-08-12T06:16:05.209Z,"Nevada",earthquake,,34,0.84,5,automatic,nn,nn
 2023-08-12T06:07:31.660Z,38.7799988,-122.7545013,0.62,0.87,md,10,69,0.01277,0.02,nc,nc73923261,2023-08-12T06:50:13.890Z,"0 km NNE of The Geysers, CA",earthquake,0.32,0.56,0.23,9,automatic,nc,nc
-2023-08-12T05:55:27.280Z,32.9961667,-116.3626667,9.53,1.92,ml,62,49,0.04707,0.2,ci,ci40535024,2023-08-12T06:06:29.600Z,"24 km ESE of Julian, CA",earthquake,0.21,0.56,0.165,25,automatic,ci,ci
