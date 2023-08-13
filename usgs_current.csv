@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T03:10:33.460Z,32.6758333,-115.6621667,8.19,1.48,ml,17,60,0.06027,0.2,ci,ci40535672,2023-08-13T03:14:23.209Z,"13 km NW of Progreso, B.C., MX",earthquake,0.42,0.84,0.269,18,automatic,ci,ci
 2023-08-13T03:10:16.830Z,38.8310013,-122.8161697,1.74,0.66,md,8,95,0.008964,0.01,nc,nc73923536,2023-08-13T04:16:16.202Z,"8 km NW of The Geysers, CA",earthquake,0.44,0.7,0.18,8,automatic,nc,nc
 2023-08-13T02:47:02.570Z,58.2331666666667,-155.109333333333,35.15,0.25,ml,12,79,,0.23,av,av91999291,2023-08-13T05:11:38.960Z,"83 km NNW of Karluk, Alaska",earthquake,0.82,1.25,0.280353233271632,13,reviewed,av,av
-2023-08-13T02:44:34.240Z,58.2396666666667,-155.099333333333,35.41,0.26,ml,8,112,,0.03,av,av91999286,2023-08-13T04:22:23.360Z,"83 km NNW of Karluk, Alaska",earthquake,0.98,0.75,0.200020308071688,7,reviewed,av,av
+2023-08-13T02:44:34.240Z,58.2396666666667,-155.099333333333,35.41,0.26,ml,8,112,,0.03,av,av91999286,2023-08-13T04:22:23.360Z,"Alaska Peninsula",earthquake,0.98,0.75,0.200020308071688,7,reviewed,av,av
 2023-08-13T02:42:09.760Z,52.1081666666667,-176.195,9.71,0.58,ml,5,292,,0.17,av,av91999276,2023-08-13T04:16:51.490Z,"39 km NE of Adak, Alaska",earthquake,1.44,2.49,0.208695465438594,6,reviewed,av,av
 2023-08-13T02:39:14.610Z,60.6149,-151.7952,72.7,1.5,ml,,,,0.24,ak,ak023ac5ccdh,2023-08-13T02:41:05.989Z,"26 km W of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-08-13T02:24:10.480Z,38.8175011,-122.8183365,2.77,0.78,md,14,80,0.008735,0.03,nc,nc73923516,2023-08-13T02:57:15.757Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.84,0.17,17,automatic,nc,nc
@@ -166,6 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T11:26:00.389Z,61.3386,-147.389,19.3,1.4,ml,,,,0.5,ak,ak023aan32x2,2023-08-12T11:27:43.004Z,"54 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-12T11:23:29.703Z,61.6999,-150.0846,31.6,1.4,ml,,,,0.66,ak,ak023aan2i16,2023-08-12T11:25:35.294Z,"5 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-12T11:18:16.720Z,44.6111666666667,-112.583,8.21,1.68,ml,10,79,0.04398,0.06,mb,mb90024343,2023-08-12T13:21:51.710Z,"2 km SSE of Lima, Montana",earthquake,0.36,0.56,0.136564205813595,10,reviewed,mb,mb
-2023-08-12T11:12:37.190Z,19.1828327178955,-155.509506225586,31.7000007629395,1.76999998,md,33,155,,0.159999996,hv,hv73521007,2023-08-12T11:15:44.460Z,"3 km SW of Pāhala, Hawaii",earthquake,0.73,1.23000002,1.04999995,8,automatic,hv,hv
-2023-08-12T11:10:09.214Z,40.4601,-119.3116,3.7,0.6,ml,4,267.19,0.648,0.1196,nn,nn00864378,2023-08-12T14:18:35.624Z,"13 km SSE of Empire, Nevada",earthquake,,5.9,0.18,2,reviewed,nn,nn
-2023-08-12T11:08:06.162Z,36.7192,-115.9644,0.8,0,ml,9,166.15,0.019,0.0966,nn,nn00864377,2023-08-12T14:15:28.254Z,"31 km WNW of Indian Springs, Nevada",earthquake,,2.9,0.1,4,reviewed,nn,nn
