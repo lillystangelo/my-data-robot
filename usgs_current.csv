@@ -167,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-12T08:14:40.850Z,35.885,-117.7211667,3.52,1.02,ml,11,125,0.08414,0.24,ci,ci40535088,2023-08-12T08:18:19.086Z,"18 km ESE of Little Lake, CA",earthquake,0.7,1.85,0.155,6,automatic,ci,ci
 2023-08-12T08:11:28.160Z,64.4013,-146.7652,7.3,0.6,ml,,,,0.62,ak,ak023aal7mht,2023-08-12T08:14:04.689Z,"8 km WNW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-12T07:57:28.890Z,32.7456667,-115.4268333,12.02,2.02,ml,29,73,0.06182,0.27,ci,ci40535080,2023-08-12T08:01:21.535Z,"8 km SSW of Holtville, CA",earthquake,0.46,1.19,0.216,26,automatic,ci,ci
-2023-08-12T07:46:28.600Z,19.4191665649414,-155.257339477539,1.86000001430511,1.82,ml,16,124,,0.119999997,hv,hv73520872,2023-08-12T07:51:58.110Z,"3 km SW of Volcano, Hawaii",earthquake,0.29,0.370000005,0.22,8,automatic,hv,hv
