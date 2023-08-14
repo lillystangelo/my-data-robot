@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-14T06:59:05.310Z,19.4008333333333,-155.278,0.87,0.86,md,13,51,,0.06,hv,hv73524612,2023-08-14T07:16:00.960Z,"Hawaii region, Hawaii",earthquake,0.14,0.3,0.289990569058825,2,reviewed,hv,hv
 2023-08-14T06:53:07.763Z,61.3327,-152.5346,14.6,1,ml,,,,0.48,ak,ak023advces8,2023-08-14T06:54:36.988Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-14T06:49:11.980Z,38.7755013,-122.7148361,2.24,0.91,md,7,94,0.01419,0.02,nc,nc73923921,2023-08-14T06:50:48.967Z,"2 km W of Anderson Springs, CA",earthquake,1.43,2.32,0.21,7,automatic,nc,nc
+2023-08-14T06:49:11.980Z,38.7755013,-122.7148361,2.24,0.91,md,7,94,0.01419,0.02,nc,nc73923921,2023-08-14T07:16:12.688Z,"2 km W of Anderson Springs, CA",earthquake,1.43,2.32,0.21,7,automatic,nc,nc
 2023-08-14T06:48:41.450Z,19.3983333333333,-155.272166666667,0.84,0.56,md,19,39,,0.11,hv,hv73524592,2023-08-14T07:02:22.660Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.2,0.0459519779355473,3,reviewed,hv,hv
 2023-08-14T06:43:41.618Z,60.5443,-152.5081,13.4,1.7,ml,,,,0.54,ak,ak023advac8h,2023-08-14T06:52:19.329Z,"65 km W of Salamatof, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T06:41:32.710Z,19.4003333333333,-155.275666666667,1.37,0.69,md,16,44,,0.09,hv,hv73524587,2023-08-14T07:08:44.370Z,"Hawaii region, Hawaii",earthquake,0.17,0.25,0.228409415216839,3,reviewed,hv,hv
@@ -139,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T14:37:56.800Z,58.1678333333333,-155.386833333333,2.12,-0.39,ml,6,140,,0.06,av,av91999976,2023-08-13T20:23:59.040Z,"86 km NW of Karluk, Alaska",earthquake,0.29,0.96,0.134965516133366,6,reviewed,av,av
 2023-08-13T14:21:43.643Z,60.2156,-150.5822,40.3,1.9,ml,,,,0.41,ak,ak023accdqzg,2023-08-13T14:23:31.562Z,"33 km SSE of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-13T14:18:39.720Z,33.329,-116.3471667,10.51,0.84,ml,27,122,0.08434,0.22,ci,ci40535856,2023-08-13T14:22:19.222Z,"8 km NNE of Borrego Springs, CA",earthquake,0.4,0.75,0.167,17,automatic,ci,ci
-2023-08-13T14:14:38.580Z,53.8555,-166.803,5.38,-0.53,ml,5,128,,0.06,av,av91999936,2023-08-13T20:20:15.810Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.95,0.212149390123475,5,reviewed,av,av
+2023-08-13T14:14:38.580Z,53.8555,-166.803,5.38,-0.53,ml,5,128,,0.06,av,av91999936,2023-08-13T20:20:15.810Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.34,0.95,0.212149390123475,5,reviewed,av,av
 2023-08-13T14:11:27.920Z,53.8538333333333,-166.801166666667,4.32,-0.42,ml,6,89,,0.12,av,av91999926,2023-08-13T20:17:20.210Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.63,2.24,0.268345997517758,6,reviewed,av,av
 2023-08-13T14:06:50.440Z,19.3705005645752,-155.081329345703,3.42000007629395,1.81,ml,42,128,,0.340000004,hv,hv73523142,2023-08-13T14:12:19.210Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.72,0.800000012,3.74,6,automatic,hv,hv
 2023-08-13T14:01:12.520Z,59.6361,-153.9847,19.5,1.9,ml,,,,0.32,ak,ak023acc9e9g,2023-08-13T14:02:33.765Z,"18 km SSE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -204,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T07:49:31.688Z,35.2925,23.8616,10,5.1,mb,128,48,0.841,1.13,us,us6000kznp,2023-08-14T06:56:06.847Z,"17 km ENE of Palaióchora, Greece",earthquake,5.83,1.84,0.031,331,reviewed,us,us
 2023-08-13T07:48:42.597Z,36.7063,-116.2776,7.9,-0.3,ml,16,116.09,0.033,0.0918,nn,nn00864401,2023-08-14T02:03:54.214Z,"California-Nevada border region",earthquake,,0.9,0.51,4,reviewed,nn,nn
 2023-08-13T07:30:38.540Z,61.324,-152.478166666667,-1.04,0.45,ml,6,166,,0.11,av,av91999546,2023-08-13T12:41:39.600Z,"77 km WNW of Tyonek, Alaska",earthquake,0.68,10.45,0.247991669555719,7,reviewed,av,av
-2023-08-13T07:20:24.752Z,36.7115,-116.2729,7.7,-0.4,ml,5,183.87,0.027,0.0233,nn,nn00864400,2023-08-14T02:03:52.911Z,"48 km ESE of Beatty, Nevada",earthquake,,2.2,0,1,reviewed,nn,nn
-2023-08-13T07:17:50.600Z,19.1881675720215,-155.494995117188,32.9199981689453,2.26,ml,43,78,,0.119999997,hv,hv73522722,2023-08-13T08:49:14.040Z,"2 km SW of Pāhala, Hawaii",earthquake,0.49,0.670000017,3.4,18,automatic,hv,hv
-2023-08-13T07:16:28.140Z,33.8735,-117.6743333,4.14,1.17,ml,26,45,0.03805,0.29,ci,ci40535760,2023-08-13T07:20:04.742Z,"10 km W of Corona, CA",earthquake,0.42,0.83,0.398,29,automatic,ci,ci
-2023-08-13T07:14:01.320Z,39.4643326,-123.105835,2.5,2.42,md,30,45,0.09227,0.1,nc,nc73923581,2023-08-13T07:35:14.373Z,"14 km WNW of Lake Pillsbury, CA",earthquake,0.23,1.1,0.07,24,automatic,nc,nc
