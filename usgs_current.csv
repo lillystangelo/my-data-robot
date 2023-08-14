@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-14T14:22:20.900Z,38.8186684,-122.8228302,2.2,1.07,md,23,61,0.01051,0.02,nc,nc73924051,2023-08-14T14:23:53.662Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.17,25,automatic,nc,nc
+2023-08-14T14:42:16.631Z,58.195,-155.2507,1.3,0.1,ml,,,,0.19,ak,ak023ae01jfj,2023-08-14T14:44:11.730Z,"84 km NW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-08-14T14:22:20.900Z,38.8186684,-122.8228302,2.2,1.07,md,23,61,0.01051,0.02,nc,nc73924051,2023-08-14T14:42:13.263Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.4,0.17,25,automatic,nc,nc
 2023-08-14T14:15:57.514Z,61.3051,-152.4316,0,1.7,ml,,,,0.82,ak,ak023adzvu8j,2023-08-14T14:17:35.921Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T14:15:16.600Z,38.8301659,-122.8160019,1.9,0.33,md,10,80,0.008195,0.02,nc,nc73924046,2023-08-14T14:32:14.204Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.85,0.21,12,automatic,nc,nc
 2023-08-14T14:11:14.835Z,56.706,-157.3402,106.3,2.1,ml,,,,0.98,ak,ak023adzuw3f,2023-08-14T14:13:57.203Z,"79 km NE of Chignik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-14T14:04:53.630Z,19.9734992980957,-155.037170410156,7.65999984741211,2.47,ml,48,211,,0.300000012,hv,hv73525112,2023-08-14T14:10:23.770Z,"13 km NE of Honomu, Hawaii",earthquake,1.47,2.18000007,3.02,9,automatic,hv,hv
-2023-08-14T13:52:58.610Z,37.541832,-121.8458328,5.03,1.62,md,17,82,0.03302,0.18,nc,nc73924031,2023-08-14T14:24:10.165Z,"8 km SSE of Sunol, CA",earthquake,0.45,0.85,0.12,12,automatic,nc,nc
+2023-08-14T13:52:58.610Z,37.541832,-121.8458328,5.03,1.62,md,17,82,0.03302,0.18,nc,nc73924031,2023-08-14T14:48:13.299Z,"8 km SSE of Sunol, CA",earthquake,0.45,0.85,0.12,12,automatic,nc,nc
 2023-08-14T13:51:54.267Z,13.3798,147.5429,10,6.1,mww,122,23,2.512,1.05,us,us6000kzv3,2023-08-14T14:32:10.054Z,"271 km SE of San Jose Village, Northern Mariana Islands",earthquake,6.96,1.82,0.052,36,reviewed,us,us
 2023-08-14T13:51:44.758Z,61.9789,-147.0563,15,1.5,ml,,,,0.8,ak,ak023adzi3fv,2023-08-14T13:53:21.856Z,"7 km NE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-14T13:41:27.170Z,38.7811661,-122.7218323,2.05,1.03,md,7,106,0.01969,0.01,nc,nc73924021,2023-08-14T14:21:16.151Z,"3 km WNW of Anderson Springs, CA",earthquake,1.59,3.5,0.27,7,automatic,nc,nc
@@ -131,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-13T22:24:49.290Z,19.3895,-155.282,1.45,1.8,md,16,69,,0.11,hv,hv73523857,2023-08-14T00:27:13.330Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.16,0.00967801825628234,3,reviewed,hv,hv
 2023-08-13T22:14:47.210Z,38.8250008,-122.8075027,3.26,0.45,md,6,174,0.00257,0.01,nc,nc73923811,2023-08-13T22:53:16.828Z,"7 km NW of The Geysers, CA",earthquake,0.97,2.6,0.16,7,automatic,nc,nc
 2023-08-13T22:12:21.833Z,35.50917053,-96.80200958,2.585897207,2.1,ml,38,69.90261555,0.1440995634,0.5461551175,ok,ok2023puyq,2023-08-13T22:16:57.526Z,"9 km E of Meeker, Oklahoma",earthquake,1.904237452,1.622155383,0.19,25,automatic,ok,ok
+2023-08-13T22:09:46.251Z,31.67676313,-104.407304,5.643115234,2.3,ml,19,56,0.01624299274,0.1,tx,tx2023puyp,2023-08-14T14:39:08.221Z,"55 km S of Whites City, New Mexico",earthquake,0.9038351369,0.7272996052000001,0.1,25,reviewed,tx,tx
 2023-08-13T22:08:48.600Z,36.550499,-121.126503,5.05,1.93,md,16,133,0.05193,0.11,nc,nc73923806,2023-08-14T00:23:17.333Z,"3 km NE of Pinnacles, CA",earthquake,0.49,1.6,0.11,15,automatic,nc,nc
 2023-08-13T22:08:15.230Z,58.181,-155.367666666667,2.63,0.88,ml,10,64,,0.11,av,av92000356,2023-08-14T02:04:48.020Z,"87 km NW of Karluk, Alaska",earthquake,0.34,0.39,0.163711926905092,10,reviewed,av,av
 2023-08-13T22:05:04.860Z,38.7966652,-122.7539978,2.11,0.72,md,9,92,0.005964,0.02,nc,nc73923791,2023-08-13T23:14:13.959Z,"2 km N of The Geysers, CA",earthquake,0.32,1.69,0.08,10,automatic,nc,nc
