@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T13:18:21.552Z,28.94805908,-97.62373621,2.518839518,2.3,ml,16,97,0.0923020542,0.1,tx,tx2023qdkq,2023-08-18T18:40:33.385Z,"3 km NNW of Nordheim, Texas",earthquake,1.197007927,1.853701452,0.1,6,reviewed,tx,tx
 2023-08-18T13:13:11.964Z,60.5109,-150.9085,38.3,1.2,ml,,,,0.54,ak,ak023aklf9oc,2023-08-18T13:15:16.412Z,"Kenai Peninsula, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-08-18T13:09:22.272Z,-17.8545,-174.3642,59.497,4.9,mb,42,105,0.862,0.77,us,us7000kp7p,2023-08-18T13:28:36.040Z,"96 km NNW of Neiafu, Tonga",earthquake,8.84,7.17,0.043,166,reviewed,us,us
-2023-08-18T12:54:15.820Z,33.2423333,-116.0936667,2.07,0.69,ml,8,85,0.09787,0.17,ci,ci39643794,2023-08-18T12:57:47.592Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.38,0.69,0.056,4,automatic,ci,ci
+2023-08-18T12:54:15.760Z,33.2355,-116.0853333,5.23,0.68,ml,9,88,0.09448,0.08,ci,ci39643794,2023-08-18T22:23:00.993Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.21,0.55,0.063,6,reviewed,ci,ci
 2023-08-18T12:49:37.344Z,-1.6742,134.5532,32.617,4.8,mb,26,74,2.614,0.78,us,us7000kp7m,2023-08-18T13:12:03.040Z,"46 km ESE of Ransiki, Indonesia",earthquake,10.2,5.873,0.08,48,reviewed,us,us
 2023-08-18T12:42:06.850Z,38.8349991,-122.7886658,1.81,1.07,md,21,69,0.003648,0.02,nc,nc73925671,2023-08-18T14:34:14.018Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.38,0.12,21,automatic,nc,nc
 2023-08-18T12:35:47.830Z,37.1626667,-121.6616667,5.46,0.86,md,12,68,0.02814,0.07,nc,nc73925666,2023-08-18T17:42:58.472Z,"4 km N of Morgan Hill, CA",earthquake,0.27,0.55,0.314,15,reviewed,nc,nc
@@ -149,6 +149,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T07:25:29.560Z,31.61756562,-104.0885414,5.617407227000001,2.2,ml,21,59,0.02513962928,0.1,tx,tx2023qcyx,2023-08-18T18:07:40.323Z,"43 km NW of Toyah, Texas",earthquake,0.5798737959,0.6628302818000001,0.1,7,reviewed,tx,tx
 2023-08-18T07:22:10.830Z,38.8071671,-122.8180008,2.77,1.04,md,22,58,0.008896,0.02,nc,nc73925551,2023-08-18T07:46:11.764Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.52,0.28,22,automatic,nc,nc
 2023-08-18T07:21:45.810Z,39.8203333,-123.7776667,-0.26,1.75,md,20,125,0.07068,0.07,nc,nc73925556,2023-08-18T20:02:14.902Z,"10 km NNE of Rockport, CA",earthquake,0.15,0.48,0.221,20,reviewed,nc,nc
+2023-08-18T07:07:24.470Z,36.775,-121.3298333,5.79,0.89,md,17,119,0.06873,0.08,nc,nc73925541,2023-08-18T22:30:24.515Z,"2 km SSW of Tres Pinos, CA",earthquake,0.25,0.78,0.139,14,reviewed,nc,nc
+2023-08-18T07:01:07.480Z,40.3396667,-124.2623333,31.44,1.64,md,14,193,0.02438,0.09,nc,nc73925546,2023-08-18T22:29:11.734Z,"2 km NE of Petrolia, CA",earthquake,1.6,2.24,0.123,8,reviewed,nc,nc
 2023-08-18T06:41:43.780Z,38.8170013,-122.7965012,3.03,0.81,md,7,115,0.009069,0.01,nc,nc73925536,2023-08-18T07:05:13.548Z,"6 km NW of The Geysers, CA",earthquake,0.77,1.99,0.07,9,automatic,nc,nc
 2023-08-18T06:40:54.147Z,9.2651,93.9048,10,4.7,mb,33,136,6.603,0.51,us,us7000kp6j,2023-08-18T07:48:15.040Z,"294 km SSE of Port Blair, India",earthquake,10.97,1.927,0.112,24,reviewed,us,us
 2023-08-18T06:37:35.756Z,9.5343,93.7101,10,4.6,mb,49,70,5.348,0.6,us,us7000kp6n,2023-08-18T08:22:22.040Z,"Nicobar Islands, India region",earthquake,10.29,1.877,0.091,36,reviewed,us,us
@@ -237,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T22:40:27.404Z,61.1842,-149.7402,46.6,1.2,ml,,,,0.37,ak,ak023aj3en4k,2023-08-17T22:42:59.129Z,"9 km ESE of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-17T22:38:27.970Z,37.61,-122.3255,11.77,0.96,md,15,178,0.02207,0.07,nc,nc71131239,2023-08-17T23:01:45.341Z,"5 km NE of Burlingame, CA",earthquake,0.44,0.65,0.308,7,reviewed,nc,nc
 2023-08-17T22:37:13.758Z,64.0125,-148.7693,0,1.5,ml,,,,0.63,ak,ak023aj3dyy7,2023-08-17T22:38:59.696Z,"16 km E of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-17T22:26:55.439Z,51.9316,-169.4213,24.7,2.2,ml,,,,0.47,ak,ak023aj3bt01,2023-08-17T23:55:29.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,4.6,,,reviewed,ak,ak
