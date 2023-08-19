@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-19T02:45:33.042Z,35.50927353,-98.00283051,5,2.07,ml,14,96.18028259,0.08749365807,0.6578018412,ok,ok2023qele,2023-08-19T02:47:20.171Z,"Oklahoma",earthquake,3.969960187,,0.33,4,automatic,ok,ok
+2023-08-19T02:45:33.042Z,35.50927353,-98.00283051,5,2.03,ml,14,96.18028259,0.08749365807,0.6578018412,ok,ok2023qele,2023-08-19T02:48:29.741Z,"5 km WSW of El Reno, Oklahoma",earthquake,3.969960187,,0.28,13,automatic,ok,ok
 2023-08-19T02:34:35.839Z,64.9522,-148.3258,13.2,0.6,ml,,,,0.39,ak,ak023am2jee7,2023-08-19T02:36:51.784Z,"18 km NW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T02:26:04.254Z,61.8516,-149.8519,32.3,2,ml,,,,0.47,ak,ak023am2hm89,2023-08-19T02:27:47.006Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-19T02:17:52.877Z,31.67759373,-104.3855085,5.668823242,3.4,ml,11,70,0.0345377578,0.2,tx,tx2023qekg,2023-08-19T02:36:51.007Z,"55 km S of Whites City, New Mexico",earthquake,0.9350991174999999,0.9333514845,0.2,9,reviewed,tx,tx
+2023-08-19T02:17:52.877Z,31.67759373,-104.3855085,5.668823242,3.4,ml,11,70,0.0345377578,0.2,tx,tx2023qekg,2023-08-19T02:57:42.596Z,"55 km S of Whites City, New Mexico",earthquake,0.9350991174999999,0.9333514845,0.2,9,reviewed,tx,tx
 2023-08-19T02:17:05.670Z,19.238000869751,-155.401504516602,30.4400005340576,2.05,ml,39,153,,0.109999999,hv,hv73533127,2023-08-19T02:22:37.510Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.52,0.730000019,3.37,7,automatic,hv,hv
 2023-08-19T02:01:34.464Z,63.1816,-150.4833,110.8,1.6,ml,,,,0.44,ak,ak023am2cbnq,2023-08-19T02:03:55.350Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-19T01:56:35.900Z,40.2433319,-121.1429977,-0.94,2.4,md,10,107,0.2304,0.07,nc,nc73925821,2023-08-19T02:18:10.052Z,"4 km NNE of Prattville, CA",earthquake,0.46,9.55,0.15,12,automatic,nc,nc
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T18:45:48.547Z,38.5509,-118.4409,2.3,2.1,ml,15,100.25,0.304,0.1641,nn,nn00864627,2023-08-18T20:01:22.345Z,"16 km E of Hawthorne, Nevada",earthquake,,2,0.29,8,reviewed,nn,nn
 2023-08-18T18:41:15.120Z,54.7496666666667,-164.108166666667,1.64,1.75,ml,7,105,,0.3,av,av92007871,2023-08-18T19:13:40.610Z,"Unimak Island region, Alaska",earthquake,0.99,0.45,0.178034906132903,7,reviewed,av,av
 2023-08-18T18:39:35.930Z,33.4941667,-116.5838333,9.42,0.35,ml,16,114,0.01536,0.12,ci,ci39644082,2023-08-18T22:47:06.531Z,"11 km SE of Anza, CA",earthquake,0.37,0.49,0.161,8,reviewed,ci,ci
+2023-08-18T18:36:22.510Z,58.1756666666667,-155.308,2.56,0.02,ml,10,106,,0.11,av,av92007861,2023-08-19T02:54:16.720Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.44,0.367280837711728,10,reviewed,av,av
 2023-08-18T18:35:17.701Z,12.8401,124.3111,115.242,5,mb,26,132,5.868,0.96,us,us7000kpba,2023-08-18T19:15:21.275Z,"18 km NNW of Biri, Philippines",earthquake,15.3,10.472,0.133,18,reviewed,us,us
 2023-08-18T18:34:43.580Z,38.7874985,-122.7473297,0.1,1.66,md,8,100,0.0427,0.02,nc,nc73925726,2023-08-18T22:10:11.625Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.86,0.22,9,automatic,nc,nc
 2023-08-18T18:33:04.850Z,42.3131,143.0566,61.336,4.9,mww,240,65,0.307,0.64,us,us7000kpb9,2023-08-18T19:43:45.040Z,"20 km W of Hiroo, Japan",earthquake,6.89,4.429,0.098,10,reviewed,us,us
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T16:13:56.081Z,61.4979,-151.9693,7,1.4,ml,,,,0.48,ak,ak023akn7nw8,2023-08-19T02:23:44.760Z,"61 km NW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T16:13:48.800Z,35.6685,-117.5321667,11.74,0.88,ml,16,103,0.08838,0.15,ci,ci39643938,2023-08-18T23:08:06.217Z,"14 km ENE of Ridgecrest, CA",earthquake,0.42,0.97,0.135,8,reviewed,ci,ci
 2023-08-18T16:10:03.542Z,27.8841,53.9515,10,4.8,mb,57,63,3.556,0.8,us,us7000kp9x,2023-08-18T16:44:49.040Z,"29 km NW of Gerāsh, Iran",earthquake,9.43,1.879,0.052,116,reviewed,us,us
-2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"25 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-18T16:09:11.598Z,61.3596,-150.9277,61,1.7,ml,,,,0.45,ak,ak023akn6plj,2023-08-18T16:11:17.998Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T15:56:03.780Z,33.5968333,-116.6975,16.3,0.47,ml,15,84,0.04568,0.08,ci,ci39643922,2023-08-18T23:04:59.279Z,"5 km NNW of Anza, CA",earthquake,0.3,0.42,0.07,8,reviewed,ci,ci
 2023-08-18T15:35:14.483Z,52.5978,-170.9124,10,3.7,ml,20,185,0.611,0.82,us,us7000kp9v,2023-08-18T16:48:04.040Z,"143 km WSW of Nikolski, Alaska",earthquake,6.3,1.975,0.097,20,reviewed,us,us
 2023-08-18T15:30:27.810Z,44.8771666666667,-111.448166666667,5.38,0.83,ml,7,147,0.04826,0.16,mb,mb90024673,2023-08-18T16:53:47.790Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,1.56,2.31,0.171832664992697,5,reviewed,mb,mb
