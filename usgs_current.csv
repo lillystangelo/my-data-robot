@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T07:52:32.020Z,44.7565,-110.9188333,9.59,0.83,ml,12,119,0.05815,0.15,uu,uu60547907,2023-08-18T14:13:37.280Z,"18 km NE of West Yellowstone, Montana",earthquake,0.42,0.91,0.119,3,reviewed,uu,uu
 2023-08-18T07:43:51.580Z,38.8095016,-122.8130035,1.74,0.82,md,7,139,0.01391,0.02,nc,nc73925561,2023-08-18T08:09:12.890Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.08,0.15,10,automatic,nc,nc
 2023-08-18T07:38:41.830Z,19.1736660003662,-155.484832763672,35.6500015258789,1.99,ml,42,86,,0.150000006,hv,hv73532287,2023-08-18T07:44:11.650Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.790000021,5.16,3,automatic,hv,hv
-2023-08-18T07:32:39.128Z,9.1827,93.9745,10,4.8,mb,54,76,4.912,0.56,us,us7000kp6i,2023-08-18T07:52:50.040Z,"Nicobar Islands, India region",earthquake,9.15,1.871,0.09,38,reviewed,us,us
-2023-08-18T07:29:17.313Z,60.8432,-155.986,0,1.6,ml,,,,0.77,ak,ak023akhy3yq,2023-08-18T07:31:43.274Z,"64 km SSW of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
