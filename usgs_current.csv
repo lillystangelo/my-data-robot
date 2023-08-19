@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T07:05:08.131Z,38.4289,-118.3324,10.2,2.1,ml,12,158.43,0.942,0.2736,nn,nn00864654,2023-08-19T07:08:11.079Z,"Nevada",earthquake,,1.7,1.05,9,automatic,nn,nn
 2023-08-19T06:55:59.100Z,33.4818333,-116.5811667,9.56,0.49,ml,13,232,0.02176,0.13,ci,ci39644386,2023-08-19T06:59:34.887Z,"12 km SE of Anza, CA",earthquake,0.52,0.45,0.102,9,automatic,ci,ci
 2023-08-19T06:42:55.326Z,62.1742,-148.49,38.9,1.1,ml,,,,0.67,ak,ak023am4yw1o,2023-08-19T06:45:59.978Z,"42 km N of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-08-19T06:34:36.355Z,8.9393,126.2798,70.595,4.7,mb,78,120,1.983,0.72,us,us7000kpfc,2023-08-19T06:53:48.040Z,"1 km NW of Bacolod, Philippines",earthquake,10.45,7.393,0.065,72,reviewed,us,us
@@ -63,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T21:27:16.470Z,19.49049949646,-155.488494873047,3.5,1.76999998,md,20,73,,0.129999995,hv,hv73532887,2023-08-18T21:30:28.260Z,"27 km W of Volcano, Hawaii",earthquake,0.37,1.65999997,0.879999995,8,automatic,hv,hv
 2023-08-18T21:27:05.838Z,36.2553,-115.3408,1.9,1.6,ml,14,102.15,0.077,0.1332,nn,nn00864642,2023-08-18T21:49:48.292Z,"15 km N of Summerlin South, Nevada",earthquake,,23.1,1.13,4,reviewed,nn,nn
 2023-08-18T21:25:01.180Z,58.2445,-155.164166666667,4.89,0.2,ml,13,69,,0.08,av,av92008121,2023-08-19T03:32:50.400Z,"86 km NNW of Karluk, Alaska",earthquake,0.23,0.49,0.262607010670027,13,reviewed,av,av
-2023-08-18T21:21:12.317Z,54.3896,-161.027,2.9,2.1,ml,,,,0.79,ak,ak023akq8hb5,2023-08-19T00:08:00.123Z,"Alaska Peninsula",earthquake,,2.2,,,reviewed,ak,ak
+2023-08-18T21:21:12.317Z,54.3896,-161.027,2.9,2.1,ml,,,,0.79,ak,ak023akq8hb5,2023-08-19T00:08:00.123Z,"110 km SSW of Sand Point, Alaska",earthquake,,2.2,,,reviewed,ak,ak
 2023-08-18T21:00:13.206Z,59.775,-152.8455,87.4,1.7,ml,,,,0.31,ak,ak023akq3yaw,2023-08-18T21:02:20.396Z,"56 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-18T20:51:42.815Z,67.2914,-144.9849,0,2.4,ml,,,,1.37,ak,ak023akptih5,2023-08-18T20:54:17.484Z,"69 km ENE of Venetie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-18T20:44:17.300Z,60.041,-153.076666666667,2.96,-1.02,ml,4,171,,0.28,av,av92008076,2023-08-19T03:23:11.160Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.29,3.16,0.0485427254766377,4,reviewed,av,av
