@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T09:45:33.050Z,33.3156662,-116.8933334,17.76,1.79,ml,73,27,0.04574,0.2,ci,ci39644434,2023-08-19T09:47:41.026Z,"5 km SSW of Palomar Observatory, CA",earthquake,0.22,0.53,0.25,27,automatic,ci,ci
 2023-08-19T09:28:59.200Z,19.1366672515869,-155.367172241211,29.5100002288818,1.80999994,md,34,185,,0.100000001,hv,hv73533442,2023-08-19T09:32:01.020Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.65,0.939999998,1.80999994,4,automatic,hv,hv
 2023-08-19T09:25:57.670Z,33.5143333,-116.7566667,3.89,0.61,ml,27,65,0.03655,0.19,ci,ci39644426,2023-08-19T09:29:25.737Z,"9 km WSW of Anza, CA",earthquake,0.26,0.46,0.155,18,automatic,ci,ci
 2023-08-19T09:23:00.334Z,61.1146,-150.7216,44.9,1.1,ml,,,,0.39,ak,ak023am6n00h,2023-08-19T09:24:24.178Z,"19 km E of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -215,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T10:08:47.860Z,45.866,-111.498333333333,2.72,1.59,ml,15,82,0.2668,0.19,mb,mb90024658,2023-08-18T15:25:46.630Z,"5 km SE of Three Forks, Montana",earthquake,0.5,5.68,0.21468761406504,4,reviewed,mb,mb
 2023-08-18T10:05:06.510Z,36.7775002,-121.3338318,4.57,1.11,md,8,89,,0.07,nc,nc73925616,2023-08-19T01:32:32.282Z,"2 km SW of Tres Pinos, CA",earthquake,0.51,0.76,0.26,7,automatic,nc,nc
 2023-08-18T10:02:18.530Z,33.0116667,-116.2906667,10.55,1.5,ml,59,41,0.0579,0.18,ci,ci39643746,2023-08-18T20:56:31.000Z,"21 km SW of Ocotillo Wells, CA",earthquake,0.17,0.36,0.164,24,reviewed,ci,ci
-2023-08-18T09:46:40.590Z,52.0611666666667,-176.122333333333,-1.8,0.31,ml,6,97,,0.29,av,av92007311,2023-08-19T00:41:56.600Z,"40 km ENE of Adak, Alaska",earthquake,0.66,1.21,0.23492101788509,6,reviewed,av,av
-2023-08-18T09:44:18.720Z,33.6418333,-116.7031667,14.92,0.36,ml,16,70,0.03645,0.11,ci,ci39643738,2023-08-18T20:47:42.988Z,"10 km NNW of Anza, CA",earthquake,0.28,0.51,0.156,10,reviewed,ci,ci
