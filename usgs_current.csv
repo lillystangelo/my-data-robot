@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-20T14:26:14.360Z,50.3585,-177.29,37.916,4,mb,26,220,1.499,0.47,us,us7000kpml,2023-08-20T14:40:04.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,8.22,12.57,0.071,54,reviewed,us,us
 2023-08-20T14:18:54.592Z,38.1518,-117.7927,10.3,1.3,ml,9,184.53,0.1,0.2488,nn,nn00864695,2023-08-20T14:21:37.316Z,"38 km SE of Mina, Nevada",earthquake,,0.4,0.99,6,automatic,nn,nn
 2023-08-20T14:17:28.750Z,19.1576671600342,-155.47200012207,31.1900005340576,1.75,md,31,124,,0.119999997,hv,hv73534692,2023-08-20T14:20:38.610Z,"5 km S of Pāhala, Hawaii",earthquake,0.57,0.860000014,0.74000001,3,automatic,hv,hv
 2023-08-20T14:02:24.720Z,38.8171654,-122.82267,1.98,0.76,md,19,51,0.009721,0.03,nc,nc73926261,2023-08-20T14:20:13.523Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.57,0.16,19,automatic,nc,nc
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T11:24:12.346Z,57.9898,-156.2584,114.7,0,ml,,,,0.78,ak,ak023anvdhm6,2023-08-20T11:27:41.890Z,"70 km ESE of Egegik, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-08-20T11:19:04.276Z,63.2769,-149.0089,7,1.1,ml,,,,0.2,ak,ak023anvcd5n,2023-08-20T11:20:39.541Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-20T11:14:45.310Z,38.8351669,-122.8030014,1.44,0.77,md,13,62,0.0104,0.04,nc,nc73926216,2023-08-20T11:55:11.726Z,"7 km WNW of Cobb, CA",earthquake,0.28,0.49,0.2,14,automatic,nc,nc
-2023-08-20T11:06:28.213Z,39.6426,-119.635,4,2.5,ml,17,78.43,0.204,0.3185,nn,nn00864692,2023-08-20T13:39:59.078Z,"Nevada",earthquake,,0.8,0.31,8,automatic,nn,nn
+2023-08-20T11:06:28.213Z,39.6426,-119.635,4,2.5,ml,17,78.43,0.204,0.3185,nn,nn00864692,2023-08-20T14:36:50.548Z,"Nevada",earthquake,,0.8,0.31,8,automatic,nn,nn
 2023-08-20T10:54:02.309Z,58.1717,-155.3995,0,0.9,ml,,,,0.42,ak,ak023anuyfgm,2023-08-20T10:56:15.019Z,"Alaska Peninsula",earthquake,,29.3,,,automatic,ak,ak
 2023-08-20T10:51:24.868Z,64.9786,-151.3777,16.1,0.8,ml,,,,0.61,ak,ak023anuxu1y,2023-08-20T10:53:31.979Z,"35 km W of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-20T10:50:44.856Z,58.1821,-155.3664,6.9,0.1,ml,,,,0.94,ak,ak023anuxnwq,2023-08-20T10:53:19.392Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T15:03:26.594Z,63.2436,-151.8583,9.6,1.2,ml,,,,1.04,ak,ak023ama3dci,2023-08-19T15:06:13.090Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-19T14:54:47.055Z,16.2651,-94.0801,91.729,4.5,mb,27,208,1.867,1.2,us,us7000kpgr,2023-08-19T15:23:40.040Z,"6 km N of Los Corazones, Mexico",earthquake,15.03,20.385,0.048,130,reviewed,us,us
 2023-08-19T14:46:08.480Z,30.3389,94.7567,10,5,mb,52,47,8.671,0.97,us,us7000kpgp,2023-08-19T15:05:11.040Z,"203 km N of Shi Yomi, India",earthquake,4.3,1.869,0.046,151,reviewed,us,us
-2023-08-19T14:40:33.910Z,19.386999130249,-155.277328491211,1.08000004291534,1.75,md,13,104,,0.119999997,hv,hv73533652,2023-08-19T14:43:44.530Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.25999999,0.779999971,12,automatic,hv,hv
