@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-20T17:37:58.300Z,36.7763329,-121.3359985,4.36,1.81,md,16,85,,0.11,nc,nc73926296,2023-08-20T17:39:35.088Z,"2 km SW of Tres Pinos, CA",earthquake,0.32,0.7,0.17,15,automatic,nc,nc
+2023-08-20T17:37:58.300Z,36.7763329,-121.3359985,4.36,1.81,md,16,85,,0.11,nc,nc73926296,2023-08-20T17:50:10.715Z,"2 km SW of Tres Pinos, CA",earthquake,0.32,0.7,0.17,15,automatic,nc,nc
 2023-08-20T17:09:07.766Z,64.87,-147.2378,14.7,0.9,ml,,,,0.27,ak,ak023anyutqw,2023-08-20T17:11:30.379Z,"9 km W of Two Rivers, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-20T17:05:58.769Z,56.4092,-159.1871,132.6,1,ml,,,,0.5,ak,ak023anyu2ys,2023-08-20T17:08:05.486Z,"31 km WNW of Chignik Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-20T16:59:41.307Z,64.7356,-147.5518,21.9,0.6,ml,,,,0.29,ak,ak023anyk5m2,2023-08-20T17:08:02.783Z,"7 km S of Badger, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T18:17:34.950Z,19.3033332824707,-155.231506347656,0.980000019073486,1.79,ml,11,250,,0.129999995,hv,hv73533797,2023-08-19T18:23:04.130Z,"15 km S of Volcano, Hawaii",earthquake,1.52,0.819999993,0.38,6,automatic,hv,hv
 2023-08-19T18:16:34.212Z,-37.1032,177.445,206.37,4.8,mb,86,58,0.826,0.86,us,us7000kphr,2023-08-19T21:43:16.040Z,"off the east coast of the North Island of New Zealand",earthquake,7.71,4.813,0.07,70,reviewed,us,us
 2023-08-19T17:55:09.870Z,38.8148346,-122.7969971,2.4,1.08,md,13,66,0.006983,0.02,nc,nc73925926,2023-08-19T18:49:11.967Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.74,0.15,17,automatic,nc,nc
-2023-08-19T17:45:05.372Z,52.4892,-175.8306,172.133,4.1,mb,173,44,0.42,0.96,us,us7000kphp,2023-08-19T21:26:58.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,7.72,4.451,0.046,133,reviewed,us,us
