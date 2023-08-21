@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-21T23:55:03.766Z,39.3952,-119.719,7.2,1.4,ml,10,77.67,0.036,0.0943,nn,nn00864780,2023-08-21T23:57:36.837Z,"Nevada",earthquake,,0.8,0.33,5,automatic,nn,nn
+2023-08-21T23:50:25.340Z,34.4156685,-119.1973343,15.37,3.46,ml,92,29,0.05381,0.36,ci,ci39646898,2023-08-21T23:58:19.757Z,"6 km SE of Ojai, CA",earthquake,0.34,0.71,0.363,22,reviewed,ci,ci
 2023-08-21T23:31:12.851Z,61.9235,-148.5646,23.3,0.8,ml,,,,0.35,ak,ak023apq3i5x,2023-08-21T23:32:53.026Z,"15 km NNW of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-21T23:30:48.420Z,37.4938316,-118.7761688,9.4,1.33,md,11,224,0.1427,0.02,nc,nc73926866,2023-08-21T23:38:11.257Z,"11 km SW of Toms Place, CA",earthquake,1.56,2.6,0.1,9,automatic,nc,nc
+2023-08-21T23:30:48.420Z,37.4938316,-118.7761688,9.4,1.33,md,11,224,0.1427,0.02,nc,nc73926866,2023-08-21T23:53:18.343Z,"11 km SW of Toms Place, CA",earthquake,1.56,2.6,0.1,9,automatic,nc,nc
 2023-08-21T23:27:40.600Z,35.6791667,-117.5321667,10.67,1.12,ml,15,90,0.08941,0.19,ci,ci39646874,2023-08-21T23:31:21.744Z,"14 km ENE of Ridgecrest, CA",earthquake,0.47,0.9,0.134,8,automatic,ci,ci
 2023-08-21T23:15:46.209Z,60.8952,-150.2938,54.4,1.2,ml,,,,0.16,ak,ak023apq05a4,2023-08-21T23:17:46.968Z,"21 km E of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-21T23:14:19.990Z,38.7718315,-122.7369995,-0.77,0.96,md,6,95,0.01139,0.06,nc,nc73926861,2023-08-21T23:43:13.281Z,"2 km ESE of The Geysers, CA",earthquake,0.36,2.03,0.31,7,automatic,nc,nc
@@ -260,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T00:10:37.720Z,34.4161667,-119.2091667,0.78,1.61,ml,18,109,0.06275,0.27,ci,ci39645826,2023-08-21T00:14:15.307Z,"5 km SE of Ojai, CA",earthquake,0.52,31.61,0.112,28,automatic,ci,ci
 2023-08-21T00:06:45.030Z,52.0036666666667,178.4185,0.02,1.05,ml,3,343,,0.02,av,av92011411,2023-08-21T00:36:12.570Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.4,31.61,0.314450678497446,4,reviewed,av,av
 2023-08-20T23:59:39.430Z,34.4186667,-119.197,4.6,2.34,ml,46,54,0.05245,0.34,ci,ci39645810,2023-08-21T01:17:33.278Z,"5 km SE of Ojai, CA",earthquake,0.45,1.03,0.203,26,automatic,ci,ci
-2023-08-20T23:57:19.156Z,31.66845374,-104.3773531,4.897583008,2.7,ml,17,57,0.0430526129,0.1,tx,tx2023qhws,2023-08-21T09:17:32.460Z,"56 km S of Whites City, New Mexico",earthquake,0.8250244904,1.0852325979999997,0.1,21,reviewed,tx,tx
-2023-08-20T23:52:13.570Z,58.2138333333333,-155.0545,38.48,0.23,ml,14,96,,0.26,av,av92011396,2023-08-21T00:33:09.480Z,"80 km NNW of Karluk, Alaska",earthquake,0.8,1.09,0.337525106982144,14,reviewed,av,av
