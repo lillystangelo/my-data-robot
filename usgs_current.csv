@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T18:59:27.780Z,33.0466667,-115.5881667,5.99,1.87,ml,32,41,0.009895,0.22,ci,ci39647786,2023-08-22T19:10:09.970Z,"3 km ENE of Westmorland, CA",earthquake,0.29,0.57,0.238,26,automatic,ci,ci
 2023-08-22T18:57:52.180Z,61.5318,-153.56,178.7,1.7,ml,,,,1,ak,ak023aratcaa,2023-08-22T19:10:14.501Z,"101 km E of Lime Village, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2023-08-22T18:50:30.196Z,61.1903,-151.9193,98.8,0.9,ml,,,,0.53,ak,ak023ararskr,2023-08-22T18:52:51.985Z,"44 km WNW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-08-22T18:46:55.285Z,30.373,94.8343,34.153,4.8,mb,134,40,7.415,0.58,us,us7000kq64,2023-08-22T19:11:18.040Z,"209 km NNE of Shi Yomi, India",earthquake,8.11,5.128,0.04,194,reviewed,us,us
 2023-08-22T18:43:50.693Z,60.07,-152.8225,103.4,1.2,ml,,,,0.23,ak,ak023araqc59,2023-08-22T18:45:42.571Z,"62 km WNW of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-22T18:43:34.774Z,-19.101,169.0517,161.801,4.5,mb,51,61,3.803,0.76,us,us7000kq63,2023-08-22T19:00:52.040Z,"54 km NNW of Isangel, Vanuatu",earthquake,5.48,7.743,0.082,47,reviewed,us,us
 2023-08-22T18:29:01.250Z,34.398,-119.207,2.4,1.69,ml,21,101,0.06934,0.26,ci,ci39647738,2023-08-22T18:32:46.261Z,"6 km SSE of Ojai, CA",earthquake,0.44,0.58,0.227,29,automatic,ci,ci
@@ -240,7 +241,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T00:17:11.880Z,19.388,-155.2775,1.54,2.48,ml,37,57,,0.1,hv,hv73536912,2023-08-22T00:48:28.620Z,"Hawaii region, Hawaii",earthquake,0.16,0.12,0.253891516187291,15,reviewed,hv,hv
 2023-08-22T00:13:34.000Z,38.7861671,-122.7663345,2.57,1.1,md,17,81,0.01534,0.04,nc,nc73926881,2023-08-22T03:24:14.516Z,"1 km NW of The Geysers, CA",earthquake,0.3,0.66,0.23,17,automatic,nc,nc
 2023-08-22T00:13:29.889Z,64.9677,-151.3503,16.2,0.9,ml,,,,0.77,ak,ak023aqzu25t,2023-08-22T00:15:44.286Z,"34 km W of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-22T00:08:35.058Z,39.3898,-119.716,6.4,1.5,ml,13,58.53,0.038,0.1402,nn,nn00864785,2023-08-22T16:09:53.961Z,"Nevada",earthquake,,1.1,0.35,5,reviewed,nn,nn
+2023-08-22T00:08:35.058Z,39.3898,-119.716,6.4,1.5,ml,13,58.53,0.038,0.1402,nn,nn00864785,2023-08-22T16:09:53.961Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.1,0.35,5,reviewed,nn,nn
 2023-08-21T23:55:57.070Z,31.67107653,-104.3983702,7.365551758,2.8,ml,17,81,0.02522125286,0.1,tx,tx2023qjsc,2023-08-22T11:53:30.959Z,"western Texas",earthquake,1.163121179,1.224368778,0.1,31,reviewed,tx,tx
 2023-08-21T23:55:04.456Z,39.3986,-119.727,6.1,1.4,ml,17,57.27,0.031,0.1647,nn,nn00864780,2023-08-22T00:49:01.445Z,"11 km NW of Virginia City, Nevada",earthquake,,0.8,0.12,7,reviewed,nn,nn
 2023-08-21T23:50:25.120Z,34.4141667,-119.1988333,6.26,3.34,ml,87,30,0.05555,0.32,ci,ci39646898,2023-08-22T18:43:58.378Z,"6 km SE of Ojai, CA",earthquake,0.25,0.69,0.149,123,reviewed,ci,ci
@@ -283,4 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T19:25:40.577Z,60.488,-151.9263,65.1,1.1,ml,,,,0.19,ak,ak023apnojl5,2023-08-21T19:27:32.922Z,"35 km WNW of Kalifornsky, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-21T19:25:24.730Z,34.2045,-117.8385,7.9,1.46,ml,25,58,0.1154,0.21,ci,ci39646674,2023-08-21T20:14:04.213Z,"8 km NNE of Glendora, CA",earthquake,0.41,1.17,0.404,32,automatic,ci,ci
 2023-08-21T19:25:02.550Z,38.8251648,-122.7990036,2.47,1.18,md,26,32,0.008826,0.02,nc,nc73926806,2023-08-21T20:20:15.114Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.42,0.15,28,automatic,nc,nc
-2023-08-21T19:12:02.209Z,35.9185,-95.15816667,0,1.53,ml,53,106,0.5146989985,0.42,ok,ok2023qjis,2023-08-21T19:21:22.630Z,"2 km SW of Hulbert, Oklahoma",quarry blast,,0.5,0.24,15,reviewed,ok,ok
