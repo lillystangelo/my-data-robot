@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-22T22:34:15.510Z,35.9661674,-120.5193329,9.79,0.94,md,16,59,0.02124,0.05,nc,nc73927206,2023-08-22T22:35:54.234Z,"11 km NW of Parkfield, CA",earthquake,0.35,0.65,0.11,6,automatic,nc,nc
 2023-08-22T22:20:20.440Z,38.7746658,-122.7158356,1.28,1.64,md,18,70,0.01447,0.05,nc,nc73927201,2023-08-22T22:37:17.102Z,"2 km W of Anderson Springs, CA",earthquake,0.27,0.35,0.18,20,automatic,nc,nc
-2023-08-22T22:20:10.090Z,33.4771667,-116.778,1.96,1.01,ml,37,35,0.03638,0.22,ci,ci39647978,2023-08-22T22:30:22.773Z,"9 km ENE of Aguanga, CA",earthquake,0.24,0.38,0.129,27,automatic,ci,ci
+2023-08-22T22:20:10.080Z,33.4775,-116.7786667,2.46,1.02,ml,29,42,0.03575,0.15,ci,ci39647970,2023-08-22T22:54:32.880Z,"9 km ENE of Aguanga, CA",earthquake,0.17,0.25,0.127,21,reviewed,ci,ci
 2023-08-22T22:08:18.280Z,34.4168333,-119.1811667,2.42,1.27,ml,11,86,0.04128,0.27,ci,ci39647962,2023-08-22T22:11:56.808Z,"7 km ESE of Ojai, CA",earthquake,0.51,0.66,0.182,18,automatic,ci,ci
-2023-08-22T22:06:53.890Z,38.8246651,-122.7993317,2.6,1.6,md,31,38,0.008486,0.02,nc,nc73927196,2023-08-22T22:27:15.050Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.36,0.19,30,automatic,nc,nc
+2023-08-22T22:06:53.890Z,38.8246651,-122.7993317,2.6,1.6,md,31,38,0.008486,0.02,nc,nc73927196,2023-08-22T22:49:11.161Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.36,0.19,30,automatic,nc,nc
 2023-08-22T21:59:42.450Z,19.4053333333333,-155.295166666667,2.19,1.76,ml,28,55,,0.1,hv,hv73538197,2023-08-22T22:19:36.530Z,"7 km WSW of Volcano, Hawaii",earthquake,0.18,0.17,0.0604528585995536,11,reviewed,hv,hv
 2023-08-22T21:53:12.700Z,18.408,-68.2895,132,3.46,md,16,230,0.1402,0.23,pr,pr2023234000,2023-08-22T22:40:59.260Z,"22 km SSE of Punta Cana, Dominican Republic",earthquake,21.18,2.16,0.19,10,reviewed,pr,pr
 2023-08-22T21:39:23.893Z,-15.2555,-177.905,439.113,4.3,mb,23,96,4.6,0.68,us,us7000kq7h,2023-08-22T22:34:31.040Z,"Fiji region",earthquake,17.85,7.889,0.142,14,reviewed,us,us
@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T21:23:08.799Z,58.2817,-155.1439,29,0.3,ml,,,,0.14,ak,ak023arce9en,2023-08-22T21:24:25.860Z,"89 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-22T21:20:26.220Z,34.4191667,-119.169,1.06,1.77,ml,31,71,0.03149,0.27,ci,ci39647938,2023-08-22T21:33:14.025Z,"8 km ESE of Ojai, CA",earthquake,0.38,0.56,0.183,31,automatic,ci,ci
 2023-08-22T21:14:32.800Z,34.03,-116.7608333,20.24,1.13,ml,24,79,0.03932,0.18,ci,ci39647930,2023-08-22T21:18:02.571Z,"13 km N of Cabazon, CA",earthquake,0.32,0.71,0.219,30,automatic,ci,ci
+2023-08-22T21:09:50.947Z,30.68,94.73,10,4.2,mb,21,228,3.268,0.81,us,us7000kq7c,2023-08-22T22:47:53.040Z,"eastern Xizang",earthquake,17.41,2.021,0.137,15,reviewed,us,us
 2023-08-22T21:01:14.373Z,58.2593,-155.1242,33.3,0.3,ml,,,,0.22,ak,ak023arc9k31,2023-08-22T21:02:37.301Z,"86 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-22T20:59:42.680Z,33.7873344,-117.4338303,13.6,1.33,ml,14,133,0.03144,0.24,ci,ci39647906,2023-08-22T21:03:11.092Z,"13 km SW of Woodcrest, CA",earthquake,1.01,1.96,0.33,8,automatic,ci,ci
 2023-08-22T20:56:32.117Z,63.9103,-148.4731,104.5,3.2,ml,,,,0.53,ak,ak023arbzy7x,2023-08-22T20:58:33.100Z,"24 km ENE of Healy, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -32,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T19:32:58.310Z,44.7448333,-111.129,12.68,1.16,md,13,94,0.04826,0.16,uu,uu60548142,2023-08-22T20:02:03.060Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.56,1.19,0.349,10,reviewed,uu,uu
 2023-08-22T19:31:16.520Z,32.7598333,-116.9096667,4.64,1.15,ml,19,91,0.03667,0.25,ci,ci39647834,2023-08-22T19:34:51.771Z,"3 km ENE of Rancho San Diego, CA",quarry blast,0.63,1.25,0.103,10,automatic,ci,ci
 2023-08-22T19:23:08.640Z,36.0053329,-120.8928299,8.11,1.62,md,8,111,0.0197,0.03,nc,nc73927156,2023-08-22T20:20:10.305Z,"2 km SSE of San Ardo, CA",earthquake,0.34,0.41,0.03,3,automatic,nc,nc
-2023-08-22T19:20:59.820Z,36.0045013,-120.8848343,8.16,1.45,md,20,84,0.02063,0.11,nc,nc73927151,2023-08-22T19:54:11.310Z,"2 km SE of San Ardo, CA",earthquake,0.46,0.55,0.22,11,automatic,nc,nc
+2023-08-22T19:20:59.820Z,36.0045013,-120.8848343,8.16,1.45,md,20,84,0.02063,0.11,nc,nc73927151,2023-08-22T22:47:19.152Z,"2 km SE of San Ardo, CA",earthquake,0.46,0.55,0.22,11,automatic,nc,nc
 2023-08-22T18:59:49.720Z,33.0355,-116.0143333,2.61,2.15,ml,44,51,0.141,0.24,ci,ci39647794,2023-08-22T19:10:12.600Z,"16 km SE of Ocotillo Wells, CA",earthquake,0.28,0.71,0.206,27,automatic,ci,ci
 2023-08-22T18:59:27.780Z,33.0466667,-115.5881667,5.99,1.87,ml,32,41,0.009895,0.22,ci,ci39647786,2023-08-22T19:10:09.970Z,"3 km ENE of Westmorland, CA",earthquake,0.29,0.57,0.238,26,automatic,ci,ci
 2023-08-22T18:50:30.196Z,61.1903,-151.9193,98.8,0.9,ml,,,,0.53,ak,ak023ararskr,2023-08-22T18:52:51.985Z,"44 km WNW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -304,6 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T23:12:44.801Z,39.3951,-119.7133,6.5,1.9,ml,22,42.36,0.04,0.1631,nn,nn00864768,2023-08-22T00:28:33.252Z,"10 km NNW of Virginia City, Nevada",earthquake,,0.9,0.25,8,reviewed,nn,nn
 2023-08-21T23:08:00.180Z,40.7365,-122.533,15.64,2.05,md,23,60,0.07857,0.22,nc,nc73926851,2023-08-22T18:58:14.835Z,"9 km ENE of French Gulch, CA",earthquake,0.45,0.75,0.176,20,reviewed,nc,nc
 2023-08-21T23:03:22.630Z,35.6905,-117.5325,10.26,0.79,ml,9,146,0.09212,0.16,ci,ci39646858,2023-08-21T23:06:54.288Z,"14 km SW of Searles Valley, CA",earthquake,0.7,1.5,0.116,4,automatic,ci,ci
-2023-08-21T22:55:34.384Z,-1.5578,126.4374,10,4.6,mb,49,81,2.494,0.66,us,us7000kpzi,2023-08-21T23:13:03.040Z,"Pulau-Pulau Sula, Indonesia",earthquake,8.59,1.891,0.085,41,reviewed,us,us
-2023-08-21T22:54:59.940Z,45.858,-122.41316666666667,-0.68,1.68,ml,6,220,0.1038,0.36,uw,uw61943117,2023-08-22T00:59:48.890Z,"1 km SSW of Yacolt, Washington",explosion,1.51,31.61,0.1984029994634371,5,reviewed,uw,uw
-2023-08-21T22:50:57.720Z,38.8348351,-122.7931671,1.79,1.05,md,13,52,0.004195,0.01,nc,nc73926846,2023-08-21T23:07:15.086Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.79,0.1,14,automatic,nc,nc
