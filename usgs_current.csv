@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-22T06:18:43.793Z,58.7108,-154.1781,110.9,1.1,ml,,,,0.31,ak,ak023ar3frgb,2023-08-22T06:20:38.223Z,"88 km SSE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-22T06:15:17.633Z,31.6137859,-103.9927615,7.93112793,3.6,ml,11,80,0.02063895998,0.1,tx,tx2023qkep,2023-08-22T06:25:48.009Z,"38 km NNW of Toyah, Texas",earthquake,0.854766207,0.8856457733,0.2,7,reviewed,tx,tx
+2023-08-22T06:16:25.170Z,31.60963331,-103.9975838,8.908032227,3.4,ml,12,73,0.02454364112,0.2,tx,tx2023qker,2023-08-22T06:36:29.040Z,"38 km NNW of Toyah, Texas",earthquake,0.8470134804,1.0896455110000003,0.1,6,reviewed,tx,tx
+2023-08-22T06:15:17.633Z,31.6137859,-103.9927615,7.93112793,3.6,ml,11,80,0.02063895998,0.1,tx,tx2023qkep,2023-08-22T06:25:51.612Z,"38 km NNW of Toyah, Texas",earthquake,0.854766207,0.8856457733,0.2,7,reviewed,tx,tx
 2023-08-22T06:12:30.330Z,61.6671,-150.7235,46.8,1.5,ml,,,,0.52,ak,ak023ar3eg49,2023-08-22T06:14:54.100Z,"17 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-22T06:12:01.331Z,64.7667,-147.457,14.8,0.7,ml,,,,0.41,ak,ak023ar3edvp,2023-08-22T06:13:29.243Z,"5 km SE of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-22T05:46:36.720Z,38.8356667,-122.7943344,2.01,1.24,md,23,66,0.004149,0.02,nc,nc73926956,2023-08-22T06:24:10.529Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.38,0.17,25,automatic,nc,nc
@@ -140,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T16:17:21.730Z,36.36766667,-98.1645,6.39,2.12,ml,90,62,0.03959223065,0.23,ok,ok2023qjcy,2023-08-21T16:32:18.911Z,"2 km SSE of Meno, Oklahoma",earthquake,,0.4,0.21,45,reviewed,ok,ok
 2023-08-21T16:11:45.697Z,60.3161,-140.2283,0,1.2,ml,,,,0.59,ak,ak023aplt955,2023-08-21T16:13:53.709Z,"90 km NNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-21T15:46:43.823Z,53.6242,-162.8262,10,2.8,ml,18,230,1.156,0.52,us,us7000kpx9,2023-08-21T16:39:35.040Z,"142 km SSE of False Pass, Alaska",earthquake,4.3,2.007,0.128,8,reviewed,us,us
-2023-08-21T15:45:57.469Z,36.741,28.1537,73.476,4.3,mb,63,58,0.527,0.69,us,us7000kpx5,2023-08-22T05:11:41.042Z,"9 km SW of İçmeler, Turkey",earthquake,4.68,6.284,0.094,32,reviewed,us,us
+2023-08-21T15:45:57.469Z,36.741,28.1537,73.476,4.3,mb,63,58,0.527,0.69,us,us7000kpx5,2023-08-22T06:28:33.940Z,"9 km SW of İçmeler, Turkey",earthquake,4.68,6.284,0.094,32,reviewed,us,us
 2023-08-21T15:45:46.838Z,61.667,-150.1398,29.6,1.2,ml,,,,0.59,ak,ak023aplf3yz,2023-08-21T15:47:59.522Z,"10 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-21T15:32:02.661Z,60.2483,-152.8304,97.3,1.3,ml,,,,0.32,ak,ak023aplc4e8,2023-08-21T15:51:38.050Z,"68 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-08-21T15:26:59.090Z,34.4331667,-119.2073333,5.97,1.75,ml,18,153,0.05784,0.31,ci,ci39646514,2023-08-22T00:08:08.480Z,"4 km ESE of Ojai, CA",earthquake,0.76,1.61,0.206,28,automatic,ci,ci
@@ -239,7 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-21T06:48:26.610Z,34.413,-119.1968333,0.85,1.87,ml,33,74,0.05454,0.29,ci,ci39646234,2023-08-21T06:58:57.130Z,"6 km SE of Ojai, CA",earthquake,0.36,0.69,0.151,28,automatic,ci,ci
 2023-08-21T06:41:33.390Z,37.3905,-118.803,6.85,1.22,md,19,319,0.2003,0.04,nc,nc73926681,2023-08-22T06:01:10.391Z,"18 km W of Round Valley, CA",earthquake,0.59,2.87,0.093,17,reviewed,nc,nc
 2023-08-21T06:37:13.970Z,34.4083333,-119.202,1.44,1.65,ml,28,132,0.06047,0.33,ci,ci39646226,2023-08-21T06:48:59.737Z,"6 km SE of Ojai, CA",earthquake,0.57,0.84,0.155,29,automatic,ci,ci
-2023-08-21T06:35:10.370Z,34.4175,-119.2113333,3.01,1.55,ml,21,86,0.06403,0.22,ci,ci39646218,2023-08-21T06:47:30.354Z,"4 km SE of Ojai, CA",earthquake,0.34,0.47,0.139,20,automatic,ci,ci
-2023-08-21T06:30:06.860Z,33.3093333,-116.2771667,7.91,1.36,ml,33,87,0.1179,0.21,ci,ci39646210,2023-08-21T06:42:16.440Z,"11 km ENE of Borrego Springs, CA",earthquake,0.31,1.41,0.186,29,automatic,ci,ci
-2023-08-21T06:28:06.170Z,34.4186667,-119.2008333,0.82,1.59,ml,24,71,0.05543,0.33,ci,ci39646202,2023-08-21T06:45:17.048Z,"5 km SE of Ojai, CA",earthquake,0.44,31.61,0.178,32,automatic,ci,ci
-2023-08-21T06:27:37.710Z,19.4323333333333,-155.865833333333,8.42,2.06,md,37,137,,0.21,hv,hv73535832,2023-08-21T16:09:36.500Z,"Island of Hawaii, Hawaii",earthquake,0.35,0.37,0.118960617389789,15,reviewed,hv,hv
