@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T03:35:36.880Z,38.8224983,-122.8118362,1.28,1.07,md,25,39,0.001642,0.03,nc,nc73927296,2023-08-23T03:37:09.147Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.35,0.12,25,automatic,nc,nc
 2023-08-23T03:33:30.300Z,38.8144989,-122.8223343,2.7,0.4,md,7,88,0.007759,0.01,nc,nc73927291,2023-08-23T03:35:04.349Z,"7 km NW of The Geysers, CA",earthquake,0.61,2.38,0.17,8,automatic,nc,nc
 2023-08-23T03:25:54.757Z,61.0136,-152.3526,14.7,1.6,ml,,,,0.68,ak,ak023asp8bzn,2023-08-23T03:27:32.398Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-08-23T03:14:27.103Z,58.2025,-151.6791,20.5,2.3,ml,,,,0.51,ak,ak023asp5wza,2023-08-23T03:16:32.941Z,"57 km ENE of Ouzinkie, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -298,9 +299,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T03:51:26.800Z,37.491,-118.9983333,3.73,0.4,md,11,211,0.1209,0.03,nc,nc73926926,2023-08-22T05:31:12.750Z,"16 km S of Mammoth Lakes, CA",earthquake,0.6,2.39,0.222,11,reviewed,nc,nc
 2023-08-22T03:48:39.350Z,19.384,-155.2815,1.21,1.08,md,19,70,,0.09,hv,hv73537172,2023-08-22T04:04:58.750Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.16,0.259805822866789,4,reviewed,hv,hv
 2023-08-22T03:47:53.340Z,19.2546672821045,-155.408996582031,30,2.04,ml,7,253,,0.0500000007,hv,hv73537167,2023-08-22T03:53:24.140Z,"Island of Hawaii, Hawaii",earthquake,1.51,0.970000029,0.25,5,automatic,hv,hv
-2023-08-22T03:46:33.730Z,19.3853333333333,-155.2795,0.86,0.57,md,13,76,,0.08,hv,hv73537162,2023-08-22T04:00:47.300Z,"Hawaii region, Hawaii",earthquake,0.26,0.18,0.0676997297829259,4,reviewed,hv,hv
-2023-08-22T03:44:51.500Z,37.5351667,-118.8246667,-0.74,0.85,md,17,160,0.05488,0.03,nc,nc73926921,2023-08-22T05:10:14.111Z,"13 km WSW of Toms Place, CA",earthquake,0.31,0.71,0.302,15,reviewed,nc,nc
-2023-08-22T03:41:02.420Z,47.6501666666667,-114.115333333333,3.01,0.28,ml,6,132,0.1486,0.06,mb,mb90024998,2023-08-22T13:51:07.730Z,"3 km SW of Turtle Lake, Montana",earthquake,0.4,0.7,0.358106763942727,2,reviewed,mb,mb
-2023-08-22T03:38:36.940Z,19.3793333333333,-155.284833333333,1.16,0.55,md,10,177,,0.11,hv,hv73537137,2023-08-22T04:20:12.030Z,"8 km SW of Volcano, Hawaii",earthquake,0.39,0.33,0.365260680030257,2,reviewed,hv,hv
-2023-08-22T03:38:24.170Z,38.8263321,-122.8043365,2.58,0.77,md,7,139,0.005356,0.01,nc,nc73926916,2023-08-22T04:06:13.763Z,"7 km NW of The Geysers, CA",earthquake,1.41,1.06,0.18,8,automatic,nc,nc
-2023-08-22T03:37:07.250Z,19.3806666666667,-155.282666666667,1.23,0.31,md,14,84,,0.07,hv,hv73537132,2023-08-22T04:29:27.820Z,"8 km SW of Volcano, Hawaii",earthquake,0.24,0.17,0.1458237156638,3,reviewed,hv,hv
