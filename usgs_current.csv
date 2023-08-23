@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-23T09:01:51.850Z,38.8358345,-122.8056641,1.72,0.67,md,8,109,0.01224,0.01,nc,nc73927351,2023-08-23T09:03:24.333Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.41,0.25,9,automatic,nc,nc
+2023-08-23T08:58:10.051Z,60.0647,-152.852,162.3,1.1,ml,,,,0.83,ak,ak023asseh71,2023-08-23T08:59:43.062Z,"63 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-08-23T08:53:15.880Z,19.4026666666667,-155.275,1.2,0.55,md,17,41,,0.09,hv,hv73539092,2023-08-23T09:05:15.500Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.27,0.0291040247777061,3,reviewed,hv,hv
 2023-08-23T08:51:30.015Z,60.1086,-152.5773,94.1,1,ml,,,,0.38,ak,ak023assd0q1,2023-08-23T08:53:57.604Z,"50 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-23T08:50:58.896Z,55.2765,-158.7683,4.7,2,ml,,,,0.47,ak,ak023asscv8h,2023-08-23T08:52:46.165Z,"74 km SSE of Perryville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-23T08:47:21.440Z,19.3753333333333,-155.290166666667,1.57,0.22,md,13,105,,0.08,hv,hv73539082,2023-08-23T09:09:57.420Z,"9 km SW of Volcano, Hawaii",earthquake,0.37,0.31,0.0188373000147715,3,reviewed,hv,hv
+2023-08-23T08:42:53.040Z,19.381,-155.293,2.07,0.43,md,14,159,,0.11,hv,hv73539067,2023-08-23T09:00:27.560Z,"9 km SW of Volcano, Hawaii",earthquake,0.41,0.35,0.227245524039247,2,reviewed,hv,hv
 2023-08-23T08:42:25.510Z,33.6973333,-116.8006667,16.22,1.23,ml,45,22,0.07586,0.18,ci,ci39648162,2023-08-23T08:53:19.900Z,"9 km WSW of Idyllwild, CA",earthquake,0.23,0.41,0.26,27,automatic,ci,ci
 2023-08-23T08:35:58.160Z,19.3856666666667,-155.280166666667,1.12,0.48,md,13,147,,0.08,hv,hv73539042,2023-08-23T08:50:16.320Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.19,0.232173407479113,2,reviewed,hv,hv
 2023-08-23T08:28:20.078Z,63.8469,-148.4815,15.5,1.4,ml,,,,1.65,ak,ak023ass82hj,2023-08-23T08:30:32.640Z,"23 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -270,9 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-22T09:20:58.380Z,34.4235,-119.197,1.41,1.35,ml,21,78,0.05097,0.27,ci,ci39647154,2023-08-22T09:24:42.007Z,"5 km ESE of Ojai, CA",earthquake,0.39,0.69,0.203,25,automatic,ci,ci
 2023-08-22T09:19:39.120Z,33.907,-116.7815,17.23,0.62,ml,12,103,0.0744,0.14,ci,ci39647146,2023-08-22T09:23:20.800Z,"1 km SSE of Cabazon, CA",earthquake,0.45,0.77,0.174,17,automatic,ci,ci
 2023-08-22T09:13:03.090Z,57.6941,-155.7613,97.6,1.2,ml,,,,0.17,ak,ak023ar56wjp,2023-08-22T09:14:31.151Z,"79 km W of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-22T09:10:17.111Z,62.5293,-147.0646,2.4,1.4,ml,,,,0.86,ak,ak023ar56ahb,2023-08-22T09:13:05.087Z,"38 km NW of Lake Louise, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-22T09:10:15.270Z,34.3018333,-118.456,9.26,1.05,ml,20,92,0.02675,0.26,ci,ci39647138,2023-08-22T09:13:47.752Z,"1 km SW of Sylmar, CA",earthquake,0.54,0.92,0.21,23,automatic,ci,ci
-2023-08-22T09:04:26.887Z,58.1726,-155.3912,0,0,ml,,,,0.43,ak,ak023ar550xs,2023-08-22T09:07:04.786Z,"87 km NW of Karluk, Alaska",earthquake,,198.6,,,automatic,ak,ak
-2023-08-22T09:00:30.620Z,37.5316667,-118.831,6,1.18,md,20,236,0.05828,0.03,nc,nc73927036,2023-08-23T08:22:13.341Z,"14 km WSW of Toms Place, CA",earthquake,0.82,0.65,0.155,18,reviewed,nc,nc
-2023-08-22T08:56:51.820Z,38.836834,-122.8040009,2.23,0.69,md,11,58,0.01078,0.01,nc,nc73927031,2023-08-22T09:21:12.549Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.55,0.23,13,automatic,nc,nc
-2023-08-22T08:55:11.372Z,58.2612,-155.0941,43,0.2,ml,,,,0.51,ak,ak023ar4uhnl,2023-08-22T08:57:10.056Z,"85 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
