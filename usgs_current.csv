@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T12:06:09.003Z,59.5108,-153.42,24.4,2.3,ml,,,,0.48,ak,ak023aui0esk,2023-08-24T12:07:29.029Z,"49 km SE of Pedro Bay, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-08-24T11:50:35.611Z,37.223,-115.2941,0.1,1.1,ml,15,318.9,0.562,0.3503,nn,nn00864924,2023-08-24T11:52:47.464Z,"19 km SW of Alamo, Nevada",earthquake,,51.1,0.19,8,automatic,nn,nn
 2023-08-24T11:22:24.520Z,38.8256683,-122.8538361,2.45,0.77,md,14,93,0.003023,0.01,nc,nc73927936,2023-08-24T11:24:02.481Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.52,0.16,16,automatic,nc,nc
 2023-08-24T11:12:07.546Z,35.49490738,-98.03536987,2.905747652,2.28,ml,37,64.95379639,0.07062417269,0.784149577,ok,ok2023qofk,2023-08-24T11:15:11.327Z,"8 km WSW of El Reno, Oklahoma",earthquake,2.370587462,1.662948316,0.28,30,automatic,ok,ok
 2023-08-24T10:59:47.050Z,38.7703323,-122.7375031,0.92,1.05,md,11,72,0.0129,0.03,nc,nc73927916,2023-08-24T11:40:13.928Z,"2 km ESE of The Geysers, CA",earthquake,0.26,0.41,0.12,10,automatic,nc,nc
@@ -194,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T18:31:05.760Z,19.3816666666667,-155.280833333333,1.14,1.04,md,12,163,,0.07,hv,hv73540287,2023-08-23T19:59:14.460Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.2,0.0895002038644912,2,reviewed,hv,hv
 2023-08-23T18:28:28.720Z,19.3955,-155.277,1.19,1.31,md,14,56,,0.1,hv,hv73540277,2023-08-23T20:09:35.170Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.25,0.13550171785727,2,reviewed,hv,hv
 2023-08-23T18:27:22.770Z,19.3883333333333,-155.28,1.47,0.66,md,11,85,,0.07,hv,hv73540272,2023-08-23T20:13:55.830Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.22,0.0121946170905392,2,reviewed,hv,hv
-2023-08-23T18:25:15.380Z,19.3995,-155.2735,11.56,1.05,md,25,97,,0.13,hv,hv73540262,2023-08-23T20:18:56.210Z,"6 km SW of Volcano, Hawaii",earthquake,0.39,0.28,0.258687123190057,11,reviewed,hv,hv
+2023-08-23T18:25:15.380Z,19.3995,-155.2735,11.56,1.05,md,25,97,,0.13,hv,hv73540262,2023-08-23T20:18:56.210Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.28,0.258687123190057,11,reviewed,hv,hv
 2023-08-23T18:22:28.717Z,59.8669,-139.34,0,1.5,ml,,,,0.97,ak,ak023asy552h,2023-08-23T18:29:20.285Z,"41 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T18:21:57.740Z,19.3993333333333,-155.284,1.37,0.92,md,12,56,,0.08,hv,hv73540257,2023-08-23T19:04:01.140Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.33,0.250359756020153,2,reviewed,hv,hv
 2023-08-23T18:18:31.610Z,19.4041666666667,-155.289833333333,1.33,0.42,md,12,71,,0.08,hv,hv73540252,2023-08-23T19:12:10.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.31,0.125267778184737,3,reviewed,hv,hv
@@ -311,10 +313,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T12:14:37.160Z,35.336,-118.505,9.28,0.98,ml,18,67,0.08205,0.16,ci,ci39648226,2023-08-23T13:20:30.415Z,"23 km NNW of Tehachapi, CA",earthquake,0.3,0.8,0.141,8,reviewed,ci,ci
 2023-08-23T12:12:41.030Z,34.419,-119.197,4.43,1.25,ml,13,81,0.05233,0.2,ci,ci39648218,2023-08-23T23:59:01.449Z,"5 km SE of Ojai, CA",earthquake,0.38,0.74,0.16,9,reviewed,ci,ci
 2023-08-23T12:11:11.402Z,53.4039,-165.7995,46.9,1.5,ml,,,,0.58,ak,ak023asui0jt,2023-08-23T18:31:31.213Z,"71 km SE of Unalaska, Alaska",earthquake,,6.1,,,reviewed,ak,ak
-2023-08-23T12:05:52.670Z,19.4548333333333,-154.897833333333,6.39,1.17,md,26,167,,0.12,hv,hv73539457,2023-08-23T12:25:18.510Z,"2 km SE of Leilani Estates, Hawaii",earthquake,0.52,0.43,0.173490080925076,8,reviewed,hv,hv
-2023-08-23T12:05:35.690Z,19.3915,-155.2775,1.22,0.37,md,15,73,,0.07,hv,hv73539452,2023-08-23T12:32:29.260Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.22,0.11947626678117,3,reviewed,hv,hv
-2023-08-23T12:03:10.470Z,19.3653333333333,-155.293166666667,1.95,0.86,md,21,109,,0.08,hv,hv73539447,2023-08-23T12:53:01.850Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.34,0.236291303550435,4,reviewed,hv,hv
-2023-08-23T12:01:33.470Z,19.3651666666667,-155.294333333333,2.05,0.31,md,16,108,,0.08,hv,hv73539442,2023-08-23T12:58:18.950Z,"10 km SW of Volcano, Hawaii",earthquake,0.24,0.41,0.147562502397501,2,reviewed,hv,hv
-2023-08-23T11:56:51.410Z,19.385,-155.281,1.14,0.4,md,13,152,,0.08,hv,hv73539427,2023-08-23T13:03:05.370Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.22,0.160621403008798,2,reviewed,hv,hv
-2023-08-23T11:54:51.130Z,36.9425,-97.686,6,1.8,ml,58,83,0.1664673334,0.26,ok,ok2023qmlf,2023-08-23T13:52:55.001Z,"3 km NW of Renfrow, Oklahoma",earthquake,,0.9,0.22,10,reviewed,ok,ok
-2023-08-23T11:51:24.780Z,63.1154,-149.5974,77.7,1.4,ml,,,,0.54,ak,ak023asu5b4u,2023-08-23T11:53:13.776Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
