@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T16:26:39.815Z,60.5743,-151.2503,53.9,1.2,ml,,,,0.39,ak,ak023aukihwt,2023-08-24T16:28:22.479Z,"2 km NNE of Kenai, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-08-24T16:24:03.690Z,19.1704998016357,-155.346328735352,28.0100002288818,1.79999995,md,32,211,,0.109999999,hv,hv73542307,2023-08-24T16:27:19.810Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.63,0.99000001,0.889999986,3,automatic,hv,hv
+2023-08-24T16:19:30.640Z,58.183,-155.4065,0,2.3,ml,,,,0.75,ak,ak023aukgz6w,2023-08-24T16:21:47.870Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
+2023-08-24T16:10:14.550Z,33.7038333,-116.7181667,18.07,0.86,ml,26,54,0.0115,0.18,ci,ci39649626,2023-08-24T16:13:49.135Z,"4 km S of Idyllwild, CA",earthquake,0.28,0.51,0.224,23,automatic,ci,ci
 2023-08-24T16:04:49.240Z,34.4726667,-119.3028333,2.59,1.4,ml,10,126,0.1412,0.27,ci,ci39649618,2023-08-24T16:08:29.957Z,"6 km WNW of Ojai, CA",earthquake,0.77,1.04,0.396,17,automatic,ci,ci
 2023-08-24T16:04:40.025Z,62.9653,-149.3015,65.3,1.4,ml,,,,1.04,ak,ak023aukds6a,2023-08-24T16:07:02.718Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-24T15:42:34.310Z,19.3938333333333,-155.252,1.31,0.62,md,10,90,,0.05,hv,hv73542252,2023-08-24T15:59:47.430Z,"Island of Hawaii, Hawaii",earthquake,0.23,0.41,0.147374260492797,2,reviewed,hv,hv
@@ -292,8 +296,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T16:38:17.320Z,38.8128319,-122.7606659,1.8,1.08,md,10,110,0.01565,0.01,nc,nc73927466,2023-08-23T16:58:14.299Z,"3 km WSW of Cobb, CA",earthquake,0.38,0.54,0.15,11,automatic,nc,nc
 2023-08-23T16:35:07.210Z,19.399,-155.269333333333,1.03,0.48,md,14,56,,0.06,hv,hv73540012,2023-08-23T16:49:53.150Z,"6 km SW of Volcano, Hawaii",earthquake,0.16,0.3,0.156166349882118,2,reviewed,hv,hv
 2023-08-23T16:33:34.360Z,19.4048333333333,-155.2895,0.89,1.38,ml,17,52,,0.09,hv,hv73540007,2023-08-23T16:44:43.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.14,0.18,0.215922946122016,5,reviewed,hv,hv
-2023-08-23T16:30:16.530Z,33.3038333,-116.2303333,5.03,0.9,ml,17,191,0.1126,0.19,ci,ci39648394,2023-08-23T16:33:53.962Z,"14 km ENE of Borrego Springs, CA",earthquake,0.61,1.44,0.141,16,automatic,ci,ci
-2023-08-23T16:24:53.830Z,19.4135,-155.246833333333,2.02,0.75,md,20,108,,0.13,hv,hv73539987,2023-08-23T16:57:40.750Z,"3 km SSW of Volcano, Hawaii",earthquake,0.24,0.28,0.154611869709732,6,reviewed,hv,hv
-2023-08-23T16:23:49.140Z,19.3848333333333,-155.28,1.59,0.51,md,16,113,,0.1,hv,hv73539982,2023-08-23T16:35:25.780Z,"8 km SW of Volcano, Hawaii",earthquake,0.29,0.22,0.0272336033321757,3,reviewed,hv,hv
-2023-08-23T16:15:11.393Z,61.7135,-151.8231,97.3,1.5,ml,,,,0.6,ak,ak023aswwqds,2023-08-23T16:26:42.360Z,"38 km SW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-23T16:14:21.010Z,19.4001666666667,-155.2825,0.99,0.42,md,12,91,,0.08,hv,hv73539962,2023-08-23T16:28:57.950Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.25,0.145369502911135,3,reviewed,hv,hv
