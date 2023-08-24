@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T23:41:07.430Z,19.9115009307861,-155.518661499023,31.5799999237061,2.52,ml,33,165,,0.129999995,hv,hv73542842,2023-08-24T23:46:39.390Z,"19 km SSW of Honoka‘a, Hawaii",earthquake,0.6,0.779999971,3.4,13,automatic,hv,hv
 2023-08-24T23:38:26.250Z,38.8370018,-122.8324966,0.96,0.69,md,8,194,0.01401,0.01,nc,nc73928171,2023-08-24T23:39:59.860Z,"9 km NW of The Geysers, CA",earthquake,0.58,1.27,0.5,8,automatic,nc,nc
+2023-08-24T23:28:54.817Z,-33.9845,-73.2788,10,4.6,mb,46,150,1.424,0.73,us,us7000kqu7,2023-08-24T23:47:54.040Z,"160 km WSW of San Antonio, Chile",earthquake,4.9,1.43,0.129,18,reviewed,us,us
 2023-08-24T23:18:12.474Z,44.0351,-128.7181,10,4.5,mb,87,186,2.103,0.78,us,us7000kqu5,2023-08-24T23:40:13.953Z,"off the coast of Oregon",earthquake,8.33,1.93,0.042,169,reviewed,us,us
 2023-08-24T23:13:50.406Z,62.9721,-150.4534,102,1.3,ml,,,,0.21,ak,ak023auolrnk,2023-08-24T23:16:11.723Z,"55 km NNE of Petersville, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-08-24T22:52:04.178Z,39.5077,-119.3335,13.5,1.2,ml,4,254.5,0.207,0.0721,nn,nn00864989,2023-08-24T23:20:06.728Z,"13 km SSW of Fernley, Nevada",earthquake,,17.9,0.26,3,reviewed,nn,nn
@@ -272,8 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T23:55:41.605Z,64.8726,-146.766,16.1,1.1,ml,,,,0.21,ak,ak023at1bek0,2023-08-23T23:58:24.939Z,"4 km ESE of Pleasant Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-23T23:54:22.242Z,62.5643,-151.2159,79.9,1.6,ml,,,,0.55,ak,ak023at1b5cg,2023-08-23T23:56:51.492Z,"24 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-23T23:52:40.037Z,61.5676,-151.6223,85.5,1.6,ml,,,,0.52,ak,ak023at1arbu,2023-08-23T23:54:29.395Z,"48 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-23T23:49:22.681Z,63.3772,-150.9138,0,1.7,ml,,,,0.84,ak,ak023at1a2ss,2023-08-23T23:51:34.687Z,"44 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-23T23:49:06.770Z,33.7078333,-116.8065,16.77,0.61,ml,17,130,0.0791,0.2,ci,ci39649026,2023-08-24T13:07:15.417Z,"9 km WSW of Idyllwild, CA",earthquake,0.51,0.8,0.17,13,reviewed,ci,ci
-2023-08-23T23:47:59.170Z,33.2856667,-115.6336667,9.49,1.01,ml,14,202,0.1068,0.16,ci,ci39649018,2023-08-23T23:51:33.208Z,"12 km SE of Bombay Beach, CA",earthquake,0.92,0.93,0.143,11,automatic,ci,ci
-2023-08-23T23:46:58.106Z,40.0954,-119.6571,12.5,1,ml,3,188.95,0.094,0.0651,nn,nn00864921,2023-08-24T00:37:59.111Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,7.4,0.09,2,reviewed,nn,nn
-2023-08-23T23:45:18.168Z,60.9611,-151.4984,53.1,2.1,ml,,,,0.18,ak,ak023at197l4,2023-08-23T23:46:37.842Z,"22 km WSW of Tyonek, Alaska",earthquake,,2.1,,,automatic,ak,ak
