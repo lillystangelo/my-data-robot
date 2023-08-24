@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T05:21:36.811Z,65.4787,-148.3369,12.9,1,ml,,,,0.24,ak,ak023audxng1,2023-08-24T05:23:34.775Z,"10 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-24T05:12:41.256Z,61.7753,-149.6428,34.5,1,ml,,,,0.7,ak,ak023audvqcq,2023-08-24T05:15:17.383Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T05:01:12.300Z,19.3276672363281,-155.20100402832,2.01999998092651,1.97,ml,38,115,,0.159999996,hv,hv73541217,2023-08-24T05:06:44.100Z,"13 km SSE of Volcano, Hawaii",earthquake,0.38,0.879999995,0.27,9,automatic,hv,hv
 2023-08-24T04:56:34.704Z,60.898,-145.9507,20.2,0.9,ml,,,,0.72,ak,ak023audjpqm,2023-08-24T04:58:36.279Z,"33 km SE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-24T04:46:18.880Z,34.0381667,-117.7981667,5.96,1.06,ml,21,86,0.05402,0.22,ci,ci39649194,2023-08-24T04:49:50.892Z,"2 km NE of Diamond Bar, CA",earthquake,0.44,1.14,0.279,25,automatic,ci,ci
@@ -359,4 +361,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T05:42:13.180Z,19.4096666666667,-155.2755,0.97,2.1,ml,27,46,,0.1,hv,hv73538722,2023-08-23T22:42:05.660Z,"5 km SW of Volcano, Hawaii",earthquake,0.13,0.14,0.220159544698467,12,reviewed,hv,hv
 2023-08-23T05:32:53.720Z,59.9047,-151.4871,69.1,1,ml,,,,0.58,ak,ak023asqgp4s,2023-08-23T05:34:40.390Z,"12 km NE of Nikolaevsk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-23T05:32:44.380Z,38.8260002,-122.809166,1.66,0.68,md,16,63,0.002696,0.02,nc,nc73927321,2023-08-23T05:54:12.521Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.62,0.34,16,automatic,nc,nc
-2023-08-23T05:12:22.740Z,19.1948337554932,-155.414672851562,32.6399993896484,1.84000003,md,27,183,,0.0900000036,hv,hv73538672,2023-08-23T05:15:32.870Z,"Hawaii region, Hawaii",earthquake,0.7,0.819999993,0.920000017,3,automatic,hv,hv
