@@ -1,21 +1,23 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T08:53:06.520Z,34.422,-119.1715,1.56,1.35,ml,13,130,0.0318,0.25,ci,ci39649282,2023-08-24T08:56:45.792Z,"7 km ESE of Ojai, CA",earthquake,0.48,0.75,0.134,14,automatic,ci,ci
 2023-08-24T08:39:24.370Z,35.9576667,-117.6433333,1.55,0.67,ml,8,203,0.1365,0.1,ci,ci39649274,2023-08-24T08:42:54.287Z,"24 km E of Little Lake, CA",earthquake,0.4,0.45,0.034,2,automatic,ci,ci
 2023-08-24T08:35:35.990Z,35.6651667,-117.481,2.64,0.84,ml,12,122,0.04665,0.15,ci,ci39649266,2023-08-24T08:39:05.149Z,"13 km SSW of Searles Valley, CA",earthquake,0.65,0.64,0.13,5,automatic,ci,ci
+2023-08-24T08:33:31.111Z,51.6978,-171.2376,42.475,3.7,mb,70,203,1.941,0.96,us,us7000kqln,2023-08-24T08:54:09.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,11.09,15.698,0.075,46,reviewed,us,us
 2023-08-24T08:28:58.313Z,62.2244,-151.197,72.3,0.9,ml,,,,0.33,ak,ak023aufrhxj,2023-08-24T08:35:28.550Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-24T08:23:31.364Z,60.1644,-153.2721,135.5,1.5,ml,,,,0.6,ak,ak023aufqd9s,2023-08-24T08:26:30.500Z,"58 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-08-24T08:23:31.364Z,60.1644,-153.2721,135.5,1.5,ml,,,,0.6,ak,ak023aufqd9s,2023-08-24T08:26:30.500Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-24T08:15:10.715Z,63.1004,-151.5509,0,1.7,ml,,,,0.78,ak,ak023aufoly7,2023-08-24T08:17:13.308Z,"49 km S of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-24T08:14:27.840Z,37.5115013,-121.8103333,7.32,1.12,md,9,78,0.02703,0.01,nc,nc73927876,2023-08-24T08:47:11.756Z,"12 km SE of Sunol, CA",earthquake,0.36,0.67,0.09,6,automatic,nc,nc
 2023-08-24T08:08:49.150Z,33.5148333,-116.5533333,11.71,0.81,ml,33,56,0.04551,0.16,ci,ci39649258,2023-08-24T08:12:24.115Z,"12 km ESE of Anza, CA",earthquake,0.2,0.41,0.156,23,automatic,ci,ci
-2023-08-24T08:05:57.092Z,59.0231,-137.0979,0,1.8,ml,,,,0.46,ak,ak023aufmkd9,2023-08-24T08:08:06.938Z,"75 km SW of Covenant Life, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-08-24T08:05:57.092Z,59.0231,-137.0979,0,1.8,ml,,,,0.46,ak,ak023aufmkd9,2023-08-24T08:08:06.938Z,"British Columbia, Canada",earthquake,,0.6,,,automatic,ak,ak
 2023-08-24T07:57:28.920Z,19.3056659698486,-155.440338134766,28.2999992370605,1.92,ml,42,94,,0.129999995,hv,hv73541587,2023-08-24T08:07:28.040Z,"12 km NNE of Pāhala, Hawaii",earthquake,0.46,0.730000019,3.36,11,automatic,hv,hv
 2023-08-24T07:50:54.540Z,36.216,-118.3035,6.88,1.28,ml,16,89,0.2871,0.21,ci,ci39649250,2023-08-24T07:54:28.041Z,"28 km WSW of Olancha, CA",earthquake,0.37,13.51,0.18,9,automatic,ci,ci
 2023-08-24T07:36:26.950Z,33.7301667,-116.1098333,2.57,0.9,ml,13,108,0.1248,0.13,ci,ci39649242,2023-08-24T07:39:59.936Z,"8 km NE of Coachella, CA",earthquake,0.75,1.51,0.472,8,automatic,ci,ci
 2023-08-24T07:24:36.410Z,33.3251667,-116.33,9.18,1.14,ml,44,45,0.0925,0.21,ci,ci39649234,2023-08-24T07:35:23.790Z,"9 km NNE of Borrego Springs, CA",earthquake,0.25,0.84,0.221,26,automatic,ci,ci
 2023-08-24T07:08:24.850Z,34.9225,-119.4715,9.79,1.39,ml,17,64,0.05107,0.28,ci,ci39649226,2023-08-24T07:12:04.789Z,"16 km SSW of Maricopa, CA",earthquake,0.6,1.01,0.165,14,automatic,ci,ci
-2023-08-24T07:04:53.290Z,19.3828333333333,-155.282,1.21,2.45,ml,19,74,,0.09,hv,hv73541472,2023-08-24T08:17:25.040Z,"8 km SW of Volcano, Hawaii",earthquake,0.14,0.13,0.1976973048217,13,reviewed,hv,hv
+2023-08-24T07:04:53.290Z,19.3828333333333,-155.282,1.21,2.45,ml,19,74,,0.09,hv,hv73541472,2023-08-24T08:17:25.040Z,"Island of Hawaii, Hawaii",earthquake,0.14,0.13,0.1976973048217,13,reviewed,hv,hv
 2023-08-24T07:02:34.880Z,19.3888339996338,-155.276672363281,0.720000028610229,1.74,ml,16,61,,0.140000001,hv,hv73541467,2023-08-24T07:08:06.560Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.219999999,0.22,6,automatic,hv,hv
 2023-08-24T06:58:49.180Z,19.3823337554932,-155.286666870117,0.219999998807907,2.64,ml,38,78,,0.349999994,hv,hv73541462,2023-08-24T07:04:22.990Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.239999995,0.37,19,automatic,hv,hv
-2023-08-24T06:58:45.210Z,19.3838333333333,-155.281166666667,1.51,2.21,ml,19,70,,0.08,hv,hv73541457,2023-08-24T07:55:29.740Z,"8 km SW of Volcano, Hawaii",earthquake,0.14,0.13,0.151848450591824,11,reviewed,hv,hv
+2023-08-24T06:58:45.210Z,19.3838333333333,-155.281166666667,1.51,2.21,ml,19,70,,0.08,hv,hv73541457,2023-08-24T07:55:29.740Z,"Island of Hawaii, Hawaii",earthquake,0.14,0.13,0.151848450591824,11,reviewed,hv,hv
 2023-08-24T06:58:11.290Z,19.385,-155.28,1.52,1.85,md,18,67,,0.1,hv,hv73541452,2023-08-24T07:49:08.690Z,"8 km SW of Volcano, Hawaii",earthquake,0.21,0.2,0.0467218317838709,4,reviewed,hv,hv
 2023-08-24T06:57:39.320Z,19.1996669769287,-155.378662109375,30.4599990844727,2.5,ml,17,208,,0.0799999982,hv,hv73541447,2023-08-24T07:03:09.240Z,"10 km E of Pāhala, Hawaii",earthquake,1.07,0.829999983,0.33,9,automatic,hv,hv
 2023-08-24T06:52:58.970Z,39.0233345,-123.0585022,4.97,1.29,md,12,67,0.1074,0.05,nc,nc73927871,2023-08-24T07:33:11.348Z,"12 km W of Lakeport, CA",earthquake,0.27,1.4,0.04,5,automatic,nc,nc
@@ -59,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T02:13:16.880Z,19.5738334655762,-156.137161254883,11.1000003814697,2.21000004,md,33,274,,0.319999993,hv,hv73540987,2023-08-24T02:23:10.040Z,"16 km WSW of Kailua-Kona, Hawaii",earthquake,4.58,6.38000011,0.0900000036,9,automatic,hv,hv
 2023-08-24T02:11:47.540Z,19.191333770752,-155.472671508789,35.2299995422363,1.96000004,md,35,108,,0.109999999,hv,hv73540982,2023-08-24T02:15:01.520Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.57,0.769999981,1.12,11,automatic,hv,hv
 2023-08-24T01:59:35.080Z,38.8203316,-122.7990036,3.97,0.83,md,14,69,0.01268,0.02,nc,nc73927781,2023-08-24T02:27:15.576Z,"6 km NW of The Geysers, CA",earthquake,0.36,0.84,0.18,16,automatic,nc,nc
-2023-08-24T01:46:00.551Z,31.7032,-104.228,10,2.7,ml,29,55,0.235,0.7,us,us7000kqjy,2023-08-24T01:57:52.040Z,"54 km SSE of Whites City, New Mexico",earthquake,2.26,1.862,0.065,46,reviewed,us,us
+2023-08-24T01:45:59.893Z,31.71828556,-104.2663044,7.314135742,2.9,ml,15,57,0.03897991849,0.1,tx,tx2023qnms,2023-08-24T08:54:58.442Z,"51 km SSE of Whites City, New Mexico",earthquake,1.066887854,1.4991933820000003,0.1,26,reviewed,tx,tx
 2023-08-24T01:45:23.980Z,38.8204994,-122.7991638,3.66,0.78,md,16,49,0.009,0.01,nc,nc73927771,2023-08-24T02:17:15.517Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.77,0.26,16,automatic,nc,nc
 2023-08-24T01:27:44.028Z,58.1663,-155.3823,6.5,1.2,ml,,,,0.38,ak,ak023aubl7vm,2023-08-24T01:29:34.028Z,"86 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T01:27:16.712Z,52.5069,-166.8429,25.6,2.2,ml,,,,0.38,ak,ak023aubl5bz,2023-08-24T05:25:42.649Z,"144 km ESE of Nikolski, Alaska",earthquake,,40.8,,,reviewed,ak,ak
@@ -347,7 +349,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T09:14:48.368Z,59.7769,-152.9897,96.2,1.4,ml,,,,0.25,ak,ak023assqk90,2023-08-23T09:16:37.438Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-23T09:08:55.810Z,19.3646666666667,-155.293666666667,2.03,0.57,md,16,109,,0.11,hv,hv73539112,2023-08-23T09:19:31.860Z,"10 km SW of Volcano, Hawaii",earthquake,0.24,0.4,0.0971383998438123,2,reviewed,hv,hv
 2023-08-23T09:01:51.850Z,38.8358345,-122.8056641,1.72,0.67,md,8,109,0.01224,0.01,nc,nc73927351,2023-08-23T09:18:12.631Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.41,0.25,9,automatic,nc,nc
-2023-08-23T08:58:10.051Z,60.0647,-152.852,162.3,1.1,ml,,,,0.83,ak,ak023asseh71,2023-08-23T08:59:43.062Z,"63 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-08-23T08:53:15.880Z,19.4026666666667,-155.275,1.2,0.55,md,17,41,,0.09,hv,hv73539092,2023-08-23T09:05:15.500Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.27,0.0291040247777061,3,reviewed,hv,hv
-2023-08-23T08:51:30.015Z,60.1086,-152.5773,94.1,1,ml,,,,0.38,ak,ak023assd0q1,2023-08-23T08:53:57.604Z,"50 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-23T08:50:58.896Z,55.2765,-158.7683,4.7,2,ml,,,,0.47,ak,ak023asscv8h,2023-08-23T08:52:46.165Z,"74 km SSE of Perryville, Alaska",earthquake,,0.5,,,automatic,ak,ak
