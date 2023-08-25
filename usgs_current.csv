@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-25T13:37:32.880Z,37.4160004,-118.5531693,15.17,2.77,md,31,128,0.2599,0.08,nc,nc73928376,2023-08-25T13:44:15.039Z,"4 km E of Round Valley, CA",earthquake,0.37,1.16,0.11,27,automatic,nc,nc
+2023-08-25T13:50:54.540Z,35.5748333,-118.4798333,4.1,1.26,ml,19,74,0.08788,0.14,ci,ci39650498,2023-08-25T13:54:27.602Z,"2 km SE of Bodfish, CA",earthquake,0.28,0.98,0.155,8,automatic,ci,ci
+2023-08-25T13:49:53.057Z,60.745,-147.0715,9.5,1.9,ml,,,,0.97,ak,ak023aw6ei2x,2023-08-25T13:52:13.087Z,"25 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-08-25T13:45:00.600Z,38.8151665,-122.8195038,2.85,0.78,md,16,61,0.009833,0.02,nc,nc73928381,2023-08-25T13:46:37.989Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.61,0.08,17,automatic,nc,nc
+2023-08-25T13:37:32.880Z,37.4160004,-118.5531693,15.17,2.77,md,31,128,0.2599,0.08,nc,nc73928376,2023-08-25T13:50:20.704Z,"4 km E of Round Valley, CA",earthquake,0.37,1.16,0.11,27,automatic,nc,nc
 2023-08-25T13:36:00.887Z,58.1821,-155.2659,1.1,1.3,ml,,,,0.3,ak,ak023aw6blqw,2023-08-25T13:37:56.905Z,"Alaska Peninsula",earthquake,,1.6,,,automatic,ak,ak
 2023-08-25T13:05:08.880Z,19.3848323822021,-155.27783203125,0.860000014305115,2.16,ml,27,64,,0.159999996,hv,hv73543897,2023-08-25T13:10:38.890Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.159999996,0.29,10,automatic,hv,hv
 2023-08-25T12:55:50.040Z,34.0775,-117.0031667,14.12,0.84,ml,19,73,0.05809,0.14,ci,ci39650458,2023-08-25T12:59:30.696Z,"6 km NE of Yucaipa, CA",earthquake,0.3,0.57,0.112,13,automatic,ci,ci
 2023-08-25T12:49:46.260Z,40.5343323,-124.4348297,19.33,2.1,md,10,299,0.09463,0.12,nc,nc73928371,2023-08-25T13:11:11.845Z,"15 km WSW of Ferndale, CA",earthquake,2.93,0.6,0.08,7,automatic,nc,nc
-2023-08-25T12:46:47.900Z,38.8409996,-122.7751694,0.9,0.71,md,9,136,0.001866,0.02,nc,nc73928366,2023-08-25T13:03:12.926Z,"5 km WNW of Cobb, CA",earthquake,0.35,0.52,0.37,10,automatic,nc,nc
+2023-08-25T12:46:47.900Z,38.8409996,-122.7751694,0.9,0.71,md,9,136,0.001866,0.02,nc,nc73928366,2023-08-25T13:54:15.096Z,"5 km WNW of Cobb, CA",earthquake,0.35,0.52,0.37,10,automatic,nc,nc
 2023-08-25T12:26:01.880Z,38.8453331,-122.8174973,1.62,0.76,md,8,122,0.01037,0.02,nc,nc73928361,2023-08-25T13:22:13.905Z,"9 km WNW of Cobb, CA",earthquake,0.57,1.01,0.31,8,automatic,nc,nc
 2023-08-25T12:18:02.484Z,58.9053,-152.3505,58.7,3.7,ml,,,,0.26,ak,ak023aw5mbdk,2023-08-25T12:27:46.040Z,"55 km SSW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-25T12:14:24.560Z,62.4754,-152.0203,101.6,1.6,ml,,,,0.4,ak,ak023aw5li7s,2023-08-25T12:17:41.142Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -231,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T13:56:22.630Z,38.831665,-122.817337,1.76,0.76,md,18,67,0.01002,0.01,nc,nc73927981,2023-08-24T14:13:12.810Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.44,0.13,17,automatic,nc,nc
 2023-08-24T13:55:58.200Z,19.3911666666667,-155.275333333333,1.68,2.35,ml,34,48,,0.1,hv,hv73542092,2023-08-24T14:31:21.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.13,0.195948030320201,18,reviewed,hv,hv
 2023-08-24T13:55:55.320Z,19.3993339538574,-155.281661987305,1.45000004768372,2.47,ml,18,51,,0.379999995,hv,hv73542087,2023-08-24T14:01:28.280Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.370000005,0.33,17,automatic,hv,hv
-2023-08-24T13:53:36.750Z,19.3881666666667,-155.278333333333,1.12,0.47,md,13,105,,0.06,hv,hv73542077,2023-08-24T14:03:40.020Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.22,0.125629069186999,4,reviewed,hv,hv
-2023-08-24T13:50:04.040Z,19.3865,-155.279,1.04,0.66,md,14,134,,0.06,hv,hv73542067,2023-08-24T15:22:57.350Z,"Hawaii region, Hawaii",earthquake,0.23,0.17,0.307273560025179,2,reviewed,hv,hv
-2023-08-24T13:45:38.220Z,19.3866666666667,-155.279166666667,1.69,1.8,ml,22,62,,0.09,hv,hv73542057,2023-08-24T15:30:05.200Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.15,0.0581268198261893,9,reviewed,hv,hv
