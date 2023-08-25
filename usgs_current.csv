@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-25T09:11:15.363Z,38.1549,-117.8184,10.1,2,ml,21,131.84,0.117,0.3487,nn,nn00864998,2023-08-25T09:13:49.965Z,"36 km SE of Mina, Nevada",earthquake,,0.4,0.56,14,automatic,nn,nn
+2023-08-25T08:59:02.690Z,63.1039,-151.4373,3.8,1.1,ml,,,,0.76,ak,ak023aw3hdcg,2023-08-25T09:01:42.957Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-25T08:48:51.170Z,34.0586662,-117.1166687,10.17,0.84,ml,15,112,0.05008,0.11,ci,ci39650378,2023-08-25T08:52:20.962Z,"2 km SE of Mentone, CA",earthquake,0.31,0.88,0.292,2,automatic,ci,ci
 2023-08-25T08:32:37.850Z,19.4650001525879,-155.610168457031,43.7299995422363,2.08,ml,28,64,,0.340000004,hv,hv73543512,2023-08-25T08:38:07.730Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.04,1.79999995,0.23,6,automatic,hv,hv
 2023-08-25T08:24:59.910Z,34.4285,-119.1971667,3.32,1.03,ml,10,147,0.05003,0.29,ci,ci39650370,2023-08-25T08:28:35.244Z,"5 km ESE of Ojai, CA",earthquake,0.56,0.58,0.157,7,automatic,ci,ci
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T07:19:08.330Z,19.3675003051758,-155.288497924805,1.78999996185303,1.70000005,md,19,111,,0.159999996,hv,hv73543402,2023-08-25T07:30:27.891Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.360000014,0.140000001,14,automatic,hv,hv
 2023-08-25T07:15:16.195Z,62.744,-150.5494,14.5,1.4,ml,,,,1.79,ak,ak023aw2mj9f,2023-08-25T07:17:23.806Z,"29 km NNE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-25T07:10:11.340Z,33.4846667,-116.7596667,6.17,1.41,ml,53,22,0.04381,0.23,ci,ci39650354,2023-08-25T07:20:41.960Z,"11 km ENE of Aguanga, CA",earthquake,0.21,0.59,0.117,25,automatic,ci,ci
-2023-08-25T07:07:08.620Z,35.9259987,-120.4733353,4.57,0.82,md,13,100,0.0207,0.08,nc,nc73928301,2023-08-25T07:29:19.818Z,"5 km NW of Parkfield, CA",earthquake,0.44,0.85,0.08,3,automatic,nc,nc
+2023-08-25T07:07:08.620Z,35.9259987,-120.4733353,4.57,0.82,md,13,100,0.0207,0.08,nc,nc73928301,2023-08-25T09:06:12.379Z,"5 km NW of Parkfield, CA",earthquake,0.44,0.85,0.08,3,automatic,nc,nc
 2023-08-25T07:05:54.389Z,61.7107,-150.7466,58.2,1.4,ml,,,,0.61,ak,ak023aw2kh1q,2023-08-25T07:08:06.650Z,"22 km NW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-25T07:01:49.500Z,36.0019989,-120.8909988,8.21,1.24,md,14,72,0.02286,0.05,nc,nc73928296,2023-08-25T08:38:13.222Z,"2 km SSE of San Ardo, CA",earthquake,0.32,0.55,0.16,7,automatic,nc,nc
 2023-08-25T07:01:26.790Z,33.639,-116.7325,17.39,0.54,ml,20,79,0.05232,0.23,ci,ci39650346,2023-08-25T07:04:57.965Z,"11 km NNW of Anza, CA",earthquake,0.48,0.91,0.134,13,automatic,ci,ci
@@ -239,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-24T09:35:39.560Z,32.9251667,-118.0193333,10.97,1.57,ml,6,264,0.5798,0.11,ci,ci39649290,2023-08-24T09:39:23.599Z,"33 km ENE of San Clemente Is. (SE tip), CA",earthquake,2.52,31.61,0.15,12,automatic,ci,ci
 2023-08-24T09:35:16.040Z,19.3894996643066,-155.281829833984,0.430000007152557,1.90999997,md,17,60,,0.230000004,hv,hv73541677,2023-08-24T09:38:30.030Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.270000011,1.46000004,10,automatic,hv,hv
 2023-08-24T09:17:59.800Z,38.8123322,-122.814003,2.24,0.79,md,9,117,0.01147,0.05,nc,nc73927881,2023-08-24T10:47:18.429Z,"6 km NW of The Geysers, CA",earthquake,0.52,0.66,0.12,10,automatic,nc,nc
-2023-08-24T09:04:10.020Z,46.8405,-121.9605,3.93,0.18,ml,18,164,0.008084,0.12,uw,uw61943792,2023-08-24T18:53:40.810Z,"10 km NNE of Ashford, Washington",earthquake,0.32,0.38,0.15922313805516453,11,reviewed,uw,uw
