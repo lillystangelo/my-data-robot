@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-26T17:26:44.400Z,38.8364983,-122.7914963,1.83,0.78,md,16,58,0.00211,0.02,nc,nc73929571,2023-08-26T17:28:22.366Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.43,0.12,17,automatic,nc,nc
+2023-08-26T17:40:30.057Z,61.288,-148.2858,0.1,1.7,ml,,,,1.72,ak,ak023axw9lrx,2023-08-26T17:41:55.395Z,"Southern Alaska",earthquake,,2,,,automatic,ak,ak
+2023-08-26T17:39:24.740Z,34.0203333,-116.9956667,16.34,0.92,ml,20,78,0.0883,0.23,ci,ci39651890,2023-08-26T17:42:58.385Z,"5 km ESE of Yucaipa, CA",earthquake,0.48,0.87,0.13,23,automatic,ci,ci
+2023-08-26T17:26:44.400Z,38.8364983,-122.7914963,1.83,0.78,md,16,58,0.00211,0.02,nc,nc73929571,2023-08-26T17:43:12.486Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.43,0.12,17,automatic,nc,nc
 2023-08-26T17:26:15.439Z,62.3158,-151.3345,89.6,1.5,ml,,,,0.18,ak,ak023axw6kmf,2023-08-26T17:28:09.308Z,"35 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-26T17:25:08.180Z,35.2098333,-118.6698333,8.46,0.97,ml,17,77,0.02626,0.29,ci,ci39651882,2023-08-26T17:28:37.623Z,"14 km E of Arvin, CA",earthquake,0.57,1.1,0.168,13,automatic,ci,ci
 2023-08-26T17:16:10.010Z,19.1971664428711,-155.380340576172,31.4899997711182,2.05999994,md,41,175,,0.100000001,hv,hv73545922,2023-08-26T17:19:17.200Z,"Hawaii region, Hawaii",earthquake,0.66,0.74000001,0.959999979,7,automatic,hv,hv
@@ -221,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-25T17:48:16.120Z,38.8256667,-122.8091667,2.75,0.13,md,15,76,0.002377,0.01,nc,nc73928911,2023-08-25T20:56:34.783Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.74,0.375,13,reviewed,nc,nc
 2023-08-25T17:47:58.540Z,40.2081667,-121.1613333,1.8,1.67,md,9,178,0.04133,0.1,nc,nc73928916,2023-08-25T22:11:17.924Z,"0 km W of Prattville, CA",earthquake,0.57,0.47,0.17,13,reviewed,nc,nc
 2023-08-25T17:45:46.280Z,38.8258324,-122.8066635,2.62,0.28,md,12,72,0.003608,0.01,nc,nc73928901,2023-08-25T17:47:22.457Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.93,0.15,12,automatic,nc,nc
-2023-08-25T17:38:56.050Z,38.8213348,-122.8306656,0.52,0.96,md,10,74,0.0125,0.03,nc,nc73928896,2023-08-25T17:40:34.272Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.85,0.18,12,automatic,nc,nc
-2023-08-25T17:34:27.120Z,46.198,-122.18883333333333,0.7,0.06,ml,6,155,0.03231,0.08,uw,uw61944467,2023-08-26T05:03:22.960Z,"Mount St. Helens area, Washington",earthquake,0.51,0.33,0.1592551543249202,5,reviewed,uw,uw
-2023-08-25T17:34:03.650Z,44.7775,-110.8838333,6.36,0.89,ml,11,110,0.02609,0.1,uu,uu60548322,2023-08-25T20:46:41.410Z,"21 km NE of West Yellowstone, Montana",earthquake,0.44,0.85,0.049,2,reviewed,uu,uu
