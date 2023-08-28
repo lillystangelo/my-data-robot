@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-28T23:41:03.031Z,35.34764862,-97.92765808,4.906871796,2.1,ml,12,89.66020203,0.04366743565,1.107786456,ok,ok2023qwmc,2023-08-28T23:43:44.123Z,"4 km NNE of Minco, Oklahoma",earthquake,3.354649395,2.388579288,0.35,8,automatic,ok,ok
+2023-08-28T23:42:08.170Z,19.3746662139893,-155.280670166016,2.09999990463257,1.94000006,md,29,98,,0.140000001,hv,hv73550622,2023-08-28T23:45:06.260Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.300000012,0.829999983,18,automatic,hv,hv
+2023-08-28T23:41:03.031Z,35.34764862,-97.92765808,4.906871796,2.1,ml,12,89.66020203,0.04366743565,1.107786456,ok,ok2023qwmc,2023-08-28T23:44:29.369Z,"4 km NNE of Minco, Oklahoma",earthquake,3.354649395,2.388579288,0.35,8,automatic,ok,ok
 2023-08-28T23:39:32.430Z,36.7405014,-121.3916702,10.12,1.78,md,24,59,,0.13,nc,nc73930316,2023-08-28T23:41:10.968Z,"8 km SSW of Ridgemark, CA",earthquake,0.36,0.81,0.21,21,automatic,nc,nc
 2023-08-28T23:37:14.200Z,34.0431667,-116.6381667,11.13,1.56,ml,42,42,0.009353,0.23,ci,ci39653674,2023-08-28T23:41:00.204Z,"5 km W of Morongo Valley, CA",earthquake,0.28,0.73,0.133,27,automatic,ci,ci
 2023-08-28T23:34:23.460Z,38.7955017,-122.810997,3.24,0.95,md,17,88,0.009472,0.03,nc,nc73930311,2023-08-28T23:36:00.425Z,"5 km WNW of The Geysers, CA",earthquake,0.33,0.78,0.2,18,automatic,nc,nc
@@ -32,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T20:08:06.515Z,-7.0459,117.2147,477.481,5.6,mb,75,39,1.856,0.98,us,us7000krk4,2023-08-28T22:11:20.055Z,"153 km N of Pototano, Indonesia",earthquake,9.41,6.915,0.084,50,reviewed,us,us
 2023-08-28T20:06:53.252Z,-6.8134,116.6179,517.374,5.4,mb,76,41,2.307,0.76,us,us7000krn7,2023-08-28T23:13:32.060Z,"Bali Sea",earthquake,7.22,5.8,0.072,67,reviewed,us,us
 2023-08-28T20:01:15.707Z,61.103,-151.6151,62.3,0.7,ml,,,,0.49,ak,ak023b18w7jm,2023-08-28T20:03:33.350Z,"26 km W of Tyonek, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-08-28T19:55:31.821Z,-6.7876,116.548,513.545,7.1,mww,111,22,2.364,0.76,us,us7000krjx,2023-08-28T23:39:41.710Z,"181 km NNE of Gili Air, Indonesia",earthquake,9.18,3.776,0.075,17,reviewed,us,us
+2023-08-28T19:55:31.821Z,-6.7876,116.548,513.545,7.1,mww,111,22,2.364,0.76,us,us7000krjx,2023-08-28T23:44:45.552Z,"181 km NNE of Gili Air, Indonesia",earthquake,9.18,3.776,0.075,17,reviewed,us,us
 2023-08-28T19:55:01.320Z,38.8248329,-122.7971649,2.78,1.09,md,16,59,0.01019,0.02,nc,nc73930226,2023-08-28T19:56:34.335Z,"6 km NNW of The Geysers, CA",earthquake,0.32,0.66,0.32,16,automatic,nc,nc
 2023-08-28T19:48:37.098Z,37.1445,-115.5228,8,1.3,ml,34,134.26,0.344,0.1572,nn,nn00865155,2023-08-28T20:29:08.019Z,"40 km SW of Alamo, Nevada",earthquake,,3.6,0.26,20,reviewed,nn,nn
 2023-08-28T19:35:47.712Z,40.097,-119.721,15.6,-0.1,ml,3,214.22,0.074,0.1151,nn,nn00865191,2023-08-28T22:52:03.333Z,"Nevada",earthquake,,3.7,0.34,2,reviewed,nn,nn
