@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-31T19:22:53.816Z,62.4588,-152.0112,106,1.7,ml,,,,0.41,ak,ak023b671eed,2023-08-31T19:25:07.126Z,"61 km NNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-31T19:16:15.342Z,62.2942,-150.5092,59.6,2.4,ml,,,,0.43,ak,ak023b670142,2023-08-31T19:17:32.840Z,"14 km W of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-31T19:12:50.320Z,19.24049949646,-155.36149597168,28.8899993896484,3.27999997,md,53,151,,0.150000006,hv,hv73555082,2023-08-31T19:16:02.520Z,"Island of Hawaii, Hawaii",earthquake,0.44,0.569999993,2.13000011,43,automatic,hv,hv
+2023-08-31T19:12:50.320Z,19.24049949646,-155.36149597168,28.8899993896484,3.05,ml,53,151,,0.150000006,hv,hv73555082,2023-08-31T19:18:21.840Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.44,0.569999993,2.89,29,automatic,hv,hv
 2023-08-31T19:12:12.620Z,36.6208344,-120.5938339,3.87,1.65,md,7,140,0.3067,0.03,nc,nc73931401,2023-08-31T19:13:50.068Z,"24 km NNE of New Idria, CA",earthquake,0.81,2.79,0.18,6,automatic,nc,nc
 2023-08-31T19:10:56.381Z,63.2856,-150.9053,28.4,1.5,ml,,,,1.11,ak,ak023b66yu06,2023-08-31T19:15:57.234Z,"49 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-31T19:06:50.375Z,35.33086777,-97.96868134,1.406743526,2.39,ml,16,73.67892456,0.07338224351,0.9023118115,ok,ok2023rbpo,2023-08-31T19:09:58.417Z,"2 km NW of Minco, Oklahoma",earthquake,2.721725484,2.284609585,0.26,11,automatic,ok,ok
@@ -115,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T08:00:37.110Z,19.3875007629395,-155.277496337891,1.08000004291534,1.73,ml,14,103,,0.100000001,hv,hv73554462,2023-08-31T08:06:08.980Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.230000004,0.26,8,automatic,hv,hv
 2023-08-31T07:59:59.150Z,38.786499,-122.7645035,3.3,0.76,md,9,114,0.01578,0.02,nc,nc73931276,2023-08-31T08:33:14.152Z,"1 km NW of The Geysers, CA",earthquake,0.63,1.25,0.14,10,automatic,nc,nc
 2023-08-31T07:57:35.680Z,42.5006667,-111.1406667,5.91,2,ml,11,182,0.2662,0.22,uu,uu60548822,2023-08-31T14:25:15.560Z,"19 km E of Georgetown, Idaho",earthquake,1.59,31.61,0.359,6,reviewed,uu,uu
-2023-08-31T07:57:11.569Z,37.0302,-116.7236,4,0.9,ml,22,81.97,0.114,0.23,nn,nn00865299,2023-08-31T08:00:18.600Z,"Nevada",earthquake,,6.6,0.87,16,automatic,nn,nn
+2023-08-31T07:57:11.921Z,37.0389,-116.7284,6.5,1.1,ml,27,80.26,0.105,0.1515,nn,nn00865299,2023-08-31T19:23:03.385Z,"14 km N of Beatty, Nevada",earthquake,,1.5,0.26,11,reviewed,nn,nn
 2023-08-31T07:48:39.625Z,63.1982,-151.3317,0,1,ml,,,,0.64,ak,ak023b601qnu,2023-08-31T07:51:16.571Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-31T07:35:36.017Z,31.57200621,-103.9796625,6.902807617,1.8,ml,15,85,0.03984391431,0.1,tx,tx2023rasv,2023-08-31T18:48:34.399Z,"western Texas",earthquake,1.370058998,1.09041287,0.1,7,reviewed,tx,tx
 2023-08-31T07:28:02.569Z,37.0301,-116.7313,7,1.8,ml,46,45.74,0.114,0.1548,nn,nn00865297,2023-08-31T18:30:04.871Z,"13 km N of Beatty, Nevada",earthquake,,1.4,0.34,27,reviewed,nn,nn
@@ -126,6 +127,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T07:13:25.729Z,51.2528,-178.4822,46.426,4.6,mb,204,173,0.366,0.71,us,us7000ksaa,2023-08-31T15:17:36.359Z,"145 km WSW of Adak, Alaska",earthquake,6.7,8.361,0.04,185,reviewed,us,us
 2023-08-31T07:00:21.830Z,44.5395,-110.514,5.09,0.49,md,8,123,0.08306,0.07,uu,uu60548812,2023-08-31T14:43:18.100Z,"48 km ESE of West Yellowstone, Montana",earthquake,0.7,4.91,0.185,4,reviewed,uu,uu
 2023-08-31T06:54:40.200Z,35.33483333,-97.9475,7.04,0.64,ml,19,101,0.06118799283,0.25,ok,ok2023rark,2023-08-31T13:25:07.685Z,"2 km N of Minco, Oklahoma",earthquake,,0.8,0.21,7,reviewed,ok,ok
+2023-08-31T06:48:15.620Z,58.1895,-155.329,2.1,0.51,ml,10,103,,0.2,av,av91114418,2023-08-31T19:27:32.140Z,"86 km NW of Karluk, Alaska",earthquake,0.33,0.52,0.255751386749807,10,reviewed,av,av
+2023-08-31T06:46:22.410Z,58.2538333333333,-155.141666666667,3.92,-0.13,ml,7,132,,0.18,av,av91114413,2023-08-31T19:23:45.200Z,"86 km NNW of Karluk, Alaska",earthquake,0.43,1.14,0.2773239887846,7,reviewed,av,av
 2023-08-31T06:40:31.650Z,46.199333333333335,-122.21116666666667,-1.77,-0.12,ml,7,156,0.01411,0.46,uw,uw61946922,2023-08-31T17:35:59.890Z,"36 km NNE of Amboy, Washington",earthquake,1.27,34.69,0.1907413321802229,3,reviewed,uw,uw
 2023-08-31T06:33:40.520Z,19.2548333333333,-155.372833333333,31.75,2.68,ml,57,150,,0.13,hv,hv73554397,2023-08-31T17:23:11.670Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.38,0.44,0.137514325584973,34,reviewed,hv,hv
 2023-08-31T06:31:16.589Z,35.14328384,-97.52799225,2.971546173,1.87,ml,27,67.83610535,0.07013441622,0.6486849894,ok,ok2023raqq,2023-08-31T06:35:09.443Z,"4 km W of Goldsby, Oklahoma",earthquake,2.153745257,1.645672733,0.18,10,automatic,ok,ok
@@ -236,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T19:37:52.089Z,61.1036,-148.7791,26.5,1.2,ml,,,,1.17,ak,ak023b4jl9hz,2023-08-30T19:49:50.040Z,"27 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-30T19:35:23.410Z,34.189,-116.8646667,8.75,1.17,ml,37,39,0.08664,0.13,ci,ci39655266,2023-08-30T22:03:56.010Z,"8 km SE of Big Bear Lake, CA",earthquake,0.2,0.43,0.175,24,reviewed,ci,ci
 2023-08-30T19:33:58.717Z,39.6903,-119.899,6.2,0.7,ml,6,86.54,0.096,0.0826,nn,nn00865289,2023-08-30T22:44:09.804Z,"6 km E of Cold Springs, Nevada",earthquake,,3.2,0.5,4,reviewed,nn,nn
-2023-08-30T19:24:50.908Z,-26.2674,27.7464,5,3.5,mb_lg,10,133,2.307,0.61,us,us7000ks6b,2023-08-31T18:00:09.324Z,"South Africa",earthquake,6.58,2.003,0.17,9,reviewed,us,us
