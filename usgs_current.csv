@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-31T16:55:37.582Z,62.7541,-148.9001,10.5,1.6,ml,,,,0.63,ak,ak023b65g4y1,2023-08-31T17:07:38.774Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-08-31T16:53:36.500Z,32.9821667,-116.3111667,8.98,0.86,ml,13,123,0.02826,0.15,ci,ci39656018,2023-08-31T16:57:09.032Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.3,0.56,0.148,11,automatic,ci,ci
 2023-08-31T16:44:58.100Z,32.9833333,-116.3158333,9.82,0.74,ml,15,112,0.03051,0.21,ci,ci39656002,2023-08-31T16:48:33.916Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.37,0.82,0.131,8,automatic,ci,ci
 2023-08-31T16:25:15.280Z,57.1038,-135.8041,2,1.9,ml,,,,0.4,ak,ak023b659nrc,2023-08-31T16:27:04.525Z,"Southeastern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-31T16:19:49.430Z,33.0465,-116.3586667,12.97,1.16,ml,22,58,0.08634,0.21,ci,ci39655986,2023-08-31T16:41:42.704Z,"23 km E of Julian, CA",earthquake,0.38,1,0.286,27,reviewed,ci,ci
@@ -196,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T20:00:50.680Z,38.1183333,-122.1758333,-0.08,1.37,md,12,133,0.02146,0.12,nc,nc73931051,2023-08-30T23:06:41.395Z,"5 km E of Vallejo, CA",quarry blast,0.36,31.61,0.197,13,reviewed,nc,nc
 2023-08-30T19:53:18.220Z,19.2043342590332,-155.373504638672,29.75,1.82000005,md,27,208,,0.129999995,hv,hv73553677,2023-08-30T19:56:31.040Z,"11 km E of Pāhala, Hawaii",earthquake,0.77,1.13,0.980000019,7,automatic,hv,hv
 2023-08-30T19:44:09.950Z,38.8230019,-122.7946701,2.45,1.1,md,18,44,0.01204,0.03,nc,nc73931046,2023-08-30T19:58:11.834Z,"6 km NNW of The Geysers, CA",earthquake,0.27,0.51,0.21,20,automatic,nc,nc
-2023-08-30T19:41:13.250Z,38.8381667,-122.7936667,2.08,0.38,md,22,80,0.002606,0.04,nc,nc73931041,2023-08-31T16:30:14.824Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.37,0.17,20,reviewed,nc,nc
+2023-08-30T19:41:13.250Z,38.8381667,-122.7936667,2.08,0.38,md,22,80,0.002606,0.04,nc,nc73931041,2023-08-31T17:08:16.152Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.37,0.17,20,reviewed,nc,nc
 2023-08-30T19:37:52.089Z,61.1036,-148.7791,26.5,1.2,ml,,,,1.17,ak,ak023b4jl9hz,2023-08-30T19:49:50.040Z,"27 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-30T19:35:23.410Z,34.189,-116.8646667,8.75,1.17,ml,37,39,0.08664,0.13,ci,ci39655266,2023-08-30T22:03:56.010Z,"8 km SE of Big Bear Lake, CA",earthquake,0.2,0.43,0.175,24,reviewed,ci,ci
 2023-08-30T19:33:58.717Z,39.6903,-119.899,6.2,0.7,ml,6,86.54,0.096,0.0826,nn,nn00865289,2023-08-30T22:44:09.804Z,"6 km E of Cold Springs, Nevada",earthquake,,3.2,0.5,4,reviewed,nn,nn
@@ -221,9 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T17:21:47.118Z,31.48403417,-103.9671807,7.391259766,2,ml,21,68,0.125230161,0.3,tx,tx2023qzqp,2023-08-30T17:40:42.335Z,"25 km NW of Toyah, Texas",earthquake,1.063471095,1.73465716,0.2,13,reviewed,tx,tx
 2023-08-30T17:11:05.920Z,35.3476667,-118.5401667,3.85,0.95,ml,21,73,0.1127,0.16,ci,ci39655154,2023-08-30T20:47:21.368Z,"25 km NNW of Tehachapi, CA",earthquake,0.24,0.79,0.103,6,reviewed,ci,ci
 2023-08-30T17:09:13.380Z,34.4038333,-119.199,1.3,2.15,ml,45,67,0.06061,0.28,ci,ci39655146,2023-08-30T20:59:24.670Z,"6 km SE of Ojai, CA",earthquake,0.3,0.52,0.172,43,reviewed,ci,ci
-2023-08-30T17:07:53.410Z,38.8066673,-122.75383,0.46,1.03,md,13,108,0.007585,0.04,nc,nc73931001,2023-08-30T17:09:27.520Z,"3 km WSW of Cobb, CA",earthquake,0.25,0.55,0.24,12,automatic,nc,nc
-2023-08-30T17:07:03.826Z,31.6671449,-104.2023994,8.805200195,2.2,ml,22,74,0.0534698513,0.3,tx,tx2023qzqe,2023-08-30T17:25:29.399Z,"55 km NW of Toyah, Texas",earthquake,0.9461930913,0.9486063058,0.2,15,reviewed,tx,tx
-2023-08-30T17:05:42.750Z,38.8053322,-122.7529984,0.67,0.78,md,9,106,0.007043,0.02,nc,nc73930996,2023-08-30T17:07:18.760Z,"3 km N of The Geysers, CA",earthquake,0.3,0.58,0.07,9,automatic,nc,nc
-2023-08-30T17:05:10.617Z,62.9528,-149.6868,73.1,1.3,ml,,,,0.71,ak,ak023b4i7g6t,2023-08-30T17:07:06.656Z,"60 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-30T17:04:04.570Z,19.3925,-155.278666666667,1.46,2.2,ml,23,51,,0.11,hv,hv73553442,2023-08-30T17:44:54.000Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.17,0.225896806647675,16,reviewed,hv,hv
-2023-08-30T16:58:28.180Z,33.5998333,-116.718,13.44,0.53,ml,17,69,0.03793,0.09,ci,ci39655122,2023-08-30T22:20:33.985Z,"6 km NW of Anza, CA",earthquake,0.26,0.48,0.138,7,reviewed,ci,ci
