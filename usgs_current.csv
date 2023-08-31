@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-31T13:52:06.600Z,32.9631653,-115.8626633,7.43,2.84,ml,89,21,0.03332,0.26,ci,ci39655834,2023-08-31T14:03:19.110Z,"24 km WSW of Westmorland, CA",earthquake,0.18,0.5,0.258,22,automatic,ci,ci
 2023-08-31T13:36:48.780Z,32.34,-115.0778333,15.05,2.36,ml,15,132,0.03703,0.27,ci,ci39655826,2023-08-31T13:40:26.319Z,"6 km NNE of Guadalupe Victoria, B.C., MX",earthquake,1.27,0.78,0.214,27,automatic,ci,ci
 2023-08-31T13:33:47.620Z,33.3985,-116.8988333,9.44,0.73,ml,31,65,0.05405,0.21,ci,ci39655818,2023-08-31T13:37:22.940Z,"6 km NW of Palomar Observatory, CA",earthquake,0.31,0.92,0.164,17,automatic,ci,ci
 2023-08-31T13:24:20.177Z,38.5196,-119.5241,4,1.4,ml,10,168.12,0.066,0.1613,nn,nn00865308,2023-08-31T13:26:58.482Z,"4 km W of Walker, California",earthquake,,0.7,0.16,5,automatic,nn,nn
@@ -127,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T00:22:46.550Z,41.39,-111.6655,9.21,0.78,md,10,142,0.1382,0.09,uu,uu60548792,2023-08-31T00:39:09.290Z,"14 km ENE of Wolf Creek, Utah",earthquake,0.47,1.52,0.029,4,reviewed,uu,uu
 2023-08-31T00:20:51.973Z,-7.8694,122.6782,282.502,4.4,mb,20,92,2.445,0.67,us,us7000ks8q,2023-08-31T00:36:09.040Z,"97 km NNE of Maumere, Indonesia",earthquake,10.95,11.082,0.203,7,reviewed,us,us
 2023-08-31T00:17:23.865Z,59.2287,-151.9872,35.1,2,ml,,,,0.44,ak,ak023b5vp10i,2023-08-31T00:19:25.960Z,"14 km SSW of Nanwalek, Alaska",earthquake,,9.9,,,automatic,ak,ak
-2023-08-31T00:11:18.870Z,41.3888333,-111.6508333,11.76,3.67,ml,39,79,0.1295,0.18,uu,uu60548782,2023-08-31T13:48:58.879Z,"Utah",earthquake,0.26,0.46,0.207,34,reviewed,uu,uu
+2023-08-31T00:11:18.870Z,41.3888333,-111.6508333,11.76,3.67,ml,39,79,0.1295,0.18,uu,uu60548782,2023-08-31T13:59:14.023Z,"Utah",earthquake,0.26,0.46,0.207,34,reviewed,uu,uu
 2023-08-31T00:07:05.050Z,38.7944984,-122.7623367,5.39,0.64,md,6,128,0.02003,0.02,nc,nc73931126,2023-08-31T00:25:17.358Z,"2 km NNW of The Geysers, CA",earthquake,0.75,4.39,0.12,8,automatic,nc,nc
 2023-08-30T23:59:15.640Z,33.4903333,-116.7586667,6.78,0.99,ml,38,36,0.04118,0.21,ci,ci39655538,2023-08-31T00:02:47.488Z,"11 km SW of Anza, CA",earthquake,0.23,0.48,0.113,26,automatic,ci,ci
 2023-08-30T23:57:37.990Z,33.262,-116.4238333,3.09,0.77,ml,14,119,0.008336,0.25,ci,ci39655530,2023-08-31T00:01:11.903Z,"5 km W of Borrego Springs, CA",earthquake,0.59,1.24,0.078,13,automatic,ci,ci
@@ -140,7 +141,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T22:50:59.077Z,69.2225,-145.8127,0,2.8,ml,,,,0.98,ak,ak023b4lgd6b,2023-08-30T23:06:04.040Z,"122 km N of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-30T22:49:11.830Z,58.1885,-155.2765,2.43,0.52,ml,11,89,,0.07,av,av91114353,2023-08-31T01:29:01.340Z,"84 km NW of Karluk, Alaska",earthquake,0.18,0.33,0.351821368572341,11,reviewed,av,av
 2023-08-30T22:35:30.016Z,63.5486,-147.2525,0,1,ml,,,,0.35,ak,ak023b4ld36x,2023-08-30T22:37:16.300Z,"84 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-30T22:32:41.900Z,32.4113333,-115.2451667,11.55,2.08,ml,20,44,0.05126,0.32,ci,ci39655474,2023-08-30T22:49:19.364Z,"8 km NW of Delta, B.C., MX",earthquake,0.61,1.05,0.306,20,automatic,ci,ci
+2023-08-30T22:32:41.680Z,32.4025,-115.2388333,11.82,2.18,ml,24,50,0.05848,0.37,ci,ci39655474,2023-08-31T13:58:32.383Z,"7 km NW of Delta, B.C., MX",earthquake,0.56,1.16,0.264,15,reviewed,ci,ci
+2023-08-30T22:29:52.940Z,41.8478333,-112.3943333,8.37,1.87,ml,19,86,0.09663,0.14,uu,uu60548777,2023-08-31T13:57:59.510Z,"7 km NE of Howell, Utah",earthquake,0.27,0.89,0.092,4,reviewed,uu,uu
 2023-08-30T22:19:07.750Z,17.9731666666667,-66.9345,16.03,2.23,md,6,182,0.05261,0.07,pr,pr71422713,2023-08-30T22:50:11.470Z,"2 km SW of Fuig, Puerto Rico",earthquake,0.69,0.52,0.0313107931754835,4,reviewed,pr,pr
 2023-08-30T22:18:42.821Z,31.63337918,-104.2863775,7.185595703,2.3,ml,13,65,0.04244064616,0.2,tx,tx2023raak,2023-08-31T13:10:18.773Z,"58 km NW of Toyah, Texas",earthquake,1.17150955,1.538811641,0.1,25,reviewed,tx,tx
 2023-08-30T21:27:23.625Z,61.1089,-140.0786,5,2.9,ml,28,91,0.535,0.71,us,us7000ks79,2023-08-30T22:19:27.040Z,"156 km ESE of McCarthy, Alaska",earthquake,3.64,1.539,0.043,70,reviewed,us,us
@@ -235,7 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T14:17:38.018Z,58.6363,-154.017,82.7,1.5,ml,,,,0.29,ak,ak023b4ghs2x,2023-08-30T14:20:08.717Z,"91 km NW of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-08-30T14:17:08.299Z,-29.4465,-71.3102,44.842,5.3,mww,125,129,0.475,0.92,us,us7000ks3e,2023-08-30T16:22:41.756Z,"51 km N of La Serena, Chile",earthquake,5.5,4.18,0.057,30,reviewed,us,us
 2023-08-30T14:10:17.450Z,38.7726667,-122.734,1.09,1.29,md,41,50,0.01077,0.05,nc,nc73930906,2023-08-30T19:12:12.580Z,"2 km ESE of The Geysers, CA",earthquake,0.14,0.23,0.202,36,reviewed,nc,nc
-2023-08-30T14:03:08.220Z,34.4651667,-116.519,9.89,1.22,ml,25,66,0.1255,0.13,ci,ci39654898,2023-08-30T21:13:11.933Z,"38 km NE of Big Bear City, CA",earthquake,0.22,0.55,0.109,16,reviewed,ci,ci
-2023-08-30T13:58:01.230Z,53.3871666666667,-168.152166666667,6.07,0.11,ml,4,157,,0.17,av,av92025096,2023-08-30T21:53:17.160Z,"68 km NE of Nikolski, Alaska",earthquake,1.52,0.98,0.660067318932652,4,reviewed,av,av
-2023-08-30T13:55:55.008Z,-14.7416,167.9815,8.865,5.3,mww,101,45,6.766,0.66,us,us7000ks3c,2023-08-30T14:15:33.040Z,"103 km ENE of Port-Olry, Vanuatu",earthquake,7.85,4.188,0.086,13,reviewed,us,us
-2023-08-30T13:54:40.329Z,-22.1775,170.0327,10,5,mb,36,100,2.432,1.11,us,us7000ks3b,2023-08-30T14:12:49.040Z,"233 km ESE of Tadine, New Caledonia",earthquake,8.56,1.891,0.091,38,reviewed,us,us
