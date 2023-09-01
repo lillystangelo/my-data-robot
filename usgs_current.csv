@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-01T04:34:02.890Z,40.6038322,-121.8288345,12.84,2.5,md,24,46,0.1756,0.14,nc,nc73931571,2023-09-01T04:40:10.135Z,"13 km NNE of Shingletown, CA",earthquake,0.32,1.51,0.07,20,automatic,nc,nc
+2023-09-01T04:34:02.890Z,40.6038322,-121.8288345,12.84,2.5,md,24,46,0.1756,0.14,nc,nc73931571,2023-09-01T04:55:13.217Z,"13 km NNE of Shingletown, CA",earthquake,0.32,1.51,0.07,20,automatic,nc,nc
 2023-09-01T04:15:51.170Z,63.508,-147.848,3.3,1.6,ml,,,,0.46,ak,ak023b7llqlp,2023-09-01T04:17:47.121Z,"56 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-01T04:07:53.200Z,32.3846667,-115.1403333,9.94,2.55,ml,23,72,0.06858,0.3,ci,ci39656442,2023-09-01T04:19:02.940Z,"6 km ENE of Delta, B.C., MX",earthquake,0.58,1.37,0.081,26,automatic,ci,ci
 2023-09-01T03:52:18.452Z,63.2599,-150.5534,126.5,1.6,ml,,,,0.32,ak,ak023b7l84yd,2023-09-01T03:54:35.130Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
