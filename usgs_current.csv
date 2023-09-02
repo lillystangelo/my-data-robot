@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-02T18:52:04.350Z,19.3668327331543,-155.281173706055,1.87000000476837,2.15,ml,28,117,,0.200000003,hv,hv73558647,2023-09-02T18:57:35.660Z,"9 km SSW of Volcano, Hawaii",earthquake,0.3,0.360000014,0.45,9,automatic,hv,hv
 2023-09-02T18:45:41.790Z,33.7085,-116.8313333,21.89,1.38,ml,9,98,0.09971,0.17,ci,ci39657466,2023-09-02T18:49:20.991Z,"7 km SE of Valle Vista, CA",earthquake,0.73,2,0.385,10,automatic,ci,ci
 2023-09-02T18:22:30.540Z,35.9906654,-120.1226654,13.33,1.94,md,16,216,0.1412,0.15,nc,nc73932286,2023-09-02T18:51:15.256Z,"2 km SSE of Avenal, CA",earthquake,0.96,1.32,0.08,10,automatic,nc,nc
 2023-09-02T18:12:45.270Z,38.7628326,-122.7258301,1.76,0.94,md,9,72,0.001451,0.02,nc,nc73932281,2023-09-02T18:14:20.953Z,"3 km ESE of The Geysers, CA",earthquake,0.53,0.72,0.22,8,automatic,nc,nc
@@ -54,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T11:28:07.030Z,38.0931667,-122.8511667,12.49,1.09,md,19,87,0.05638,0.14,nc,nc73932146,2023-09-02T18:39:11.990Z,"1 km SSE of Inverness, CA",earthquake,0.3,0.61,0.294,18,reviewed,nc,nc
 2023-09-02T11:25:20.400Z,19.4001666666667,-155.280166666667,1.65,0.39,md,14,49,,0.12,hv,hv73558012,2023-09-02T11:47:36.100Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.36,0.0947584774223696,4,reviewed,hv,hv
 2023-09-02T11:24:10.440Z,33.5655,-116.8188333,4.64,0.24,ml,13,73,0.05365,0.16,ci,ci39657330,2023-09-02T11:27:43.448Z,"14 km W of Anza, CA",earthquake,0.37,0.44,0.189,6,automatic,ci,ci
-2023-09-02T11:17:05.880Z,40.6056667,-121.8226667,13.98,1.6,md,20,73,0.1014,0.16,nc,nc73932141,2023-09-02T18:35:41.593Z,"14 km NNE of Shingletown, CA",earthquake,0.48,0.97,0.318,18,reviewed,nc,nc
+2023-09-02T11:17:05.880Z,40.6056667,-121.8226667,13.98,1.6,md,20,73,0.1014,0.16,nc,nc73932141,2023-09-02T19:02:16.319Z,"14 km NNE of Shingletown, CA",earthquake,0.48,0.97,0.318,18,reviewed,nc,nc
 2023-09-02T11:11:02.030Z,-8.2324,-74.2484,149.196,5.3,mww,61,80,4.522,0.56,us,us7000ksul,2023-09-02T11:28:25.040Z,"36 km ENE of San Fernando, Peru",earthquake,9.29,3.358,0.069,20,reviewed,us,us
 2023-09-02T11:09:30.857Z,37.4101,-114.3267,16,1.9,ml,13,197.86,0.412,0.2232,nn,nn00865368,2023-09-02T11:12:29.194Z,"28 km SE of Caliente, Nevada",earthquake,,0.7,0.78,10,automatic,nn,nn
 2023-09-02T10:59:40.290Z,33.496,-116.5891667,10.93,0.41,ml,19,115,0.01097,0.2,ci,ci39657322,2023-09-02T11:03:14.849Z,"10 km SE of Anza, CA",earthquake,0.5,0.66,0.193,9,automatic,ci,ci
@@ -178,6 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T19:22:36.683Z,59.145,-152.1909,57.3,2.1,ml,,,,0.49,ak,ak023b7ukpkk,2023-09-01T19:24:34.627Z,"28 km SSW of Nanwalek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-09-01T19:10:43.540Z,17.9195,-66.9848333333333,8.13,2.55,md,18,231,0.07525,0.09,pr,pr71423073,2023-09-01T19:37:45.277Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.52,0.57,0.188093252928138,11,reviewed,pr,pr
 2023-09-01T19:09:00.394Z,-4.408,143.811,116.722,5.3,mww,123,59,3.628,0.89,us,us7000ksqu,2023-09-02T00:00:42.517Z,"47 km SW of Angoram, Papua New Guinea",earthquake,8.46,5.722,0.058,29,reviewed,us,us
-2023-09-01T19:00:51.550Z,38.7888336,-122.7474976,1.31,1.27,md,15,85,0.01011,0.02,nc,nc73931801,2023-09-01T19:38:12.112Z,"2 km NNE of The Geysers, CA",earthquake,0.25,0.51,0.21,15,automatic,nc,nc
-2023-09-01T18:58:55.230Z,34.1193333,-117.4666667,7.4,1.62,ml,51,31,0.03041,0.18,ci,ci39657026,2023-09-01T22:20:43.049Z,"2 km NNW of Fontana, CA",earthquake,0.19,0.31,0.128,28,reviewed,ci,ci
-2023-09-01T18:54:57.030Z,34.9925,-118.182,-0.93,1.27,ml,15,71,0.1197,0.21,ci,ci39657010,2023-09-01T21:43:43.676Z,"7 km S of Mojave, CA",quarry blast,0.47,31.61,0.1,7,reviewed,ci,ci
