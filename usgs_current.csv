@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-02T10:23:04.134Z,58.2552,-155.1074,1.7,1.5,ml,,,,0.42,ak,ak023b9crau5,2023-09-02T10:25:38.205Z,"85 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-02T10:18:56.720Z,38.7953339,-122.7616653,-0.9,1.97,md,21,82,0.005499,0.37,nc,nc73932131,2023-09-02T10:20:34.141Z,"2 km NNW of The Geysers, CA",earthquake,0.6,1.8,0.12,26,automatic,nc,nc
 2023-09-02T10:10:12.380Z,33.8781667,-117.7945,9.77,0.96,ml,23,71,0.04986,0.25,ci,ci39657306,2023-09-02T10:13:52.700Z,"2 km SE of Yorba Linda, CA",earthquake,0.44,0.89,0.13,17,automatic,ci,ci
 2023-09-02T10:03:11.460Z,33.1608333,-115.9166667,6.59,0.76,ml,19,75,0.05276,0.21,ci,ci39657298,2023-09-02T10:06:46.935Z,"16 km SSE of Salton City, CA",earthquake,0.47,0.93,0.119,8,automatic,ci,ci
 2023-09-02T09:50:56.698Z,58.0578,-155.0668,250,0.8,ml,,,,0.95,ak,ak023b9cbx0o,2023-09-02T09:53:33.103Z,"Alaska Peninsula",earthquake,,6.5,,,automatic,ak,ak
@@ -190,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T10:29:49.180Z,58.1846666666667,-155.318666666667,1.71,0.83,ml,9,103,,0.07,av,av92025846,2023-09-01T21:01:46.640Z,"85 km NW of Karluk, Alaska",earthquake,0.18,0.38,0.209287503392671,9,reviewed,av,av
 2023-09-01T10:29:22.537Z,31.70054957,-104.1358591,7.159887695,2.2,ml,18,43,0.05776390572,0.1,tx,tx2023rcua,2023-09-01T18:48:32.555Z,"50 km W of Mentone, Texas",earthquake,0.5815466071,0.7938294326,0.1,29,reviewed,tx,tx
 2023-09-01T10:28:14.770Z,19.3836666666667,-155.281666666667,0.57,0.78,md,13,77,,0.08,hv,hv73556192,2023-09-01T20:12:54.510Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.118181189746039,4,reviewed,hv,hv
-2023-09-01T10:22:58.391Z,-23.6084,-64.5585,10,4.4,mb,30,51,3.392,1.22,us,us7000ksm5,2023-09-01T13:14:04.040Z,"9 km WNW of Yuto, Argentina",earthquake,2.8,1.919,0.203,7,reviewed,us,us
-2023-09-01T10:22:47.030Z,32.999,-116.4476667,11.77,0.62,ml,23,70,0.04128,0.17,ci,ci39656610,2023-09-01T21:06:28.467Z,"17 km ESE of Julian, CA",earthquake,0.28,0.61,0.104,6,reviewed,ci,ci
-2023-09-01T10:22:02.327Z,62.2211,-151.1634,74.3,1.6,ml,,,,0.34,ak,ak023b7p7qh4,2023-09-01T10:23:41.597Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
