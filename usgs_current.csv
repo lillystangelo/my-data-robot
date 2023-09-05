@@ -1,7 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-05T03:36:43.500Z,33.9843333,-116.9603333,7.04,1.04,ml,40,42,0.065,0.24,ci,ci39658458,2023-09-05T03:40:16.194Z,"6 km NNE of Beaumont, CA",earthquake,0.27,0.96,0.164,27,automatic,ci,ci
+2023-09-05T03:34:07.597Z,65.0131,-146.5856,11.9,1.5,ml,,,,0.31,ak,ak023be79o7r,2023-09-05T03:35:33.624Z,"19 km NE of Pleasant Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-05T03:31:04.330Z,34.3043333,-118.3551667,7.19,1.15,ml,15,89,0.03794,0.15,ci,ci39658450,2023-09-05T03:34:37.602Z,"4 km NNE of Lake View Terrace, CA",earthquake,0.4,0.66,0.422,21,automatic,ci,ci
+2023-09-05T03:26:42.340Z,19.3865,-155.2795,1.14,0.43,md,14,109,,0.06,hv,hv73562782,2023-09-05T03:36:24.170Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.19,0.188204455160882,2,reviewed,hv,hv
 2023-09-05T03:21:29.330Z,19.3621666666667,-155.286833333333,2.19,1.68,ml,25,115,,0.08,hv,hv73562777,2023-09-05T03:31:54.020Z,"10 km SSW of Volcano, Hawaii",earthquake,0.22,0.3,0.167641078833637,9,reviewed,hv,hv
 2023-09-05T03:18:27.972Z,38.1885,-117.9615,5.8,1.3,ml,9,108.01,0.021,0.1522,nn,nn00865428,2023-09-05T03:21:02.189Z,"25 km SSE of Mina, Nevada",earthquake,,0.5,0.37,6,automatic,nn,nn
+2023-09-05T03:13:51.146Z,22.2912,120.9892,10,4.6,mb,25,127,1.058,0.66,us,us7000ktb9,2023-09-05T03:36:48.040Z,"Taiwan",earthquake,4.47,1.847,0.158,12,reviewed,us,us
 2023-09-05T03:13:33.819Z,65.0883,-140.4338,10,2.6,ml,16,163,0.439,0.46,us,us7000ktb8,2023-09-05T03:28:31.040Z,"47 km NE of Eagle Village, Alaska",earthquake,2.08,1.997,0.064,32,reviewed,us,us
 2023-09-05T03:12:35.320Z,19.3863333333333,-155.2795,1.22,0.43,md,13,142,,0.06,hv,hv73562762,2023-09-05T03:27:00.810Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.19,0.186898292612981,2,reviewed,hv,hv
 2023-09-05T03:11:35.630Z,33.526,-117.0103333,6.84,0.77,ml,16,150,0.1759,0.34,ci,ci39658442,2023-09-05T03:15:12.277Z,"13 km ENE of Temecula, CA",earthquake,1.22,31.61,0.113,9,automatic,ci,ci
@@ -119,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T14:52:38.010Z,33.7325,-116.764,16.41,0.83,ml,22,83,0.04284,0.16,ci,ci39658194,2023-09-04T14:56:14.653Z,"4 km WSW of Idyllwild, CA",earthquake,0.37,0.48,0.198,16,automatic,ci,ci
 2023-09-04T14:48:58.979Z,61.838,-148.8721,20,2.2,ml,,,,0.63,ak,ak023bcqd7eq,2023-09-04T14:50:41.585Z,"8 km NW of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-04T14:47:29.933Z,-2.3394,-12.4382,10,5.1,mb,98,49,5.877,0.57,us,us7000kt6h,2023-09-04T15:10:04.040Z,"north of Ascension Island",earthquake,9.83,1.805,0.042,183,reviewed,us,us
-2023-09-04T14:33:52.190Z,37.3733333,-121.7603333,2.97,1.05,md,19,76,0.08323,0.07,nc,nc73932976,2023-09-05T03:27:01.322Z,"6 km E of Alum Rock, CA",earthquake,0.39,0.7,0.291,17,reviewed,nc,nc
+2023-09-04T14:33:52.190Z,37.3733333,-121.7603333,2.97,1.05,md,19,76,0.08323,0.07,nc,nc73932976,2023-09-05T03:41:19.833Z,"6 km E of Alum Rock, CA",earthquake,0.39,0.7,0.291,17,reviewed,nc,nc
 2023-09-04T14:23:37.730Z,18.9335,-64.5933,51,3.69,md,9,319,0.6853,0.28,pr,pr2023247004,2023-09-04T15:18:52.040Z,"69 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.18,8.029,0.09,7,reviewed,pr,pr
 2023-09-04T14:20:03.880Z,18.003,-66.7553333333333,12.95,2.71,md,22,163,0.03837,0.26,pr,pr71423643,2023-09-04T14:52:00.800Z,"2 km SE of Magas Arriba, Puerto Rico",earthquake,0.55,0.44,0.190068399536179,6,reviewed,pr,pr
 2023-09-04T14:16:39.280Z,33.392,-116.3526667,4.71,0.57,ml,10,174,0.1348,0.16,ci,ci39658178,2023-09-04T14:20:12.443Z,"15 km N of Borrego Springs, CA",earthquake,0.61,1.19,0.138,8,automatic,ci,ci
