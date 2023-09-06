@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T07:38:38.510Z,38.7709999,-122.7354965,1.31,0.86,md,8,94,0.01226,0.02,nc,nc73933631,2023-09-06T07:40:12.807Z,"2 km ESE of The Geysers, CA",earthquake,0.45,0.82,0.26,8,automatic,nc,nc
 2023-09-06T07:12:32.890Z,33.2415,-116.0103333,2.85,0.67,ml,14,96,0.04362,0.14,ci,ci39659306,2023-09-06T07:15:59.572Z,"8 km SW of Salton City, CA",earthquake,0.5,0.59,0.132,7,automatic,ci,ci
 2023-09-06T07:11:21.456Z,61.9683,-150.0954,15,0.9,ml,,,,0.15,ak,ak023bfx1uq9,2023-09-06T07:13:28.422Z,"24 km N of Willow, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-06T07:09:37.670Z,18.9175,-64.6746,22,3.6,md,9,295,0.6315,0.44,pr,pr2023249001,2023-09-06T07:43:01.512Z,"66 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.58,29.4,0.08,5,reviewed,pr,pr
 2023-09-06T07:05:52.440Z,17.925,-66.8613333333333,9.96,2.95,md,18,211,0.05262,0.11,pr,pr71423923,2023-09-06T07:22:09.300Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.57,0.47,0.198267569448684,12,reviewed,pr,pr
 2023-09-06T06:55:28.730Z,38.788166,-122.7464981,1.9,1.07,md,15,85,0.009086,0.02,nc,nc73933626,2023-09-06T06:57:02.761Z,"2 km NE of The Geysers, CA",earthquake,0.27,0.6,0.18,14,automatic,nc,nc
 2023-09-06T06:54:37.180Z,38.788166,-122.7463303,1.91,0.74,md,10,85,0.008977,0.02,nc,nc73933621,2023-09-06T06:56:12.644Z,"2 km NE of The Geysers, CA",earthquake,0.31,0.93,0.12,11,automatic,nc,nc
