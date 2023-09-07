@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T08:20:35.640Z,38.8025017,-122.8146667,13.27,0.66,md,8,122,0.013,0.07,nc,nc73934071,2023-09-07T08:22:10.579Z,"6 km WNW of The Geysers, CA",earthquake,2.54,1.75,0.19,4,automatic,nc,nc
+2023-09-07T08:14:59.358Z,61.8918,-147.4989,34.5,1.7,ml,,,,0.56,ak,ak023bhl7azw,2023-09-07T08:16:39.348Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
+2023-09-07T08:13:33.836Z,61.3019,-146.7193,15.5,1.2,ml,,,,0.37,ak,ak023bhl737r,2023-09-07T08:15:03.679Z,"27 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-07T07:45:35.360Z,33.8961667,-117.992,9.69,1.28,ml,35,67,0.04543,0.27,ci,ci39660178,2023-09-07T07:49:05.089Z,"3 km SE of La Mirada, CA",earthquake,0.4,0.92,0.201,31,automatic,ci,ci
 2023-09-07T07:43:04.398Z,63.2099,-150.521,120.8,1,ml,,,,0.21,ak,ak023bhks0tj,2023-09-07T07:45:09.199Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-09-07T07:41:25.900Z,32.7423333,-116.0221667,9.5,1.08,ml,11,114,0.005732,0.26,ci,ci39660170,2023-09-07T07:45:00.784Z,"3 km WNW of Ocotillo, CA",earthquake,0.63,1.51,0.372,9,automatic,ci,ci
-2023-09-07T07:38:05.440Z,19.3686676025391,-155.291839599609,2.02999997138977,1.91,ml,28,107,,0.239999995,hv,hv73567337,2023-09-07T07:43:35.960Z,"10 km SW of Volcano, Hawaii",earthquake,0.33,0.519999981,0.36,8,automatic,hv,hv
+2023-09-07T07:38:05.250Z,19.3663333333333,-155.295,1.98,2.03,ml,28,106,,0.11,hv,hv73567337,2023-09-07T08:14:31.780Z,"10 km SW of Volcano, Hawaii",earthquake,0.22,0.29,0.182826492430633,10,reviewed,hv,hv
 2023-09-07T07:37:29.280Z,38.8289986,-122.8036652,1.46,0.27,md,8,78,0.007508,0.02,nc,nc73934061,2023-09-07T07:54:11.780Z,"7 km W of Cobb, CA",earthquake,0.38,1.12,0.16,7,automatic,nc,nc
 2023-09-07T07:37:26.440Z,19.3619995117188,-155.304168701172,-0.189999997615814,1.89,ml,13,92,,0.239999995,hv,hv73567332,2023-09-07T07:42:57.300Z,"11 km SW of Volcano, Hawaii",earthquake,0.36,0.370000005,0.29,9,automatic,hv,hv
 2023-09-07T07:24:35.400Z,38.8383331,-122.8048325,0.85,0.21,md,9,106,0.01132,0.05,nc,nc73934056,2023-09-07T07:42:11.703Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.99,0.07,10,automatic,nc,nc
@@ -214,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T08:33:05.230Z,37.5028333,-118.8733333,4.06,1.35,md,22,205,0.09387,0.05,nc,nc73933636,2023-09-06T11:10:13.758Z,"18 km SSE of Mammoth Lakes, CA",earthquake,0.56,1.21,0.148,19,reviewed,nc,nc
 2023-09-06T08:31:09.972Z,31.20782749,-103.7720835,5.848779297,2.4,ml,16,67,0.07736419736,0.3,tx,tx2023rltq,2023-09-06T14:32:36.828Z,"12 km S of Toyah, Texas",earthquake,1.365329023,2.296717441,0.1,9,reviewed,tx,tx
 2023-09-06T08:30:28.697Z,39.668,-119.4453,8.3,0,ml,3,214.25,0.063,0.0535,nn,nn00865487,2023-09-07T02:03:58.306Z,"14 km WNW of Wadsworth, Nevada",earthquake,,8.1,0.26,3,reviewed,nn,nn
-2023-09-06T08:14:42.540Z,19.658,-65.5101,35,3.82,md,9,294,1.415,0.21,pr,pr2023249003,2023-09-06T08:34:16.216Z,"140 km NNE of Suárez, Puerto Rico",earthquake,1.66,15.8,0.08,5,reviewed,pr,pr
-2023-09-06T08:13:33.930Z,31.553,-115.721,3.35,1.75,ml,8,149,0.4533,0.32,ci,ci37528877,2023-09-07T00:57:08.588Z,"82 km ESE of Maneadero, B.C., MX",earthquake,0.89,31.61,0.055,4,reviewed,ci,ci
-2023-09-06T08:13:22.330Z,33.2483333,-116.1406667,10.73,0.65,ml,30,81,0.11,0.17,ci,ci39659322,2023-09-06T22:48:15.983Z,"12 km N of Ocotillo Wells, CA",earthquake,0.23,0.66,0.124,13,reviewed,ci,ci
