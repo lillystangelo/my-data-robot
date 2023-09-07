@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-07T17:52:20.316Z,62.3889,-151.4103,94.6,2,ml,,,,0.2,ak,ak023bhqsbjj,2023-09-07T17:54:02.345Z,"35 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-07T17:42:47.850Z,40.0074997,-123.7986679,-0.46,3.16,ml,39,118,0.1409,0.55,nc,nc73934281,2023-09-07T17:51:13.476Z,"13 km S of Redway, CA",earthquake,0.89,4.77,0.259,11,automatic,nc,nc
 2023-09-07T17:20:44.539Z,64.691,-147.7064,21.9,0.6,ml,,,,0.42,ak,ak023bhqliix,2023-09-07T17:23:12.224Z,"13 km SSE of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-07T17:08:48.580Z,19.2924995422363,-155.364334106445,2.07999992370605,1.89,ml,33,166,,0.180000007,hv,hv73567917,2023-09-07T17:14:17.600Z,"15 km NE of Pāhala, Hawaii",earthquake,0.38,0.639999986,2.89,9,automatic,hv,hv
 2023-09-07T16:21:49.072Z,60.0151,-150.2008,15.6,1.6,ml,,,,0.58,ak,ak023bhq0ayj,2023-09-07T16:23:36.702Z,"42 km W of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
