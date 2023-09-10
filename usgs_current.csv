@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-10T10:32:20.882Z,60.6067,-150.4464,44.8,1.6,ml,,,,0.35,ak,ak023bml41ig,2023-09-10T10:33:49.123Z,"19 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-10T10:28:30.110Z,44.7550011,-110.9420013,11.25,2.55,ml,21,68,0.04591,0.23,uu,uu60549792,2023-09-10T10:31:08.490Z,"16 km NE of West Yellowstone, Montana",earthquake,0.48,0.72,0.42,13,automatic,uu,uu
+2023-09-10T10:28:30.110Z,44.7550011,-110.9420013,11.25,2.55,ml,21,68,0.04591,0.23,uu,uu60549792,2023-09-10T10:37:48.750Z,"16 km NE of West Yellowstone, Montana",earthquake,0.48,0.72,0.42,13,reviewed,uu,uu
+2023-09-10T10:21:01.760Z,1.618,127.0058,117.248,4.9,mb,71,97,0.915,0.58,us,us7000kusu,2023-09-10T10:37:58.040Z,"Halmahera, Indonesia",earthquake,4.73,5.756,0.049,130,reviewed,us,us
 2023-09-10T10:17:55.260Z,19.4006671905518,-155.277160644531,1.12999999523163,2.23,ml,33,44,,0.189999998,hv,hv73573992,2023-09-10T10:23:25.720Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.25,12,automatic,hv,hv
 2023-09-10T10:17:37.403Z,58.1983,-155.2481,1.1,0.8,ml,,,,0.26,ak,ak023bml0v1o,2023-09-10T10:19:37.601Z,"84 km NW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-09-10T10:06:58.383Z,58.1817,-155.3811,1.2,0.8,ml,,,,0.29,ak,ak023bmkyjse,2023-09-10T10:08:14.295Z,"87 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T11:16:23.100Z,35.9318352,-120.4843369,3.65,0.5,md,9,100,0.02637,0.07,nc,nc73935011,2023-09-09T11:17:57.269Z,"6 km NW of Parkfield, CA",earthquake,0.47,1.22,0.41,3,automatic,nc,nc
 2023-09-09T11:04:15.433Z,61.632,-151.1989,0,1.5,ml,,,,0.92,ak,ak023bky045j,2023-09-09T11:06:12.761Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-09T10:53:43.810Z,61.0221,-150.8212,31.5,1.6,ml,,,,0.33,ak,ak023bkxp8tp,2023-09-09T10:55:23.610Z,"13 km NNW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-09T10:46:30.480Z,19.390832901001,-155.275833129883,1.58000004291534,2.01,ml,27,50,,0.180000007,hv,hv73571437,2023-09-09T10:52:01.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.25,0.29,10,automatic,hv,hv
