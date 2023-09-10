@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-10T02:26:44.430Z,19.3715000152588,-155.286666870117,2.15000009536743,1.84000003,md,13,112,,0.119999997,hv,hv73573227,2023-09-10T02:29:50.250Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.379999995,1.09000003,12,automatic,hv,hv
+2023-09-10T02:26:44.430Z,19.3715000152588,-155.286666870117,2.15000009536743,1.78,ml,13,112,,0.119999997,hv,hv73573227,2023-09-10T02:32:14.680Z,"9 km SW of Volcano, Hawaii",earthquake,0.25,0.379999995,0.16,4,automatic,hv,hv
 2023-09-10T02:20:47.920Z,33.6183333,-115.9848333,7.67,1.29,ml,33,54,0.03699,0.22,ci,ci39662130,2023-09-10T02:24:16.930Z,"10 km ENE of Mecca, CA",earthquake,0.38,0.61,0.133,26,automatic,ci,ci
 2023-09-10T02:19:24.310Z,38.762001,-122.7314987,1.05,0.84,md,8,109,0.005205,0.02,nc,nc73935271,2023-09-10T02:20:57.741Z,"3 km SE of The Geysers, CA",earthquake,0.4,0.67,0.31,8,automatic,nc,nc
 2023-09-10T02:14:40.430Z,32.9433333,-115.5488333,6.16,1.2,ml,17,106,0.04293,0.29,ci,ci39662122,2023-09-10T02:18:23.289Z,"4 km SSW of Brawley, CA",earthquake,0.74,1.92,0.109,16,automatic,ci,ci
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T03:03:36.262Z,29.3465,129.337,10,4.6,mb,53,89,2.361,0.68,us,us7000kuii,2023-09-09T03:39:38.040Z,"102 km NNW of Tatsugō, Japan",earthquake,4.25,1.813,0.066,71,reviewed,us,us
 2023-09-09T02:55:52.530Z,38.8063316,-122.7703323,1.03,0.32,md,7,227,0.01064,0.01,nc,nc73934911,2023-09-09T02:57:29.807Z,"3 km NNW of The Geysers, CA",earthquake,0.94,0.99,0.14,8,automatic,nc,nc
 2023-09-09T02:41:26.190Z,34.2165,-116.986,5.31,1.02,ml,30,45,0.04334,0.23,ci,ci39661762,2023-09-09T02:44:57.270Z,"8 km WSW of Big Bear Lake, CA",earthquake,0.3,0.76,0.162,23,automatic,ci,ci
-2023-09-09T02:40:12.197Z,29.2349,129.6225,12.416,4.5,mb,24,113,2.378,1.16,us,us7000kuid,2023-09-09T03:17:41.040Z,"87 km N of Tatsugō, Japan",earthquake,6.96,3.334,0.15,13,reviewed,us,us
-2023-09-09T02:38:47.293Z,-32.6749,-177.6777,10,4.9,mb,23,121,3.408,1.32,us,us7000kuif,2023-09-09T03:06:39.040Z,"south of the Kermadec Islands",earthquake,5.52,1.888,0.15,14,reviewed,us,us
