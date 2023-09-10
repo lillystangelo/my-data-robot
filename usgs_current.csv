@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T05:49:51.740Z,35.7181664,-117.5371704,6.8,1.85,ml,25,82,0.1065,0.14,ci,ci39662186,2023-09-10T05:52:27.697Z,"13 km WSW of Searles Valley, CA",earthquake,0.31,1.08,0.239,15,automatic,ci,ci
 2023-09-10T05:37:05.050Z,19.3955001831055,-155.27799987793,1.25999999046326,1.9,ml,16,89,,0.119999997,hv,hv73573557,2023-09-10T05:42:36.220Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.189999998,0.22,9,automatic,hv,hv
 2023-09-10T05:28:22.780Z,38.8573341,-122.7738342,1.58,1.05,md,15,175,0.01485,0.03,nc,nc73935306,2023-09-10T05:29:58.737Z,"6 km NW of Cobb, CA",earthquake,0.39,0.48,0.24,16,automatic,nc,nc
 2023-09-10T05:25:38.050Z,34.1471667,-116.4303333,8.43,1.42,ml,34,53,0.05349,0.19,ci,ci39662178,2023-09-10T05:29:03.038Z,"4 km N of Yucca Valley, CA",earthquake,0.26,0.77,0.179,26,automatic,ci,ci
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T01:47:47.170Z,19.4139995574951,-155.266830444336,1.22000002861023,1.83,ml,11,74,,0.170000002,hv,hv73573162,2023-09-10T01:53:17.320Z,"4 km SW of Volcano, Hawaii",earthquake,0.31,0.349999994,0.36,3,automatic,hv,hv
 2023-09-10T01:47:43.234Z,37.2565,-117.5408,4.5,1.6,ml,28,102.46,0.087,0.2052,nn,nn00865667,2023-09-10T01:50:16.796Z,"55 km S of Silver Peak, Nevada",earthquake,,1.8,0.84,22,automatic,nn,nn
 2023-09-10T01:47:14.230Z,19.7135,-64.7235,39,3.9,md,16,298,1.3808,0.38,pr,pr2023253000,2023-09-10T02:18:13.821Z,"153 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.95,23.77,0.09,6,reviewed,pr,pr
-2023-09-10T01:40:44.030Z,37.447834,-122.4776688,8.99,2.42,md,46,188,0.06669,0.12,nc,nc73935261,2023-09-10T04:53:02.096Z,"5 km WSW of Half Moon Bay, CA",earthquake,0.56,0.46,0.15,45,automatic,nc,nc
+2023-09-10T01:40:44.030Z,37.447834,-122.4776688,8.99,2.42,md,46,188,0.06669,0.12,nc,nc73935261,2023-09-10T05:49:52.457Z,"5 km WSW of Half Moon Bay, CA",earthquake,0.56,0.46,0.15,45,automatic,nc,nc
 2023-09-10T01:30:27.650Z,19.2468338012695,-155.380172729492,3.03999996185303,2.22,ml,6,284,,0.280000001,hv,hv73573132,2023-09-10T01:36:03.440Z,"11 km ENE of Pāhala, Hawaii",earthquake,16.87,20.5699997,0.18,5,automatic,hv,hv
 2023-09-10T01:28:04.721Z,62.8251,-151.3287,101.8,1.2,ml,,,,0.64,ak,ak023bmfq9dc,2023-09-10T03:35:02.265Z,"46 km NW of Petersville, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-09-10T01:19:27.110Z,33.4005,-116.8801667,13.28,0.57,ml,16,91,0.04901,0.22,ci,ci39662106,2023-09-10T01:23:03.946Z,"5 km SSW of Aguanga, CA",earthquake,0.52,1.1,0.094,11,automatic,ci,ci
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T20:24:13.860Z,19.3336658477783,-155.191665649414,1.70000004768372,1.91,ml,41,108,,0.159999996,hv,hv73572482,2023-09-09T20:29:44.890Z,"12 km SSE of Volcano, Hawaii",earthquake,0.32,0.49000001,2.12,18,automatic,hv,hv
 2023-09-09T20:16:04.740Z,17.9758333333333,-66.8478333333333,13.14,2.5,md,8,194,0.05799,0.14,pr,pr71424313,2023-09-09T20:26:57.570Z,"3 km SW of Indios, Puerto Rico",earthquake,0.78,0.56,0.0293251225645985,5,reviewed,pr,pr
 2023-09-09T20:14:07.625Z,57.9351,-154.8575,16.3,0.9,ml,,,,0.24,ak,ak023bl3f55m,2023-09-09T20:21:02.657Z,"47 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-09-09T20:03:14.066Z,-33.9453,-71.3086,48.728,4,mb,32,62,0.094,0.34,us,us7000kunh,2023-09-10T00:37:56.363Z,"29 km SSW of Melipilla, Chile",earthquake,3.23,3.831,0.26,4,reviewed,us,us
+2023-09-09T20:03:14.066Z,-33.9453,-71.3086,48.728,4,mb,32,62,0.094,0.34,us,us7000kunh,2023-09-10T05:49:12.731Z,"29 km SSW of Melipilla, Chile",earthquake,3.23,3.831,0.26,4,reviewed,us,us
 2023-09-09T20:02:59.930Z,33.856,-116.8213333,14.16,1.11,ml,34,43,0.02996,0.23,ci,ci39662034,2023-09-09T20:06:34.341Z,"8 km SSW of Cabazon, CA",earthquake,0.32,0.62,0.195,28,automatic,ci,ci
 2023-09-09T20:00:25.970Z,34.8296661,-118.9240036,8.02,0.91,ml,9,147,0.05124,0.18,ci,ci39662026,2023-09-09T20:03:59.325Z,"2 km ENE of Frazier Park, CA",earthquake,0.96,1.38,0.656,4,automatic,ci,ci
 2023-09-09T19:57:05.310Z,38.786335,-122.7396698,0.58,0.35,md,8,85,0.02119,0.03,nc,nc73935131,2023-09-09T19:58:43.736Z,"2 km NE of The Geysers, CA",earthquake,0.25,1.2,0.17,7,automatic,nc,nc
