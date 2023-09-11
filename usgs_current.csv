@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-11T16:14:15.675Z,66.7952,-151.4898,0.1,1.6,ml,,,,0.88,ak,ak023boc44cf,2023-09-11T16:16:30.527Z,"13 km S of Bettles, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-11T16:00:55.450Z,38.8294983,-122.8148346,1.7,1.08,md,16,46,0.007139,0.02,nc,nc73935751,2023-09-11T16:02:33.633Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.43,0.22,14,automatic,nc,nc
 2023-09-11T15:52:09.500Z,58.2548,-155.1312,29.3,1,ml,,,,0.62,ak,ak023bobqth2,2023-09-11T15:53:49.740Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-11T15:41:26.870Z,35.79216667,-96.97166667,7.37,1.29,ml,67,39,0.1853636253,0.22,ok,ok2023rvli,2023-09-11T15:52:36.647Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.5,0.24,30,reviewed,ok,ok
 2023-09-11T14:48:20.254Z,61.0296,-151.2141,63.3,1.9,ml,,,,0.27,ak,ak023bob4igc,2023-09-11T14:49:55.275Z,"5 km SW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-11T14:44:19.646Z,58.1857,-155.3128,4.1,0.6,ml,,,,0.69,ak,ak023bob3oy3,2023-09-11T14:47:11.695Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-11T14:42:13.760Z,47.244166666666665,-121.84766666666667,14.02,1.8,ml,44,120,0.0535,0.12,uw,uw61950057,2023-09-11T15:41:18.470Z,"11 km ENE of Enumclaw, Washington",earthquake,0.31,0.38,0.11600001992277154,30,reviewed,uw,uw
 2023-09-11T14:34:14.530Z,32.4425,-116.2483333,16.59,1.21,ml,6,267,0.216,0.13,ci,ci39662634,2023-09-11T14:37:50.170Z,"28 km SE of Campo, CA",earthquake,1.27,1.83,0.193,12,automatic,ci,ci
 2023-09-11T14:13:53.990Z,34.7236667,-120.1708333,2.45,1.52,ml,17,87,0.09065,0.25,ci,ci39662626,2023-09-11T14:17:25.758Z,"8 km NW of Los Olivos, CA",earthquake,0.4,0.73,0.142,19,automatic,ci,ci
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T13:45:18.010Z,33.9881667,-116.963,5.09,0.88,ml,18,113,0.1075,0.21,ci,ci39662602,2023-09-11T13:48:56.088Z,"7 km NNE of Beaumont, CA",earthquake,0.43,2.1,0.131,20,automatic,ci,ci
 2023-09-11T13:41:37.870Z,33.6876667,-116.7403333,14.01,0.81,ml,24,56,0.03545,0.17,ci,ci39662594,2023-09-11T13:45:07.234Z,"6 km SSW of Idyllwild, CA",earthquake,0.3,0.48,0.093,17,automatic,ci,ci
 2023-09-11T13:40:50.510Z,33.7281667,-117.0723333,15.62,1.07,ml,28,56,0.06232,0.22,ci,ci39662586,2023-09-11T13:44:30.286Z,"1 km SSE of Green Acres, CA",earthquake,0.38,0.6,0.181,25,automatic,ci,ci
-2023-09-11T13:37:07.096Z,-27.1542,-71.2479,10,5.4,mww,87,137,0.82,0.82,us,us7000kv1x,2023-09-11T15:40:40.030Z,"93 km WNW of Copiapó, Chile",earthquake,4.52,1.843,0.078,16,reviewed,us,us
+2023-09-11T13:37:07.096Z,-27.1542,-71.2479,10,5.4,mww,87,137,0.82,0.82,us,us7000kv1x,2023-09-11T16:27:59.349Z,"93 km WNW of Copiapó, Chile",earthquake,4.52,1.843,0.078,16,reviewed,us,us
 2023-09-11T13:34:18.360Z,35.6501667,-117.5046667,3.92,0.85,ml,13,108,0.06759,0.11,ci,ci39662578,2023-09-11T13:37:50.671Z,"16 km ENE of Ridgecrest, CA",earthquake,0.33,0.98,0.083,6,automatic,ci,ci
 2023-09-11T13:21:29.300Z,33.8925,-116.8756667,15.34,0.8,ml,18,58,0.08773,0.18,ci,ci39662570,2023-09-11T13:24:59.108Z,"4 km S of Banning, CA",earthquake,0.37,0.93,0.124,22,automatic,ci,ci
 2023-09-11T13:00:17.850Z,46.191833333333335,-122.20066666666666,3.07,-0.21,ml,8,117,0.03233,0.13,uw,uw61950017,2023-09-11T16:04:29.740Z,"36 km NNE of Amboy, Washington",earthquake,0.77,2.16,0.055653169325132534,4,reviewed,uw,uw
@@ -38,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T09:42:30.950Z,44.7656667,-111.1196667,12.54,-0.45,md,8,80,0.03191,0.15,uu,uu60549887,2023-09-11T13:33:31.940Z,"5 km E of Hebgen Lake Estates, Montana",earthquake,0.78,1.9,0.164,5,reviewed,uu,uu
 2023-09-11T09:38:11.100Z,44.7605,-110.936,7.27,0.78,ml,11,101,0.05,0.11,uu,uu60549882,2023-09-11T13:55:14.120Z,"17 km NE of West Yellowstone, Montana",earthquake,0.44,0.83,0.132,3,reviewed,uu,uu
 2023-09-11T09:36:53.104Z,60.761,-150.4367,55.9,1.4,ml,,,,0.2,ak,ak023bo82zju,2023-09-11T13:00:01.935Z,"22 km SE of Point Possession, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2023-09-11T09:36:38.950Z,46.18366666666667,-122.21816666666666,7.24,-0.13,ml,11,142,0.005437,0.23,uw,uw61949992,2023-09-11T16:12:05.750Z,"35 km NNE of Amboy, Washington",earthquake,1.38,0.98,0.13190511347422218,7,reviewed,uw,uw
 2023-09-11T09:35:33.400Z,39.3033333,-122.7986679,1.99,2.77,md,38,86,0.1767,0.14,nc,nc73935691,2023-09-11T10:12:16.378Z,"18 km SE of Lake Pillsbury, CA",earthquake,0.3,2.09,0.14,36,automatic,nc,nc
 2023-09-11T09:30:57.250Z,39.8786659,-121.0031662,-1.17,2.51,md,20,55,0.3731,0.3,nc,nc73935686,2023-09-11T09:57:15.295Z,"8 km SW of Quincy, CA",earthquake,0.71,3.6,0.13,10,automatic,nc,nc
 2023-09-11T09:20:56.792Z,0.7478,-26.0892,10,5.9,mww,75,45,11.775,0.53,us,us7000kuzd,2023-09-11T11:24:25.807Z,"central Mid-Atlantic Ridge",earthquake,9.64,1.856,0.069,20,reviewed,us,us
@@ -201,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T17:12:19.720Z,46.19166666666667,-122.2275,0.77,0.26,ml,4,298,0.02672,0.07,uw,uw61949787,2023-09-10T23:34:31.080Z,"35 km NNE of Amboy, Washington",earthquake,0.85,1.64,0.023385720584805758,3,reviewed,uw,uw
 2023-09-10T16:47:59.364Z,64.9402,-148.6083,17.5,1.2,ml,,,,0.47,ak,ak023bmorxuo,2023-09-10T16:49:44.025Z,"29 km WNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-10T16:30:21.062Z,-32.6221,-177.56,32.274,4.7,mb,22,213,3.365,1.16,us,us7000kuut,2023-09-10T16:55:42.040Z,"south of the Kermadec Islands",earthquake,15.11,9.693,0.08,47,reviewed,us,us
-2023-09-10T16:27:24.742Z,58.0998,-151.7944,9.6,1.9,ml,,,,0.44,ak,ak023bmonksh,2023-09-10T20:19:20.412Z,"46 km ENE of Ouzinkie, Alaska",earthquake,,1.1,,,reviewed,ak,ak
