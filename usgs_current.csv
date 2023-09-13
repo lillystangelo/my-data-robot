@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T08:37:29.563Z,63.1477,-149.8004,77.3,2,ml,,,,0.47,ak,ak023bpv0yim,2023-09-12T08:39:31.480Z,"50 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T08:37:09.070Z,34.4433333,-117.92,11.41,0.84,ml,20,64,0.02979,0.14,ci,ci39663274,2023-09-12T15:21:44.673Z,"7 km S of Pearblossom, CA",earthquake,0.21,0.4,0.128,9,reviewed,ci,ci
 2023-09-12T08:37:08.260Z,38.8201675,-122.817337,2.27,0.79,md,17,60,0.006525,0.03,nc,nc73935986,2023-09-12T08:38:44.232Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.67,0.17,19,automatic,nc,nc
-2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-13T02:34:04.465Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
+2023-09-12T08:32:21.450Z,37.1875,-121.573,5.81,3.28,ml,147,36,0.04897,0.11,nc,nc73935981,2023-09-13T02:39:50.592Z,"10 km NE of Morgan Hill, CA",earthquake,0.09,0.21,0.164,115,reviewed,nc,nc
 2023-09-12T08:23:57.461Z,63.0135,-150.74,116.3,2.2,ml,,,,0.44,ak,ak023bpuy0mq,2023-09-12T08:26:00.358Z,"57 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-12T08:12:35.580Z,45.0495,-122.437,7.48,0.67,ml,6,92,0.1591,0.26,uw,uw61950262,2023-09-12T16:12:53.310Z,"15 km SE of Molalla, Oregon",earthquake,0.82,17.94,0.05677368668173299,4,reviewed,uw,uw
 2023-09-12T08:12:18.530Z,33.4895,-116.4983333,8.47,0.61,ml,19,93,0.08695,0.15,ci,ci39663266,2023-09-12T13:34:46.993Z,"18 km ESE of Anza, CA",earthquake,0.24,0.8,0.184,15,reviewed,ci,ci
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T02:59:46.664Z,36.7461,-115.9838,2,-0.3,ml,9,136.52,0.018,0.1326,nn,nn00865737,2023-09-12T17:56:25.713Z,"Nevada",earthquake,,3.1,0.13,3,reviewed,nn,nn
 2023-09-12T02:58:25.000Z,34.0475,-116.6343333,11.56,0.91,ml,34,37,0.01442,0.15,ci,ci39663202,2023-09-12T14:12:29.267Z,"5 km W of Morongo Valley, CA",earthquake,0.18,0.4,0.122,18,reviewed,ci,ci
 2023-09-12T02:48:21.380Z,47.655,-120.12866666666666,7.07,0.08,md,6,86,0.03609,0.07,uw,uw61950222,2023-09-12T15:52:37.160Z,"4 km WNW of Waterville, Washington",earthquake,0.44,0.71,0.09812495161600288,4,reviewed,uw,uw
-2023-09-12T02:40:51.034Z,15.1385,-93.4028,64.488,5.1,mww,80,141,1.667,0.84,us,us7000kv78,2023-09-12T04:27:47.391Z,"near the coast of Chiapas, Mexico",earthquake,7.21,5.82,0.048,42,reviewed,us,us
