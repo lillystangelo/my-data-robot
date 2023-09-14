@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T16:09:39.057Z,59.902,-151.4437,57.7,1.9,ml,,,,0.54,ak,ak023btap51t,2023-09-14T16:11:47.467Z,"13 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-14T15:28:10.775Z,58.386,-154.4523,0,1.1,ml,,,,0.29,ak,ak023bta7pvc,2023-09-14T15:32:04.951Z,"91 km N of Karluk, Alaska",earthquake,,66.2,,,automatic,ak,ak
 2023-09-14T15:27:01.130Z,40.8128333,-111.664,11.05,1.27,md,14,97,0.1141,0.17,uu,uu60550127,2023-09-14T15:40:08.160Z,"8 km NNW of Summit Park, Utah",earthquake,0.43,1.18,0.241,7,reviewed,uu,uu
-2023-09-14T15:25:53.760Z,40.815,-111.6643333,11.94,2.51,ml,30,62,0.1145,0.18,uu,uu60550122,2023-09-14T16:14:52.816Z,"8 km NNW of Summit Park, Utah",earthquake,0.34,0.66,0.178,20,reviewed,uu,uu
+2023-09-14T15:25:53.760Z,40.815,-111.6643333,11.94,2.51,ml,30,62,0.1145,0.18,uu,uu60550122,2023-09-14T17:19:05.917Z,"8 km NNW of Summit Park, Utah",earthquake,0.34,0.66,0.178,20,reviewed,uu,uu
 2023-09-14T15:24:47.770Z,19.1351661682129,-155.394332885742,31.1800003051758,2.02,ml,51,181,,0.129999995,hv,hv73577597,2023-09-14T15:30:17.390Z,"11 km SE of Pāhala, Hawaii",earthquake,0.54,0.829999983,4.17,11,automatic,hv,hv
 2023-09-14T15:24:43.796Z,63.3427,-151.5162,0.8,1.4,ml,,,,0.65,ak,ak023bta6xjv,2023-09-14T15:26:55.731Z,"24 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-14T15:19:20.867Z,39.3478,-119.755,8.6,1.4,ml,10,89.11,0.043,0.0999,nn,nn00865825,2023-09-14T15:21:45.271Z,"10 km WNW of Virginia City, Nevada",earthquake,,0.7,0.19,7,automatic,nn,nn
@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T17:29:11.870Z,43.68866666666667,-121.25116666666666,-1.73,0.37,ml,6,134,0.03579,0.1,uw,uw61950637,2023-09-13T21:30:02.740Z,"20 km E of La Pine, Oregon",other event,0.54,31.61,0.17455353634022672,6,reviewed,uw,uw
 2023-09-13T17:24:08.890Z,38.8370018,-122.8008347,1.76,0.21,md,8,84,0.008313,0.02,nc,nc73936406,2023-09-13T17:25:43.936Z,"7 km WNW of Cobb, CA",earthquake,0.45,1.3,0.07,8,automatic,nc,nc
 2023-09-13T17:20:22.810Z,34.6913333,-120.01,1.32,1.68,ml,22,38,0.0411,0.19,ci,ci39664170,2023-09-13T18:52:39.193Z,"10 km ENE of Los Olivos, CA",earthquake,0.24,0.4,0.104,12,reviewed,ci,ci
-2023-09-13T17:11:19.030Z,38.8354988,-122.7891693,2.03,0.75,md,15,72,0.003047,0.02,nc,nc73936386,2023-09-13T17:12:53.566Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.45,0.14,15,automatic,nc,nc
