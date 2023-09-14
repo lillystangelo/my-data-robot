@@ -181,6 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T05:39:51.464Z,58.5669,-153.8651,72.1,2.2,ml,,,,0.23,ak,ak023brgshca,2023-09-13T06:05:49.040Z,"79 km NW of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-13T05:37:55.204Z,62.0832,-147.6364,31.4,1.5,ml,,,,0.57,ak,ak023brgs274,2023-09-13T05:39:50.542Z,"29 km WNW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-13T05:37:40.750Z,60.0576666666667,-153.064,1,-0.85,ml,5,238,,0.08,av,av92042846,2023-09-14T03:44:10.600Z,"Southern Alaska",earthquake,0.86,0.29,0.468293822450596,5,reviewed,av,av
-2023-09-13T05:34:33.597Z,-5.723,110.1927,648.711,5.1,mww,95,30,1.34,0.94,us,us7000kvfm,2023-09-13T05:53:18.040Z,"Java Sea",earthquake,9.9,6.471,0.098,10,reviewed,us,us
-2023-09-13T05:27:14.680Z,47.5475,-123.28933333333333,-0.33,0.84,ml,21,80,0.1238,0.27,uw,uw61950512,2023-09-13T19:06:38.360Z,"19 km NW of Hoodsport, Washington",earthquake,0.31,0.69,0.22908992492914115,7,reviewed,uw,uw
-2023-09-13T05:27:12.630Z,33.3398333,-116.306,10.78,0.8,ml,23,164,0.1173,0.15,ci,ci39663850,2023-09-13T13:05:43.549Z,"11 km NE of Borrego Springs, CA",earthquake,0.33,0.49,0.178,13,reviewed,ci,ci
