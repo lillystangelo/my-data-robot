@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T15:43:42.720Z,58.188,-155.322333333333,2.38,0.48,ml,13,53,,0.14,av,av92044836,2023-09-15T01:26:04.350Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.36,0.258162134426942,13,reviewed,av,av
 2023-09-14T15:28:10.775Z,58.386,-154.4523,0,1.1,ml,,,,0.29,ak,ak023bta7pvc,2023-09-15T01:20:56.950Z,"91 km N of Karluk, Alaska",earthquake,,66.2,,,automatic,ak,ak
 2023-09-14T15:27:01.130Z,40.8128333,-111.664,11.05,1.27,md,14,97,0.1141,0.17,uu,uu60550127,2023-09-14T19:50:08.114Z,"8 km NNW of Summit Park, Utah",earthquake,0.43,1.18,0.241,7,reviewed,uu,uu
-2023-09-14T15:25:53.760Z,40.815,-111.6643333,11.94,2.51,ml,30,62,0.1145,0.18,uu,uu60550122,2023-09-14T23:15:55.589Z,"8 km NNW of Summit Park, Utah",earthquake,0.34,0.66,0.178,20,reviewed,uu,uu
+2023-09-14T15:25:53.760Z,40.815,-111.6643333,11.94,2.51,ml,30,62,0.1145,0.18,uu,uu60550122,2023-09-15T04:52:51.672Z,"8 km NNW of Summit Park, Utah",earthquake,0.34,0.66,0.178,20,reviewed,uu,uu
 2023-09-14T15:24:47.770Z,19.1351661682129,-155.394332885742,31.1800003051758,2.02,ml,51,181,,0.129999995,hv,hv73577597,2023-09-14T15:30:17.390Z,"11 km SE of Pāhala, Hawaii",earthquake,0.54,0.829999983,4.17,11,automatic,hv,hv
 2023-09-14T15:24:43.796Z,63.3427,-151.5162,0.8,1.4,ml,,,,0.65,ak,ak023bta6xjv,2023-09-14T15:26:55.731Z,"24 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-14T15:19:21.464Z,39.3536,-119.7322,0,1.3,ml,12,61.29,0.042,0.1233,nn,nn00865825,2023-09-15T02:04:39.400Z,"Nevada",earthquake,,0,0.08,7,reviewed,nn,nn
@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T05:02:20.044Z,40.4622,-119.6056,16.5,0.8,ml,3,328.98,0.308,0.0049,nn,nn00865819,2023-09-15T02:04:27.571Z,"25 km WSW of Empire, Nevada",earthquake,,8.2,0.26,3,reviewed,nn,nn
 2023-09-14T04:56:40.970Z,19.1851673126221,-155.492172241211,33.7599983215332,2.16000009,md,40,75,,0.109999999,hv,hv73577452,2023-09-14T04:59:45.460Z,"Island of Hawaii, Hawaii",earthquake,0.62,1.05999994,1.63,22,automatic,hv,hv
 2023-09-14T04:55:33.970Z,40.8408333,-111.7585,9.32,0.86,ml,23,48,0.07088,0.19,uu,uu60550092,2023-09-14T13:39:22.040Z,"Utah",earthquake,0.33,0.93,0.08,2,reviewed,uu,uu
-2023-09-14T04:44:13.320Z,34.4525,-119.2093333,10.53,1.43,ml,21,61,0.06137,0.29,ci,ci39664634,2023-09-14T14:07:55.216Z,"3 km E of Ojai, CA",earthquake,0.52,0.86,0.157,11,reviewed,ci,ci
