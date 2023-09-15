@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-15T06:39:12.287Z,62.3267,-150.1994,54.9,1.4,ml,,,,0.36,ak,ak023busgiws,2023-09-15T06:40:58.236Z,"2 km NE of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-15T06:33:04.249Z,63.2614,-150.4349,118.8,1.4,ml,,,,0.16,ak,ak023busf7zs,2023-09-15T06:34:56.593Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T06:27:06.159Z,62.0614,-147.0463,44.3,2.2,ml,,,,0.31,ak,ak023busdxuf,2023-09-15T06:28:23.661Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-15T06:26:44.007Z,63.202,-150.4424,94.6,1.7,ml,,,,1.22,ak,ak023busdt6k,2023-09-15T06:28:36.370Z,"74 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -181,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T06:55:07.700Z,58.1713333333333,-155.3555,2.51,0.84,ml,14,66,,0.1,av,av92044256,2023-09-14T23:46:19.190Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.33,0.250251389981543,14,reviewed,av,av
 2023-09-14T06:54:38.510Z,58.1693333333333,-155.3515,2.24,0.8,ml,13,75,,0.08,av,av92044251,2023-09-14T23:40:00.660Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.35,0.294189807533332,16,reviewed,av,av
 2023-09-14T06:50:04.980Z,36.2526667,-120.3805,8.94,1.13,md,22,90,0.02992,0.06,nc,nc73936641,2023-09-14T19:33:14.641Z,"13 km N of Coalinga, CA",earthquake,0.54,0.38,0.065,9,reviewed,nc,nc
-2023-09-14T06:47:43.700Z,33.3118333,-116.876,13.27,1.23,ml,58,32,0.04314,0.18,ci,ci39664706,2023-09-14T15:06:36.870Z,"5 km SSW of Palomar Observatory, CA",earthquake,0.15,0.41,0.177,32,reviewed,ci,ci
-2023-09-14T06:47:25.790Z,19.1796666666667,-155.497166666667,33.15,2.17,md,33,94,,0.13,hv,hv73577482,2023-09-14T20:50:43.030Z,"3 km SW of Pāhala, Hawaii",earthquake,0.54,0.79,0.0647912704194225,8,reviewed,hv,hv
-2023-09-14T06:46:02.870Z,33.407,-116.3868333,6.33,0.79,ml,39,52,0.08174,0.19,ci,ci39664698,2023-09-14T14:55:39.469Z,"17 km N of Borrego Springs, CA",earthquake,0.22,0.75,0.173,21,reviewed,ci,ci
