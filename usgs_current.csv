@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-15T08:17:36.120Z,38.8123322,-122.8296661,1.37,0.72,md,9,95,0.00348,0.01,nc,nc73936981,2023-09-15T08:19:09.777Z,"7 km WNW of The Geysers, CA",earthquake,0.33,0.76,0.3,9,automatic,nc,nc
 2023-09-15T08:17:15.460Z,38.8354988,-122.8148346,1.55,0.74,md,11,73,0.01265,0.01,nc,nc73936976,2023-09-15T08:18:49.558Z,"8 km W of Cobb, CA",earthquake,0.28,0.8,0.23,13,automatic,nc,nc
-2023-09-15T08:16:06.880Z,38.8336678,-122.814003,1.73,1.46,md,26,64,0.01071,0.04,nc,nc73936971,2023-09-15T08:19:08.924Z,"8 km W of Cobb, CA",earthquake,0.2,0.31,0.18,27,automatic,nc,nc
+2023-09-15T08:16:06.880Z,38.8336678,-122.814003,1.73,1.46,md,26,64,0.01071,0.04,nc,nc73936971,2023-09-15T08:33:12.944Z,"8 km W of Cobb, CA",earthquake,0.2,0.31,0.18,27,automatic,nc,nc
 2023-09-15T08:05:22.990Z,17.9843333333333,-66.8505,12.42,2.62,md,12,177,0.02889,0.11,pr,pr71424798,2023-09-15T08:14:25.320Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.57,0.37,0.118141353925856,4,reviewed,pr,pr
 2023-09-15T07:55:36.468Z,61.063,-152.0069,77,0.9,ml,,,,0.17,ak,ak023but5eor,2023-09-15T08:03:46.825Z,"46 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-15T07:52:13.560Z,34.0341667,-117.2441667,14.92,0.94,ml,35,66,0.1163,0.19,ci,ci39665690,2023-09-15T07:55:43.813Z,"2 km SE of Loma Linda, CA",earthquake,0.24,0.57,0.12,22,automatic,ci,ci
