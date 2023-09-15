@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-15T03:52:30.711Z,61.275,-149.3611,42.3,1.3,ml,,,,0.08,ak,ak023buqr1tr,2023-09-15T03:53:46.794Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-15T03:45:47.170Z,37.6196671,-118.8679962,-0.09,0.87,md,8,126,0.004061,0.2,nc,nc73936926,2023-09-15T03:47:25.029Z,"10 km E of Mammoth Lakes, CA",earthquake,0.98,0.69,0.15,8,automatic,nc,nc
 2023-09-15T03:23:55.822Z,60.2064,-152.7677,91.3,1.6,ml,,,,0.44,ak,ak023buqkvzy,2023-09-15T03:26:10.252Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-15T03:23:42.990Z,38.7913322,-122.7269974,0.68,1.06,md,11,92,0.0272,0.07,nc,nc73936921,2023-09-15T03:25:19.675Z,"3 km ENE of The Geysers, CA",earthquake,0.32,0.94,0.3,11,automatic,nc,nc
@@ -197,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T04:11:20.130Z,38.8303337,-122.7900009,1.8,0.84,md,11,59,0.008068,0.02,nc,nc73936601,2023-09-14T04:12:54.876Z,"6 km W of Cobb, CA",earthquake,0.31,0.59,0.27,14,automatic,nc,nc
 2023-09-14T04:09:20.600Z,58.1661666666667,-155.316333333333,1.95,-0.39,ml,6,114,,0.06,av,av92044146,2023-09-14T23:09:50.560Z,"Alaska Peninsula",earthquake,0.2,0.9,0.259417460979132,6,reviewed,av,av
 2023-09-14T04:06:28.489Z,32.68249512,-100.6947885,7.678792318,2.4,ml,21,82,0.03876213671,0.2,tx,tx2023saaw,2023-09-14T13:12:18.162Z,"8 km NE of Hermleigh, Texas",earthquake,0.8476487422,1.266963858,0,7,reviewed,tx,tx
-2023-09-14T04:04:19.330Z,38.8190002,-122.8225021,2.2,0.77,md,10,79,0.01061,0.02,nc,nc73936591,2023-09-14T04:05:54.907Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.9,0.17,11,automatic,nc,nc
-2023-09-14T04:02:41.960Z,37.5535,-118.9231667,11.46,0.49,md,14,152,0.05884,0.04,nc,nc73936596,2023-09-14T19:02:40.799Z,"10 km SSE of Mammoth Lakes, CA",earthquake,0.67,1.01,0.181,12,reviewed,nc,nc
