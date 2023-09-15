@@ -172,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T07:40:55.780Z,33.4905,-116.7621667,8.19,0.25,ml,22,73,0.04067,0.14,ci,ci39664738,2023-09-14T15:40:32.992Z,"11 km SW of Anza, CA",earthquake,0.19,0.5,0.13,7,reviewed,ci,ci
 2023-09-14T07:32:51.100Z,28.0009,-112.1355,10,4,mb,29,137,0.685,0.56,us,us7000kvns,2023-09-14T08:07:49.040Z,"74 km N of Santa Rosalía, Mexico",earthquake,4.69,2.009,0.172,10,reviewed,us,us
 2023-09-14T07:26:40.830Z,33.3138333,-116.8685,15.07,0.68,ml,31,46,0.03997,0.16,ci,ci39664730,2023-09-14T15:36:43.611Z,"5 km S of Palomar Observatory, CA",earthquake,0.23,0.39,0.068,10,reviewed,ci,ci
-2023-09-14T07:19:49.331Z,-36.3184,-99.5818,10,4.9,mb,59,171,22.335,0.33,us,us7000kvnr,2023-09-14T07:46:01.040Z,"southeast of Easter Island",earthquake,9.54,1.927,0.043,169,reviewed,us,us
-2023-09-14T07:18:47.480Z,33.4898333,-116.7588333,7.11,0.28,ml,19,74,0.04353,0.14,ci,ci39664722,2023-09-14T15:31:37.581Z,"11 km SW of Anza, CA",earthquake,0.23,0.57,0.064,3,reviewed,ci,ci
