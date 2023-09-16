@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-16T06:34:16.650Z,40.5506668,-122.6616669,3.73,2.38,md,16,88,0.1502,0.16,nc,nc73937366,2023-09-16T06:41:12.398Z,"15 km WSW of Shasta, CA",earthquake,0.45,1.74,0.12,17,automatic,nc,nc
-2023-09-16T06:19:09.810Z,38.8346672,-122.8164978,1.91,1.37,md,14,60,0.01232,0.01,nc,nc73937356,2023-09-16T06:35:14.366Z,"8 km W of Cobb, CA",earthquake,0.24,0.68,0.15,14,automatic,nc,nc
+2023-09-16T06:50:03.450Z,19.2603340148926,-155.378173828125,30.75,1.82000005,md,37,135,,0.100000001,hv,hv73578677,2023-09-16T06:53:13.040Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.62,0.74000001,1.61000001,6,automatic,hv,hv
+2023-09-16T06:47:31.736Z,59.7518,-153.1478,105.8,2.2,ml,,,,0.95,ak,ak023bwg1mn4,2023-09-16T06:50:31.893Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-16T06:42:19.110Z,36.6801681518555,-89.5305023193359,11.7600002288818,3.01999998,md,35,69,0.05907,0.140000001,nm,nm60551786,2023-09-16T06:52:44.040Z,"10 km SSE of Matthews, Missouri",earthquake,0.4,0.610000014,1.25999999,33,reviewed,nm,nm
+2023-09-16T06:34:16.650Z,40.5506668,-122.6616669,3.73,2.38,md,16,88,0.1502,0.16,nc,nc73937366,2023-09-16T06:45:16.425Z,"15 km WSW of Shasta, CA",earthquake,0.45,1.74,0.12,17,automatic,nc,nc
+2023-09-16T06:19:09.810Z,38.8346672,-122.8164978,1.91,1.37,md,14,60,0.01232,0.01,nc,nc73937356,2023-09-16T06:50:11.450Z,"8 km W of Cobb, CA",earthquake,0.24,0.68,0.15,14,automatic,nc,nc
 2023-09-16T06:14:24.766Z,64.8409,-152.2761,8.1,1.2,ml,,,,0.53,ak,ak023bwfujgs,2023-09-16T06:16:31.277Z,"37 km SSW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-16T06:13:22.944Z,62.2398,-148.3547,35.2,1.4,ml,,,,0.34,ak,ak023bwfubly,2023-09-16T06:14:55.353Z,"49 km N of Chickaloon, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2023-09-16T06:03:30.880Z,34.463,-117.9533333,9.49,0.86,ml,16,68,0.01413,0.14,ci,ci39666722,2023-09-16T06:07:05.763Z,"6 km SW of Pearblossom, CA",earthquake,0.28,0.52,0.232,16,automatic,ci,ci
@@ -105,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T18:02:26.810Z,40.231,-121.1586667,0.03,2.71,md,62,32,0.2421,0.19,nc,nc73937126,2023-09-15T20:44:12.043Z,"2 km NE of Almanor, CA",earthquake,0.21,1.57,0.164,83,reviewed,nc,nc
 2023-09-15T18:00:46.520Z,19.5216,-64.7276,85,3.86,md,12,331,1.1914,0.11,pr,pr2023258003,2023-09-15T19:31:23.040Z,"131 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,6.17,0.06,3,reviewed,pr,pr
 2023-09-15T17:56:35.960Z,35.1996667,-118.6671667,7.34,0.91,ml,11,89,0.03598,0.1,ci,ci39666178,2023-09-15T19:13:25.665Z,"15 km E of Arvin, CA",earthquake,0.3,0.51,0.155,3,reviewed,ci,ci
-2023-09-15T17:56:01.570Z,38.8131667,-122.7983333,3.13,1.16,md,45,32,0.005705,0.03,nc,nc73937121,2023-09-16T06:29:55.669Z,"5 km NW of The Geysers, CA",earthquake,0.16,0.27,0.179,36,reviewed,nc,nc
+2023-09-15T17:56:01.570Z,38.8131667,-122.7983333,3.13,1.16,md,45,32,0.005705,0.03,nc,nc73937121,2023-09-16T06:45:15.426Z,"5 km NW of The Geysers, CA",earthquake,0.16,0.27,0.179,36,reviewed,nc,nc
 2023-09-15T17:48:14.450Z,19.1749992370605,-155.490997314453,34.25,1.94000006,md,33,96,,0.119999997,hv,hv73578257,2023-09-15T17:51:27.740Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.55,0.689999998,0.0900000036,9,automatic,hv,hv
 2023-09-15T17:41:29.630Z,34.4448333,-119.211,8.54,1.36,ml,18,66,0.06126,0.22,ci,ci39666130,2023-09-15T18:36:03.186Z,"3 km E of Ojai, CA",earthquake,0.51,1.07,0.132,11,reviewed,ci,ci
 2023-09-15T17:39:26.290Z,38.8008333,-122.7696667,3.86,0.48,md,22,78,0.007781,0.03,nc,nc73937116,2023-09-15T19:57:01.770Z,"3 km NNW of The Geysers, CA",earthquake,0.25,0.31,0.308,20,reviewed,nc,nc
@@ -219,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T07:14:13.829Z,36.7569,-115.8481,4,0,ml,10,241.46,0.087,0.1764,nn,nn00865885,2023-09-15T23:52:00.827Z,"26 km NW of Indian Springs, Nevada",earthquake,,7.5,0.12,4,reviewed,nn,nn
 2023-09-15T07:13:55.630Z,52.0541666666667,-176.1315,2.63,0.44,ml,6,88,,0.31,av,av91115923,2023-09-15T21:16:54.150Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.18,1.43,0.152870904188072,6,reviewed,av,av
 2023-09-15T07:05:23.141Z,64.637,-149.734,20,1,ml,,,,0.22,ak,ak023busup0a,2023-09-15T07:07:49.058Z,"29 km W of Four Mile Road, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-15T06:45:42.170Z,37.4331667,-118.7546667,9.23,1.03,md,15,319,0.1674,0.04,nc,nc73936961,2023-09-15T17:48:16.785Z,"14 km W of Round Valley, CA",earthquake,1.83,2.53,0.177,15,reviewed,nc,nc
