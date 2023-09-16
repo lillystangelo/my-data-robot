@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T02:19:28.300Z,19.1768341064453,-155.473663330078,33.2000007629395,2.35,ml,50,81,,0.129999995,hv,hv73578577,2023-09-16T03:15:54.040Z,"2 km S of Pāhala, Hawaii",earthquake,0.48,0.649999976,3.19,21,automatic,hv,hv
 2023-09-16T02:01:48.890Z,-30.726,-178.4238,10,5,mb,60,69,1.523,0.95,us,us7000kw4g,2023-09-16T02:34:40.040Z,"Kermadec Islands, New Zealand",earthquake,9.22,1.777,0.058,96,reviewed,us,us
 2023-09-16T02:00:36.408Z,36.8494,-116.0606,6.2,-0.4,ml,5,304.7,0.047,0.0544,nn,nn00865903,2023-09-16T15:52:59.776Z,"46 km NW of Indian Springs, Nevada",earthquake,,2.1,0.78,3,reviewed,nn,nn
-2023-09-16T01:29:18.738Z,-5.8331,102.9306,29.281,4.8,mb,39,92,1.463,0.69,us,us7000kw4e,2023-09-16T01:44:16.040Z,"202 km S of Pagar Alam, Indonesia",earthquake,4.75,5.833,0.103,29,reviewed,us,us
+2023-09-16T01:29:18.738Z,-5.8331,102.9306,29.281,4.8,mb,39,92,1.463,0.69,us,us7000kw4e,2023-09-16T01:44:16.040Z,"southern Sumatra, Indonesia",earthquake,4.75,5.833,0.103,29,reviewed,us,us
 2023-09-16T01:14:28.170Z,47.6635,-120.802,11.41,0.56,ml,11,116,0.2008,0.12,uw,uw61960166,2023-09-16T04:20:18.620Z,"12 km NW of Leavenworth, Washington",earthquake,0.44,1.58,0.16520559193984424,10,reviewed,uw,uw
 2023-09-16T01:11:45.130Z,19.1656665802002,-155.496170043945,34.2099990844727,1.71000004,md,25,115,,0.129999995,hv,hv73578567,2023-09-16T01:15:10.610Z,"Hawaii region, Hawaii",earthquake,0.84,1.09000003,1.63999999,6,automatic,hv,hv
 2023-09-16T01:05:11.998Z,61.7214,-150.0677,33.2,1.8,ml,,,,0.42,ak,ak023bwctf0f,2023-09-16T01:07:18.944Z,"3 km SSW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T16:46:41.680Z,35.7085,-117.5481667,2.66,0.8,ml,16,80,0.1102,0.22,ci,ci39666050,2023-09-15T17:58:02.745Z,"15 km WSW of Searles Valley, CA",earthquake,0.41,0.7,0.134,5,reviewed,ci,ci
 2023-09-15T16:45:31.190Z,35.9228333,-120.4716667,4.07,0.74,md,24,93,0.02024,0.06,nc,nc73937091,2023-09-15T19:18:57.363Z,"4 km NW of Parkfield, CA",earthquake,0.23,0.37,0.225,10,reviewed,nc,nc
 2023-09-15T16:44:52.690Z,19.553,-64.6635,51,3.75,md,8,317,1.2358,0.3,pr,pr2023258002,2023-09-15T17:53:24.040Z,"135 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.24,18.56,0.05,5,reviewed,pr,pr
-2023-09-15T16:34:01.440Z,33.0213333,-116.3451667,11.29,1.32,ml,46,46,0.07394,0.16,ci,ci39666034,2023-09-15T17:57:18.770Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.15,0.28,0.155,26,reviewed,ci,ci
