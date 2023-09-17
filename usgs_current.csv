@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T08:06:51.070Z,36.0301666,-120.5958328,1.79,0.4,md,7,169,0.03856,0.09,nc,nc73937781,2023-09-17T08:08:25.262Z,"21 km NW of Parkfield, CA",earthquake,0.83,7.35,0.21,3,automatic,nc,nc
 2023-09-17T07:56:04.260Z,62.6931,-151.2509,83.2,1.9,ml,,,,0.46,ak,ak023by48a22,2023-09-17T07:58:15.936Z,"33 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-17T07:43:08.623Z,48.0959,-115.2228,12.184,2.6,ml,30,109,0.364,0.43,us,us7000kwae,2023-09-17T08:14:00.040Z,"6 km WNW of Happys Inn, Montana",earthquake,5.48,7.943,0.048,56,reviewed,us,us
 2023-09-17T07:24:54.250Z,38.840332,-122.8239975,2.09,1,md,17,89,0.00914,0.02,nc,nc73937776,2023-09-17T07:26:31.263Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.57,0.28,19,automatic,nc,nc
 2023-09-17T07:18:40.140Z,33.1728325,-116.2453308,15.96,1.64,ml,15,257,0.1726,0.38,ci,ci39667386,2023-09-17T07:22:06.516Z,"11 km WNW of Ocotillo Wells, CA",earthquake,3.36,2.89,0.387,9,automatic,ci,ci
 2023-09-17T07:09:21.680Z,35.7434998,-117.5643311,1.35,1.82,ml,9,163,0.1386,0.12,ci,ci39667378,2023-09-17T07:12:48.869Z,"15 km W of Searles Valley, CA",earthquake,0.9,0.7,0.371,9,automatic,ci,ci
-2023-09-17T07:08:53.835Z,47.6509,-121.8711,16.255,2.5,ml,52,66,0.215,0.47,us,us7000kwad,2023-09-17T08:00:22.145Z,"Washington",earthquake,4.07,0.489,0.04,82,reviewed,us,us
+2023-09-17T07:08:53.835Z,47.6509,-121.8711,16.255,2.5,ml,52,66,0.215,0.47,us,us7000kwad,2023-09-17T08:20:55.929Z,"Washington",earthquake,4.07,0.489,0.04,82,reviewed,us,us
 2023-09-17T06:54:38.130Z,18.9801,-68.38,65,3.57,md,14,285,0.4662,0.49,pr,pr2023260001,2023-09-17T07:31:17.620Z,"44 km N of Punta Cana, Dominican Republic",earthquake,4.61,4.62,0.14,12,reviewed,pr,pr
 2023-09-17T06:34:28.382Z,63.1371,-149.9911,0,1.6,ml,,,,0.72,ak,ak023by3i6k3,2023-09-17T06:37:13.201Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-17T06:25:15.340Z,34.4436667,-117.9196667,9.43,0.69,ml,14,64,0.03,0.22,ci,ci39667370,2023-09-17T06:28:45.612Z,"7 km S of Pearblossom, CA",earthquake,0.5,0.83,0.165,12,automatic,ci,ci
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T22:05:52.802Z,66.5788,-148.993,0,1.3,ml,,,,0.7,ak,ak023bwpblv4,2023-09-16T22:08:10.577Z,"63 km N of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-16T22:01:33.990Z,33.5753333,-116.5895,12.59,0.72,ml,23,71,0.03046,0.2,ci,ci39667202,2023-09-16T22:15:32.265Z,"8 km ENE of Anza, CA",earthquake,0.38,0.58,0.162,19,automatic,ci,ci
 2023-09-16T21:53:51.430Z,34.0145,-118.3683333,14.41,1.58,ml,30,49,0.01623,0.21,ci,ci39667194,2023-09-16T22:20:03.711Z,"1 km NNE of Baldwin Hills, CA",earthquake,0.43,0.59,0.218,30,automatic,ci,ci
-2023-09-16T21:48:50.160Z,33.9885,-118.3465,10.81,2.54,ml,89,38,0.0128,0.28,ci,ci39667186,2023-09-17T07:21:28.232Z,"1 km SSE of View Park-Windsor Hills, CA",earthquake,0.27,0.47,0.269,26,automatic,ci,ci
+2023-09-16T21:48:50.160Z,33.9885,-118.3465,10.81,2.54,ml,89,38,0.0128,0.28,ci,ci39667186,2023-09-17T08:11:30.677Z,"1 km SSE of View Park-Windsor Hills, CA",earthquake,0.27,0.47,0.269,26,automatic,ci,ci
 2023-09-16T21:46:17.160Z,38.5378342,-119.5613327,1.26,2.25,md,7,119,0.058,0.02,nc,nc73937641,2023-09-16T22:34:13.402Z,"8 km WNW of Walker, CA",earthquake,0.47,1.73,0.42,5,automatic,nc,nc
 2023-09-16T21:30:17.660Z,39.6811,-119.8959,7.3,0.3,ml,3,157.29,0.089,0.0974,nn,nn00865925,2023-09-16T22:38:29.285Z,"6 km NW of Lemmon Valley, Nevada",earthquake,,7.7,0.49,3,reviewed,nn,nn
 2023-09-16T21:25:28.200Z,38.8214989,-122.7881699,0.74,1.15,md,21,38,0.01009,0.04,nc,nc73937631,2023-09-16T22:19:12.191Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.36,0.21,20,automatic,nc,nc
@@ -103,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T13:29:31.317Z,61.7987,-150.772,61.7,1.6,ml,,,,0.45,ak,ak023bwk3sy3,2023-09-16T13:31:21.499Z,"31 km NNW of Susitna, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-09-16T13:29:30.886Z,6.8025,-72.988,154.93,4.9,mb,50,41,0.909,0.74,us,us7000kw6m,2023-09-17T02:20:33.465Z,"5 km NNW of Cepitá, Colombia",earthquake,7.8,6.143,0.025,498,reviewed,us,us
 2023-09-16T13:29:07.770Z,33.5451667,-116.9961667,13.21,0.69,ml,26,47,0.07646,0.2,ci,ci39666930,2023-09-16T13:32:40.775Z,"15 km E of Murrieta Hot Springs, CA",earthquake,0.29,0.8,0.188,17,automatic,ci,ci
-2023-09-16T13:28:08.388Z,40.0733,-119.6856,16.8,0.1,ml,4,167.67,0.103,0.0939,nn,nn00865909,2023-09-16T16:08:39.681Z,"Nevada",earthquake,,2.6,0.28,3,reviewed,nn,nn
+2023-09-16T13:28:08.388Z,40.0733,-119.6856,16.8,0.1,ml,4,167.67,0.103,0.0939,nn,nn00865909,2023-09-16T16:08:39.681Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,2.6,0.28,3,reviewed,nn,nn
 2023-09-16T13:24:10.120Z,34.0795,-117.2651667,11.74,1.11,ml,47,33,0.05662,0.24,ci,ci39666922,2023-09-16T13:35:04.210Z,"4 km N of Loma Linda, CA",earthquake,0.28,0.7,0.148,31,automatic,ci,ci
 2023-09-16T13:13:59.010Z,34.0418333,-117.2573333,15.42,0.91,ml,24,82,0.07093,0.18,ci,ci39666906,2023-09-16T13:17:24.682Z,"1 km SSE of Loma Linda, CA",earthquake,0.32,0.57,0.162,20,automatic,ci,ci
 2023-09-16T13:11:14.510Z,40.7121658,-124.5656662,23.02,2.29,md,21,226,0.2933,0.14,nc,nc73937486,2023-09-16T14:16:15.002Z,"30 km WNW of Ferndale, CA",earthquake,1.09,3.76,0.13,11,automatic,nc,nc
@@ -152,4 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T08:39:30.022Z,-6.0036,151.1876,10,4.9,mb,34,135,2.046,0.62,us,us7000kw5k,2023-09-16T09:03:47.040Z,"126 km ESE of Kimbe, Papua New Guinea",earthquake,5.63,1.925,0.069,66,reviewed,us,us
 2023-09-16T08:35:09.248Z,64.853,-152.2648,7.6,1.4,ml,,,,0.4,ak,ak023bwh5vik,2023-09-16T08:37:22.060Z,"36 km SSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-16T08:32:29.154Z,61.5644,-149.8621,47.7,1.6,ml,,,,0.43,ak,ak023bwh59wj,2023-09-16T08:34:20.135Z,"6 km NE of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-09-16T08:17:02.780Z,17.873,-66.8681666666667,13.44,2.79,md,22,240,0.102,0.16,pr,pr71424938,2023-09-16T09:11:08.340Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.6,0.29,0.175135472018921,8,reviewed,pr,pr
