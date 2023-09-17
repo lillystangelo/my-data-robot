@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T18:35:10.850Z,38.8390007,-122.8115005,1.1,0.75,md,13,60,0.01562,0.03,nc,nc73937951,2023-09-17T18:36:46.813Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.55,0.27,13,automatic,nc,nc
 2023-09-17T18:20:08.390Z,17.9578333333333,-66.7375,16.3,2.15,md,6,223,0.136,0.1,pr,pr71425148,2023-09-17T18:34:05.530Z,"Puerto Rico region",earthquake,0.8,1.83,0.0601385714002172,3,reviewed,pr,pr
 2023-09-17T18:11:27.729Z,38.2047,-118.1523,5.8,1.9,ml,14,89.75,0.132,0.353,nn,nn00865951,2023-09-17T18:14:26.690Z,"20 km S of Mina, Nevada",earthquake,,0.5,0.86,8,automatic,nn,nn
+2023-09-17T18:09:29.763Z,-5.386,34.8543,10,4.3,mb,12,156,4.378,1.13,us,us7000kwca,2023-09-17T18:40:03.040Z,"29 km SSE of Ikungi, Tanzania",earthquake,11.59,1.961,0.238,5,reviewed,us,us
 2023-09-17T17:50:46.803Z,61.4658,-151.4508,86.6,1.9,ml,,,,0.84,ak,ak023bya5ew4,2023-09-17T17:52:20.366Z,"41 km NNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-09-17T17:48:44.760Z,34.4415,-117.9196667,11.77,1.13,ml,28,63,0.03046,0.24,ci,ci39667610,2023-09-17T17:52:18.006Z,"7 km S of Pearblossom, CA",earthquake,0.37,0.63,0.285,24,automatic,ci,ci
 2023-09-17T17:48:41.530Z,38.8310013,-122.8168335,1.26,0.71,md,9,131,0.00925,0.01,nc,nc73937936,2023-09-17T17:50:17.473Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.83,0.41,9,automatic,nc,nc
@@ -36,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T13:15:52.810Z,44.2835,-114.831833333333,2.05,2.2,ml,14,64,0.7815,0.22,mb,mb90027513,2023-09-17T14:17:38.160Z,"11 km NE of Stanley, Idaho",earthquake,0.52,3.33,0.19489451620371,13,reviewed,mb,mb
 2023-09-17T13:02:36.867Z,60.7231,-151.9834,73.3,1.6,ml,,,,0.77,ak,ak023by7hdja,2023-09-17T13:05:38.936Z,"38 km W of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-17T12:58:45.533Z,-15.6024,168.1502,10,4.6,mb,26,136,6.142,0.74,us,us7000kwb6,2023-09-17T13:18:56.040Z,"95 km ENE of Norsup, Vanuatu",earthquake,9.4,1.84,0.133,18,reviewed,us,us
-2023-09-17T12:26:28.430Z,39.2088,-118.2007,8.6,1.2,ml,8,122.43,0.12,0.1443,nn,nn00865947,2023-09-17T16:43:09.573Z,"Nevada",earthquake,,2.3,0.55,5,reviewed,nn,nn
+2023-09-17T12:26:28.430Z,39.2088,-118.2007,8.6,1.2,ml,8,122.43,0.12,0.1443,nn,nn00865947,2023-09-17T16:43:09.573Z,"44 km NNW of Gabbs, Nevada",earthquake,,2.3,0.55,5,reviewed,nn,nn
 2023-09-17T12:24:43.210Z,46.3025,-122.22783333333334,3.55,0.6,ml,16,125,0.02564,0.09,uw,uw61960446,2023-09-17T18:29:59.400Z,"28 km S of Morton, Washington",earthquake,0.38,0.56,0.1774128540846064,12,reviewed,uw,uw
 2023-09-17T12:12:18.100Z,33.4938333,-116.5005,11.01,0.67,ml,16,92,0.0691,0.16,ci,ci39667442,2023-09-17T13:54:37.399Z,"17 km ESE of Anza, CA",earthquake,0.29,0.92,0.151,15,reviewed,ci,ci
 2023-09-17T12:03:17.690Z,38.8390007,-122.8368301,1.37,0.6,md,8,113,0.001127,0.01,nc,nc73937831,2023-09-17T12:04:50.913Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.65,0.22,8,automatic,nc,nc
