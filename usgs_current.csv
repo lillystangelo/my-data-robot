@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T09:40:54.180Z,36.9603348,-121.6018295,7.3,1.64,md,30,61,0.01662,0.17,nc,nc73937806,2023-09-17T09:44:15.206Z,"6 km SSW of Gilroy, CA",earthquake,0.35,0.64,0.22,26,automatic,nc,nc
 2023-09-17T08:58:20.460Z,38.8393326,-122.8356705,1.29,0.27,md,8,113,0.0007562,0.01,nc,nc73937801,2023-09-17T08:59:56.680Z,"10 km NW of The Geysers, CA",earthquake,0.37,0.85,0.16,8,automatic,nc,nc
 2023-09-17T08:34:41.880Z,38.8146667,-122.8144989,2.93,1.08,md,21,48,0.009376,0.02,nc,nc73937786,2023-09-17T08:36:15.943Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.46,0.17,20,automatic,nc,nc
 2023-09-17T08:28:38.560Z,34.4308333,-119.187,3.34,1.28,ml,16,74,0.04136,0.28,ci,ci39667394,2023-09-17T08:32:18.685Z,"6 km ESE of Ojai, CA",earthquake,0.53,0.72,0.173,19,automatic,ci,ci
@@ -147,5 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T09:56:40.190Z,17.9431666666667,-66.8808333333333,12.03,2.44,md,12,211,0.03175,0.17,pr,pr71424988,2023-09-16T10:15:49.970Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.76,0.59,0.0574330348680583,3,reviewed,pr,pr
 2023-09-16T09:53:40.290Z,17.8895,-66.8678333333333,12.88,3.04,md,18,238,0.08578,0.13,pr,pr71424973,2023-09-16T10:15:28.880Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.55,0.4,0.297217807342181,10,reviewed,pr,pr
 2023-09-16T09:49:07.490Z,38.8206673,-122.7641678,1.93,1.63,md,29,54,0.01487,0.03,nc,nc73937426,2023-09-16T10:27:13.668Z,"4 km W of Cobb, CA",earthquake,0.21,0.35,0.13,29,automatic,nc,nc
-2023-09-16T09:46:14.280Z,33.3195,-116.8368333,10.47,0.6,ml,15,78,0.0403,0.2,ci,ci39666786,2023-09-16T09:49:40.194Z,"5 km SSE of Palomar Observatory, CA",earthquake,0.45,0.73,0.152,16,automatic,ci,ci
-2023-09-16T09:39:18.140Z,17.8948333333333,-66.872,12.3,2.9,md,16,236,0.08008,0.13,pr,pr71424963,2023-09-16T10:00:16.010Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.62,0.4,0.23626053674783,8,reviewed,pr,pr
