@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-17T11:35:47.350Z,34.065834,-116.930336,14.05,1.13,ml,25,94,0.02803,0.15,ci,ci39667434,2023-09-17T11:37:52.659Z,"11 km ENE of Yucaipa, CA",earthquake,0.36,0.75,0.206,7,automatic,ci,ci
+2023-09-17T11:28:15.000Z,51.058,-129.818,12,5.8,Mi,30,183.59998531200117,3.279749,1.03,at,at00s14nv3,2023-09-17T11:32:16.282Z,"199 km WNW of Port McNeill, Canada",earthquake,0,0,,13,reviewed,at,at
 2023-09-17T11:21:30.960Z,38.8294983,-122.7961655,2.57,0.76,md,13,67,0.009992,0.02,nc,nc73937821,2023-09-17T11:23:06.322Z,"6 km W of Cobb, CA",earthquake,0.31,0.58,0.23,14,automatic,nc,nc
 2023-09-17T11:00:21.860Z,33.5976667,-116.718,11.94,0.18,ml,13,65,0.03599,0.09,ci,ci39667418,2023-09-17T11:03:50.173Z,"6 km NW of Anza, CA",earthquake,0.32,0.41,0.219,5,automatic,ci,ci
 2023-09-17T10:56:14.763Z,-8.3135,127.8269,10,4.4,mb,27,119,3.797,0.46,us,us7000kwar,2023-09-17T11:18:46.040Z,"East Timor region",earthquake,8.87,1.922,0.123,19,reviewed,us,us
