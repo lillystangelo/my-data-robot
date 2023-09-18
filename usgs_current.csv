@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-18T22:46:11.819Z,62.2849,-150.196,25.5,0.9,ml,,,,0.37,ak,ak023c00n019,2023-09-18T22:48:23.771Z,"3 km SSE of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-18T22:39:59.680Z,38.8308334,-122.8186646,1.86,1.23,md,20,53,0.01001,0.02,nc,nc73938596,2023-09-18T22:41:34.823Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.4,0.18,23,automatic,nc,nc
 2023-09-18T22:17:09.200Z,19.2548332214355,-155.489669799805,0.00999999977648258,1.75,md,33,85,,0.280000001,hv,hv73580387,2023-09-18T22:20:18.520Z,"5 km NNW of Pāhala, Hawaii",earthquake,0.56,0.310000002,0.550000012,16,automatic,hv,hv
 2023-09-18T22:13:15.830Z,38.796833,-122.7636642,3.71,0.8,md,9,110,0.004886,0.01,nc,nc73938591,2023-09-18T22:14:49.810Z,"2 km NNW of The Geysers, CA",earthquake,0.57,1.15,0.23,11,automatic,nc,nc
@@ -114,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-18T10:22:49.190Z,38.8139992,-122.8274994,2.3,1.09,md,21,46,0.005289,0.03,nc,nc73938336,2023-09-18T10:24:23.309Z,"7 km WNW of The Geysers, CA",earthquake,0.23,0.39,0.16,21,automatic,nc,nc
 2023-09-18T10:21:44.344Z,60.7739,-149.2488,22.9,2,ml,,,,0.43,ak,ak023bztciea,2023-09-18T10:23:41.930Z,"15 km SE of Sunrise, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-18T10:13:35.710Z,36.4205,-96.90433333,8.36,0.87,ml,18,71,0.02789452614,0.6148524572,ok,ok2023shva,2023-09-18T18:53:48.597Z,"12 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.15,4,reviewed,ok,ok
-2023-09-18T10:11:37.740Z,39.4651667,-120.2335,6.38,2.12,md,14,55,0.072,0.08,nc,nc73938331,2023-09-18T21:51:11.384Z,"16 km NNW of Truckee, CA",earthquake,0.3,0.77,0.301,19,reviewed,nc,nc
+2023-09-18T10:11:37.740Z,39.4651667,-120.2335,6.38,2.12,md,14,55,0.072,0.08,nc,nc73938331,2023-09-18T22:53:16.730Z,"16 km NNW of Truckee, CA",earthquake,0.3,0.77,0.301,19,reviewed,nc,nc
 2023-09-18T10:10:13.010Z,47.074,-122.00383333333333,14.65,0.8200000000000001,ml,33,115,0.08573,0.15,uw,uw61960586,2023-09-18T16:52:29.810Z,"3 km E of Carbonado, Washington",earthquake,0.32,0.43,0.08614039326009981,15,reviewed,uw,uw
 2023-09-18T10:02:53.490Z,7.1026,-72.1008,10,4.5,mb,44,109,1.549,0.76,us,us7000kwfd,2023-09-18T13:08:51.040Z,"Colombia-Venezuela border region",earthquake,6.99,1.905,0.075,52,reviewed,us,us
 2023-09-18T10:00:02.380Z,34.1888333,-117.4451667,3.39,0.7,ml,27,43,0.01517,0.21,ci,ci39667842,2023-09-18T18:13:03.984Z,"5 km SW of Devore, CA",earthquake,0.23,0.57,0.103,9,reviewed,ci,ci
@@ -208,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T23:14:30.230Z,35.8761667,-117.7176667,9.2,1.69,ml,26,83,0.07761,0.14,ci,ci39667730,2023-09-18T18:14:44.620Z,"18 km ESE of Little Lake, CA",earthquake,0.19,0.48,0.136,16,reviewed,ci,ci
 2023-09-17T23:00:19.022Z,58.1809,-155.3717,1.2,0.8,ml,,,,0.25,ak,ak023bydf8ry,2023-09-17T23:01:32.028Z,"87 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-17T22:54:37.838Z,-55.9919,-27.0661,35,5.1,mb,73,57,5.669,0.62,us,us7000kwd8,2023-09-18T02:32:14.040Z,"South Sandwich Islands region",earthquake,10.14,1.839,0.072,63,reviewed,us,us
-2023-09-17T22:50:38.250Z,37.333168,-121.6198349,28.19,1.53,md,4,189,0.06956,0.09,nc,nc73938041,2023-09-17T23:26:11.644Z,"19 km E of Alum Rock, CA",earthquake,2.12,8.8,0.17,6,automatic,nc,nc
-2023-09-17T22:48:11.090Z,44.6618333,-110.969,4.98,1.21,md,8,105,0.007408,0.09,uu,uu60550322,2023-09-18T17:04:21.280Z,"10 km E of West Yellowstone, Montana",earthquake,0.66,0.31,0.374,6,reviewed,uu,uu
