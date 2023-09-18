@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-18T02:38:37.700Z,38.8380013,-122.8368301,1.43,0.23,md,5,212,0.01493,0,nc,nc73938131,2023-09-18T02:40:12.820Z,"10 km NW of The Geysers, CA",earthquake,1.86,0.99,0.12,7,automatic,nc,nc
+2023-09-18T02:38:31.100Z,38.838665,-122.8376694,1.24,0.9,md,8,223,0.001706,0.02,nc,nc73938126,2023-09-18T02:40:07.720Z,"10 km NW of The Geysers, CA",earthquake,0.95,1.21,0.36,9,automatic,nc,nc
 2023-09-18T02:37:10.210Z,38.8380013,-122.8368301,1.13,0.64,md,8,117,0.01493,0.02,nc,nc73938121,2023-09-18T02:38:47.588Z,"10 km NW of The Geysers, CA",earthquake,0.3,1.09,0.17,9,automatic,nc,nc
+2023-09-18T02:36:44.680Z,19.2584991455078,-155.406005859375,30.3600006103516,2.07,ml,41,141,,0.150000006,hv,hv73579832,2023-09-18T02:42:23.790Z,"9 km NE of Pāhala, Hawaii",earthquake,0.61,0.829999983,3.38,7,automatic,hv,hv
 2023-09-18T02:23:22.570Z,33.497,-116.5385,11.88,1.27,ml,44,45,0.05328,0.21,ci,ci39667754,2023-09-18T02:33:52.720Z,"14 km ESE of Anza, CA",earthquake,0.26,0.51,0.159,27,automatic,ci,ci
 2023-09-18T01:27:43.905Z,60.715,-147.0375,21,2.3,ml,,,,0.46,ak,ak023bzo0w7q,2023-09-18T01:29:27.692Z,"25 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T01:19:56.330Z,38.8311653,-122.8141632,1.17,0.78,md,14,56,0.008391,0.01,nc,nc73938101,2023-09-18T01:21:33.018Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.6,0.21,17,automatic,nc,nc
@@ -132,4 +135,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T03:21:32.510Z,38.8313332,-122.8160019,1.44,0.4,md,11,83,0.00918,0.02,nc,nc73937736,2023-09-17T03:23:09.904Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.68,0.27,11,automatic,nc,nc
 2023-09-17T03:02:40.210Z,38.8305016,-122.8136673,1.58,0.44,md,9,83,0.007631,0.01,nc,nc73937731,2023-09-17T03:04:14.685Z,"8 km NW of The Geysers, CA",earthquake,0.33,1.1,0.39,7,automatic,nc,nc
 2023-09-17T02:58:11.893Z,19.1816,121.1371,35,4.5,mb,34,114,3.618,1.33,us,us7000kw9u,2023-09-17T03:36:40.040Z,"63 km N of Namuac, Philippines",earthquake,9.83,1.942,0.115,22,reviewed,us,us
-2023-09-17T02:47:09.060Z,18.1533333333333,-66.4033333333333,7.69,2.64,md,14,84,0.0825,0.21,pr,pr71425093,2023-09-17T03:03:05.300Z,"8 km S of Orocovis, Puerto Rico",earthquake,0.38,0.34,0.141912143963832,7,reviewed,pr,pr
