@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-21T04:37:15.690Z,17.9505,-66.0163333333333,37.81,2.62,md,8,209,0.08744,0.22,pr,pr71425408,2023-09-21T04:51:05.550Z,"Puerto Rico region",earthquake,1.54,1.22,0.295489782084656,6,reviewed,pr,pr
 2023-09-21T04:09:12.762Z,58.1645,-155.5617,12.5,0.7,ml,,,,0.47,ak,ak023c4obb7w,2023-09-21T04:10:49.908Z,"86 km SE of King Salmon, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-21T04:07:03.930Z,0.1168,98.4629,27.152,4.7,mb,28,112,1.476,0.67,us,us7000kx1b,2023-09-21T04:33:48.040Z,"Nias region, Indonesia",earthquake,9.03,6.681,0.123,20,reviewed,us,us
+2023-09-21T03:52:14.200Z,48.1765,-122.517,25.67,1.83,ml,31,43,0.04558,0.21,uw,uw61961151,2023-09-21T04:52:19.850Z,"Puget Sound region, Washington",earthquake,0.38,0.78,0.1606632152979055,24,reviewed,uw,uw
 2023-09-21T03:51:52.600Z,38.8230019,-122.8266678,3.74,0.86,md,7,175,0.006533,0.01,nc,nc73939646,2023-09-21T03:53:26.548Z,"8 km NW of The Geysers, CA",earthquake,1.21,2.02,0.24,6,automatic,nc,nc
 2023-09-21T03:22:42.338Z,58.1605,-155.4102,0.1,0.8,ml,,,,0.83,ak,ak023c4nsq7d,2023-09-21T03:24:14.186Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-21T03:14:51.800Z,33.4836655,-116.4598312,12.44,1.15,ml,13,104,0.1195,0.18,ci,ci39670010,2023-09-21T03:18:22.300Z,"21 km ESE of Anza, CA",earthquake,0.6,2.23,0.597,12,automatic,ci,ci
@@ -200,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T05:01:46.776Z,59.4048,-136.5878,7.3,2.1,ml,,,,0.9,ak,ak023c31br89,2023-09-20T05:04:47.276Z,"31 km WSW of Mosquito Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-20T04:56:58.360Z,38.8206673,-122.80867,3.04,1.08,md,22,38,0.002936,0.02,nc,nc73939241,2023-09-20T04:58:36.171Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.51,0.16,24,automatic,nc,nc
 2023-09-20T04:55:37.861Z,63.0778,-150.7591,123.9,1.6,ml,,,,0.3,ak,ak023c311vlm,2023-09-20T04:58:09.912Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-09-20T04:46:59.700Z,48.30583333333333,-121.88233333333334,5.95,1.07,ml,10,107,0.1146,0.13,uw,uw61960976,2023-09-20T20:56:17.310Z,"5 km NE of Oso, Washington",earthquake,0.45,1.71,0.08451102296172275,3,reviewed,uw,uw
