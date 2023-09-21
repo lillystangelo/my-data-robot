@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-21T06:38:52.157Z,59.8812,-152.6476,83.6,1.4,ml,,,,0.11,ak,ak023c4poh8f,2023-09-21T06:40:00.713Z,"47 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-21T06:33:31.601Z,63.5404,-147.7029,6,1.7,ml,,,,0.78,ak,ak023c4pncpw,2023-09-21T06:36:02.678Z,"63 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T06:26:21.610Z,38.8353348,-122.7896652,1.71,1,md,15,64,0.003115,0.02,nc,nc73939696,2023-09-21T06:27:57.179Z,"6 km WNW of Cobb, CA",earthquake,0.39,0.83,0.27,16,automatic,nc,nc
 2023-09-21T06:20:56.790Z,33.06,-116.4066667,12.8,1.21,ml,41,36,0.08801,0.2,ci,ci39670042,2023-09-21T06:31:32.500Z,"18 km E of Julian, CA",earthquake,0.27,0.74,0.209,27,automatic,ci,ci
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T07:12:50.750Z,36.33466667,-96.959,4.13,0.8,ml,30,94,0.07108605049,0.3092809828,ok,ok2023slgb,2023-09-20T16:04:52.555Z,"6 km NE of Morrison, Oklahoma",earthquake,,0.7,0.02,4,reviewed,ok,ok
 2023-09-20T07:00:42.181Z,19.6001,-70.8867,23.477,4.4,mb,54,100,0.127,1.18,us,us7000kwum,2023-09-21T01:57:48.622Z,"4 km NNW of Villa Bisonó, Dominican Republic",earthquake,5.11,5.44,0.051,112,reviewed,us,us
 2023-09-20T06:58:33.680Z,38.8268318,-122.8021698,2.85,0.76,md,10,80,0.007064,0.02,nc,nc73939266,2023-09-20T07:00:07.575Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.16,0.15,10,automatic,nc,nc
-2023-09-20T06:45:23.350Z,35.7718333,-117.5911667,8.1,1.15,ml,24,95,0.1459,0.15,ci,ci39669410,2023-09-20T14:54:14.993Z,"17 km W of Searles Valley, CA",earthquake,0.24,0.86,0.084,8,reviewed,ci,ci
