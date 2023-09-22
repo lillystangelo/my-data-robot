@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T09:33:10.617Z,62.5851,-151.2982,0,1.6,ml,,,,0.47,ak,ak023c6eyyr9,2023-09-22T09:35:23.979Z,"29 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T09:31:28.480Z,37.3171654,-122.0736694,5.35,1.77,md,20,82,0.02227,0.09,nc,nc73940206,2023-09-22T09:33:04.678Z,"4 km W of Cupertino, CA",earthquake,0.23,0.39,0.12,17,automatic,nc,nc
 2023-09-22T09:31:10.733Z,60.2254,-152.3366,98.4,2.4,ml,,,,0.63,ak,ak023c6eyjc1,2023-09-22T09:33:32.608Z,"41 km WNW of Ninilchik, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2023-09-22T09:20:08.919Z,60.1891,-153.0004,126.4,1.9,ml,,,,0.43,ak,ak023c6ew6bf,2023-09-22T09:22:28.889Z,"72 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -100,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T20:20:57.020Z,38.8481674,-122.8166656,1.62,0.82,md,9,112,0.008323,0.02,nc,nc73939991,2023-09-21T20:22:31.529Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.05,0.23,10,automatic,nc,nc
 2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"4 km NNW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"4 km SSE of Willow, Alaska",earthquake,,3.8,,,automatic,ak,ak
-2023-09-21T19:57:42.180Z,39.7426667,-120.5628333,3.42,2.4,md,16,81,0.1009,0.11,nc,nc73939981,2023-09-22T09:32:57.804Z,"1 km NE of Valley Ranch, CA",earthquake,0.28,0.93,0.187,27,reviewed,nc,nc
+2023-09-21T19:57:42.180Z,39.7426667,-120.5628333,3.42,2.4,md,16,81,0.1009,0.11,nc,nc73939981,2023-09-22T09:36:15.413Z,"1 km NE of Valley Ranch, CA",earthquake,0.28,0.93,0.187,27,reviewed,nc,nc
 2023-09-21T19:57:18.950Z,38.8224983,-122.7901688,0.2,0.77,md,8,78,0.01183,0.11,nc,nc73939976,2023-09-21T19:58:55.455Z,"6 km W of Cobb, CA",earthquake,0.48,1.37,0.32,8,automatic,nc,nc
 2023-09-21T19:37:41.730Z,38.8351669,-122.7891693,1.81,0.99,md,11,68,0.003365,0.02,nc,nc73939971,2023-09-21T19:39:16.185Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.51,0.27,12,automatic,nc,nc
 2023-09-21T19:35:48.065Z,31.997,-103.7905,5,2.6,ml,28,73,0.11,0.38,us,us7000kx6d,2023-09-21T19:46:18.040Z,"36 km SE of Malaga, New Mexico",earthquake,1.5,1.962,0.091,24,reviewed,us,us
@@ -110,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T19:23:19.850Z,58.1813333333333,-155.278833333333,1.02,0.2,ml,6,105,,0.16,av,av92052941,2023-09-22T00:35:24.300Z,"83 km NW of Karluk, Alaska",earthquake,0.38,1.88,0.252557869657891,6,reviewed,av,av
 2023-09-21T19:21:30.700Z,35.9098333,-117.7346667,9.83,1.17,ml,12,145,0.07809,0.13,ci,ci40570000,2023-09-21T22:17:43.287Z,"16 km E of Little Lake, CA",earthquake,0.42,0.65,0.253,5,reviewed,ci,ci
 2023-09-21T19:18:55.350Z,33.8385,-117.491,-0.5,1.38,ml,38,46,0.04368,0.23,ci,ci40569992,2023-09-21T21:04:52.775Z,"5 km SSE of Home Gardens, CA",quarry blast,0.39,31.61,0.14,27,reviewed,ci,ci
-2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T19:12:59.691Z,41.7673,-81.0148,5,1.9,ml,8,194,0.841,0.33,us,us7000kx8j,2023-09-22T06:03:17.320Z,"2 km E of Madison, Ohio",earthquake,2.26,1.989,0.148,6,reviewed,us,us
 2023-09-21T19:04:23.940Z,58.2461666666667,-155.156,4.62,0.46,ml,10,125,,0.14,av,av92052926,2023-09-22T00:31:13.320Z,"86 km NNW of Karluk, Alaska",earthquake,0.34,0.53,0.290268317089999,10,reviewed,av,av
 2023-09-21T18:57:15.110Z,38.8134995,-122.7953339,1.12,0.77,md,9,74,0.005523,0.02,nc,nc73939956,2023-09-21T18:58:51.048Z,"5 km NW of The Geysers, CA",earthquake,0.39,0.91,0.11,9,automatic,nc,nc
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T10:01:28.770Z,32.7725,-116.581,16.99,0.77,ml,17,81,0.06648,0.08,ci,ci39670114,2023-09-21T17:00:54.517Z,"7 km SW of Pine Valley, CA",earthquake,0.22,0.38,0.147,6,reviewed,ci,ci
 2023-09-21T09:48:22.893Z,13.7876,144.6376,148.416,5,mb,85,40,0.299,1.04,us,us7000kx26,2023-09-22T03:58:26.308Z,"35 km NNW of Asan-Maina Village, Guam",earthquake,6.37,4.584,0.029,383,reviewed,us,us
 2023-09-21T09:48:19.430Z,33.034,-116.009,3.71,0.98,ml,25,76,0.1416,0.2,ci,ci39670106,2023-09-21T15:20:03.784Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.27,0.96,0.152,8,reviewed,ci,ci
-2023-09-21T09:39:42.110Z,38.8168335,-122.8198318,1.06,1.08,md,12,62,0.01005,0.01,nc,nc73939766,2023-09-21T09:41:18.739Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.5,0.38,13,automatic,nc,nc
-2023-09-21T09:35:52.733Z,61.5878,-141.0212,12.1,1.8,ml,,,,0.06,ak,ak023c4rg4y1,2023-09-21T09:50:25.752Z,"102 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
