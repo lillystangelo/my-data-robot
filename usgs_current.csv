@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T06:14:29.720Z,38.8168335,-122.7953339,2.34,0.77,md,7,115,0.008853,0.01,nc,nc73940176,2023-09-22T06:16:05.065Z,"6 km NW of The Geysers, CA",earthquake,0.5,1.46,0.15,8,automatic,nc,nc
+2023-09-22T06:10:51.510Z,33.672,-116.6971667,18.67,0.71,ml,20,71,0.04375,0.24,ci,ci40570216,2023-09-22T06:14:22.627Z,"8 km SSE of Idyllwild, CA",earthquake,0.48,0.63,0.132,16,automatic,ci,ci
 2023-09-22T06:07:31.499Z,62.5792,-153.0972,0,2,ml,,,,1.19,ak,ak023c6d14xp,2023-09-22T06:09:29.367Z,"81 km SE of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-22T06:03:00.860Z,38.777668,-122.7686691,0.01,1.22,md,19,90,0.007303,0.08,nc,nc73940171,2023-09-22T06:04:35.046Z,"1 km W of The Geysers, CA",earthquake,0.25,0.49,0.16,18,automatic,nc,nc
 2023-09-22T06:02:55.980Z,38.7803345,-122.7676697,1.22,1.74,md,7,129,0.009716,0.02,nc,nc73940166,2023-09-22T06:04:29.876Z,"1 km WNW of The Geysers, CA",earthquake,0.54,0.89,0.53,7,automatic,nc,nc
@@ -210,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T06:34:25.844Z,36.1245,68.438,120.966,4.1,mb,18,122,1.656,0.8,us,us7000kx1q,2023-09-21T07:12:53.040Z,"24 km W of Baghlān, Afghanistan",earthquake,7.53,12.832,0.261,4,reviewed,us,us
 2023-09-21T06:33:31.601Z,63.5404,-147.7029,6,1.7,ml,,,,0.78,ak,ak023c4pncpw,2023-09-21T06:36:02.678Z,"63 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-21T06:30:06.573Z,31.64998859,-104.0230674,5.46315918,1.699543246,ml(texnet),15,52.18957772,0.02955070481,0.1247248588,tx,tx2023snaf,2023-09-21T18:54:39.899Z,"western Texas",earthquake,0.6556867697,0.9240941273,0.1901520773,7,reviewed,tx,tx
-2023-09-21T06:26:21.610Z,38.8353348,-122.7896652,1.71,1,md,15,64,0.003115,0.02,nc,nc73939696,2023-09-21T06:27:57.179Z,"6 km WNW of Cobb, CA",earthquake,0.39,0.83,0.27,16,automatic,nc,nc
-2023-09-21T06:24:48.686Z,39.7379,-120.5595,7.7,1,ml,8,193.31,0.139,0.1466,nn,nn00866206,2023-09-21T21:20:34.177Z,"0 km E of Valley Ranch, California",earthquake,,2.6,0.2,4,reviewed,nn,nn
-2023-09-21T06:20:56.730Z,33.0595,-116.4078333,13.32,1.34,ml,47,42,0.03107,0.18,ci,ci39670042,2023-09-21T15:54:03.190Z,"18 km E of Julian, CA",earthquake,0.19,0.48,0.182,22,reviewed,ci,ci
-2023-09-21T06:19:15.316Z,61.6949,-150.402,29.2,1.4,ml,,,,0.35,ak,ak023c4pkbsb,2023-09-21T06:21:41.578Z,"17 km NNE of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
