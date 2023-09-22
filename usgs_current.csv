@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T15:29:15.901Z,60.6114,-141.9846,0,1.9,ml,,,,1.17,ak,ak023c6iipxf,2023-09-22T15:38:07.066Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-22T15:08:33.030Z,32.3341667,-115.301,4.04,2.1,ml,19,55,0.08515,0.25,ci,ci40570344,2023-09-22T15:12:02.822Z,"10 km WSW of Delta, B.C., MX",earthquake,0.43,2.07,0.272,18,automatic,ci,ci
 2023-09-22T15:04:15.752Z,61.3052,-151.9654,106.6,1.9,ml,,,,0.44,ak,ak023c6iddac,2023-09-22T15:06:07.302Z,"50 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-22T15:01:16.180Z,38.8188324,-122.7633362,2,1.05,md,16,117,0.01271,0.02,nc,nc73940301,2023-09-22T15:02:50.769Z,"4 km W of Cobb, CA",earthquake,0.28,0.52,0.19,16,automatic,nc,nc
-2023-09-22T14:59:17.580Z,-7.1395,129.7134,161.484,5.7,mww,52,76,2.607,0.88,us,us7000kxe7,2023-09-22T15:35:42.248Z,"Kepulauan Babar, Indonesia",earthquake,8.75,5.366,0.086,13,reviewed,us,us
+2023-09-22T14:59:17.580Z,-7.1395,129.7134,161.484,5.7,mww,52,76,2.607,0.88,us,us7000kxe7,2023-09-22T15:40:49.932Z,"Kepulauan Babar, Indonesia",earthquake,8.75,5.366,0.086,13,reviewed,us,us
 2023-09-22T14:41:13.009Z,63.9454,-151.5699,0.7,1.7,ml,,,,1.21,ak,ak023c6hzup0,2023-09-22T14:43:27.483Z,"37 km E of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T14:30:02.738Z,58.8475,-154.5513,127.8,1.4,ml,,,,0.26,ak,ak023c6hxh0x,2023-09-22T14:32:07.684Z,"67 km S of Kokhanok, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-22T14:13:05.893Z,61.9964,-151.0981,68.1,1.4,ml,,,,0.29,ak,ak023c6htu3h,2023-09-22T14:15:20.124Z,"15 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -160,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T19:23:19.850Z,58.1813333333333,-155.278833333333,1.02,0.2,ml,6,105,,0.16,av,av92052941,2023-09-22T00:35:24.300Z,"83 km NW of Karluk, Alaska",earthquake,0.38,1.88,0.252557869657891,6,reviewed,av,av
 2023-09-21T19:21:30.700Z,35.9098333,-117.7346667,9.83,1.17,ml,12,145,0.07809,0.13,ci,ci40570000,2023-09-21T22:17:43.287Z,"16 km E of Little Lake, CA",earthquake,0.42,0.65,0.253,5,reviewed,ci,ci
 2023-09-21T19:18:55.350Z,33.8385,-117.491,-0.5,1.38,ml,38,46,0.04368,0.23,ci,ci40569992,2023-09-21T21:04:52.775Z,"5 km SSE of Home Gardens, CA",quarry blast,0.39,31.61,0.14,27,reviewed,ci,ci
-2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T19:12:59.691Z,41.7673,-81.0148,5,1.9,ml,8,194,0.841,0.33,us,us7000kx8j,2023-09-22T06:03:17.320Z,"2 km E of Madison, Ohio",earthquake,2.26,1.989,0.148,6,reviewed,us,us
 2023-09-21T19:04:23.940Z,58.2461666666667,-155.156,4.62,0.46,ml,10,125,,0.14,av,av92052926,2023-09-22T00:31:13.320Z,"86 km NNW of Karluk, Alaska",earthquake,0.34,0.53,0.290268317089999,10,reviewed,av,av
 2023-09-21T18:57:15.110Z,38.8134995,-122.7953339,1.12,0.77,md,9,74,0.005523,0.02,nc,nc73939956,2023-09-21T18:58:51.048Z,"5 km NW of The Geysers, CA",earthquake,0.39,0.91,0.11,9,automatic,nc,nc
