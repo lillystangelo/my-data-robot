@@ -213,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-23T17:01:38.793Z,62.5624,-151.0509,79.2,1.3,ml,,,,0.72,ak,ak023c872zcn,2023-09-23T17:04:03.199Z,"16 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-23T17:01:36.223Z,42.8536,17.5603,14.914,4,mb,30,30,1.324,0.7,us,us7000kxnx,2023-09-24T08:53:47.335Z,"Croatia",earthquake,4.81,1.973,0.299,3,reviewed,us,us
 2023-09-23T16:57:28.160Z,35.4976667,-118.0981667,3.91,0.92,ml,13,81,0.05193,0.12,ci,ci40571072,2023-09-23T17:01:20.600Z,"31 km WSW of Inyokern, CA",earthquake,0.25,0.5,0.15,10,automatic,ci,ci
-2023-09-23T16:53:59.390Z,33.2768333,-116.7785,9.54,0.65,ml,14,85,0.04397,0.12,ci,ci40571064,2023-09-23T16:57:36.096Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.34,0.91,0.16,12,automatic,ci,ci
-2023-09-23T16:50:00.646Z,64.0732,-151.5212,18,1.6,ml,,,,0.89,ak,ak023c86ryw0,2023-09-23T16:51:44.342Z,"44 km ENE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
