@@ -65,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T03:21:24.830Z,38.7895012,-122.7626648,2.98,0.78,md,12,93,0.02007,0.02,nc,nc73941616,2023-09-25T03:22:59.810Z,"2 km NNW of The Geysers, CA",earthquake,0.37,1.05,0.06,11,automatic,nc,nc
 2023-09-25T03:18:10.031Z,32.405,-102.023,9.8553,3.2,ml(texnet),13,96,0.1,0.1,tx,tx2023subv,2023-09-25T04:01:17.296Z,"31 km WSW of Ackerly, Texas",earthquake,1.220820551,2.947997931,0.2,8,reviewed,tx,tx
 2023-09-25T03:17:46.796Z,58.2033,-155.2231,1.1,0.1,ml,,,,0.65,ak,ak023cb9x1xz,2023-09-25T03:18:44.244Z,"84 km NNW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-09-25T03:07:38.609Z,36.46283333,-98.759,8.15,1.16,ml,43,69,0.03599293696,0.14,ok,ok2023subn,2023-09-25T11:59:31.298Z,"17 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.27,20,reviewed,ok,ok
 2023-09-25T03:00:18.570Z,38.8323326,-122.814003,1.62,0.31,md,8,88,0.009437,0.01,nc,nc73941611,2023-09-25T03:01:54.559Z,"8 km NW of The Geysers, CA",earthquake,0.31,1,0.15,9,automatic,nc,nc
 2023-09-25T02:59:52.111Z,62.2765,-153.2959,0,1.7,ml,,,,0.33,ak,ak023cb9kmtn,2023-09-25T03:01:59.803Z,"99 km SSE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-25T02:50:55.984Z,60.5406,-147.6624,17,1.6,ml,,,,0.84,ak,ak023cb9ipoe,2023-09-25T02:53:10.567Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -172,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T16:21:10.660Z,33.468,-116.409,11.68,0.73,ml,25,50,0.05699,0.23,ci,ci40571640,2023-09-24T16:24:38.802Z,"24 km SSW of La Quinta, CA",earthquake,0.39,0.85,0.155,19,automatic,ci,ci
 2023-09-24T16:19:09.180Z,60.4319,-143.2425,13.7,0.6,ml,,,,0.45,ak,ak023c9u4oue,2023-09-24T16:20:18.986Z,"112 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T16:18:54.810Z,34.0526667,-117.2381667,13.99,0.74,ml,17,57,0.09866,0.3,ci,ci40571632,2023-09-24T16:22:34.864Z,"2 km ENE of Loma Linda, CA",earthquake,0.63,1.19,0.191,13,automatic,ci,ci
-2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"108 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-24T16:02:21.570Z,17.98,-66.9376666666667,14.9,2.39,md,5,171,0.05581,0.09,pr,pr71425683,2023-09-24T16:19:33.910Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.74,1.34,0.0156285170132673,3,reviewed,pr,pr
 2023-09-24T16:00:30.200Z,62.3672,-151.3753,79.2,1.4,ml,,,,0.4,ak,ak023c9u0nv0,2023-09-24T16:02:26.744Z,"34 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T15:52:21.960Z,36.1958351,-120.3026657,6.68,1.21,md,5,141,0.07674,0.14,nc,nc73941306,2023-09-24T15:53:58.294Z,"8 km NE of Coalinga, CA",earthquake,0.83,1.47,0.05,4,automatic,nc,nc
@@ -210,7 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T12:03:17.840Z,38.8321648,-122.8195038,1.96,0.74,md,7,81,0.01144,0,nc,nc73941226,2023-09-24T12:04:51.327Z,"8 km NW of The Geysers, CA",earthquake,0.47,1.79,0.26,9,automatic,nc,nc
 2023-09-24T12:02:31.250Z,38.8318329,-122.8186646,1.79,0.7,md,14,79,0.01077,0.01,nc,nc73941221,2023-09-24T12:04:06.346Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.75,0.17,12,automatic,nc,nc
 2023-09-24T12:02:26.250Z,38.8311653,-122.8183365,1.91,0.29,md,14,79,0.01009,0.01,nc,nc73941216,2023-09-24T12:04:01.424Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.6,0.18,13,automatic,nc,nc
-2023-09-24T11:59:06.828Z,60.0465,-151.9425,67.9,1.5,ml,,,,0.64,ak,ak023c9re3a2,2023-09-24T12:01:08.721Z,"15 km W of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-24T11:57:45.460Z,33.0374985,-116.3915024,10.96,1.54,ml,26,93,0.0558,0.16,ci,ci40571496,2023-09-24T11:59:50.846Z,"20 km ESE of Julian, CA",earthquake,0.38,0.47,0.355,8,automatic,ci,ci
-2023-09-24T11:53:50.340Z,35.8675,-117.6995,8.11,1.12,ml,14,155,0.07925,0.21,ci,ci40571488,2023-09-24T12:04:58.860Z,"20 km ESE of Little Lake, CA",earthquake,0.59,1.39,0.21,8,automatic,ci,ci
-2023-09-24T11:50:39.120Z,58.192,-155.2685,1.99,0.02,ml,11,86,,0.09,av,av92056441,2023-09-24T21:32:14.960Z,"Alaska Peninsula",earthquake,0.24,0.46,0.39153386844842,11,reviewed,av,av
