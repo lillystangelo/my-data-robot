@@ -185,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T21:42:05.940Z,38.8413315,-122.8253326,1.89,1.04,md,14,103,0.00839,0.02,nc,nc73941871,2023-09-25T21:43:40.444Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.47,0.13,15,automatic,nc,nc
 2023-09-25T21:37:54.209Z,31.61,-104.261,6.6714,1.8,ml(texnet),21,70,0.1,0.2,tx,tx2023svmd,2023-09-26T13:26:56.544Z,"55 km NW of Toyah, Texas",earthquake,1.214100441,1.716464403,0,7,reviewed,tx,tx
 2023-09-25T20:43:15.529Z,36.02633333,-96.54116667,0,1.87,ml,29,109,0.1979611533,0.28,ok,ok2023svki,2023-09-26T15:35:10.129Z,"6 km NE of Drumright, Oklahoma",quarry blast,,0.4,0.1,7,reviewed,ok,ok
-2023-09-25T20:34:36.860Z,17.8766666666667,-66.843,11.56,1.9,md,5,243,0.1038,0.16,pr,pr71425893,2023-09-25T21:08:11.630Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,2.63,3.5,0.207970219326,4,reviewed,pr,pr
