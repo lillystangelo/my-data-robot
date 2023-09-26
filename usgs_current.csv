@@ -1,7 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-26T22:58:13.010Z,38.8371658,-122.8126678,1.86,0.27,md,7,130,0.0139,0.04,nc,nc73942331,2023-09-26T22:59:46.764Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.25,0.16,8,automatic,nc,nc
+2023-09-26T22:56:13.720Z,38.8251648,-122.762001,2.04,1.26,md,21,131,0.00814,0.02,nc,nc73942326,2023-09-26T22:57:47.189Z,"3 km W of Cobb, CA",earthquake,0.29,0.41,0.22,21,automatic,nc,nc
+2023-09-26T22:55:07.420Z,32.0445,-116.1698333,13.75,2.15,ml,12,137,0.1925,0.27,ci,ci40573160,2023-09-26T22:59:00.106Z,"47 km ENE of Ensenada, B.C., MX",earthquake,0.93,2.42,0.229,22,automatic,ci,ci
 2023-09-26T22:46:22.110Z,36.1,-117.8575,2.07,2.37,ml,19,107,0.01767,0.14,ci,ci40573152,2023-09-26T22:50:04.058Z,"10 km NE of Coso Junction, CA",earthquake,0.64,0.62,0.129,26,automatic,ci,ci
-2023-09-26T22:38:47.250Z,36.0873333,-117.8751667,-0.49,1.32,ml,12,158,0.03437,0.19,ci,ci40573144,2023-09-26T22:42:24.346Z,"8 km NE of Coso Junction, CA",earthquake,0.52,31.61,0.105,7,automatic,ci,ci
+2023-09-26T22:44:39.501Z,43.1837,-127.0405,10,3.4,ml,40,286,2.214,0.57,us,us6000lazq,2023-09-26T23:06:29.040Z,"212 km W of Langlois, Oregon",earthquake,12.18,2.024,0.042,76,reviewed,us,us
+2023-09-26T22:38:47.110Z,36.1008333,-117.8608333,2.83,1.35,ml,15,147,0.0174,0.13,ci,ci40573144,2023-09-26T23:08:41.007Z,"10 km NE of Coso Junction, CA",earthquake,0.43,0.58,0.097,7,reviewed,ci,ci
 2023-09-26T22:26:09.190Z,19.2593326568604,-155.375671386719,30.0599994659424,1.80999994,md,35,156,,0.129999995,hv,hv73586067,2023-09-26T22:29:20.310Z,"Hawaii region, Hawaii",earthquake,0.67,1,0.75999999,20,automatic,hv,hv
+2023-09-26T22:23:26.980Z,58.1705,-155.38,2.12,0.48,ml,9,134,,0.08,av,av92060536,2023-09-26T22:56:18.970Z,"86 km NW of Karluk, Alaska",earthquake,0.21,0.41,0.182153208041194,11,reviewed,av,av
 2023-09-26T22:22:56.549Z,58.1654,-156.3723,250,1.7,ml,,,,1.01,ak,ak023cd8sq9i,2023-09-26T22:25:22.793Z,"59 km E of Egegik, Alaska",earthquake,,9.2,,,automatic,ak,ak
 2023-09-26T22:21:39.978Z,37.5395,141.571,54.697,4.8,mb,79,127,2.868,0.85,us,us6000lazm,2023-09-26T22:38:56.040Z,"near the east coast of Honshu, Japan",earthquake,7.12,3.676,0.041,189,reviewed,us,us
 2023-09-26T22:20:04.300Z,37.2478333,-118.2078323,10.83,1.92,md,13,215,0.06239,0.02,nc,nc73942306,2023-09-26T22:21:41.465Z,"12 km NE of Big Pine, CA",earthquake,1.46,0.48,0.22,7,automatic,nc,nc
@@ -167,6 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T02:11:32.560Z,38.8356667,-122.8006668,2,0.2,md,8,70,0.008514,0.01,nc,nc73941971,2023-09-26T02:13:05.820Z,"7 km WNW of Cobb, CA",earthquake,0.43,1.06,0.08,8,automatic,nc,nc
 2023-09-26T01:44:50.171Z,38.0122,-118.0165,0.4,1.3,ml,11,69.11,0.189,0.1487,nn,nn00866344,2023-09-26T16:06:41.413Z,"38 km N of Dyer, Nevada",earthquake,,3,0.52,4,reviewed,nn,nn
 2023-09-26T01:39:43.051Z,4.7145,127.4999,90.322,5.9,mww,122,44,3.021,0.75,us,us7000ky3a,2023-09-26T15:43:13.040Z,"233 km SE of Pondaguitan, Philippines",earthquake,9,3.716,0.061,26,reviewed,us,us
+2023-09-26T01:37:05.150Z,36.1332,70.4479,138.859,4.2,mb,21,115,1.96,0.49,us,us7000ky39,2023-09-26T23:03:00.040Z,"72 km SE of Farkhār, Afghanistan",earthquake,5.82,19.114,0.374,2,reviewed,us,us
 2023-09-26T01:00:41.280Z,38.8274994,-122.8466644,0.5,0.78,md,7,164,0.01009,0.05,nc,nc73941961,2023-09-26T01:02:16.116Z,"10 km NW of The Geysers, CA",earthquake,0.42,0.81,0.12,7,automatic,nc,nc
 2023-09-26T00:59:49.108Z,39.739,-120.5633,8.5,1.7,ml,11,195.35,0.138,0.1847,nn,nn00866350,2023-09-26T04:21:46.404Z,"Northern California",earthquake,,3,0.24,6,reviewed,nn,nn
 2023-09-26T00:59:04.110Z,35.6361667,-117.5641667,3.4,1.2,ml,23,88,0.118,0.14,ci,ci40572504,2023-09-26T13:56:12.286Z,"10 km E of Ridgecrest, CA",earthquake,0.21,1.01,0.132,13,reviewed,ci,ci
@@ -195,7 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T23:11:17.735Z,64.9947,-147.4879,0,1.5,ml,,,,0.99,ak,ak023cblsdi5,2023-09-25T23:13:01.768Z,"7 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-25T23:10:54.760Z,35.6766667,-117.555,9.95,0.8,ml,13,129,0.09128,0.13,ci,ci40572472,2023-09-25T23:33:41.108Z,"13 km ENE of Ridgecrest, CA",earthquake,0.46,0.82,0.116,5,reviewed,ci,ci
 2023-09-25T23:09:31.740Z,57.0306666666667,-135.6415,6.61,0.53,ml,5,188,,0.15,av,av91116643,2023-09-26T00:56:54.110Z,"19 km W of Sitka, Alaska",earthquake,1.3,1.15,0.26262120492929,5,reviewed,av,av
-2023-09-25T23:06:24.820Z,58.1713333333333,-155.334833333333,0.42,-0.22,ml,9,76,,0.06,av,av92058221,2023-09-26T22:30:07.160Z,"85 km NW of Karluk, Alaska",earthquake,0.25,1.36,0.229864318340411,9,reviewed,av,av
-2023-09-25T23:04:32.058Z,24.4831,122.7399,99.749,4.3,mb,59,55,0.248,0.51,us,us7000ky2c,2023-09-25T23:39:21.040Z,"26 km W of Yonakuni, Japan",earthquake,5.05,4.597,0.086,38,reviewed,us,us
-2023-09-25T23:03:04.460Z,33.197,-116.3863333,13.56,0.85,ml,27,73,0.07556,0.2,ci,ci40572464,2023-09-25T23:21:49.802Z,"7 km S of Borrego Springs, CA",earthquake,0.31,0.8,0.165,12,reviewed,ci,ci
-2023-09-25T22:59:29.980Z,38.8226662,-122.8059998,2.56,1.07,md,15,41,0.003265,0.01,nc,nc73941891,2023-09-25T23:01:05.121Z,"7 km NW of The Geysers, CA",earthquake,0.28,1.07,0.17,17,automatic,nc,nc
