@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-27T18:23:41.411Z,63.6094,-147.8641,5.9,1.2,ml,,,,0.32,ak,ak023cetyivx,2023-09-27T18:25:24.904Z,"53 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-09-27T18:00:40.586Z,-18.9362,-178.0347,613.082,4.8,mb,60,48,3.467,0.56,us,us6000lb63,2023-09-27T18:17:34.040Z,"295 km ESE of Levuka, Fiji",earthquake,9.35,8.364,0.048,132,reviewed,us,us
 2023-09-27T17:52:22.440Z,34.97083333,-97.56,4.94,1.39,ml,60,52,0.06298763968,0.53,ok,ok2023syvs,2023-09-27T18:02:31.953Z,"9 km SE of Dibble, Oklahoma",earthquake,,1.1,0.23,21,reviewed,ok,ok
 2023-09-27T17:50:46.770Z,38.8156662,-122.7955017,2.54,1.27,md,25,37,0.007689,0.01,nc,nc73942591,2023-09-27T17:52:22.114Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.4,0.21,26,automatic,nc,nc
-2023-09-27T17:47:21.700Z,0.874,93.1233,10,5.4,mww,81,58,4.472,0.72,us,us6000lb60,2023-09-27T18:06:42.040Z,"off the west coast of northern Sumatra",earthquake,6.57,1.678,0.08,15,reviewed,us,us
+2023-09-27T17:47:21.700Z,0.874,93.1233,10,5.4,mww,81,58,4.472,0.72,us,us6000lb60,2023-09-27T18:11:02.504Z,"off the west coast of northern Sumatra",earthquake,6.57,1.678,0.08,15,reviewed,us,us
 2023-09-27T17:46:20.662Z,62.9187,-150.5315,91.9,1.5,ml,,,,0.35,ak,ak023cethz5e,2023-09-27T17:47:56.526Z,"48 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-27T17:32:39.590Z,33.4936667,-116.7545,6.66,0.73,ml,26,39,0.04261,0.21,ci,ci40573488,2023-09-27T17:36:15.757Z,"10 km SW of Anza, CA",earthquake,0.27,0.57,0.104,18,automatic,ci,ci
 2023-09-27T17:26:40.280Z,33.7138333,-116.763,16.29,0.57,ml,17,180,0.04259,0.12,ci,ci40573480,2023-09-27T17:55:05.712Z,"5 km SW of Idyllwild, CA",earthquake,0.35,0.51,0.083,8,reviewed,ci,ci
@@ -50,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T09:07:23.624Z,-6.9851,126.2832,465.843,4.2,mb,24,81,4.355,0.68,us,us6000lb28,2023-09-27T09:28:09.040Z,"165 km N of Baukau, Timor Leste",earthquake,12.9,8.021,0.147,13,reviewed,us,us
 2023-09-27T09:04:37.030Z,44.7405,-110.9833333,6.84,0.53,md,12,81,0.02488,0.14,uu,uu60550952,2023-09-27T13:37:25.320Z,"12 km NE of West Yellowstone, Montana",earthquake,0.33,0.65,0.228,9,reviewed,uu,uu
 2023-09-27T09:03:28.220Z,65.8831,-147.653,8.1,1.3,ml,,,,0.91,ak,ak023ceohb3k,2023-09-27T09:06:26.005Z,"54 km SSW of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-27T08:57:41.327Z,38.7229,-119.5097,9.8,0.7,ml,12,80.02,0.086,0.1145,nn,nn00866426,2023-09-27T18:12:07.288Z,"Nevada",earthquake,,1.7,0.39,2,reviewed,nn,nn
 2023-09-27T08:39:01.458Z,56.207,-158.7709,95.8,2.1,ml,,,,0.15,ak,ak023ceo3j7l,2023-09-27T08:40:15.344Z,"Alaska Peninsula",earthquake,,2.3,,,automatic,ak,ak
 2023-09-27T08:38:43.023Z,-18.8247,169.2845,111.712,4.6,mb,21,159,4.143,0.45,us,us6000lb27,2023-09-27T11:15:28.040Z,"79 km N of Isangel, Vanuatu",earthquake,6.05,8.459,0.132,17,reviewed,us,us
 2023-09-27T08:38:09.036Z,39.1164,-119.6525,6,0.2,ml,3,175.53,0.049,0,nn,nn00866425,2023-09-27T18:02:46.048Z,"Nevada",earthquake,,13.6,0,1,reviewed,nn,nn
@@ -182,6 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T18:40:06.980Z,38.8333321,-122.8141632,1.72,1.69,md,29,44,0.01042,0.02,nc,nc73942206,2023-09-26T22:49:40.615Z,"8 km W of Cobb, CA",earthquake,0.18,0.31,0.15,31,automatic,nc,nc
 2023-09-26T18:40:03.220Z,40.6906662,-123.5851669,28.14,3.38,ml,53,38,0.2119,0.15,nc,nc73942216,2023-09-27T09:44:22.572Z,"28 km S of Willow Creek, CA",earthquake,0.3,1.19,0.4,19,automatic,nc,nc
 2023-09-26T18:27:46.430Z,38.8328323,-122.8068314,2.3,0.26,md,8,142,0.009758,0,nc,nc73942196,2023-09-26T18:29:21.882Z,"7 km W of Cobb, CA",earthquake,0.64,0.97,0.1,9,automatic,nc,nc
-2023-09-26T18:27:15.810Z,36.1838333,-117.608,1.7,1.27,ml,13,230,0.2105,0.21,ci,ci40573056,2023-09-26T18:53:35.079Z,"34 km ENE of Coso Junction, CA",earthquake,1.23,2.19,0.133,5,reviewed,ci,ci
-2023-09-26T18:15:27.770Z,33.8556667,-117.484,-0.5,1.36,ml,29,48,0.05008,0.28,ci,ci40573048,2023-09-26T19:04:15.661Z,"4 km SE of Home Gardens, CA",quarry blast,0.41,31.61,0.133,19,reviewed,ci,ci
-2023-09-26T18:10:40.250Z,60.0485,-153.066666666667,1.84,-0.01,ml,5,134,,0.13,av,av92060091,2023-09-26T23:13:32.960Z,"Southern Alaska",earthquake,0.73,1.11,0.309324705297188,5,reviewed,av,av
