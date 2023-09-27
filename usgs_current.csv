@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-27T19:18:38.700Z,33.8718338,-117.5028305,3.43,1.31,ml,27,55,0.07253,0.26,ci,ci40573560,2023-09-27T19:20:45.141Z,"2 km ESE of Home Gardens, CA",earthquake,0.48,0.75,0.391,6,automatic,ci,ci
+2023-09-27T19:20:49.426Z,60.2507,-141.2174,17.2,1.3,ml,,,,0.67,ak,ak023ceujbym,2023-09-27T19:22:40.720Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-27T19:18:38.700Z,33.8718338,-117.5028305,3.43,1.31,ml,27,55,0.07253,0.26,ci,ci40573560,2023-09-27T19:22:16.359Z,"2 km ESE of Home Gardens, CA",earthquake,0.48,0.75,0.391,6,automatic,ci,ci
 2023-09-27T18:59:19.833Z,-8.228,129.0028,10,4.2,mb,14,116,5.042,0.88,us,us6000lb6d,2023-09-27T19:18:42.040Z,"223 km E of Lospalos, Timor Leste",earthquake,9.86,1.877,0.199,8,reviewed,us,us
 2023-09-27T18:23:41.411Z,63.6094,-147.8641,5.9,1.2,ml,,,,0.32,ak,ak023cetyivx,2023-09-27T18:25:24.904Z,"53 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-27T18:00:40.586Z,-18.9362,-178.0347,613.082,4.8,mb,60,48,3.467,0.56,us,us6000lb63,2023-09-27T18:17:34.040Z,"295 km ESE of Levuka, Fiji",earthquake,9.35,8.364,0.048,132,reviewed,us,us
@@ -120,6 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T01:26:29.870Z,46.20016666666667,-122.18066666666667,2.26,0.03,ml,7,138,0.03325,0.1,uw,uw61953552,2023-09-27T04:02:16.580Z,"38 km NNE of Amboy, Washington",earthquake,0.44,1.84,0.034127327624580095,4,reviewed,uw,uw
 2023-09-27T01:23:15.990Z,34.0468333,-117.2673333,11.32,1.08,ml,43,28,0.05982,0.14,ci,ci40573208,2023-09-27T16:35:45.467Z,"1 km WSW of Loma Linda, CA",earthquake,0.15,0.28,0.169,24,reviewed,ci,ci
 2023-09-27T01:15:53.410Z,33.2708333,-116.7775,12.49,0.72,ml,32,82,0.03814,0.15,ci,ci40573200,2023-09-27T16:24:44.643Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.21,0.49,0.12,12,reviewed,ci,ci
+2023-09-27T01:09:25.560Z,53.882,-166.936166666667,6.54,-0.19,ml,7,196,,0.14,av,av92060971,2023-09-27T19:27:56.640Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.53,0.98,0.225870266713179,7,reviewed,av,av
 2023-09-27T01:08:44.665Z,62.483,-147.1359,0,1.5,ml,,,,1.3,ak,ak023cejqy42,2023-09-27T01:14:43.824Z,"37 km NW of Lake Louise, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-27T01:07:46.160Z,39.7890015,-123.5938339,-0.13,2.37,md,24,100,0.08887,0.17,nc,nc73942366,2023-09-27T01:33:16.407Z,"15 km NW of Laytonville, CA",earthquake,0.39,13.35,0.1,18,automatic,nc,nc
 2023-09-27T01:03:11.954Z,61.4275,-149.8334,27.5,1.4,ml,,,,0.55,ak,ak023cejpt0b,2023-09-27T01:04:51.175Z,"6 km WSW of Knik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -185,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T19:56:12.792Z,-27.5561,-71.188,40.755,4.7,mb,53,146,0.767,0.62,us,us6000layl,2023-09-26T22:03:54.040Z,"Near the coast of Atacama, Chile",earthquake,3.53,6.978,0.09,40,reviewed,us,us
 2023-09-26T19:52:08.200Z,33.8691667,-117.507,-0.47,1.04,ml,23,56,0.07297,0.23,ci,ci40573072,2023-09-26T22:21:02.044Z,"2 km SE of Home Gardens, CA",quarry blast,0.48,31.61,0.154,18,reviewed,ci,ci
 2023-09-26T19:34:29.147Z,60.4877,-143.0943,13.6,0.6,ml,,,,0.7,ak,ak023cd72xxe,2023-09-26T19:36:38.984Z,"105 km S of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-26T19:25:16.190Z,38.8481674,-122.8170013,1.25,0.97,md,16,58,0.008161,0.04,nc,nc73942231,2023-09-26T19:26:52.330Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.58,0.24,16,automatic,nc,nc
-2023-09-26T19:25:01.861Z,1.1721,-79.1001,41.186,4.5,mb,46,145,1.266,0.68,us,us6000layf,2023-09-26T21:47:00.040Z,"near the coast of Ecuador",earthquake,5.97,6.542,0.104,30,reviewed,us,us
