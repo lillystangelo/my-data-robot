@@ -86,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T09:11:45.210Z,19.0611666666667,-67.2633333333333,10.01,3.21,md,13,283,0.6079,0.31,pr,pr71426098,2023-09-27T10:14:27.850Z,"65 km NNW of San Antonio, Puerto Rico",earthquake,2.26,2.96,0.0529777982888349,9,reviewed,pr,pr
 2023-09-27T09:07:23.624Z,-6.9851,126.2832,465.843,4.2,mb,24,81,4.355,0.68,us,us6000lb28,2023-09-27T09:28:09.040Z,"165 km N of Baukau, Timor Leste",earthquake,12.9,8.021,0.147,13,reviewed,us,us
 2023-09-27T09:04:37.030Z,44.7405,-110.9833333,6.84,0.53,md,12,81,0.02488,0.14,uu,uu60550952,2023-09-27T13:37:25.320Z,"12 km NE of West Yellowstone, Montana",earthquake,0.33,0.65,0.228,9,reviewed,uu,uu
+2023-09-27T09:04:27.500Z,52.1071666666667,-176.186333333333,-1.8,-0.07,ml,4,289,,0.18,av,av91116833,2023-09-27T22:34:32.910Z,"40 km NE of Adak, Alaska",earthquake,4.42,3.13,0.222228245191405,4,reviewed,av,av
 2023-09-27T09:03:28.220Z,65.8831,-147.653,8.1,1.3,ml,,,,0.91,ak,ak023ceohb3k,2023-09-27T09:06:26.005Z,"54 km SSW of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-27T08:57:41.327Z,38.7229,-119.5097,9.8,0.7,ml,12,80.02,0.086,0.1145,nn,nn00866426,2023-09-27T18:12:07.288Z,"Nevada",earthquake,,1.7,0.39,2,reviewed,nn,nn
 2023-09-27T08:56:39.340Z,47.81216666666667,-122.8925,20.48,1.2,ml,22,86,0.01236,0.22,uw,uw61953587,2023-09-27T20:26:45.170Z,"1 km SW of Quilcene, Washington",earthquake,0.6,0.62,0.19495981885772107,8,reviewed,uw,uw
@@ -202,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T22:55:07.250Z,32.0346667,-116.1751667,14.97,2.03,ml,21,87,0.1953,0.19,ci,ci40573160,2023-09-26T23:16:58.674Z,"46 km ENE of Ensenada, B.C., MX",earthquake,0.43,1.12,0.214,17,reviewed,ci,ci
 2023-09-26T22:46:22.130Z,36.0983333,-117.8555,2.51,2.36,ml,26,112,0.01921,0.12,ci,ci40573152,2023-09-26T23:12:48.910Z,"10 km NE of Coso Junction, CA",earthquake,0.28,0.26,0.112,25,reviewed,ci,ci
 2023-09-26T22:44:39.501Z,43.1837,-127.0405,10,3.4,ml,40,286,2.214,0.57,us,us6000lazq,2023-09-26T23:30:48.504Z,"212 km W of Langlois, Oregon",earthquake,12.18,2.024,0.042,76,reviewed,us,us
-2023-09-26T22:38:47.110Z,36.1008333,-117.8608333,2.83,1.35,ml,15,147,0.0174,0.13,ci,ci40573144,2023-09-26T23:08:41.007Z,"10 km NE of Coso Junction, CA",earthquake,0.43,0.58,0.097,7,reviewed,ci,ci
