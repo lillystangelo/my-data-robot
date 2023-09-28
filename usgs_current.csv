@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-28T21:06:37.520Z,38.7593346,-122.7375031,0.09,1.12,md,7,122,0.008588,0.01,nc,nc73943116,2023-09-28T21:08:13.442Z,"3 km SE of The Geysers, CA",earthquake,0.3,0.57,0.23,7,automatic,nc,nc
+2023-09-28T21:03:52.475Z,63.304,-149.3945,89.9,1.8,ml,,,,0.61,ak,ak023cgj5wq1,2023-09-28T21:06:30.987Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-28T20:36:12.891Z,36.005,-115.4792,4.2,2,ml,13,232.74,0.674,0.3711,nn,nn00866494,2023-09-28T20:46:32.850Z,"8 km SW of Blue Diamond, Nevada",earthquake,,3.5,0.87,11,automatic,nn,nn
-2023-09-28T20:06:19.930Z,33.314,-116.2378333,3.59,1.38,ml,45,28,0.1217,0.21,ci,ci40574080,2023-09-28T20:17:08.980Z,"14 km ENE of Borrego Springs, CA",earthquake,0.23,1.09,0.207,25,automatic,ci,ci
+2023-09-28T20:06:19.940Z,33.3105,-116.2363333,7.14,1.38,ml,46,29,0.1107,0.17,ci,ci40574080,2023-09-28T21:03:22.440Z,"14 km ENE of Borrego Springs, CA",earthquake,0.2,0.65,0.201,24,reviewed,ci,ci
 2023-09-28T19:46:18.256Z,13.253,-90.218,66.62,4.6,mb,112,177,0.773,1.03,us,us6000lbi6,2023-09-28T20:42:28.040Z,"near the coast of Guatemala",earthquake,7.46,7.2,0.039,196,reviewed,us,us
 2023-09-28T19:43:36.774Z,-5.9379,149.1563,89.725,5.2,mb,72,76,3.462,0.98,us,us6000lbi7,2023-09-28T19:59:03.040Z,"52 km NW of Kandrian, Papua New Guinea",earthquake,7.75,6.725,0.065,79,reviewed,us,us
 2023-09-28T19:39:04.408Z,-5.3133,152.9254,10,4.5,mb,34,154,1.349,0.88,us,us6000lbi4,2023-09-28T20:28:26.040Z,"New Britain region, Papua New Guinea",earthquake,11.51,1.923,0.101,29,reviewed,us,us
 2023-09-28T19:29:53.640Z,59.9606,-152.4085,77,1.7,ml,,,,0.26,ak,ak023cgi4m84,2023-09-28T19:31:41.480Z,"37 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-28T19:29:27.840Z,32.699,-115.5556667,14.72,1.49,ml,16,175,0.06223,0.29,ci,ci40574040,2023-09-28T20:54:55.735Z,"4 km SW of Heber, CA",earthquake,0.64,0.8,0.424,10,reviewed,ci,ci
+2023-09-28T19:29:27.850Z,32.699,-115.5556667,14.71,1.49,ml,16,175,0.06223,0.29,ci,ci40574040,2023-09-28T20:55:15.839Z,"4 km SW of Heber, CA",earthquake,0.64,0.8,0.424,10,reviewed,ci,ci
 2023-09-28T19:25:22.460Z,35.5871667,-117.4628333,2.48,1.32,ml,22,64,0.08405,0.14,ci,ci40574032,2023-09-28T20:47:52.694Z,"20 km E of Ridgecrest, CA",earthquake,0.19,0.35,0.216,10,reviewed,ci,ci
 2023-09-28T19:23:17.510Z,32.7308333,-115.5581667,10.74,1.75,ml,28,47,0.03749,0.24,ci,ci40574024,2023-09-28T20:40:55.901Z,"3 km W of Heber, CA",earthquake,0.3,0.65,0.237,20,reviewed,ci,ci
 2023-09-28T19:21:17.447Z,-5.2575,152.7555,48.948,5.7,mww,67,56,1.212,0.81,us,us6000lbhd,2023-09-28T19:39:04.791Z,"114 km SSE of Kokopo, Papua New Guinea",earthquake,7.07,6.324,0.061,26,reviewed,us,us
