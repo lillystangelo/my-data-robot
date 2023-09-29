@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-29T08:44:50.170Z,33.2733345,-116.7805023,11.69,1.23,ml,42,34,0.04147,0.19,ci,ci40574296,2023-09-29T08:46:56.711Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.25,0.84,0.165,9,automatic,ci,ci
+2023-09-29T08:44:50.170Z,33.272,-116.7821667,11.2,1.11,ml,35,34,0.04093,0.2,ci,ci40574296,2023-09-29T08:48:21.859Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.24,0.7,0.146,26,automatic,ci,ci
 2023-09-29T08:38:14.031Z,60.4961,-146.3294,58.8,1.7,ml,,,,1.16,ak,ak023chz61gh,2023-09-29T08:41:30.669Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T08:37:10.984Z,60.9654,-150.2044,40.2,1.1,ml,,,,0.77,ak,ak023chz5ti2,2023-09-29T08:38:29.416Z,"26 km E of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T08:25:22.800Z,36.9970016,-121.2105026,3.39,1.46,md,11,139,0.06222,0.11,nc,nc73943226,2023-09-29T08:27:00.474Z,"24 km NE of Hollister, CA",earthquake,0.45,2.31,0.14,8,automatic,nc,nc
