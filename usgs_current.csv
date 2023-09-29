@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-29T14:51:05.330Z,33.4276657,-116.909668,6.57,1.01,ml,25,57,0.05401,0.19,ci,ci40574408,2023-09-29T14:53:23.794Z,"4 km WSW of Aguanga, CA",earthquake,0.34,0.99,0.135,11,automatic,ci,ci
-2023-09-29T14:46:30.650Z,38.8181648,-122.8011703,2.42,2.13,md,50,33,0.008698,0.06,nc,nc73943366,2023-09-29T14:53:18.339Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.25,0.12,49,automatic,nc,nc
+2023-09-29T15:07:53.429Z,61.463,-150.7247,55,1.3,ml,,,,0.45,ak,ak023ci35ij2,2023-09-29T15:09:25.941Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-09-29T15:07:52.150Z,38.8321648,-122.8174973,1.8,0.65,md,10,84,0.0105,0.01,nc,nc73943381,2023-09-29T15:09:29.981Z,"8 km NW of The Geysers, CA",earthquake,0.38,0.92,0.49,10,automatic,nc,nc
+2023-09-29T14:53:23.630Z,38.8203316,-122.7991638,2.87,1.1,md,14,69,0.009055,0.03,nc,nc73943371,2023-09-29T14:54:59.843Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.65,0.18,16,automatic,nc,nc
+2023-09-29T14:51:05.250Z,33.4253333,-116.9041667,8.27,0.96,ml,25,62,0.07952,0.19,ci,ci40574408,2023-09-29T14:54:35.468Z,"4 km WSW of Aguanga, CA",earthquake,0.26,0.88,0.115,24,automatic,ci,ci
+2023-09-29T14:46:30.650Z,38.8181648,-122.8011703,2.42,2.13,md,50,33,0.008698,0.06,nc,nc73943366,2023-09-29T15:08:14.436Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.25,0.12,49,automatic,nc,nc
 2023-09-29T14:27:05.780Z,38.8343315,-122.8198318,1.35,0.7,md,7,110,0.01294,0.02,nc,nc73943356,2023-09-29T14:28:39.656Z,"8 km NW of The Geysers, CA",earthquake,0.48,1.52,0.36,8,automatic,nc,nc
 2023-09-29T14:24:21.290Z,19.1700000762939,-155.498992919922,31.1299991607666,2,md,45,203,,0.159999996,hv,hv73588042,2023-09-29T14:27:24.000Z,"Hawaii region, Hawaii",earthquake,0.64,0.689999998,1.69000006,15,automatic,hv,hv
 2023-09-29T14:03:32.000Z,38.8300018,-122.8184967,1.79,2.62,md,53,37,0.009317,0.06,nc,nc73943336,2023-09-29T14:25:14.157Z,"8 km NW of The Geysers, CA",earthquake,0.14,0.21,0.15,66,automatic,nc,nc
@@ -75,8 +78,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T06:02:45.020Z,38.8161659,-122.8184967,2.45,1.25,md,26,49,0.009767,0.03,nc,nc73943206,2023-09-29T06:04:19.827Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.41,0.2,28,automatic,nc,nc
 2023-09-29T05:56:58.700Z,33.3358333,-116.3626667,11.21,1.21,ml,40,33,0.08144,0.19,ci,ci40574264,2023-09-29T06:00:37.228Z,"9 km N of Borrego Springs, CA",earthquake,0.28,0.52,0.168,27,automatic,ci,ci
 2023-09-29T05:51:46.157Z,58.922,-154.4249,120.1,1.7,ml,,,,0.4,ak,ak023chxglfb,2023-09-29T05:55:30.913Z,"61 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-29T05:50:26.640Z,35.5188333,-118.3905,4.89,2.25,ml,37,28,0.159,0.2,ci,ci40574256,2023-09-29T06:01:22.600Z,"12 km SE of Bodfish, CA",earthquake,0.22,1.93,0.229,26,automatic,ci,ci
-2023-09-29T05:45:50.230Z,35.8848333,-117.6798333,2.74,1.5,ml,16,163,0.1028,0.18,ci,ci40574248,2023-09-29T05:49:23.934Z,"21 km ESE of Little Lake, CA",earthquake,0.47,1.5,0.161,10,automatic,ci,ci
+2023-09-29T05:50:26.590Z,35.5168333,-118.394,5.04,2.4,ml,45,28,0.1596,0.16,ci,ci40574256,2023-09-29T15:08:20.690Z,"12 km SE of Bodfish, CA",earthquake,0.13,0.96,0.219,17,reviewed,ci,ci
+2023-09-29T05:45:50.270Z,35.8836667,-117.6821667,2.59,1.52,ml,24,94,0.1007,0.17,ci,ci40574248,2023-09-29T14:55:54.475Z,"21 km ESE of Little Lake, CA",earthquake,0.24,0.4,0.218,7,reviewed,ci,ci
 2023-09-29T05:39:44.103Z,-21.3118,-68.6196,117.332,4.4,mb,15,56,0.853,0.5,us,us6000lbm5,2023-09-29T12:05:07.040Z,"39 km WSW of Ollagüe, Chile",earthquake,8.56,11.992,0.189,8,reviewed,us,us
 2023-09-29T05:35:26.460Z,36.217,-89.44,8.1,1.8,md,23,53,0.02061,0.06,nm,nm60553481,2023-09-29T12:46:18.370Z,"Tennessee",earthquake,0.15,0.33,0.159522246340359,23,reviewed,nm,nm
 2023-09-29T05:35:25.893Z,62.2128,-150.1019,13.9,1.3,ml,,,,0.34,ak,ak023chxd4el,2023-09-29T05:37:27.585Z,"12 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -193,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T15:26:22.450Z,34.5173333,-118.1023333,10,1.62,ml,30,39,0.03589,0.11,ci,ci40573864,2023-09-28T18:53:33.454Z,"2 km NE of Vincent, CA",earthquake,0.15,0.25,0.195,17,reviewed,ci,ci
 2023-09-28T15:25:10.830Z,34.2361667,-117.4566667,10.48,1.06,ml,30,59,0.04393,0.23,ci,ci40573856,2023-09-28T18:01:13.620Z,"5 km ESE of Lytle Creek, CA",earthquake,0.29,0.4,0.203,11,reviewed,ci,ci
 2023-09-28T15:21:28.528Z,31.644,-104.471,6.9028,2.2,ml(texnet),20,73,0,0.1,tx,tx2023tamf,2023-09-29T13:12:53.828Z,"59 km S of Whites City, New Mexico",earthquake,1.523635288,0.7160584166,0,6,reviewed,tx,tx
-2023-09-28T14:59:42.130Z,51.8708333333333,-177.996666666667,6.65,-0.01,ml,4,158,,0.14,av,av91116958,2023-09-29T01:52:21.480Z,"93 km W of Adak, Alaska",earthquake,0.56,1.07,0.181490711528744,4,reviewed,av,av
