@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-30T11:42:45.580Z,32.9891663,-116.4431686,11.64,1.42,ml,38,69,0.03236,0.21,ci,ci40574824,2023-09-30T11:44:52.090Z,"18 km SE of Julian, CA",earthquake,0.35,0.74,0.139,4,automatic,ci,ci
+2023-09-30T11:51:15.960Z,32.6821667,-115.5266667,20.77,1.64,ml,7,232,0.1148,0.22,ci,ci40574832,2023-09-30T11:54:55.542Z,"3 km W of Calexico, CA",earthquake,1.37,1.86,0.237,17,automatic,ci,ci
+2023-09-30T11:42:45.570Z,32.9835,-116.4428333,11.38,1.29,ml,30,66,0.02946,0.19,ci,ci40574824,2023-09-30T11:53:34.820Z,"18 km SE of Julian, CA",earthquake,0.31,0.66,0.199,26,automatic,ci,ci
 2023-09-30T11:28:39.251Z,62.125,-151.9399,105.6,1.5,ml,,,,0.79,ak,ak023cjofljp,2023-09-30T11:31:42.941Z,"32 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-30T11:23:41.540Z,38.6834984,-122.4950027,8.28,1.27,md,9,112,0.0908,0.06,nc,nc73943741,2023-09-30T11:25:18.970Z,"13 km NNW of Angwin, CA",earthquake,0.42,1.86,0.13,9,automatic,nc,nc
 2023-09-30T11:21:51.731Z,35.33319473,-97.92823792,6.341255188,1.73,ml,17,105.7129517,0.05790131912,0.3326879075,ok,ok2023tdvi,2023-09-30T11:25:09.801Z,"2 km NNE of Minco, Oklahoma",earthquake,3.267394797,3.463665576,0.23,11,automatic,ok,ok
