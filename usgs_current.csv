@@ -235,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T08:38:14.031Z,60.4961,-146.3294,58.8,1.7,ml,,,,1.16,ak,ak023chz61gh,2023-09-29T08:41:30.669Z,"31 km W of Cordova, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T08:37:15.017Z,58.3296,-147.4882,10,2.8,ml,48,221,1.254,0.53,us,us6000lbmr,2023-09-29T12:23:19.040Z,"195 km S of Chenega, Alaska",earthquake,8.17,2.013,0.038,92,reviewed,us,us
 2023-09-29T08:37:10.984Z,60.9654,-150.2044,40.2,1.1,ml,,,,0.77,ak,ak023chz5ti2,2023-09-29T08:38:29.416Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-29T08:25:22.590Z,37.0036667,-121.1985,2.3,1.5,md,38,70,0.07098,0.17,nc,nc73943226,2023-09-29T16:40:11.228Z,"25 km NE of Hollister, CA",earthquake,0.23,1.31,0.17,32,reviewed,nc,nc
-2023-09-29T08:23:03.850Z,58.2668333333333,-154.766,30.57,0.78,ml,12,187,,0.16,av,av92066726,2023-09-29T23:40:44.410Z,"Alaska Peninsula",earthquake,0.99,0.77,0.294680808138963,14,reviewed,av,av
-2023-09-29T08:22:37.333Z,57.9765,-154.4933,250,1.4,ml,,,,0.74,ak,ak023chz2nsl,2023-09-29T08:25:43.861Z,"45 km N of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
