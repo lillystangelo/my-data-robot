@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T07:34:04.309Z,69.5196,-144.0849,1.1,2.5,ml,,,,0.92,ak,ak023chyjq8e,2023-09-29T07:37:24.080Z,"northern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-29T07:29:36.679Z,63.0839,-148.5703,61.6,1.7,ml,,,,0.54,ak,ak023chyiq52,2023-09-29T07:31:15.409Z,"39 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-29T07:25:15.831Z,63.2299,-151.3593,8.6,1.1,ml,,,,0.8,ak,ak023chyhtof,2023-09-29T07:27:17.121Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-29T07:13:04.006Z,58.291,-154.8115,32,0.9,ml,,,,0.84,ak,ak023chyf868,2023-09-29T23:14:12.320Z,"83 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
