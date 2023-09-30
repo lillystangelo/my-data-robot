@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-30T08:42:30.909Z,59.6375,-153.6197,17.1,1.9,ml,,,,1.18,ak,ak023cjmqa42,2023-09-30T08:46:46.828Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-30T08:42:24.739Z,59.782,-153.6146,154.7,1.9,ml,,,,0.5,ak,ak023cjmq9op,2023-09-30T08:44:46.414Z,"27 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-09-30T08:30:17.664Z,36.7606,71.1932,211.728,4.2,mb,41,106,2.754,0.58,us,us6000lbvx,2023-09-30T08:45:22.040Z,"31 km WNW of Ashkāsham, Afghanistan",earthquake,4.73,10.679,0.1,28,reviewed,us,us
 2023-09-30T08:18:43.364Z,61.3827,-150.0593,35,1.6,ml,,,,0.39,ak,ak023cjml5w0,2023-09-30T08:20:14.503Z,"5 km WNW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-30T07:40:51.979Z,61.1308,-147.8517,0,1.1,ml,,,,0.53,ak,ak023cjm4gp9,2023-09-30T07:42:37.549Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-30T07:40:10.284Z,40.5682,-119.6025,0,1.4,ml,8,263.2,0.41,0.2831,nn,nn00866564,2023-09-30T07:42:45.084Z,"22 km W of Empire, Nevada",earthquake,,21,0.36,5,automatic,nn,nn
@@ -232,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T08:57:38.200Z,47.6075,-121.79566666666666,16.75,1.3800000000000001,ml,32,58,0.1083,0.23,uw,uw61962921,2023-09-29T22:24:57.440Z,"8 km ENE of Fall City, Washington",earthquake,0.33,0.53,0.132529135183292,24,reviewed,uw,uw
 2023-09-29T08:53:02.610Z,60.2361666666667,-152.855166666667,10.99,0.02,ml,11,168,,0.06,av,av91117068,2023-09-29T23:55:56.040Z,"69 km WNW of Ninilchik, Alaska",earthquake,0.74,1.07,0.266253462478075,11,reviewed,av,av
 2023-09-29T08:53:02.400Z,60.2316666666667,-152.844166666667,12.97,0.02,ml,14,171,,0.13,av,av92066761,2023-09-29T23:47:57.150Z,"68 km WNW of Ninilchik, Alaska",earthquake,0.99,0.8,0.266151646398995,14,reviewed,av,av
-2023-09-29T08:44:50.110Z,33.2726667,-116.7801667,12.39,1.12,ml,51,25,0.04075,0.16,ci,ci40574296,2023-09-29T17:20:08.209Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.15,0.48,0.145,24,reviewed,ci,ci
