@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-30T13:09:33.687Z,58.2565,-155.1523,4,1.4,ml,,,,0.12,ak,ak023cjpidq0,2023-09-30T13:10:31.331Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
+2023-09-30T13:08:17.740Z,38.7871666,-122.7438354,1.63,0.72,md,7,89,0.006803,0.01,nc,nc73943791,2023-09-30T13:09:54.111Z,"2 km NE of The Geysers, CA",earthquake,0.34,1,0.06,6,automatic,nc,nc
 2023-09-30T12:53:54.590Z,38.8219986,-122.8108368,2.51,1.04,md,17,41,0.001516,0.02,nc,nc73943786,2023-09-30T12:55:29.086Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.64,0.31,22,automatic,nc,nc
 2023-09-30T12:46:17.378Z,38.8801,-119.636,0.7,1.8,ml,12,84.6,0.113,0.1538,nn,nn00866574,2023-09-30T12:48:38.280Z,"2 km NNE of Carter Springs, Nevada",earthquake,,7.5,0.31,8,automatic,nn,nn
 2023-09-30T12:40:32.616Z,60.3734,-147.6999,18,1.5,ml,,,,0.2,ak,ak023cjp3l8d,2023-09-30T12:45:47.355Z,"38 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -232,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T13:25:00.710Z,40.4745,-121.5161667,3.55,1.53,md,11,128,0.06234,0.05,nc,nc73943331,2023-09-30T08:33:10.780Z,"14 km NNE of Mineral, CA",earthquake,0.36,0.8,0.118,12,reviewed,nc,nc
 2023-09-29T13:17:09.270Z,38.8361664,-122.8284988,1.31,1.47,md,24,70,0.00597,0.01,nc,nc73943326,2023-09-29T13:18:44.735Z,"9 km NW of The Geysers, CA",earthquake,0.17,0.33,0.17,24,automatic,nc,nc
 2023-09-29T13:14:26.670Z,34.1476667,-116.43,6.8,2.2,ml,55,53,0.05293,0.18,ci,ci40574384,2023-09-29T13:47:11.380Z,"4 km N of Yucca Valley, CA",earthquake,0.2,0.57,0.179,26,reviewed,ci,ci
-2023-09-29T12:59:27.370Z,60.0235,-153.082333333333,-2.56,-0.99,ml,5,105,,0.18,av,av92066931,2023-09-30T00:12:37.670Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.38,3,0.181706038129783,5,reviewed,av,av
-2023-09-29T12:57:15.240Z,60.5438333333333,-152.773666666667,6.42,-0.29,ml,8,103,,0.04,av,av92066926,2023-09-29T18:38:31.940Z,"Southern Alaska",earthquake,0.31,0.57,0.275816982368683,8,reviewed,av,av
