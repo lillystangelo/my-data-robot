@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T19:54:02.260Z,32.717,-115.553,10.35,1.61,ml,12,110,0.07477,0.18,ci,ci40574944,2023-09-30T19:57:42.181Z,"3 km SW of Heber, CA",earthquake,0.61,1.15,0.261,18,automatic,ci,ci
 2023-09-30T19:14:04.931Z,-16.1683,-174.0029,103.325,4.6,mb,60,114,2.467,0.54,us,us6000lbye,2023-09-30T22:18:48.040Z,"32 km SW of Hihifo, Tonga",earthquake,11.02,5.666,0.06,87,reviewed,us,us
 2023-09-30T19:03:06.746Z,37.2772,-117.5888,4.3,0.7,ml,12,129.47,0.063,0.2534,nn,nn00866589,2023-09-30T19:05:30.203Z,"53 km S of Silver Peak, Nevada",earthquake,,2.4,0.91,9,automatic,nn,nn
-2023-09-30T18:52:44.260Z,19.253833770752,-155.395660400391,30.2000007629395,1.80999994,md,30,149,,0.100000001,hv,hv73588722,2023-09-30T18:55:56.220Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.889999986,1.80999994,4,automatic,hv,hv
