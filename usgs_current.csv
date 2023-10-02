@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T10:25:46.575Z,-4.2196,143.1703,86.8,4.6,mb,43,79,2.989,0.59,us,us6000lc2p,2023-10-01T10:46:58.040Z,"New Guinea, Papua New Guinea",earthquake,11.01,8.238,0.1,30,reviewed,us,us
 2023-10-01T10:18:53.246Z,62.4885,-151.322,84.5,1.9,ml,,,,0.41,ak,ak023clbbecs,2023-10-01T10:20:49.951Z,"28 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-01T09:59:21.960Z,38.8201675,-122.822998,2.1,0.93,md,11,83,0.009849,0.01,nc,nc73944096,2023-10-01T10:00:56.539Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.8,0.31,13,automatic,nc,nc
-2023-10-01T09:53:53.460Z,34.0051667,-118.3531667,9.3,1.44,ml,33,58,0.01623,0.27,ci,ci40575064,2023-10-01T10:04:39.560Z,"1 km NNW of View Park-Windsor Hills, CA",earthquake,0.4,0.77,0.17,28,automatic,ci,ci
