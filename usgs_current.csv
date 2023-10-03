@@ -1,13 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T14:25:52.500Z,33.6953333,-116.7216667,17.43,0.89,ml,26,60,0.02041,0.24,ci,ci40576080,2023-10-03T14:29:28.986Z,"5 km S of Idyllwild, CA",earthquake,0.52,0.74,0.166,20,automatic,ci,ci
 2023-10-03T14:17:57.023Z,61.3569,-149.9135,34.8,1.4,ml,,,,0.71,ak,ak023coormc6,2023-10-03T14:20:15.809Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-03T14:16:05.690Z,38.8306656,-122.809166,-0.84,0.79,md,9,86,0.007295,0.28,nc,nc73944986,2023-10-03T14:17:42.707Z,"8 km NW of The Geysers, CA",earthquake,0.74,2.56,0.26,9,automatic,nc,nc
-2023-10-03T14:12:29.440Z,38.8240013,-122.810997,1.49,0.93,md,10,72,0.0009415,0.02,nc,nc73944981,2023-10-03T14:14:03.371Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.8,0.2,15,automatic,nc,nc
+2023-10-03T14:12:29.440Z,38.8240013,-122.810997,1.49,0.93,md,10,72,0.0009415,0.02,nc,nc73944981,2023-10-03T14:29:18.774Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.8,0.2,15,automatic,nc,nc
 2023-10-03T14:01:48.420Z,38.8240013,-122.8098297,1.11,1.49,md,28,35,0.0006348,0.03,nc,nc73944971,2023-10-03T14:18:13.704Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.3,0.18,26,automatic,nc,nc
 2023-10-03T13:57:05.090Z,32.7068333,-115.7201667,7.52,1.51,ml,14,107,0.05758,0.18,ci,ci40576072,2023-10-03T14:00:48.550Z,"18 km WSW of El Centro, CA",earthquake,0.53,0.76,0.296,17,automatic,ci,ci
+2023-10-03T13:56:33.280Z,44.7438333,-110.7935,2.31,0.08,md,4,151,0.06024,0.14,uu,uu60551397,2023-10-03T14:33:38.670Z,"Wyoming",earthquake,0.59,8.81,0.362,4,reviewed,uu,uu
 2023-10-03T13:53:05.043Z,4.5485,127.5889,86.554,5.1,mb,69,85,3.205,0.71,us,us6000lchx,2023-10-03T14:12:37.040Z,"253 km ESE of Sarangani, Philippines",earthquake,8.56,7.056,0.043,174,reviewed,us,us
 2023-10-03T13:40:24.871Z,37.3712,-117.1971,0,0.8,ml,12,196.56,0.383,0.3263,nn,nn00866679,2023-10-03T13:42:47.462Z,"37 km S of Goldfield, Nevada",earthquake,,50.4,0.92,6,automatic,nn,nn
 2023-10-03T13:29:55.974Z,39.7422,-120.5432,4.2,1.4,ml,8,269.72,0.188,0.1959,nn,nn00866678,2023-10-03T13:32:55.941Z,"2 km ENE of Valley Ranch, California",earthquake,,2.3,0.14,4,automatic,nn,nn
 2023-10-03T13:27:07.640Z,32.915,-116.2505,8.75,1.22,ml,29,95,0.05947,0.23,ci,ci40576048,2023-10-03T13:30:45.432Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.39,0.77,0.17,19,automatic,ci,ci
+2023-10-03T13:20:32.247Z,38.9064,71.8714,10,4.7,mb,60,112,1.409,0.91,us,us6000lcht,2023-10-03T14:29:09.040Z,"Tajikistan",earthquake,9.06,1.914,0.08,47,reviewed,us,us
 2023-10-03T13:20:25.730Z,38.8303337,-122.817337,1.77,0.83,md,7,100,0.008955,0.02,nc,nc73944956,2023-10-03T13:52:15.552Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.28,0.3,8,automatic,nc,nc
 2023-10-03T13:15:41.167Z,32.6631,-109.1169,5,3.3,ml,19,114,0.111,0.32,us,us6000lchs,2023-10-03T13:44:02.061Z,"3 km WSW of Franklin, Arizona",earthquake,2.49,1.977,0.051,50,reviewed,us,us
 2023-10-03T13:13:27.577Z,62.7171,-151.4544,88.8,1.9,ml,,,,0.78,ak,ak023coo59lh,2023-10-03T13:16:04.825Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -68,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T06:02:46.910Z,19.1949996948242,-155.490493774414,34.6199989318848,2.02999997,md,46,76,,0.100000001,hv,hv73590457,2023-10-03T06:05:48.110Z,"1 km SW of Pāhala, Hawaii",earthquake,0.56,0.860000014,1.85000002,10,automatic,hv,hv
 2023-10-03T05:52:53.070Z,38.8274994,-122.8506699,1.61,1.05,md,20,74,0.004845,0.02,nc,nc73944881,2023-10-03T06:09:36.127Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.39,0.2,21,automatic,nc,nc
 2023-10-03T05:51:15.200Z,17.9628333333333,-66.9616666666667,8.46,2.32,md,5,217,0.07885,0.15,pr,pr71427368,2023-10-03T06:01:26.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.85,1.74,0.0418521303438393,3,reviewed,pr,pr
-2023-10-03T05:49:51.580Z,37.3185005,-122.0631638,5.4,1.89,md,32,79,0.0278,0.1,nc,nc73944876,2023-10-03T14:04:00.112Z,"3 km W of Cupertino, CA",earthquake,0.18,0.31,0.13,20,automatic,nc,nc
+2023-10-03T05:49:51.580Z,37.3185005,-122.0631638,5.4,1.89,md,32,79,0.0278,0.1,nc,nc73944876,2023-10-03T14:32:42.296Z,"3 km W of Cupertino, CA",earthquake,0.18,0.31,0.13,20,automatic,nc,nc
 2023-10-03T05:23:07.680Z,38.7938347,-122.7561646,0.69,0.86,md,11,86,0.01851,0.03,nc,nc73944871,2023-10-03T05:24:41.100Z,"2 km N of The Geysers, CA",earthquake,0.28,0.79,0.27,11,automatic,nc,nc
 2023-10-03T05:04:20.380Z,38.8146667,-122.8201675,2.98,1.08,md,21,51,0.009115,0.02,nc,nc73944866,2023-10-03T05:05:56.180Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.48,0.14,24,automatic,nc,nc
 2023-10-03T04:55:02.470Z,38.8243332,-122.7651672,1.96,0.74,md,11,123,0.007163,0.02,nc,nc73944861,2023-10-03T05:46:13.946Z,"4 km W of Cobb, CA",earthquake,0.38,0.61,0.05,11,automatic,nc,nc
@@ -76,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T04:47:51.130Z,36.5099983,-121.0773315,8.11,1.56,md,9,141,0.05679,0.04,nc,nc73944856,2023-10-03T07:30:13.482Z,"6 km ESE of Pinnacles, CA",earthquake,0.58,1.16,0.14,6,automatic,nc,nc
 2023-10-03T04:46:43.170Z,38.8074989,-122.8191681,2.95,0.94,md,7,134,0.007939,0.01,nc,nc73944851,2023-10-03T06:37:14.231Z,"6 km WNW of The Geysers, CA",earthquake,0.9,1.85,0.19,8,automatic,nc,nc
 2023-10-03T04:46:20.748Z,-4.4847,153.4617,116.708,4.7,mb,56,133,12.884,0.5,us,us6000lcek,2023-10-03T05:08:23.040Z,"133 km E of Kokopo, Papua New Guinea",earthquake,11.15,5.832,0.064,74,reviewed,us,us
-2023-10-03T04:41:53.650Z,33.292,-116.8423333,10.83,1.03,ml,29,46,0.08958,0.23,ci,ci40575824,2023-10-03T04:45:40.700Z,"7 km SSE of Palomar Observatory, CA",earthquake,0.28,0.68,0.157,25,automatic,ci,ci
+2023-10-03T04:41:53.480Z,33.2853333,-116.8418333,12.41,1.01,ml,48,32,0.08525,0.19,ci,ci40575824,2023-10-03T14:36:19.066Z,"8 km SSE of Palomar Observatory, CA",earthquake,0.18,0.56,0.175,22,reviewed,ci,ci
 2023-10-03T04:41:41.618Z,64.7168,-147.8198,24,1.1,ml,,,,0.33,ak,ak023coiyea9,2023-10-03T04:43:41.146Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-03T04:41:22.370Z,38.7861671,-122.7581635,-0.85,1.07,md,8,101,0.01449,0.13,nc,nc73944846,2023-10-03T06:08:15.080Z,"1 km N of The Geysers, CA",earthquake,0.38,1.53,0.28,9,automatic,nc,nc
 2023-10-03T04:39:51.628Z,63.8243,-149.2819,117.4,1.9,ml,,,,0.22,ak,ak023coixzln,2023-10-03T04:42:22.084Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -184,7 +187,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T15:37:59.194Z,59.6643,-153.0802,103.2,2,ml,,,,0.25,ak,ak023cn1xzui,2023-10-02T16:31:46.040Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-02T15:10:43.403Z,63.9134,-149.4672,106.2,1.6,ml,,,,0.37,ak,ak023cn1s6dw,2023-10-02T15:12:46.572Z,"20 km SW of Ferry, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-10-02T15:07:04.220Z,17.9316666666667,-66.9446666666667,8.44,2.46,md,5,225,0.07575,0.09,pr,pr71427283,2023-10-02T15:21:48.040Z,"Puerto Rico region",earthquake,1.07,1.61,0.0379700160802658,2,reviewed,pr,pr
-2023-10-02T15:06:38.310Z,48.18516666666667,-121.538,12.8,0.71,md,5,120,0.0731,0.06,uw,uw61963531,2023-10-02T16:13:18.420Z,"9 km SSE of Darrington, Washington",earthquake,0.77,0.57,0.167407221959067,4,reviewed,uw,uw
+2023-10-02T15:06:38.310Z,48.18516666666667,-121.538,12.8,0.71,md,5,120,0.0731,0.06,uw,uw61963531,2023-10-02T16:13:18.420Z,"Washington",earthquake,0.77,0.57,0.167407221959067,4,reviewed,uw,uw
 2023-10-02T14:38:08.870Z,38.8081665,-122.8276672,1.73,0.74,md,9,98,0.001373,0.01,nc,nc73944606,2023-10-02T14:39:45.081Z,"7 km WNW of The Geysers, CA",earthquake,0.35,0.7,0.42,9,automatic,nc,nc
-2023-10-02T14:35:52.767Z,60.8033,-151.0336,57.4,1.7,ml,,,,0.45,ak,ak023cn1c4ek,2023-10-02T14:38:00.035Z,"18 km NE of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-10-02T14:29:33.603Z,26.0678,97.012,37.039,4.3,mb,25,93,5.207,0.7,us,us6000lc9d,2023-10-02T16:24:37.040Z,"25 km SE of Sarupathar, India",earthquake,7.59,9.908,0.154,14,reviewed,us,us
