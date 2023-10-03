@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T14:03:40.142Z,38.8167,71.6851,13.617,5.3,mww,112,41,0.666,1.14,us,us6000lc91,2023-10-02T14:23:19.040Z,"48 km SSE of Karakenja, Tajikistan",earthquake,4.92,3.372,0.061,26,reviewed,us,us
 2023-10-02T13:59:40.526Z,63.5778,-147.7729,3.6,3,ml,,,,0.65,ak,ak023cn0vt1d,2023-10-02T16:16:24.040Z,"59 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-02T13:51:22.450Z,38.8236656,-122.8063354,2.64,0.76,md,11,73,0.002933,0.01,nc,nc73944591,2023-10-02T13:52:59.900Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.99,0.15,13,automatic,nc,nc
-2023-10-02T13:33:12.300Z,42.95633333333333,-122.12583333333333,4.01,-0.65,md,3,195,0.02801,0.05,uw,uw61963501,2023-10-02T16:18:05.720Z,"37 km NE of Prospect, Oregon",earthquake,1.45,0.9,0.019332795558746285,2,reviewed,uw,uw
+2023-10-02T13:33:12.300Z,42.95633333333333,-122.12583333333333,4.01,-0.65,md,3,195,0.02801,0.05,uw,uw61963501,2023-10-02T16:18:05.720Z,"Crater Lake area, Oregon",earthquake,1.45,0.9,0.019332795558746285,2,reviewed,uw,uw
 2023-10-02T13:26:24.560Z,36.7554,139.7939,125.458,4.4,mb,64,126,1.292,0.8,us,us6000lc8v,2023-10-02T15:54:06.040Z,"eastern Honshu, Japan",earthquake,7.94,7.539,0.082,43,reviewed,us,us
 2023-10-02T13:15:21.426Z,29.888,139.842,120.161,4.4,mb,45,135,3.218,0.69,us,us6000lc8y,2023-10-02T16:05:39.040Z,"Izu Islands, Japan region",earthquake,12.37,8.118,0.092,34,reviewed,us,us
 2023-10-02T12:52:48.030Z,33.3215,-116.3525,12.31,1.35,ml,50,33,0.01332,0.18,ci,ci40575464,2023-10-02T23:41:03.000Z,"8 km NNE of Borrego Springs, CA",earthquake,0.18,0.45,0.177,26,reviewed,ci,ci
@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T05:46:09.660Z,44.746,-110.9076667,7.8,0.39,md,12,95,0.05874,0.15,uu,uu60551277,2023-10-02T15:21:16.470Z,"Yellowstone National Park, Wyoming",earthquake,0.39,0.55,0.237,8,reviewed,uu,uu
 2023-10-02T05:44:35.675Z,37.4447,-116.5385,13.3,1.4,ml,37,112.52,0.171,0.183,nn,nn00866624,2023-10-02T16:54:35.882Z,"62 km NNE of Beatty, Nevada",earthquake,,1.9,0.27,22,reviewed,nn,nn
 2023-10-02T05:38:25.478Z,60.6008,-142.6703,25.3,1.4,ml,,,,0.23,ak,ak023cmvzt03,2023-10-02T05:40:34.434Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-02T05:34:18.944Z,-20.8347,-178.7686,593.558,4.6,mb,97,82,3.347,0.6,us,us6000lc75,2023-10-02T06:06:48.040Z,"Fiji region",earthquake,12.74,8.57,0.033,279,reviewed,us,us
