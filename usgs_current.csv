@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T04:10:29.940Z,38.8383331,-122.7703323,1.1,0.69,md,8,160,0.007857,0.02,nc,nc73944836,2023-10-03T04:12:06.408Z,"4 km WNW of Cobb, CA",earthquake,0.38,0.71,0.12,9,automatic,nc,nc
 2023-10-03T03:36:52.910Z,38.8441658,-122.8365021,4.44,0.81,md,7,220,0.005625,0.01,nc,nc73944831,2023-10-03T03:38:30.309Z,"10 km WNW of Cobb, CA",earthquake,3.37,6.38,0.39,8,automatic,nc,nc
 2023-10-03T03:19:23.731Z,64.8779,-154.642,2.8,1.6,ml,,,,0.49,ak,ak023coi87jp,2023-10-03T03:22:08.333Z,"43 km ENE of Ruby, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-03T03:08:37.830Z,38.8230019,-122.765831,2.04,1.06,md,21,119,0.008111,0.02,nc,nc73944821,2023-10-03T03:10:11.011Z,"4 km W of Cobb, CA",earthquake,0.27,0.43,0.23,21,automatic,nc,nc
