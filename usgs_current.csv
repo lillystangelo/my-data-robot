@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-04T16:26:38.936Z,31.637,-104.176,7.3656,3.1,ml(texnet),54,60,0.1,0.3,tx,tx2023tlnl,2023-10-04T16:34:27.196Z,"50 km NW of Toyah, Texas",earthquake,0.7786488668,0.8187272806,0.1,24,reviewed,tx,tx
+2023-10-04T16:26:38.936Z,31.637,-104.176,7.3656,3.1,mlv,54,60,0.1,0.3,tx,tx2023tlnl,2023-10-04T16:38:02.040Z,"50 km NW of Toyah, Texas",earthquake,0.7786488668,0.8187272806,0.2,33,reviewed,tx,tx
+2023-10-04T16:18:24.902Z,-20.5125,-177.6322,502.739,4.6,mb,97,77,3.158,0.71,us,us6000lcv1,2023-10-04T16:35:41.040Z,"Fiji region",earthquake,10.95,4.005,0.04,194,reviewed,us,us
 2023-10-04T16:12:00.485Z,64.495,-17.5454,10,5,mb,73,105,1.649,0.77,us,us6000lcv0,2023-10-04T16:30:28.040Z,"115 km WNW of Höfn, Iceland",earthquake,10.46,1.887,0.048,140,reviewed,us,us
 2023-10-04T16:10:18.750Z,38.791832,-122.7603302,2.95,0.84,md,8,134,0.008793,0.01,nc,nc73945396,2023-10-04T16:32:12.737Z,"2 km NNW of The Geysers, CA",earthquake,0.46,1.58,0.12,7,automatic,nc,nc
 2023-10-04T15:50:14.800Z,35.511,-118.3825,9.99,1.59,ml,20,65,0.1688,0.15,ci,ci40576856,2023-10-04T16:00:44.310Z,"13 km SE of Bodfish, CA",earthquake,0.24,0.82,0.171,16,automatic,ci,ci
 2023-10-04T15:21:28.560Z,17.9541666666667,-66.9456666666667,7.13,2.53,md,13,209,0.03954,0.23,pr,pr71427488,2023-10-04T15:35:53.010Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.86,0.34,0.0327606511764895,4,reviewed,pr,pr
 2023-10-04T15:18:34.180Z,33.1571667,-116.0738333,0.57,0.72,ml,15,200,0.1552,0.3,ci,ci40576832,2023-10-04T15:22:11.459Z,"6 km ENE of Ocotillo Wells, CA",earthquake,1.69,31.61,0.159,4,automatic,ci,ci
-2023-10-04T14:06:40.140Z,40.2503319,-121.1093369,11.96,1.85,md,5,181,0.2052,0.04,nc,nc73945371,2023-10-04T14:49:12.167Z,"3 km WNW of East Shore, CA",earthquake,1.13,3.58,0.15,4,automatic,nc,nc
+2023-10-04T14:06:40.140Z,40.2503319,-121.1093369,11.96,1.85,md,5,181,0.2052,0.04,nc,nc73945371,2023-10-04T16:36:12.758Z,"3 km WNW of East Shore, CA",earthquake,1.13,3.58,0.15,4,automatic,nc,nc
 2023-10-04T13:46:33.877Z,58.018,-155.5771,4.7,0.7,ml,,,,0.53,ak,ak023cqbvp7f,2023-10-04T13:48:14.857Z,"Alaska Peninsula",earthquake,,4.8,,,automatic,ak,ak
 2023-10-04T13:36:43.749Z,61.6809,-149.4444,32.5,1.6,ml,,,,0.69,ak,ak023cqbtkt2,2023-10-04T15:11:35.472Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-04T13:34:59.760Z,19.1299991607666,-155.399505615234,28.9099998474121,2.1099999,md,51,182,,0.119999997,hv,hv73591577,2023-10-04T13:38:18.860Z,"11 km SE of Pāhala, Hawaii",earthquake,0.59,0.889999986,1.77999997,23,automatic,hv,hv
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T13:00:24.070Z,19.1539993286133,-155.360168457031,27.5300006866455,1.96000004,md,43,185,,0.180000007,hv,hv73591562,2023-10-04T13:03:51.150Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.62,0.980000019,0.610000014,18,automatic,hv,hv
 2023-10-04T12:27:06.700Z,44.1158333333333,-115.071666666667,8.63,1.43,ml,6,85,0.1624,0.07,mb,mb90029113,2023-10-04T15:04:50.350Z,"15 km SW of Stanley, Idaho",earthquake,0.47,1.35,0.22106131202703,8,reviewed,mb,mb
 2023-10-04T12:21:40.652Z,61.9202,-149.1414,2.1,1.4,ml,,,,0.62,ak,ak023cqb4x81,2023-10-04T12:24:17.644Z,"20 km NNE of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-04T12:15:26.820Z,34.0203333,-117.231,16.02,2.15,ml,85,17,0.08738,0.2,ci,ci40576680,2023-10-04T12:19:12.117Z,"4 km SE of Loma Linda, CA",earthquake,0.16,0.4,0.181,25,automatic,ci,ci
+2023-10-04T12:15:26.700Z,34.0188333,-117.2338333,16.56,2.13,ml,102,16,0.08748,0.15,ci,ci40576680,2023-10-04T16:43:56.368Z,"4 km SE of Loma Linda, CA",earthquake,0.1,0.23,0.175,88,reviewed,ci,ci
 2023-10-04T12:09:28.590Z,33.4128333,-116.362,14.19,0.95,ml,40,77,0.08598,0.19,ci,ci40576672,2023-10-04T16:25:20.536Z,"18 km N of Borrego Springs, CA",earthquake,0.26,0.47,0.132,20,reviewed,ci,ci
 2023-10-04T12:03:29.895Z,-22.7558,-174.6541,10,4.9,mb,39,90,2.93,0.74,us,us6000lcth,2023-10-04T12:28:53.040Z,"Tonga region",earthquake,9.36,1.859,0.075,55,reviewed,us,us
 2023-10-04T12:01:34.429Z,61.5994,-151.3336,73.8,1.3,ml,,,,0.32,ak,ak023cqb0mf6,2023-10-04T12:03:20.700Z,"43 km S of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -139,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T00:33:18.295Z,31.668,-104.506,6.2601,2.1,ml(texnet),21,71,0,0.2,tx,tx2023tkhy,2023-10-04T13:04:37.306Z,"57 km SSW of Whites City, New Mexico",earthquake,1.629768748,0.9151075553,0,6,reviewed,tx,tx
 2023-10-04T00:22:06.840Z,54.7426666666667,-163.971833333333,4.92,2.1,ml,7,85,,0.27,av,av91117293,2023-10-04T03:15:56.520Z,"38 km WSW of False Pass, Alaska",earthquake,0.78,1.86,0.232898279115795,7,reviewed,av,av
 2023-10-04T00:13:45.603Z,30.0215,140.1089,10,5.5,mww,86,98,4.92,1.02,us,us6000lcnc,2023-10-04T02:18:58.325Z,"Izu Islands, Japan region",earthquake,8.6,1.843,0.065,23,reviewed,us,us
-2023-10-04T00:08:13.000Z,61.9508,-149.2972,42.6,3.8,ml,,,,0.59,ak,ak023cq3wvg8,2023-10-04T14:59:25.503Z,"Southern Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-10-04T00:08:13.000Z,61.9508,-149.2972,42.6,3.8,ml,,,,0.59,ak,ak023cq3wvg8,2023-10-04T16:39:22.678Z,"Southern Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-10-04T00:05:47.680Z,38.8406677,-122.8361664,1.61,0.66,md,12,118,0.002142,0.01,nc,nc73945136,2023-10-04T00:42:14.232Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.71,0.44,12,automatic,nc,nc
 2023-10-04T00:04:55.540Z,19.7721,-65.404,61,3.99,md,8,322,1.4859,0.33,pr,pr2023277000,2023-10-04T03:16:09.040Z,"155 km NNE of Vieques, Puerto Rico",earthquake,5.62,20.86,0.11,7,reviewed,pr,pr
 2023-10-04T00:01:54.060Z,34.0415,-117.2358333,15.65,2.44,ml,100,18,0.07474,0.15,ci,ci40576544,2023-10-04T00:23:54.580Z,"2 km ESE of Loma Linda, CA",earthquake,0.11,0.27,0.177,23,reviewed,ci,ci
@@ -223,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T17:11:13.029Z,66.2566,-156.8578,16.6,1.4,ml,,,,0.84,ak,ak023coqij7b,2023-10-03T19:19:08.556Z,"65 km NNW of Huslia, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2023-10-03T16:59:22.887Z,60.2375,-148.3826,0,2,ml,,,,0.87,ak,ak023coq7ezk,2023-10-03T17:01:21.867Z,"28 km NW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-03T16:45:48.950Z,36.22866667,-95.82066667,0,1.31,ml,26,119,0.3185374921,0.43,ok,ok2023tjsn,2023-10-04T15:04:27.863Z,"5 km SE of Owasso, Oklahoma",quarry blast,,0.6,0.32,4,reviewed,ok,ok
-2023-10-03T16:41:11.020Z,57.0853333333333,-135.7265,7.58,0.51,ml,4,259,,0.06,av,av91117183,2023-10-03T17:04:08.910Z,"24 km W of Sitka, Alaska",earthquake,1.05,0.46,0.219517723185076,4,reviewed,av,av
-2023-10-03T16:38:31.160Z,58.1876666666667,-155.273833333333,1.98,0.41,ml,10,89,,0.08,av,av92071866,2023-10-03T19:00:00.300Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.48,0.313408182164848,10,reviewed,av,av
