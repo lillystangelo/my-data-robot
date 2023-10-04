@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-04T20:28:25.060Z,33.3315,-116.8243333,6.88,0.69,ml,15,113,0.11,0.25,ci,ci40577160,2023-10-04T20:32:05.198Z,"5 km SE of Palomar Observatory, CA",earthquake,0.65,1.77,0.138,16,automatic,ci,ci
+2023-10-04T20:25:52.850Z,38.8306656,-122.8153305,1.73,1.37,md,26,49,0.008341,0.02,nc,nc73945466,2023-10-04T20:27:29.979Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.33,0.18,26,automatic,nc,nc
 2023-10-04T20:13:25.260Z,33.112,-115.5986667,5.7,1.45,ml,13,63,0.018,0.19,ci,ci40577144,2023-10-04T20:16:58.782Z,"8 km W of Calipatria, CA",earthquake,0.47,0.76,0.243,28,automatic,ci,ci
 2023-10-04T19:34:54.560Z,38.8116684,-122.8205032,3.01,0.76,md,14,58,0.007332,0.02,nc,nc73945456,2023-10-04T20:01:13.903Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.76,0.14,16,automatic,nc,nc
 2023-10-04T19:27:31.100Z,19.1595001220703,-155.368667602539,29.9099998474121,2.45,ml,54,178,,0.100000001,hv,hv73591912,2023-10-04T19:33:02.150Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.52,0.699999988,3.09,21,automatic,hv,hv
@@ -8,7 +10,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T18:30:17.357Z,29.925,140.058,10,5,mb,74,80,3.187,0.93,us,us6000lcw3,2023-10-04T18:46:57.040Z,"Izu Islands, Japan region",earthquake,8.84,1.872,0.041,191,reviewed,us,us
 2023-10-04T18:19:52.806Z,60.3077,-143.321,13.1,2.3,ml,,,,0.31,ak,ak023cqep4cw,2023-10-04T18:21:23.587Z,"127 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-04T18:15:32.790Z,19.1639995574951,-155.358840942383,27.4599990844727,1.76,ml,44,191,,0.109999999,hv,hv73591822,2023-10-04T18:21:03.320Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.64,0.860000014,4.35,4,automatic,hv,hv
-2023-10-04T18:07:09.420Z,33.3198333,-116.8435,9.97,0.62,ml,19,77,0.1097,0.22,ci,ci40577040,2023-10-04T18:10:45.643Z,"4 km SSE of Palomar Observatory, CA",earthquake,0.44,1.3,0.075,12,automatic,ci,ci
+2023-10-04T18:14:47.560Z,38.8346667,-122.8018333,2.02,0.42,md,9,104,0.00972,0.02,nc,nc73945441,2023-10-04T20:33:41.471Z,"7 km WNW of Cobb, CA",earthquake,0.45,0.8,0.186,9,reviewed,nc,nc
+2023-10-04T18:07:09.320Z,33.3205,-116.8443333,10.85,0.62,ml,22,77,0.1107,0.19,ci,ci40577040,2023-10-04T20:25:00.824Z,"4 km SSE of Palomar Observatory, CA",earthquake,0.28,0.72,0.072,9,reviewed,ci,ci
 2023-10-04T17:56:45.200Z,38.9613342,-123.5384979,-0.32,1.59,md,10,103,0.08303,0.14,nc,nc73945436,2023-10-04T18:24:13.375Z,"15 km ENE of Point Arena, CA",earthquake,0.53,7.55,0.17,7,automatic,nc,nc
 2023-10-04T17:51:58.650Z,44.7978333,-111.0906667,10.75,0.5,md,9,144,0.01139,0.13,uu,uu60551667,2023-10-04T18:19:55.550Z,"8 km ENE of Hebgen Lake Estates, Montana",earthquake,0.6,1.21,0.129,7,reviewed,uu,uu
 2023-10-04T17:44:43.550Z,38.8283348,-122.7603302,0.75,1.21,md,10,219,0.007783,0.03,nc,nc73945431,2023-10-04T20:22:15.017Z,"3 km WNW of Cobb, CA",earthquake,0.65,0.61,0.22,10,automatic,nc,nc
@@ -80,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T09:31:58.880Z,18.9728336334229,-155.458999633789,35.6500015258789,2.25,md,54,224,,0.109999999,hv,hv73591362,2023-10-04T09:35:18.440Z,"Hawaii region, Hawaii",earthquake,0.65,0.819999993,1.38,27,automatic,hv,hv
 2023-10-04T09:20:49.625Z,39.7434,-120.5571,6.2,1.4,ml,12,208.95,0.196,0.1016,nn,nn00866727,2023-10-04T15:41:37.880Z,"0 km NE of Valley Ranch, California",earthquake,,2.5,0.13,5,reviewed,nn,nn
 2023-10-04T09:09:34.140Z,35.396,-118.2163333,8.11,1.44,ml,27,45,0.1534,0.14,ci,ci40576632,2023-10-04T13:16:55.110Z,"33 km SE of Bodfish, CA",earthquake,0.2,1.13,0.224,20,reviewed,ci,ci
+2023-10-04T09:00:16.580Z,38.8248333,-122.8466667,1.99,0.03,md,16,80,0.008419,0.01,nc,nc73945246,2023-10-04T20:30:10.892Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.47,0.433,15,reviewed,nc,nc
 2023-10-04T08:46:11.782Z,61.7402,-150.3923,28,1.3,ml,,,,0.28,ak,ak023cq8whh6,2023-10-04T08:49:00.429Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-04T08:43:54.014Z,36.6535,-116.2445,7.7,0.3,ml,21,100.68,0.064,0.0858,nn,nn00866726,2023-10-04T14:51:50.262Z,"52 km W of Indian Springs, Nevada",earthquake,,0.8,0.26,10,reviewed,nn,nn
 2023-10-04T08:43:24.760Z,44.6665,-114.3705,8.16,1.67,ml,10,78,0.5538,0.11,mb,mb90029108,2023-10-04T14:42:03.560Z,"21 km NNW of Challis, Idaho",earthquake,0.46,0.81,0.215364719526545,12,reviewed,mb,mb
@@ -228,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T21:15:40.040Z,60.0476666666667,-153.0795,0.45,-0.62,ml,4,115,,0.05,av,av92072166,2023-10-04T19:24:55.120Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.45,0.87,0.0614206688406429,3,reviewed,av,av
 2023-10-03T20:43:18.770Z,38.7871666,-122.746666,2.19,1.04,md,15,83,0.008704,0.02,nc,nc73945096,2023-10-03T20:59:20.999Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.6,0.08,15,automatic,nc,nc
 2023-10-03T20:41:25.965Z,61.18,-150.648,49.1,3.2,ml,,,,0.74,ak,ak023coshapd,2023-10-04T06:48:57.926Z,"23 km E of Beluga, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-10-03T20:32:35.555Z,29.8376,140.1214,10,5.2,mww,89,104,3.278,1.13,us,us6000lclx,2023-10-03T20:51:00.040Z,"Izu Islands, Japan region",earthquake,8.33,1.857,0.073,18,reviewed,us,us
