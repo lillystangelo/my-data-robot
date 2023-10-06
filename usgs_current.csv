@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-06T07:40:29.500Z,38.8414993,-122.8376694,1.83,0.66,md,10,89,0.003369,0.02,nc,nc73946146,2023-10-06T07:42:07.622Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.71,0.35,11,automatic,nc,nc
 2023-10-06T07:24:03.430Z,19.3575000762939,-155.296005249023,1.88999998569489,1.77,ml,17,114,,0.129999995,hv,hv73595572,2023-10-06T07:29:34.990Z,"11 km SW of Volcano, Hawaii",earthquake,0.26,0.449999988,3.44,4,automatic,hv,hv
 2023-10-06T07:17:51.810Z,19.0248336791992,-155.450332641602,36.2599983215332,2.74,ml,16,252,,0.109999999,hv,hv73595557,2023-10-06T07:23:20.490Z,"14 km ESE of Naalehu, Hawaii",earthquake,1.14,0.949999988,0.36,3,automatic,hv,hv
 2023-10-06T07:16:40.330Z,19.3929996490479,-155.264007568359,-0.25,1.85,ml,14,89,,0.360000014,hv,hv73595552,2023-10-06T07:22:18.160Z,"6 km SSW of Volcano, Hawaii",earthquake,0.42,0.430000007,0.33,7,automatic,hv,hv
@@ -266,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T08:17:14.945Z,64.8785,-150.8184,16,1.2,ml,,,,0.71,ak,ak023crw9mg6,2023-10-05T08:19:15.643Z,"16 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-05T08:09:18.460Z,19.3381666666667,-155.3065,3.26,1.8,ml,27,66,,0.1,hv,hv73592662,2023-10-05T09:37:22.410Z,"13 km SSW of Volcano, Hawaii",earthquake,0.27,0.62,0.215984326483506,14,reviewed,hv,hv
 2023-10-05T08:00:52.221Z,39.3431,-119.9912,8.3,0.7,ml,6,121.73,0.061,0.0807,nn,nn00866849,2023-10-05T22:14:34.731Z,"6 km SSE of Floriston, California",earthquake,,3.6,0.59,4,reviewed,nn,nn
-2023-10-05T07:37:52.900Z,17.917,-66.8486666666667,10.86,2.45,md,7,228,0.06467,0.19,pr,pr71427533,2023-10-05T07:49:02.610Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,1.09,2.43,0.155262778895982,3,reviewed,pr,pr
-2023-10-05T07:37:22.058Z,31.671,-104.183,5.7202,1.9,ml(texnet),25,65,0.1,0.1,tx,tx2023tmrl,2023-10-05T20:54:11.395Z,"54 km NW of Toyah, Texas",earthquake,0.6567324236,1.299845034,0.1,7,reviewed,tx,tx
