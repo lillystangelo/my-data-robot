@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T11:35:51.133Z,62.7416,-151.1122,0,1,ml,,,,0.95,ak,ak023cv98jxk,2023-10-07T11:37:52.920Z,"32 km NNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T11:34:20.220Z,38.7806664,-122.7566681,1.05,1.08,md,9,80,0.0158,0.02,nc,nc73946671,2023-10-07T11:35:54.649Z,"0 km N of The Geysers, CA",earthquake,0.3,0.71,0.28,12,automatic,nc,nc
-2023-10-07T11:32:41.430Z,19.4808330535889,-155.496170043945,-1.76999998092651,2.47000003,md,38,43,,0.189999998,hv,hv73598637,2023-10-07T11:35:57.450Z,"27 km W of Volcano, Hawaii",earthquake,0.36,0.439999998,2.03999996,22,automatic,hv,hv
+2023-10-07T11:32:41.430Z,19.4808330535889,-155.496170043945,-1.76999998092651,2.22,ml,38,43,,0.189999998,hv,hv73598637,2023-10-07T11:38:13.490Z,"27 km W of Volcano, Hawaii",earthquake,0.36,0.439999998,2.93,17,automatic,hv,hv
+2023-10-07T11:27:42.535Z,34.5599,62.0272,10.877,4.3,mb,34,112,5.79,0.72,us,us6000ldts,2023-10-07T11:45:54.040Z,"28 km NW of Herāt, Afghanistan",earthquake,7.65,5.401,0.148,13,reviewed,us,us
 2023-10-07T11:27:35.400Z,38.8170013,-122.7624969,1.58,1.33,md,20,114,0.01464,0.02,nc,nc73946661,2023-10-07T11:29:09.826Z,"4 km W of Cobb, CA",earthquake,0.25,0.47,0.12,23,automatic,nc,nc
 2023-10-07T11:23:30.170Z,38.8186684,-122.7653351,1.86,0.74,md,8,109,0.01232,0.01,nc,nc73946656,2023-10-07T11:25:04.726Z,"4 km W of Cobb, CA",earthquake,0.38,0.81,0.04,8,automatic,nc,nc
-2023-10-07T11:21:29.880Z,38.7916679,-122.7608337,2.25,0.8,md,13,87,0.008987,0.03,nc,nc73946651,2023-10-07T11:23:04.731Z,"2 km NNW of The Geysers, CA",earthquake,0.34,0.7,0.31,13,automatic,nc,nc
+2023-10-07T11:21:29.880Z,38.7916679,-122.7608337,2.25,0.8,md,13,87,0.008987,0.03,nc,nc73946651,2023-10-07T11:38:14.666Z,"2 km NNW of The Geysers, CA",earthquake,0.34,0.7,0.31,13,automatic,nc,nc
 2023-10-07T11:19:38.840Z,38.786335,-122.7460022,0.88,2.04,md,39,47,0.007883,0.07,nc,nc73946646,2023-10-07T11:26:14.607Z,"1 km NE of The Geysers, CA",earthquake,0.18,0.3,0.18,38,automatic,nc,nc
 2023-10-07T11:18:07.020Z,19.3688335418701,-155.293167114258,0.680000007152557,1.71000004,md,11,115,,0.129999995,hv,hv73598607,2023-10-07T11:20:56.080Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.49000001,1.05999994,8,automatic,hv,hv
 2023-10-07T11:08:13.336Z,63.4634,-147.7629,15.8,1.3,ml,,,,0.14,ak,ak023cv92ool,2023-10-07T11:09:37.731Z,"59 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -41,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T08:09:31.130Z,19.3781661987305,-155.281829833984,1.08000004291534,1.94,ml,27,87,,0.219999999,hv,hv73598297,2023-10-07T08:15:03.710Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.289999992,0.22,6,automatic,hv,hv
 2023-10-07T08:06:56.416Z,-21.419,-71.7399,19.854,4.6,mb,50,137,1.721,0.71,us,us6000ldq5,2023-10-07T08:26:59.040Z,"176 km WNW of Tocopilla, Chile",earthquake,7.61,5.191,0.09,37,reviewed,us,us
 2023-10-07T08:06:37.093Z,34.6691,61.926,10,4.6,mb,28,150,5.871,0.53,us,us6000ldq8,2023-10-07T08:30:31.040Z,"33 km SSE of Qarah Bāgh, Afghanistan",earthquake,10.19,1.933,0.129,18,reviewed,us,us
-2023-10-07T08:06:26.412Z,0.0545,97.55,24.43,4.7,mb,33,183,1.241,0.61,us,us6000ldq6,2023-10-07T08:23:16.040Z,"63 km SSW of Teluk Dalam, Indonesia",earthquake,8.02,5.826,0.138,16,reviewed,us,us
+2023-10-07T08:06:26.412Z,0.0545,97.55,24.43,4.7,mb,33,183,1.241,0.61,us,us6000ldq6,2023-10-07T08:23:16.040Z,"Nias region, Indonesia",earthquake,8.02,5.826,0.138,16,reviewed,us,us
 2023-10-07T07:55:07.530Z,19.3608341217041,-155.296829223633,1.26999998092651,1.85,ml,33,108,,0.209999993,hv,hv73598267,2023-10-07T08:00:38.690Z,"11 km SW of Volcano, Hawaii",earthquake,0.33,0.569999993,0.38,11,automatic,hv,hv
 2023-10-07T07:54:50.670Z,35.6701667,-117.4668333,6.48,1.27,ml,14,86,0.03547,0.2,ci,ci40578520,2023-10-07T07:58:25.443Z,"12 km SSW of Searles Valley, CA",earthquake,0.55,1.02,0.097,8,automatic,ci,ci
 2023-10-07T07:40:29.417Z,34.6391,62.0327,7.726,5.9,mww,126,43,5.783,0.71,us,us6000ldpv,2023-10-07T09:47:21.943Z,"35 km NNW of Herāt, Afghanistan",earthquake,7.26,3.844,0.054,33,reviewed,us,us
@@ -273,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T11:56:57.671Z,64.9888,-147.3654,0.1,1.4,ml,,,,0.58,ak,ak023ctltpzy,2023-10-06T11:59:20.171Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-06T11:56:34.270Z,38.8233337,-122.8488312,2.25,0.76,md,7,171,0.007559,0.01,nc,nc73946221,2023-10-06T14:19:11.158Z,"10 km WNW of The Geysers, CA",earthquake,0.78,1.2,0.26,8,automatic,nc,nc
 2023-10-06T11:51:43.270Z,19.3678340911865,-155.290832519531,1.16999995708466,1.79999995,md,18,108,,0.219999999,hv,hv73596132,2023-10-06T11:54:48.600Z,"10 km SW of Volcano, Hawaii",earthquake,0.29,0.479999989,1.09000003,12,automatic,hv,hv
-2023-10-06T11:39:16.618Z,47.2404,154.0002,10,4.8,mb,56,132,6.336,0.72,us,us6000ldf7,2023-10-06T12:02:56.040Z,"Kuril Islands",earthquake,3.86,1.904,0.066,71,reviewed,us,us
