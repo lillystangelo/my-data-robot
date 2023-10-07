@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-07T17:09:02.100Z,38.8294983,-122.8011703,1.77,1.03,md,16,40,0.009247,0.01,nc,nc73946751,2023-10-07T17:10:35.841Z,"7 km W of Cobb, CA",earthquake,0.25,0.49,0.16,16,automatic,nc,nc
+2023-10-07T17:09:02.100Z,38.8294983,-122.8011703,1.77,1.03,md,16,40,0.009247,0.01,nc,nc73946751,2023-10-07T17:27:13.618Z,"7 km W of Cobb, CA",earthquake,0.25,0.49,0.16,16,automatic,nc,nc
 2023-10-07T17:06:06.250Z,19.425500869751,-155.464172363281,1.12999999523163,1.96000004,md,38,43,,0.140000001,hv,hv73598867,2023-10-07T17:09:21.090Z,"24 km W of Volcano, Hawaii",earthquake,0.29,0.920000017,0.610000014,27,automatic,hv,hv
 2023-10-07T17:03:51.336Z,63.0205,-149.6578,82.5,1.8,ml,,,,0.31,ak,ak023cvcmanx,2023-10-07T17:05:59.403Z,"54 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-07T16:59:54.900Z,33.403,-116.4006667,2.4,0.63,ml,25,104,0.1917,0.25,ci,ci40578664,2023-10-07T17:03:30.575Z,"16 km N of Borrego Springs, CA",earthquake,0.49,2.23,0.133,12,automatic,ci,ci
