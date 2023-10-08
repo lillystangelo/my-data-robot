@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-08T07:45:25.940Z,19.2625007629395,-155.410659790039,32.3600006103516,1.83000004,md,32,121,,0.140000001,hv,hv73599507,2023-10-08T07:48:32.460Z,"9 km NE of Pāhala, Hawaii",earthquake,0.64,0.75999999,1.82000005,6,automatic,hv,hv
 2023-10-08T07:31:53.900Z,37.4318352,-118.5568314,13.22,1.77,md,12,170,0.147,0.06,nc,nc73947026,2023-10-08T07:33:29.304Z,"4 km ENE of Round Valley, CA",earthquake,0.88,2.99,0.05,9,automatic,nc,nc
 2023-10-08T07:30:11.507Z,65.4199,-144.6904,20.4,1.6,ml,,,,0.71,ak,ak023cwud0da,2023-10-08T07:31:59.724Z,"17 km SSE of Central, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-10-08T07:12:16.554Z,66.3566,-154.7355,0,3.5,ml,,,,0.66,ak,ak023cwu95uu,2023-10-08T07:28:53.040Z,"40 km NNW of Hughes, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T08:06:26.412Z,0.0545,97.55,24.43,4.7,mb,33,183,1.241,0.61,us,us6000ldq6,2023-10-07T08:23:16.040Z,"Nias region, Indonesia",earthquake,8.02,5.826,0.138,16,reviewed,us,us
 2023-10-07T07:55:07.530Z,19.3608341217041,-155.296829223633,1.26999998092651,1.85,ml,33,108,,0.209999993,hv,hv73598267,2023-10-07T08:00:38.690Z,"11 km SW of Volcano, Hawaii",earthquake,0.33,0.569999993,0.38,11,automatic,hv,hv
 2023-10-07T07:54:50.670Z,35.6701667,-117.4668333,6.48,1.27,ml,14,86,0.03547,0.2,ci,ci40578520,2023-10-07T15:19:23.277Z,"12 km SSW of Searles Valley, CA",earthquake,0.55,1.02,0.097,8,reviewed,ci,ci
-2023-10-07T07:40:29.417Z,34.6391,62.0327,7.726,5.9,mww,126,43,5.783,0.71,us,us6000ldpv,2023-10-07T19:05:29.633Z,"35 km NNW of Herāt, Afghanistan",earthquake,7.26,3.844,0.054,33,reviewed,us,us
