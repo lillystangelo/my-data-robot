@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-08T10:01:00.030Z,38.6866684,-122.4954987,8.18,1.4,md,11,110,0.09301,0.07,nc,nc73947071,2023-10-08T10:02:33.643Z,"13 km SE of Middletown, CA",earthquake,0.4,1.91,0.09,10,automatic,nc,nc
+2023-10-08T10:14:23.430Z,33.2706667,-116.78,11.22,1.41,ml,44,38,0.0389,0.22,ci,ci40578936,2023-10-08T10:18:05.864Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.26,0.69,0.154,25,automatic,ci,ci
+2023-10-08T10:01:00.030Z,38.6866684,-122.4954987,8.18,1.4,md,11,110,0.09301,0.07,nc,nc73947071,2023-10-08T10:20:11.343Z,"13 km SE of Middletown, CA",earthquake,0.4,1.91,0.09,10,automatic,nc,nc
 2023-10-08T09:41:19.431Z,61.1444,-147.8551,11.5,1,ml,,,,0.95,ak,ak023cwvm92f,2023-10-08T09:42:33.559Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-08T09:39:48.370Z,17.9023333333333,-66.9238333333333,15.41,2.78,md,18,216,0.07098,0.1,pr,pr71427973,2023-10-08T09:57:38.550Z,"7 km SSW of Guánica, Puerto Rico",earthquake,0.39,0.32,0.138014030418017,6,reviewed,pr,pr
 2023-10-08T09:37:13.330Z,17.8935,-66.931,13.96,2.82,md,14,240,0.08112,0.08,pr,pr71427963,2023-10-08T09:52:41.070Z,"Puerto Rico region",earthquake,0.41,0.37,0.173424036277549,6,reviewed,pr,pr
 2023-10-08T09:31:40.502Z,61.1267,-150.7201,19.8,1.5,ml,,,,0.52,ak,ak023cwvk5j6,2023-10-08T09:33:56.024Z,"19 km E of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-10-08T09:26:52.394Z,-28.6027,-71.3077,38.15,4.3,mb,21,136,0.447,0.54,us,us6000ldzv,2023-10-08T10:18:26.040Z,"53 km W of Vallenar, Chile",earthquake,3.78,7.644,0.218,6,reviewed,us,us
 2023-10-08T09:25:05.100Z,38.8176651,-122.7979965,2.39,0.27,md,8,74,0.009909,0.01,nc,nc73947056,2023-10-08T09:42:13.100Z,"6 km NW of The Geysers, CA",earthquake,0.64,1.58,0.06,8,automatic,nc,nc
 2023-10-08T09:20:55.701Z,18.9055,-68.9444,22.942,2.6,ml,19,169,0.661,0.5,us,us6000ldzt,2023-10-08T09:39:51.040Z,"13 km SE of Miches, Dominican Republic",earthquake,7.19,12.773,0.06,36,reviewed,us,us
 2023-10-08T09:17:02.200Z,34.8341667,-118.9798333,13.42,1.1,ml,19,76,0.05948,0.24,ci,ci40578920,2023-10-08T09:20:41.746Z,"3 km WNW of Frazier Park, CA",earthquake,0.53,0.79,0.17,9,automatic,ci,ci
@@ -203,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T10:38:02.317Z,-5.6448,146.1714,80.588,4.5,mb,39,90,6.143,0.93,us,us6000ldtk,2023-10-07T11:30:45.040Z,"63 km SE of Madang, Papua New Guinea",earthquake,5.9,7.36,0.096,37,reviewed,us,us
 2023-10-07T10:32:49.680Z,33.4825,-116.4483333,13.38,1.39,ml,43,38,0.04496,0.19,ci,ci40578552,2023-10-07T15:19:11.260Z,"22 km ESE of Anza, CA",earthquake,0.22,0.53,0.116,25,reviewed,ci,ci
 2023-10-07T10:31:51.886Z,63.4753,-147.5274,5.8,2.2,ml,,,,0.46,ak,ak023cv8m9is,2023-10-07T10:33:33.448Z,"71 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-07T10:23:23.539Z,31.292,141.8837,10,5,mb,76,117,2.527,0.8,us,us6000ldth,2023-10-07T10:47:49.040Z,"Izu Islands, Japan region",earthquake,9.05,1.871,0.041,192,reviewed,us,us
-2023-10-07T10:21:04.180Z,46.20283333333333,-122.184,3.02,0.17,ml,9,93,0.002833,0.19,uw,uw61964686,2023-10-08T06:10:05.550Z,"38 km NNE of Amboy, Washington",earthquake,0.44,1.67,0.28837856693785346,4,reviewed,uw,uw
-2023-10-07T10:20:34.467Z,-6.2046,103.8239,39.84,4.7,mb,28,143,2.026,1.06,us,us6000ldtg,2023-10-07T10:37:02.040Z,"southwest of Sumatra, Indonesia",earthquake,8.47,7.924,0.13,20,reviewed,us,us
-2023-10-07T10:17:56.020Z,33.68,-116.791,14.45,0.54,ml,15,123,0.06879,0.13,ci,ci40578544,2023-10-07T15:18:30.274Z,"9 km SW of Idyllwild, CA",earthquake,0.31,0.34,0.125,13,reviewed,ci,ci
