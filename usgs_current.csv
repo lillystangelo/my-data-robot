@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T16:25:16.330Z,19.3705,-155.285166666667,1.72,2.13,ml,16,110,,0.11,hv,hv73601982,2023-10-09T19:03:40.860Z,"9 km SW of Volcano, Hawaii",earthquake,0.21,0.27,0.173717486978946,13,reviewed,hv,hv
 2023-10-09T16:20:47.853Z,39.3578,-119.754,2.5,0.7,ml,4,170.32,0.031,0.1029,nn,nn00867054,2023-10-09T20:31:12.546Z,"Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
 2023-10-09T16:11:05.975Z,59.5922,-152.5481,68.2,1.5,ml,,,,0.5,ak,ak023cyn569x,2023-10-09T16:13:21.343Z,"44 km NW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-10-09T15:57:15.400Z,34.0883333,-118.2615,11.47,2.59,ml,93,31,0.03872,0.18,ci,ci40579712,2023-10-10T03:31:30.812Z,"0 km SE of Silver Lake, CA",earthquake,0.13,0.22,0.149,26,reviewed,ci,ci
+2023-10-09T15:57:15.400Z,34.0883333,-118.2615,11.47,2.59,ml,93,31,0.03872,0.18,ci,ci40579712,2023-10-10T03:42:38.173Z,"0 km SE of Silver Lake, CA",earthquake,0.13,0.22,0.149,26,reviewed,ci,ci
 2023-10-09T15:54:06.648Z,62.5803,-151.8454,98.2,1.7,ml,,,,0.41,ak,ak023cymsyig,2023-10-09T15:56:31.157Z,"56 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-09T15:45:58.550Z,19.3663333333333,-155.286666666667,1.92,2.23,ml,18,113,,0.08,hv,hv73601942,2023-10-09T19:07:53.110Z,"10 km SSW of Volcano, Hawaii",earthquake,0.2,0.29,0.172673651720451,16,reviewed,hv,hv
 2023-10-09T15:32:29.660Z,58.2453,-155.1147,1.2,1,ml,,,,0.41,ak,ak023cymoaja,2023-10-09T15:34:17.058Z,"84 km NNW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T03:53:21.770Z,19.3848323822021,-155.279006958008,1.16999995708466,1.93,ml,11,75,,0.0900000036,hv,hv73601107,2023-10-09T03:58:51.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.280000001,0.17,5,automatic,hv,hv
 2023-10-09T03:53:07.960Z,19.457332611084,-155.36116027832,3.32999992370605,2.28,ml,17,85,,0.330000013,hv,hv73601102,2023-10-09T03:58:39.880Z,"13 km W of Volcano, Hawaii",earthquake,0.73,3.82999992,0.33,8,automatic,hv,hv
 2023-10-09T03:50:48.519Z,0.4057,122.2056,125.955,5.1,mww,77,52,1.545,0.97,us,us6000le5w,2023-10-09T04:08:07.040Z,"96 km W of Gorontalo, Indonesia",earthquake,6.37,6.112,0.098,10,reviewed,us,us
-2023-10-09T03:37:41.900Z,32.6965,-115.7296667,9.76,1.37,ml,25,97,0.04712,0.22,ci,ci40579264,2023-10-09T18:10:05.542Z,"19 km NW of Progreso, B.C., MX",earthquake,0.29,0.54,0.315,14,reviewed,ci,ci
