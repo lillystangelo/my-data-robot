@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-11T21:31:06.840Z,38.7773323,-122.7549973,1.22,1.15,md,18,65,0.01069,0.03,nc,nc73948981,2023-10-11T21:32:41.069Z,"0 km E of The Geysers, CA",earthquake,0.23,0.4,0.14,16,automatic,nc,nc
+2023-10-11T21:40:27.680Z,19.1251659393311,-155.369995117188,31.3799991607666,2.08999991,md,31,194,,0.100000001,hv,hv73605717,2023-10-11T21:43:40.190Z,"14 km SE of Pāhala, Hawaii",earthquake,0.78,1.01999998,2.26999998,4,automatic,hv,hv
+2023-10-11T21:31:06.840Z,38.7773323,-122.7549973,1.22,1.15,md,18,65,0.01069,0.03,nc,nc73948981,2023-10-11T21:41:12.706Z,"0 km E of The Geysers, CA",earthquake,0.23,0.4,0.14,16,automatic,nc,nc
 2023-10-11T21:30:31.440Z,19.3841667175293,-155.279830932617,1,1.83,ml,15,74,,0.129999995,hv,hv73605702,2023-10-11T21:36:01.820Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.300000012,0.25,8,automatic,hv,hv
 2023-10-11T21:23:33.677Z,63.4466,-147.7207,0,1.8,ml,,,,0.91,ak,ak023d219o0n,2023-10-11T21:25:33.675Z,"61 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-11T20:28:44.860Z,19.1476669311523,-155.477661132812,32.5400009155273,2.25,ml,41,166,,0.109999999,hv,hv73605652,2023-10-11T20:34:16.170Z,"6 km S of Pāhala, Hawaii",earthquake,0.64,0.850000024,4.13,5,automatic,hv,hv
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T22:08:39.890Z,37.2853,-118.1868,0,0.1,ml,3,327.3,0.19,0.2143,nn,nn00867115,2023-10-11T00:21:15.236Z,"16 km NE of Big Pine, California",earthquake,,10.4,0,1,reviewed,nn,nn
 2023-10-10T22:08:04.790Z,17.8901666666667,-66.8726666666667,12.95,2.29,md,8,237,0.08466,0.06,pr,pr71428148,2023-10-10T22:18:19.970Z,"Puerto Rico region",earthquake,0.81,0.36,0.0366257011071571,5,reviewed,pr,pr
 2023-10-10T21:54:42.790Z,37.2163315,-118.3918304,9.74,1.65,md,6,144,0.08804,0.02,nc,nc73948681,2023-10-10T23:40:39.284Z,"6 km S of Wilkerson, CA",earthquake,1.07,2.02,0.47,4,automatic,nc,nc
-2023-10-10T21:41:34.920Z,38.8258324,-122.8065033,2.17,1.32,md,23,36,0.003702,0.02,nc,nc73948676,2023-10-10T22:11:19.558Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.1,25,automatic,nc,nc
