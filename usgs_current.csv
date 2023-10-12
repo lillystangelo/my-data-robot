@@ -3,9 +3,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T20:25:38.980Z,38.7681656,-122.7411652,0.08,1.47,md,18,81,0.01434,0.06,nc,nc73946505,2023-10-12T20:36:10.755Z,"2 km SE of The Geysers, CA",earthquake,0.25,0.66,0.16,18,automatic,nc,nc
 2023-10-12T20:21:47.010Z,33.472168,-116.4941635,14.27,1.09,ml,19,139,0.07671,0.12,ci,ci40581816,2023-10-12T20:23:56.006Z,"19 km ESE of Anza, CA",earthquake,0.47,0.83,0.135,10,automatic,ci,ci
 2023-10-12T20:05:52.813Z,57.249,-156.6248,91.4,1.9,ml,,,,0.35,ak,ak023d3o3rht,2023-10-12T20:08:12.124Z,"54 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-12T20:05:36.541Z,38.2346,-118.284,8.2,1.4,ml,9,111.54,0.174,0.1293,nn,nn00867212,2023-10-12T20:08:30.224Z,"23 km SW of Mina, Nevada",earthquake,,0.8,0.37,5,automatic,nn,nn
+2023-10-12T20:05:37.076Z,38.2371,-118.2727,8.7,1.4,ml,10,109.9,0.183,0.1255,nn,nn00867212,2023-10-12T20:49:21.462Z,"California-Nevada border region",earthquake,,1.7,0.27,6,reviewed,nn,nn
 2023-10-12T20:02:41.620Z,38.8221664,-122.7904968,0.95,1.5,md,25,34,0.01174,0.04,nc,nc73946495,2023-10-12T20:29:18.721Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.3,0.14,27,automatic,nc,nc
-2023-10-12T20:00:40.715Z,14.8766,-87.5663,10,4.6,mb,93,70,0.863,0.71,us,us6000lf7c,2023-10-12T20:37:03.483Z,"13 km NNE of La Libertad, Honduras",earthquake,5.56,1.892,0.06,82,reviewed,us,us
+2023-10-12T20:00:40.715Z,14.8766,-87.5663,10,4.6,mb,93,70,0.863,0.71,us,us6000lf7c,2023-10-12T20:43:16.918Z,"13 km NNE of La Libertad, Honduras",earthquake,5.56,1.892,0.06,82,reviewed,us,us
 2023-10-12T20:00:30.917Z,38.2264,-118.2822,8.2,2.4,ml,16,76.55,0.177,0.1722,nn,nn00867207,2023-10-12T20:27:29.836Z,"23 km SW of Mina, Nevada",earthquake,,1.2,0.22,11,reviewed,nn,nn
 2023-10-12T19:59:48.990Z,38.7661667,-122.7238312,0.54,1.29,md,14,61,0.004637,0.08,nc,nc73946485,2023-10-12T20:32:11.736Z,"3 km WSW of Anderson Springs, CA",earthquake,0.3,0.35,0.13,13,automatic,nc,nc
 2023-10-12T19:54:16.410Z,33.6903333,-116.7853333,16.23,0.71,ml,16,130,0.06565,0.1,ci,ci40581792,2023-10-12T20:39:06.389Z,"8 km SW of Idyllwild, CA",earthquake,0.32,0.5,0.169,8,reviewed,ci,ci
@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T21:31:06.840Z,38.7773323,-122.7549973,1.22,1.15,md,18,65,0.01069,0.03,nc,nc73948981,2023-10-11T23:41:14.357Z,"0 km E of The Geysers, CA",earthquake,0.23,0.4,0.14,16,automatic,nc,nc
 2023-10-11T21:30:31.440Z,19.3841667175293,-155.279830932617,1,1.83,ml,15,74,,0.129999995,hv,hv73605702,2023-10-11T21:36:01.820Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.300000012,0.25,8,automatic,hv,hv
 2023-10-11T21:23:33.677Z,63.4466,-147.7207,0,1.8,ml,,,,0.91,ak,ak023d219o0n,2023-10-11T21:25:33.675Z,"61 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-11T20:49:28.420Z,44.511,-115.222666666667,5.83,2.05,ml,10,75,0.4865,0.09,mb,mb90029498,2023-10-11T22:21:59.000Z,"39 km NW of Stanley, Idaho",earthquake,0.34,1.4,0.244245520627057,16,reviewed,mb,mb
