@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-12T10:51:18.650Z,33.751667,-116.0803299,2.39,1.66,ml,52,47,0.1222,0.17,ci,ci40581552,2023-10-12T10:53:37.112Z,"12 km NE of Coachella, CA",earthquake,0.23,0.43,0.194,24,automatic,ci,ci
-2023-10-12T10:34:57.612Z,-6.7721,155.2296,48.957,5.1,mb,57,43,3.986,1.14,us,us6000lf1v,2023-10-12T10:54:40.040Z,"Bougainville region, Papua New Guinea",earthquake,8.66,6.451,0.088,42,reviewed,us,us
+2023-10-12T11:02:12.510Z,58.2572,-155.0104,1.2,0.1,ml,,,,0.28,ak,ak023d3iq4sj,2023-10-12T11:03:17.543Z,"83 km NNW of Karluk, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2023-10-12T10:51:18.650Z,33.751667,-116.0803299,2.39,1.66,ml,52,47,0.1222,0.17,ci,ci40581552,2023-10-12T11:02:32.490Z,"12 km NE of Coachella, CA",earthquake,0.23,0.43,0.194,24,automatic,ci,ci
+2023-10-12T10:34:57.612Z,-6.7721,155.2296,48.957,5.1,mb,57,43,3.986,1.14,us,us6000lf1v,2023-10-12T11:11:21.495Z,"Bougainville region, Papua New Guinea",earthquake,8.66,6.451,0.088,42,reviewed,us,us
 2023-10-12T10:15:34.390Z,19.1574993133545,-155.471664428711,32.3800010681152,1.75,md,35,124,,0.119999997,hv,hv73606507,2023-10-12T10:18:45.570Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.949999988,0.870000005,3,automatic,hv,hv
 2023-10-12T10:11:25.030Z,38.7788315,-122.7286682,1.36,0.84,md,6,200,0.007682,0.01,nc,nc73946390,2023-10-12T10:55:11.459Z,"2 km E of The Geysers, CA",earthquake,0.61,1.01,0.37,7,automatic,nc,nc
 2023-10-12T09:59:29.561Z,38.1862,-117.8773,5.9,1.4,ml,10,135.06,0.086,0.1548,nn,nn00867170,2023-10-12T10:02:05.292Z,"30 km SE of Mina, Nevada",earthquake,,0.7,0.72,7,automatic,nn,nn
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T09:38:47.315Z,62.5811,-149.9767,159.2,2.1,ml,,,,0.97,ak,ak023d3hr21n,2023-10-12T09:41:15.820Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-10-12T09:32:09.871Z,64.657,-149.1577,17.8,1.5,ml,,,,0.5,ak,ak023d3hpouc,2023-10-12T09:33:50.961Z,"6 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-12T09:31:53.882Z,61.1649,-147.558,28.8,1.5,ml,,,,0.44,ak,ak023d3hpkjg,2023-10-12T09:33:17.546Z,"58 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-12T09:30:03.000Z,38.7938347,-122.7796631,3.56,0.8,md,12,77,0.006484,0.02,nc,nc73946385,2023-10-12T10:22:12.302Z,"3 km NW of The Geysers, CA",earthquake,0.5,0.85,0.31,13,automatic,nc,nc
+2023-10-12T09:30:03.000Z,38.7938347,-122.7796631,3.56,0.8,md,12,77,0.006484,0.02,nc,nc73946385,2023-10-12T11:00:15.487Z,"3 km NW of The Geysers, CA",earthquake,0.5,0.85,0.31,13,automatic,nc,nc
 2023-10-12T09:30:00.747Z,-10.24,119.915,27.646,4.9,mb,35,100,2.534,0.91,us,us6000lf1n,2023-10-12T09:46:31.040Z,"75 km SSW of Waingapu, Indonesia",earthquake,5.67,5.989,0.128,19,reviewed,us,us
 2023-10-12T09:29:56.880Z,33.3668327,-116.2994995,14.13,1.22,ml,23,178,0.2168,0.18,ci,ci40581536,2023-10-12T09:32:04.366Z,"14 km NNE of Borrego Springs, CA",earthquake,0.54,1.07,0.096,3,automatic,ci,ci
 2023-10-12T09:17:11.490Z,19.3264999389648,-155.289337158203,2.94000005722046,2.06,ml,19,154,,0.209999993,hv,hv73606437,2023-10-12T09:22:43.270Z,"14 km SSW of Volcano, Hawaii",earthquake,0.52,0.810000002,0.29,3,automatic,hv,hv
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T11:26:56.870Z,38.7729988,-122.7425003,1.19,0.53,md,7,78,0.01118,0.02,nc,nc73948851,2023-10-11T13:12:15.743Z,"1 km ESE of The Geysers, CA",earthquake,0.42,0.92,0.26,7,automatic,nc,nc
 2023-10-11T11:20:53.347Z,63.1868,-150.7543,124.6,1.4,ml,,,,0.19,ak,ak023d1vaqc6,2023-10-11T11:22:45.421Z,"62 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-10-11T11:18:34.880Z,58.2423333333333,-155.086833333333,3.73,-0.41,ml,7,155,,0.2,av,av91118078,2023-10-12T04:54:55.570Z,"Alaska Peninsula",earthquake,0.47,1.04,0.268069348214701,7,reviewed,av,av
-2023-10-11T11:07:18.359Z,34.49716667,-97.77033333,5.91,1.73,ml,64,45,0.1160772217,0.51,ok,ok2023txxj,2023-10-11T13:00:21.086Z,"9 km WNW of Velma, Oklahoma",earthquake,,1.2,0.23,23,reviewed,ok,ok
