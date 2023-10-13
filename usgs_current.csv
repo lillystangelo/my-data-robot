@@ -107,6 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T02:36:03.370Z,38.8308334,-122.8181686,1.78,1.09,md,17,68,0.009754,0.02,nc,nc73946590,2023-10-13T05:23:17.683Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.35,0.17,21,automatic,nc,nc
 2023-10-13T02:26:08.700Z,38.8419991,-122.8359985,1.77,1.48,md,23,88,0.003428,0.02,nc,nc73946585,2023-10-13T04:56:13.530Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.35,0.21,24,automatic,nc,nc
 2023-10-13T02:25:29.375Z,-56.3306,-26.6799,45.451,5.3,mb,48,75,5.965,0.78,us,us6000lf9b,2023-10-13T02:41:50.040Z,"South Sandwich Islands region",earthquake,10.25,6.111,0.077,58,reviewed,us,us
+2023-10-13T02:19:08.890Z,47.8055,-122.83566666666667,23.23,1.16,ml,11,103,0.03217,0.22,uw,uw61965696,2023-10-13T17:03:33.090Z,"3 km ESE of Quilcene, Washington",earthquake,0.78,0.85,0.13842284379500303,7,reviewed,uw,uw
 2023-10-13T02:09:21.350Z,17.9495,-66.9498333333333,12.88,2.7,md,9,209,0.07182,0.29,pr,pr71428368,2023-10-13T02:43:15.100Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.33,0.68,0.0323636149464317,4,reviewed,pr,pr
 2023-10-13T01:09:26.929Z,36.038,68.7901,10,4.7,mb,60,58,1.508,0.91,us,us6000lf95,2023-10-13T01:47:45.492Z,"12 km NNE of Pul-e Khumrī, Afghanistan",earthquake,6.95,1.849,0.066,69,reviewed,us,us
 2023-10-13T01:00:33.671Z,61.6073,-27.2479,10,4.5,mb,36,142,4.138,0.82,us,us6000lf94,2023-10-13T01:44:49.040Z,"Iceland region",earthquake,6.95,1.916,0.102,28,reviewed,us,us
