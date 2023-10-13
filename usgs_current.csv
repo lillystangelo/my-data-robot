@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-13T05:38:08.430Z,35.7599983,-117.5820007,7.24,1.16,ml,15,125,0.1528,0.17,ci,ci40581960,2023-10-13T05:40:30.100Z,"16 km W of Searles Valley, CA",earthquake,0.5,2.16,0.166,3,automatic,ci,ci
 2023-10-13T05:30:54.676Z,63.5388,-146.0897,13,1.6,ml,,,,0.26,ak,ak023d52uyyj,2023-10-13T05:32:38.547Z,"51 km SSW of Fort Greely, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-13T05:20:57.210Z,38.7799988,-122.7583313,1,1.08,md,12,69,0.01093,0.02,nc,nc73946620,2023-10-13T05:30:10.878Z,"0 km NNW of The Geysers, CA",earthquake,0.22,0.51,0.16,14,automatic,nc,nc
 2023-10-13T05:11:39.070Z,32.7016678,-115.7259979,8.28,1.93,ml,30,71,0.05219,0.19,ci,ci40581944,2023-10-13T05:14:05.793Z,"18 km WSW of El Centro, CA",earthquake,0.36,0.81,0.283,13,automatic,ci,ci
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T04:52:52.523Z,61.6544,-151.0032,67.6,1.9,ml,,,,0.28,ak,ak023d52e8xw,2023-10-13T04:54:25.170Z,"28 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-13T04:06:03.930Z,63.1069,-151.0269,135.3,1.7,ml,,,,0.23,ak,ak023d524a95,2023-10-13T04:08:33.435Z,"59 km SE of Denali National Park, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-13T03:44:32.333Z,-51.8028,139.4955,4.864,6,mww,44,94,10.353,0.8,us,us6000lf9x,2023-10-13T04:18:02.040Z,"western Indian-Antarctic Ridge",earthquake,11.1,3.368,0.08,15,reviewed,us,us
-2023-10-13T03:33:14.607Z,37.8749,24.1204,10,4.4,mb,32,73,1.878,0.9,us,us6000lf9u,2023-10-13T05:24:55.724Z,"10 km E of Limín Mesoyaías, Greece",earthquake,5.66,1.906,0.162,11,reviewed,us,us
+2023-10-13T03:33:14.607Z,37.8749,24.1204,10,4.4,mb,32,73,1.878,0.9,us,us6000lf9u,2023-10-13T05:42:23.200Z,"10 km E of Limín Mesoyaías, Greece",earthquake,5.66,1.906,0.162,11,reviewed,us,us
 2023-10-13T03:28:30.920Z,20.13450050354,-156.09700012207,15.7700004577637,2.86,ml,46,307,,0.310000002,hv,hv73607242,2023-10-13T05:35:22.837Z,"29 km WSW of Hāwī, Hawaii",earthquake,1.8,28.2399998,3.74,16,automatic,hv,hv
 2023-10-13T03:28:13.914Z,62.1223,-147.2819,18.3,2.4,ml,,,,0.9,ak,ak023d51nl64,2023-10-13T05:10:51.040Z,"21 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-13T03:27:51.825Z,32.3004,-101.0594,5,2.8,mb_lg,31,48,0.389,0.8,us,us6000lf9q,2023-10-13T03:35:07.040Z,"7 km SW of Westbrook, Texas",earthquake,1.52,2.002,0.066,61,reviewed,us,us
@@ -198,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T06:02:59.540Z,33.2423333,-116.0131667,2.95,0.7,ml,25,86,0.04407,0.22,ci,ci40581504,2023-10-12T17:27:19.739Z,"8 km SW of Salton City, CA",earthquake,0.31,0.47,0.13,9,reviewed,ci,ci
 2023-10-12T05:50:17.120Z,36.7568321,-121.2870026,4.17,1.41,md,10,159,0.02669,0.07,nc,nc73946350,2023-10-12T08:49:17.801Z,"5 km SE of Tres Pinos, CA",earthquake,0.42,0.69,0.27,8,automatic,nc,nc
 2023-10-12T05:49:27.220Z,19.3761672973633,-155.27766418457,0.759999990463257,1.89,ml,23,101,,0.330000013,hv,hv73606262,2023-10-12T05:54:58.100Z,"8 km SSW of Volcano, Hawaii",earthquake,0.38,0.340000004,0.25,6,automatic,hv,hv
-2023-10-12T05:44:22.290Z,38.8016663,-122.7378311,2.13,0.97,md,9,109,0.01713,0.01,nc,nc73946345,2023-10-12T08:20:11.618Z,"3 km SSW of Cobb, CA",earthquake,0.42,0.85,0.19,9,automatic,nc,nc
-2023-10-12T05:42:23.350Z,19.3466663360596,-155.295837402344,1.95000004768372,1.79,ml,24,117,,0.170000002,hv,hv73606252,2023-10-12T05:47:52.800Z,"12 km SSW of Volcano, Hawaii",earthquake,0.36,0.49000001,1.86,11,automatic,hv,hv
-2023-10-12T05:39:54.780Z,44.4261666666667,-115.222833333333,8.88,1.45,ml,11,60,0.4188,0.19,mb,mb90029638,2023-10-12T15:39:19.240Z,"southern Idaho",earthquake,0.44,1.06,0.137592666904189,10,reviewed,mb,mb
