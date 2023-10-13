@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T07:53:14.469Z,61.4144,-150.1021,29.9,1.4,ml,,,,0.55,ak,ak023d3gnc1i,2023-10-12T07:55:30.705Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-12T07:51:18.712Z,-4.3999,153.621,109.234,4.5,mb,18,225,1.468,0.17,us,us6000lf1a,2023-10-12T09:59:12.040Z,"150 km E of Kokopo, Papua New Guinea",earthquake,7.29,9.414,0.14,15,reviewed,us,us
 2023-10-12T07:42:56.981Z,64.7086,-147.7368,18.9,0.9,ml,,,,1.36,ak,ak023d3gl2jn,2023-10-12T07:45:19.751Z,"11 km SSE of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-12T07:34:17.510Z,60.0128333333333,-153.061333333333,-2.09,-0.86,ml,5,105,,0.04,av,av92080646,2023-10-13T01:26:30.250Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.26,1.74,0.284674950851334,5,reviewed,av,av
-2023-10-12T07:29:11.170Z,63.1877,-150.3892,107.8,2.4,ml,,,,0.52,ak,ak023d3gi6jv,2023-10-12T07:48:07.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
