@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-13T13:24:27.830Z,38.8223343,-122.7991638,1.62,1.07,md,19,54,0.008588,0.02,nc,nc73946735,2023-10-13T13:26:05.857Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.42,0.3,20,automatic,nc,nc
-2023-10-13T13:14:01.000Z,38.6860008,-122.4971695,7.71,1.64,md,12,72,0.09365,0.06,nc,nc73946730,2023-10-13T13:24:10.494Z,"13 km SE of Middletown, CA",earthquake,0.31,1.42,0.09,15,automatic,nc,nc
+2023-10-13T13:35:03.240Z,19.9731674194336,-155.476333618164,22.25,2.26999998,md,17,196,,0.189999998,hv,hv73607497,2023-10-13T13:38:20.920Z,"Island of Hawaii, Hawaii",earthquake,0.89,2.26999998,1.13,3,automatic,hv,hv
+2023-10-13T13:24:27.830Z,38.8223343,-122.7991638,1.62,1.07,md,19,54,0.008588,0.02,nc,nc73946735,2023-10-13T13:35:11.553Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.42,0.3,20,automatic,nc,nc
+2023-10-13T13:19:54.735Z,36.3836,71.1857,131.652,4.5,mb,23,76,2.538,0.57,us,us6000lfcd,2023-10-13T13:33:07.040Z,"45 km SW of Ashkāsham, Afghanistan",earthquake,7.87,4.981,0.171,10,reviewed,us,us
+2023-10-13T13:14:01.000Z,38.6860008,-122.4971695,7.71,1.64,md,12,72,0.09365,0.06,nc,nc73946730,2023-10-13T13:37:12.564Z,"13 km SE of Middletown, CA",earthquake,0.31,1.42,0.09,15,automatic,nc,nc
 2023-10-13T12:54:19.783Z,39.39,-119.7521,7.3,1.3,ml,11,87.7,0.01,0.1904,nn,nn00867235,2023-10-13T12:56:41.978Z,"12 km NW of Virginia City, Nevada",earthquake,,0.6,0.23,6,automatic,nn,nn
 2023-10-13T12:53:52.700Z,19.1786670684814,-155.48567199707,33.6500015258789,2.00999999,md,38,78,,0.109999999,hv,hv73607472,2023-10-13T12:57:00.190Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.67,0.829999983,0.150000006,13,automatic,hv,hv
 2023-10-13T12:08:44.940Z,37.9766655,-122.0656662,13.84,2.03,md,36,112,,0.12,nc,nc73946715,2023-10-13T13:15:15.438Z,"1 km SE of Pacheco, CA",earthquake,0.29,0.5,0.13,31,automatic,nc,nc
