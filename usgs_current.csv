@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T12:07:25.259Z,61.5542,-150.6567,74.9,1.4,ml,,,,0.74,ak,ak023d6ufcy5,2023-10-14T12:09:25.628Z,"7 km W of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-14T11:39:45.000Z,38.8256683,-122.8128357,1.79,0.36,md,11,76,0.003132,0.02,nc,nc73947080,2023-10-14T11:57:15.359Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.92,0.31,12,automatic,nc,nc
 2023-10-14T11:35:43.688Z,61.9541,-148.775,13.5,1.5,ml,,,,0.83,ak,ak023d6tzytc,2023-10-14T11:38:34.846Z,"19 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-14T11:30:26.160Z,38.8346672,-122.7911682,1.83,1.02,md,18,48,0.003791,0.02,nc,nc73947070,2023-10-14T11:47:19.302Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.38,0.23,19,automatic,nc,nc
+2023-10-14T11:30:26.160Z,38.8346672,-122.7911682,1.83,1.02,md,18,48,0.003791,0.02,nc,nc73947070,2023-10-14T14:02:11.062Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.38,0.23,19,automatic,nc,nc
 2023-10-14T11:29:35.432Z,-20.7953,-70.3271,71.593,4.6,mb,22,158,0.554,0.6,us,us6000lfja,2023-10-14T11:47:00.040Z,"60 km SSW of La Tirana, Chile",earthquake,3.83,6.497,0.146,14,reviewed,us,us
 2023-10-14T11:24:54.040Z,17.9311666666667,-66.9575,6.47,2.62,md,17,224,0.06188,0.13,pr,pr71428503,2023-10-14T11:44:47.590Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.43,0.22,0.102449826239023,7,reviewed,pr,pr
 2023-10-14T11:13:34.250Z,17.947,-66.958,7.61,2.94,md,14,216,0.05325,0.12,pr,pr71428488,2023-10-14T11:29:34.610Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.53,0.19,0.140976375197492,7,reviewed,pr,pr
@@ -166,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T14:20:56.587Z,-15.4066,-72.3642,105.791,4.5,mb,24,128,3.527,1.16,us,us6000lfcl,2023-10-13T14:39:52.040Z,"southern Peru",earthquake,8.13,7.166,0.125,19,reviewed,us,us
 2023-10-13T14:16:48.811Z,36.8834,-117.4024,15.2,0,ml,3,259.32,0.311,0.1297,nn,nn00867269,2023-10-14T02:04:49.902Z,"57 km W of Beatty, Nevada",earthquake,,9.8,0,1,reviewed,nn,nn
 2023-10-13T14:15:11.675Z,52.2854,-173.527,121.7,3.5,ml,,,,0.64,ak,ak023d584l4j,2023-10-13T20:45:53.764Z,"47 km ENE of Atka, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-10-13T14:08:08.350Z,40.3341675,-125.1146698,-0.36,2.78,md,24,304,0.5922,0.51,nc,nc73946745,2023-10-14T02:21:36.271Z,"70 km W of Petrolia, CA",earthquake,11.24,15.54,0.06,7,automatic,nc,nc
