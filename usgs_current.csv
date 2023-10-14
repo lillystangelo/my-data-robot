@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-14T17:09:15.440Z,38.8055,-122.7806702,1.52,1.08,md,13,65,0.007748,0.02,nc,nc73947175,2023-10-14T17:10:52.255Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.48,0.14,14,automatic,nc,nc
+2023-10-14T16:58:29.114Z,63.222,-150.6232,128,2.5,ml,,,,0.47,ak,ak023d6x413q,2023-10-14T17:00:21.387Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-14T16:50:38.050Z,33.9298333,-116.8575,16.88,0.83,ml,20,72,0.1082,0.19,ci,ci40582544,2023-10-14T16:54:13.995Z,"2 km ENE of Banning, CA",earthquake,0.41,0.95,0.151,22,automatic,ci,ci
 2023-10-14T16:49:47.249Z,61.8764,-150.593,13,1.6,ml,,,,0.14,ak,ak023d6x2550,2023-10-14T16:51:12.871Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-14T16:45:08.469Z,61.9044,-146.9399,135.5,1.7,ml,,,,0.74,ak,ak023d6x17a6,2023-10-14T16:47:53.232Z,"12 km ESE of Eureka Roadhouse, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -165,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T17:39:19.510Z,20.0466666666667,-155.939833333333,6.18,2.59,ml,13,184,,0.15,hv,hv73607622,2023-10-13T22:07:16.040Z,"13 km NW of Puako, Hawaii",earthquake,0.83,1.09,0.158090392738174,17,reviewed,hv,hv
 2023-10-13T17:32:58.960Z,58.25,-155.144,3.42,-0.28,ml,7,105,,0.1,av,av92082906,2023-10-13T23:39:25.690Z,"86 km NNW of Karluk, Alaska",earthquake,0.28,0.93,0.297345122645288,7,reviewed,av,av
 2023-10-13T17:16:48.890Z,46.7675,-121.92866666666667,4.99,0.54,ml,22,107,0.0284,0.11,uw,uw61965786,2023-10-13T23:43:49.280Z,"7 km E of Ashford, Washington",earthquake,0.33,0.45,0.12202113481632576,10,reviewed,uw,uw
-2023-10-13T17:13:53.670Z,19.220832824707,-155.455337524414,33.4799995422363,1.86000001,md,40,108,,0.159999996,hv,hv73607617,2023-10-13T17:17:05.440Z,"3 km NE of Pāhala, Hawaii",earthquake,0.59,0.839999974,0.569999993,5,automatic,hv,hv
