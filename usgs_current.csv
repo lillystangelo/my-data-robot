@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-15T11:26:32.960Z,35.536335,-120.8424988,6.88,1.69,md,16,66,0.09591,0.02,nc,nc73947450,2023-10-15T11:28:10.106Z,"11 km NNE of Cayucos, CA",earthquake,0.48,0.94,0.18,10,automatic,nc,nc
-2023-10-15T11:15:37.551Z,31.1027,49.5001,10,5.3,mww,103,48,5.383,0.8,us,us6000lfq9,2023-10-15T11:29:32.040Z,"21 km SSW of Rāmhormoz, Iran",earthquake,7.52,1.843,0.065,23,reviewed,us,us
+2023-10-15T11:26:32.960Z,35.536335,-120.8424988,6.88,1.69,md,16,66,0.09591,0.02,nc,nc73947450,2023-10-15T11:37:10.616Z,"11 km NNE of Cayucos, CA",earthquake,0.48,0.94,0.18,10,automatic,nc,nc
+2023-10-15T11:15:37.551Z,31.1027,49.5001,10,5.3,mww,103,48,5.383,0.8,us,us6000lfq9,2023-10-15T11:37:27.235Z,"21 km SSW of Rāmhormoz, Iran",earthquake,7.52,1.843,0.065,23,reviewed,us,us
 2023-10-15T11:06:35.692Z,64.978,-147.403,1.4,1.1,ml,,,,0.53,ak,ak023d8hd2xd,2023-10-15T11:08:51.037Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T10:33:52.012Z,64.6215,-152.2467,8.4,1.3,ml,,,,0.99,ak,ak023d8gxgwx,2023-10-15T10:35:44.265Z,"61 km S of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-15T10:04:49.790Z,17.9293333333333,-66.9508333333333,6.36,2.32,md,9,225,0.08191,0.19,pr,pr71428668,2023-10-15T10:23:33.840Z,"6 km SW of Guánica, Puerto Rico",earthquake,1.03,0.5,0.102905034885837,5,reviewed,pr,pr
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T17:15:12.760Z,35.6466667,-117.4358333,8.34,1.11,ml,15,87,0.02088,0.21,ci,ci40582552,2023-10-14T17:18:50.011Z,"14 km SSW of Searles Valley, CA",earthquake,0.56,0.93,0.215,9,automatic,ci,ci
 2023-10-14T17:12:03.920Z,17.9635,-66.9553333333333,7.48,2.01,md,11,195,0.04527,0.27,pr,pr71428588,2023-10-14T17:25:38.430Z,"Puerto Rico",earthquake,0.91,0.43,0.152227413095152,3,reviewed,pr,pr
 2023-10-14T17:09:15.440Z,38.8055,-122.7806702,1.52,1.08,md,13,65,0.007748,0.02,nc,nc73947175,2023-10-14T20:00:14.077Z,"4 km NW of The Geysers, CA",earthquake,0.29,0.48,0.14,14,automatic,nc,nc
-2023-10-14T17:06:57.950Z,17.9526666666667,-66.9523333333333,6.77,1.69,md,11,207,0.0459,0.08,pr,pr71428578,2023-10-14T17:17:01.740Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.44,0.27,0.0474401834210045,3,reviewed,pr,pr
+2023-10-14T17:06:57.950Z,17.9526666666667,-66.9523333333333,6.77,1.69,md,11,207,0.0459,0.08,pr,pr71428578,2023-10-14T17:17:01.740Z,"Puerto Rico region",earthquake,0.44,0.27,0.0474401834210045,3,reviewed,pr,pr
 2023-10-14T16:58:29.114Z,63.222,-150.6232,128,2.5,ml,,,,0.47,ak,ak023d6x413q,2023-10-15T05:04:17.119Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-14T16:50:38.050Z,33.9298333,-116.8575,16.88,0.83,ml,20,72,0.1082,0.19,ci,ci40582544,2023-10-14T16:54:13.995Z,"2 km ENE of Banning, CA",earthquake,0.41,0.95,0.151,22,automatic,ci,ci
 2023-10-14T16:49:47.249Z,61.8764,-150.593,13,1.6,ml,,,,0.14,ak,ak023d6x2550,2023-10-14T16:51:12.871Z,"32 km WNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -161,5 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T12:12:27.670Z,17.902,-66.8483333333333,15.38,3.07,md,18,213,0.07839,0.14,pr,pr71428513,2023-10-14T12:37:58.480Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.53,0.55,0.114220549189737,6,reviewed,pr,pr
 2023-10-14T12:07:25.259Z,61.5542,-150.6567,74.9,1.4,ml,,,,0.74,ak,ak023d6ufcy5,2023-10-14T12:09:25.628Z,"7 km W of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-14T11:39:45.000Z,38.8256683,-122.8128357,1.79,0.36,md,11,76,0.003132,0.02,nc,nc73947080,2023-10-14T14:29:12.217Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.92,0.31,12,automatic,nc,nc
-2023-10-14T11:35:43.688Z,61.9541,-148.775,13.5,1.5,ml,,,,0.83,ak,ak023d6tzytc,2023-10-14T11:38:34.846Z,"19 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-14T11:30:26.160Z,38.8346672,-122.7911682,1.83,1.02,md,18,48,0.003791,0.02,nc,nc73947070,2023-10-14T14:02:11.062Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.38,0.23,19,automatic,nc,nc
