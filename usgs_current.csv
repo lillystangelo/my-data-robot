@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T03:17:22.390Z,35.9871667,-117.9096667,-0.04,0.99,ml,15,98,0.08359,0.16,ci,ci40582664,2023-10-15T03:20:55.544Z,"6 km N of Little Lake, CA",earthquake,0.26,0.53,0.054,9,automatic,ci,ci
 2023-10-15T03:02:56.310Z,34.50734711,-97.75875092,4.21252203,1.98,ml,13,100.239563,0.111550048,0.5805980573,ok,ok2023uepk,2023-10-15T03:06:25.525Z,"9 km NW of Velma, Oklahoma",earthquake,3.171890448,2.470295209,0.22,9,automatic,ok,ok
 2023-10-15T02:32:25.620Z,33.3256667,-116.9026667,18.89,0.78,ml,23,64,0.04358,0.15,ci,ci40582656,2023-10-15T02:36:02.864Z,"5 km SW of Palomar Observatory, CA",earthquake,0.28,0.67,0.198,18,automatic,ci,ci
 2023-10-15T02:11:13.312Z,61.9134,-149.2727,40.1,2.5,ml,,,,0.41,ak,ak023d8c17c3,2023-10-15T02:23:31.040Z,"18 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
