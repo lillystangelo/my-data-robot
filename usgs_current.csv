@@ -1,11 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T12:39:24.226Z,38.1715,-117.8048,7.8,1.2,ml,8,186.56,0.121,0.2069,nn,nn00867334,2023-10-15T12:42:02.826Z,"36 km SE of Mina, Nevada",earthquake,,0.7,0.19,7,automatic,nn,nn
 2023-10-15T12:29:49.914Z,61.3737,-151.1466,61.8,1.2,ml,,,,0.38,ak,ak023d8i3h3h,2023-10-15T12:32:05.033Z,"26 km N of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-15T12:16:52.306Z,61.889,-150.0779,59.9,1.2,ml,,,,0.87,ak,ak023d8i0oz2,2023-10-15T12:18:14.030Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-10-15T12:16:01.670Z,35.5453339,-120.8610001,6.6,1.61,md,12,95,0.09073,0.23,nc,nc73947460,2023-10-15T12:32:16.040Z,"12 km NNE of Cayucos, CA",earthquake,1.69,2.33,0.1,8,automatic,nc,nc
-2023-10-15T12:01:57.270Z,40.9048347,-122.3646698,8.64,1.69,md,8,177,0.1987,0.05,nc,nc73947455,2023-10-15T12:32:15.915Z,"25 km N of Shasta Lake, CA",earthquake,0.7,2.98,0.13,6,automatic,nc,nc
+2023-10-15T12:01:57.270Z,40.9048347,-122.3646698,8.64,1.69,md,8,177,0.1987,0.05,nc,nc73947455,2023-10-15T12:36:09.936Z,"25 km N of Shasta Lake, CA",earthquake,0.7,2.98,0.13,6,automatic,nc,nc
 2023-10-15T11:46:06.980Z,19.4583333333333,-68.008,13.99,3.44,md,14,278,1.003,0.31,pr,pr71428673,2023-10-15T12:16:05.580Z,"105 km NNE of Punta Cana, Dominican Republic",earthquake,3.83,5.51,0.0827726333736494,10,reviewed,pr,pr
 2023-10-15T11:26:32.960Z,35.536335,-120.8424988,6.88,1.69,md,16,66,0.09591,0.02,nc,nc73947450,2023-10-15T12:03:12.755Z,"11 km NNE of Cayucos, CA",earthquake,0.48,0.94,0.18,10,automatic,nc,nc
-2023-10-15T11:15:37.551Z,31.1027,49.5001,10,5.3,mww,103,48,5.383,0.8,us,us6000lfq9,2023-10-15T12:15:40.315Z,"21 km SSW of Rāmhormoz, Iran",earthquake,7.52,1.843,0.065,23,reviewed,us,us
+2023-10-15T11:15:37.551Z,31.1027,49.5001,10,5.3,mww,103,48,5.383,0.8,us,us6000lfq9,2023-10-15T12:36:49.931Z,"21 km SSW of Rāmhormoz, Iran",earthquake,7.52,1.843,0.065,23,reviewed,us,us
 2023-10-15T11:06:35.692Z,64.978,-147.403,1.4,1.1,ml,,,,0.53,ak,ak023d8hd2xd,2023-10-15T11:08:51.037Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T10:33:52.012Z,64.6215,-152.2467,8.4,1.3,ml,,,,0.99,ak,ak023d8gxgwx,2023-10-15T10:35:44.265Z,"61 km S of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-15T10:04:49.790Z,17.9293333333333,-66.9508333333333,6.36,2.32,md,9,225,0.08191,0.19,pr,pr71428668,2023-10-15T10:23:33.840Z,"6 km SW of Guánica, Puerto Rico",earthquake,1.03,0.5,0.102905034885837,5,reviewed,pr,pr
@@ -156,5 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T13:24:17.350Z,33.4985,-116.4873333,13.36,0.87,ml,28,77,0.05717,0.2,ci,ci40582480,2023-10-14T13:27:49.550Z,"18 km ESE of Anza, CA",earthquake,0.32,0.56,0.119,23,automatic,ci,ci
 2023-10-14T13:12:40.580Z,38.7906667,-122.7325,1.59,0.43,md,17,91,0.00812,0.03,nc,nc73947100,2023-10-14T19:49:12.002Z,"2 km NE of The Geysers, CA",earthquake,0.23,0.34,0.314,11,reviewed,nc,nc
 2023-10-14T12:53:56.397Z,62.9389,-150.6797,113.1,1.7,ml,,,,0.32,ak,ak023d6upaaf,2023-10-14T12:56:12.199Z,"49 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-14T12:50:08.024Z,59.9021,-150.9638,44.4,1.9,ml,,,,0.61,ak,ak023d6uojeq,2023-10-14T12:51:56.806Z,"4 km N of Fox River, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-14T12:41:31.340Z,40.291832,-122.2139969,24.22,2.31,md,10,127,0.1072,0.08,nc,nc73947095,2023-10-15T05:03:10.723Z,"13 km N of Red Bluff, CA",earthquake,0.48,1.39,0.15,9,automatic,nc,nc
