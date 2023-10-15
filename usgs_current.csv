@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T15:16:51.014Z,61.0649,-150.9553,15.7,1.6,ml,,,,0.63,ak,ak023d8jszot,2023-10-15T15:19:28.332Z,"9 km E of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-15T15:10:45.330Z,33.3003333,-116.734,17.3,1.1,ml,36,100,0.06745,0.22,ci,ci40582752,2023-10-15T15:14:16.023Z,"7 km NNE of Lake Henshaw, CA",earthquake,0.35,0.68,0.138,26,automatic,ci,ci
 2023-10-15T15:05:10.348Z,64.9831,-147.4572,0,1.4,ml,,,,0.69,ak,ak023d8jqjo1,2023-10-15T15:07:12.395Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-15T14:46:18.280Z,19.2021675109863,-155.337173461914,25.7199993133545,1.86000001,md,39,169,,0.129999995,hv,hv73609557,2023-10-15T14:49:34.890Z,"14 km E of Pāhala, Hawaii",earthquake,0.55,0.870000005,0.769999981,11,automatic,hv,hv
 2023-10-15T14:43:43.286Z,38.3972,-118.892,2.5,1.5,ml,10,108.78,0.337,0.1787,nn,nn00867335,2023-10-15T14:46:14.991Z,"California-Nevada border region",earthquake,,9.2,0.15,7,automatic,nn,nn
