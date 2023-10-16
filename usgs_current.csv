@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T19:42:24.700Z,35.1648333,-118.6281667,8,1.28,ml,25,66,0.08265,0.15,ci,ci40583168,2023-10-16T20:22:08.569Z,"17 km WNW of Tehachapi, CA",earthquake,0.19,0.87,0.164,12,reviewed,ci,ci
 2023-10-16T19:32:52.120Z,19.343334197998,-155.298004150391,2.79999995231628,1.86000001,md,21,118,,0.140000001,hv,hv73610602,2023-10-16T19:36:00.740Z,"12 km SSW of Volcano, Hawaii",earthquake,0.32,0.560000002,0.939999998,16,automatic,hv,hv
 2023-10-16T19:30:40.770Z,38.6878319,-122.4986649,7.41,1.56,md,13,110,0.09568,0.07,nc,nc73948035,2023-10-16T20:06:36.833Z,"12 km SE of Middletown, CA",earthquake,0.4,1.5,0.15,14,automatic,nc,nc
+2023-10-16T19:30:39.040Z,37.6413333,-119.0308333,-2.05,0.34,md,8,81,0.002086,0.05,nc,nc73948040,2023-10-16T21:12:10.454Z,"5 km W of Mammoth Lakes, CA",earthquake,0.41,0.73,0.151,6,reviewed,nc,nc
 2023-10-16T19:30:22.540Z,32.6098333,-116.9741667,4.13,1.34,ml,22,108,0.03718,0.19,ci,ci40583144,2023-10-16T20:49:28.917Z,"7 km ESE of Chula Vista, CA",quarry blast,0.57,0.69,0.127,12,reviewed,ci,ci
 2023-10-16T19:28:43.080Z,35.907,-117.752,8.59,0.84,ml,10,113,0.06806,0.12,ci,ci40583136,2023-10-16T19:59:51.943Z,"14 km ESE of Little Lake, CA",earthquake,0.32,0.63,0.075,7,reviewed,ci,ci
 2023-10-16T19:18:57.999Z,61.9955,-150.5705,44.1,1.6,ml,,,,0.55,ak,ak023da9qikn,2023-10-16T19:20:40.105Z,"39 km NW of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -56,6 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T14:16:54.873Z,36.6886,-115.8792,11.3,-0.1,ml,11,280.94,0.072,0.1253,nn,nn00867423,2023-10-16T15:28:58.091Z,"22 km NW of Indian Springs, Nevada",earthquake,,1.5,0.81,2,reviewed,nn,nn
 2023-10-16T14:15:42.130Z,40.755,-124.3113333,26.33,2.93,md,36,196,0.08128,0.09,nc,nc73947930,2023-10-16T20:52:13.081Z,"11 km WNW of Humboldt Hill, CA",earthquake,0.45,0.43,0.107,72,reviewed,nc,nc
 2023-10-16T14:12:24.054Z,60.4306,-142.9182,6.8,1,ml,,,,0.2,ak,ak023da6pzmt,2023-10-16T14:14:13.696Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-16T14:08:36.560Z,43.225,-110.481666666667,5.02,1.41,ml,10,133,0.3076,0.19,mb,mb90030178,2023-10-16T21:17:01.630Z,"6 km WNW of Bondurant, Wyoming",earthquake,0.92,13.45,0.238311832302782,9,reviewed,mb,mb
 2023-10-16T13:56:41.327Z,31.623,-103.973,5.7202,2.2,ml(texnet),23,62,0,0.1,tx,tx2023uhgm,2023-10-16T15:26:34.973Z,"western Texas",earthquake,0.5572538291,0.658081223,0,7,reviewed,tx,tx
 2023-10-16T13:44:12.413Z,60.4121,-150.8085,47.4,2.3,ml,,,,0.33,ak,ak023da6be1l,2023-10-16T14:17:12.040Z,"10 km SSW of Funny River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-16T13:38:34.980Z,38.7876663,-122.7584991,2.16,1.11,md,18,69,0.01297,0.02,nc,nc73947925,2023-10-16T16:11:11.562Z,"1 km N of The Geysers, CA",earthquake,0.26,0.53,0.09,18,automatic,nc,nc
@@ -92,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T10:31:25.060Z,40.756,-124.5208333,23.63,4.02,mw,75,204,0.2389,0.17,nc,nc73947835,2023-10-16T20:48:44.881Z,"28 km W of Humboldt Hill, CA",earthquake,0.44,0.74,,3,reviewed,nc,nc
 2023-10-16T10:23:41.360Z,40.3414993,-124.0439987,28.56,2.4,md,7,216,0.1222,0.04,nc,nc73947820,2023-10-16T13:02:11.451Z,"18 km SSE of Rio Dell, CA",earthquake,1.15,3.15,0.16,3,automatic,nc,nc
 2023-10-16T10:20:54.380Z,63.2918,-151.0674,3.9,2.1,ml,,,,0.87,ak,ak023da4e1a6,2023-10-16T10:23:18.414Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-16T20:59:51.562Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
+2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-16T21:14:46.621Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
 2023-10-16T10:12:25.840Z,38.7736664,-122.7214966,1.28,0.69,md,6,87,0.01234,0,nc,nc73947815,2023-10-16T13:03:15.454Z,"3 km W of Anderson Springs, CA",earthquake,0.43,0.87,0.17,6,automatic,nc,nc
 2023-10-16T10:12:05.636Z,57.689,-155.9156,1.7,2.1,ml,,,,0.42,ak,ak023da4c7sj,2023-10-16T10:13:32.337Z,"88 km W of Karluk, Alaska",earthquake,,15.2,,,automatic,ak,ak
 2023-10-16T10:05:48.805Z,-25.154,70.0503,10,4.7,mb,28,180,13.745,0.34,us,us6000lfvg,2023-10-16T11:07:08.040Z,"Mid-Indian Ridge",earthquake,14.08,1.963,0.118,22,reviewed,us,us
