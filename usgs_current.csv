@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-17T03:50:38.750Z,38.8274994,-122.8535004,1.94,0.28,md,8,136,0.002635,0.02,nc,nc73948130,2023-10-17T03:52:14.698Z,"10 km WNW of The Geysers, CA",earthquake,0.68,1.06,0.17,8,automatic,nc,nc
 2023-10-17T03:27:18.270Z,19.167667388916,-155.492004394531,30.8500003814697,2.31,ml,37,149,,0.0900000036,hv,hv73611107,2023-10-17T03:32:49.370Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.53,0.839999974,3.83,8,automatic,hv,hv
 2023-10-17T03:10:37.892Z,61.0299,-152.2731,105.6,2.2,ml,,,,0.54,ak,ak023dbnp5zq,2023-10-17T03:14:13.385Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-17T02:35:16.763Z,-36.086,-69.9114,170.274,4.6,mb,52,53,1.241,0.76,us,us6000lg23,2023-10-17T02:52:57.040Z,"81 km N of Barrancas, Argentina",earthquake,7.76,7.285,0.047,135,reviewed,us,us
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T23:55:24.871Z,63.956,-149.0309,0,1.8,ml,,,,0.58,ak,ak023dacc3xj,2023-10-16T23:57:36.092Z,"7 km SSE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-16T23:52:15.030Z,19.1906661987305,-155.492004394531,33.5800018310547,2.01999998,md,36,157,,0.119999997,hv,hv73610922,2023-10-16T23:55:36.060Z,"1 km SW of Pāhala, Hawaii",earthquake,0.6,0.879999995,0.460000008,13,automatic,hv,hv
 2023-10-16T23:51:59.616Z,62.1799,-150.1253,4.5,1.7,ml,,,,0.48,ak,ak023dacbbqx,2023-10-16T23:53:28.585Z,"14 km W of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-16T23:48:23.594Z,39.737,-120.564,9,2.1,ml,16,154.31,0.103,0.1623,nn,nn00867459,2023-10-17T00:07:18.862Z,"0 km ESE of Valley Ranch, California",earthquake,,1.6,0.22,7,reviewed,nn,nn
+2023-10-16T23:48:23.594Z,39.737,-120.564,9,2.1,ml,16,154.31,0.103,0.1623,nn,nn00867459,2023-10-17T00:07:18.862Z,"Northern California",earthquake,,1.6,0.22,7,reviewed,nn,nn
 2023-10-16T23:48:08.540Z,19.9628333333333,-155.468666666667,39.84,2.23,ml,40,142,,0.15,hv,hv73610917,2023-10-17T00:11:08.930Z,"12 km S of Honoka‘a, Hawaii",earthquake,0.5,0.86,0.0678588205811028,14,reviewed,hv,hv
 2023-10-16T23:21:44.720Z,19.275333404541,-155.376663208008,30.8099994659424,1.76999998,md,35,143,,0.109999999,hv,hv73610882,2023-10-16T23:24:57.730Z,"13 km NE of Pāhala, Hawaii",earthquake,0.63,0.769999981,0.720000029,12,automatic,hv,hv
 2023-10-16T23:20:06.227Z,62.5021,-151.4297,84.8,1.3,ml,,,,0.73,ak,ak023dac4kfi,2023-10-16T23:21:44.557Z,"34 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -138,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T10:31:25.060Z,40.756,-124.5208333,23.63,4.02,mw,75,204,0.2389,0.17,nc,nc73947835,2023-10-17T01:20:12.660Z,"28 km W of Humboldt Hill, CA",earthquake,0.44,0.74,,3,reviewed,nc,nc
 2023-10-16T10:23:41.420Z,40.3383333,-124.051,27.84,2.08,md,27,49,0.04628,0.06,nc,nc73947820,2023-10-17T01:18:12.646Z,"18 km SSE of Rio Dell, CA",earthquake,0.32,0.71,0.104,14,reviewed,nc,nc
 2023-10-16T10:20:54.380Z,63.2918,-151.0674,3.9,2.1,ml,,,,0.87,ak,ak023da4e1a6,2023-10-16T10:23:18.414Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-17T03:28:24.285Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
+2023-10-16T10:20:49.740Z,40.3156667,-124.0548333,31.06,4.83,mw,45,52,0.0472,0.12,nc,nc73947830,2023-10-17T03:56:10.537Z,"20 km E of Petrolia, CA",earthquake,0.27,0.59,,4,reviewed,nc,nc
 2023-10-16T10:12:25.840Z,38.7736664,-122.7214966,1.28,0.69,md,6,87,0.01234,0,nc,nc73947815,2023-10-16T13:03:15.454Z,"3 km W of Anderson Springs, CA",earthquake,0.43,0.87,0.17,6,automatic,nc,nc
 2023-10-16T10:12:05.636Z,57.689,-155.9156,1.7,2.1,ml,,,,0.42,ak,ak023da4c7sj,2023-10-16T10:13:32.337Z,"88 km W of Karluk, Alaska",earthquake,,15.2,,,automatic,ak,ak
 2023-10-16T10:05:48.805Z,-25.154,70.0503,10,4.7,mb,28,180,13.745,0.34,us,us6000lfvg,2023-10-16T11:07:08.040Z,"Mid-Indian Ridge",earthquake,14.08,1.963,0.118,22,reviewed,us,us
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T04:24:02.760Z,38.6855,-122.4955,7.95,0.92,md,25,112,0.0923,0.07,nc,nc73947735,2023-10-17T00:04:12.110Z,"13 km SE of Middletown, CA",earthquake,0.19,0.87,0.115,20,reviewed,nc,nc
 2023-10-16T04:07:55.474Z,61.6869,-141.8891,20,1.2,ml,,,,0.41,ak,ak023da0qnfc,2023-10-16T04:10:18.627Z,"61 km ENE of McCarthy, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-10-16T04:02:44.280Z,35.7351667,-117.5511667,2.46,2.1,ml,32,69,0.1245,0.16,ci,ci40582944,2023-10-16T15:02:40.730Z,"14 km WSW of Searles Valley, CA",earthquake,0.18,0.44,0.203,16,reviewed,ci,ci
-2023-10-16T03:50:45.840Z,35.679,-117.4755,8.83,1.31,ml,24,72,0.04439,0.15,ci,ci40582936,2023-10-16T14:42:47.600Z,"12 km SSW of Searles Valley, CA",earthquake,0.23,0.6,0.162,10,reviewed,ci,ci
