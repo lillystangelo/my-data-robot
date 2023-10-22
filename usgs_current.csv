@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-22T03:35:27.540Z,38.7794991,-122.7574997,1.23,1.19,md,14,83,0.01666,0.03,nc,nc73949895,2023-10-22T03:44:10.921Z,"0 km NNW of The Geysers, CA",earthquake,0.26,0.57,0.27,14,automatic,nc,nc
 2023-10-22T03:25:56.060Z,62.7854,-148.7828,8.6,1.5,ml,,,,0.54,ak,ak023djxh5py,2023-10-22T03:27:47.315Z,"68 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-22T03:18:30.100Z,38.8306656,-122.8166656,1.54,0.76,md,9,81,0.0089,0.01,nc,nc73949890,2023-10-22T03:29:11.710Z,"8 km NW of The Geysers, CA",earthquake,0.3,1.41,0.46,9,automatic,nc,nc
 2023-10-22T03:08:27.418Z,38.6591,-119.849,1.8,1.5,ml,9,134.81,0.267,0.067,nn,nn00867734,2023-10-22T03:11:03.609Z,"7 km WSW of Markleeville, California",earthquake,,18.5,0.23,2,automatic,nn,nn
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T03:03:21.345Z,-58.6997,-25.2008,29.585,4.9,mb,50,54,7.652,0.71,us,us6000lh8l,2023-10-22T03:33:26.040Z,"South Sandwich Islands region",earthquake,11.59,4.727,0.086,43,reviewed,us,us
 2023-10-22T02:53:40.032Z,62.6856,-150.5829,86.2,1.2,ml,,,,0.33,ak,ak023djx1oxf,2023-10-22T02:55:14.341Z,"23 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-22T02:43:27.205Z,38.1902,-117.8375,12.3,2.3,ml,19,109.87,0.116,0.4321,nn,nn00867731,2023-10-22T02:46:04.524Z,"Nevada",earthquake,,0.3,0.39,11,automatic,nn,nn
-2023-10-22T02:37:41.180Z,38.8370018,-122.8218307,1.72,1.86,md,36,59,0.01078,0.03,nc,nc73949880,2023-10-22T02:48:10.496Z,"9 km W of Cobb, CA",earthquake,0.16,0.25,0.12,36,automatic,nc,nc
+2023-10-22T02:37:41.180Z,38.8370018,-122.8218307,1.72,1.86,md,36,59,0.01078,0.03,nc,nc73949880,2023-10-22T03:44:10.798Z,"9 km W of Cobb, CA",earthquake,0.16,0.25,0.12,36,automatic,nc,nc
 2023-10-22T02:33:06.080Z,38.7804985,-122.7568359,1.39,1.08,md,12,80,0.01595,0.02,nc,nc73949875,2023-10-22T03:19:10.661Z,"0 km N of The Geysers, CA",earthquake,0.27,0.59,0.21,13,automatic,nc,nc
 2023-10-22T02:18:06.230Z,60.2971,-152.2235,88.1,1.4,ml,,,,0.31,ak,ak023djwu49b,2023-10-22T02:20:11.370Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-22T02:15:22.190Z,34.1425,-117.3428333,2.8,1.5,ml,48,27,0.06635,0.22,ci,ci40584816,2023-10-22T02:19:17.657Z,"1 km S of Muscoy, CA",earthquake,0.22,0.51,0.156,27,automatic,ci,ci
@@ -129,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T12:04:56.360Z,-8.1326,118.0666,10,4.7,mb,28,77,0.748,0.59,us,us6000lh5c,2023-10-21T12:24:51.040Z,"62 km NW of Dompu, Indonesia",earthquake,5.17,1.837,0.12,23,reviewed,us,us
 2023-10-21T12:03:07.200Z,36.7550011,-121.3991699,9.05,1.26,md,13,64,0.06129,0.16,nc,nc73949675,2023-10-21T13:30:10.748Z,"7 km SSW of Ridgemark, CA",earthquake,0.52,1.51,0.16,10,automatic,nc,nc
 2023-10-21T11:53:28.824Z,66.0255,-153.7036,0,2.7,ml,,,,0.67,ak,ak023diev80i,2023-10-21T12:40:41.040Z,"25 km E of Hughes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-21T11:46:47.293Z,39.1269,-119.6584,11.3,0.2,ml,6,154.02,0.058,0.1513,nn,nn00867726,2023-10-22T00:07:27.956Z,"Nevada",earthquake,,1.8,0,1,reviewed,nn,nn
+2023-10-21T11:46:47.293Z,39.1269,-119.6584,11.3,0.2,ml,6,154.02,0.058,0.1513,nn,nn00867726,2023-10-22T00:07:27.956Z,"10 km ESE of Carson City, Nevada",earthquake,,1.8,0,1,reviewed,nn,nn
 2023-10-21T11:45:17.810Z,39.5061684,-123.0068359,2.67,2.43,md,24,102,0.1481,0.1,nc,nc73949670,2023-10-22T00:04:19.167Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.27,1.75,0.06,21,automatic,nc,nc
 2023-10-21T11:23:34.960Z,19.195499420166,-155.494003295898,31.9899997711182,1.82000005,md,44,74,,0.119999997,hv,hv73616007,2023-10-21T11:26:54.400Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.370000005,9,automatic,hv,hv
 2023-10-21T11:23:15.150Z,38.8144989,-122.8160019,2.84,0.92,md,13,84,0.01002,0.01,nc,nc73949665,2023-10-21T12:49:10.491Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.87,0.2,15,automatic,nc,nc
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T04:19:37.251Z,58.3224,-133.3033,0,2.5,ml,,,,0.79,ak,ak023diahx31,2023-10-21T04:52:57.040Z,"65 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-21T04:18:35.732Z,39.6266,-119.64,6.5,1.6,ml,19,74.1,0.055,0.1935,nn,nn00867699,2023-10-21T17:28:33.845Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.3,0.34,6,reviewed,nn,nn
 2023-10-21T03:47:53.719Z,34.8387,26.3955,10,4.3,mb,39,120,1.314,0.85,us,us6000lh2v,2023-10-21T04:16:17.040Z,"41 km SSE of Palekastro, Greece",earthquake,7.04,1.928,0.134,16,reviewed,us,us
-2023-10-21T03:42:02.317Z,61.5786,-149.9992,33.2,1.3,ml,,,,0.5,ak,ak023dia1c93,2023-10-21T03:43:39.724Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
