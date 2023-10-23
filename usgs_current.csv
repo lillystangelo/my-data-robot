@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T08:13:38.944Z,38.9069,22.3607,13.874,4.3,mb,47,54,1.199,0.56,us,us6000lh9v,2023-10-22T08:38:44.040Z,"1 km NW of Stavrós, Greece",earthquake,4.74,4.599,0.168,10,reviewed,us,us
 2023-10-22T08:10:19.060Z,38.0423333333333,-79.0508333333333,3.49,2.42,md,11,54,0.2917,0.12,se,se60501213,2023-10-23T04:59:27.954Z,"2 km NW of Stuarts Draft, Virginia",earthquake,0.36,1.12,0.12850169824745,10,reviewed,se,se
 2023-10-22T08:04:50.658Z,61.6379,-148.8423,14.2,1.1,ml,,,,0.26,ak,ak023dk0btah,2023-10-22T08:06:20.170Z,"5 km ENE of Lazy Mountain, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-22T07:48:45.010Z,18.2975,-67.2995,80.54,3.33,md,15,151,0.06171,0.34,pr,pr71429433,2023-10-22T08:49:40.040Z,"6 km WSW of Stella, Puerto Rico",earthquake,1.88,1.35,0.140655110797906,7,reviewed,pr,pr
