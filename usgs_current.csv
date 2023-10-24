@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T21:31:34.860Z,19.3861675262451,-155.273498535156,2.0699999332428,1.75999999,md,21,97,,0.280000001,hv,hv73622767,2023-10-24T21:34:36.410Z,"7 km SSW of Volcano, Hawaii",earthquake,0.39,0.360000014,0.829999983,10,automatic,hv,hv
+2023-10-24T21:24:23.950Z,38.6386681,-122.8649979,3.99,1.19,md,7,173,0.1108,0.05,nc,nc73950940,2023-10-24T21:25:59.050Z,"3 km N of Healdsburg, CA",earthquake,0.51,2.33,0.17,7,automatic,nc,nc
 2023-10-24T21:20:07.770Z,32.9796667,-116.9088333,6.41,0.92,ml,5,121,0.245,0.13,ci,ci40586624,2023-10-24T21:23:42.831Z,"8 km SSW of Ramona, CA",earthquake,1.31,8.46,0.055,2,automatic,ci,ci
-2023-10-24T21:18:29.330Z,33.272,-116.779,11.24,1.2,ml,31,74,0.03973,0.22,ci,ci40586616,2023-10-24T21:22:21.871Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.29,0.81,0.147,25,automatic,ci,ci
-2023-10-24T21:11:43.160Z,38.7836685,-122.7334976,1.98,0.38,md,8,110,0.002559,0.03,nc,nc73950930,2023-10-24T21:13:18.965Z,"2 km ENE of The Geysers, CA",earthquake,0.39,0.83,0.17,6,automatic,nc,nc
+2023-10-24T21:18:29.330Z,33.272,-116.779,11.24,1.2,ml,31,74,0.03973,0.22,ci,ci40586616,2023-10-24T21:29:24.620Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.29,0.81,0.147,25,automatic,ci,ci
+2023-10-24T21:11:43.160Z,38.7836685,-122.7334976,1.98,0.38,md,8,110,0.002559,0.03,nc,nc73950930,2023-10-24T21:30:11.298Z,"2 km ENE of The Geysers, CA",earthquake,0.39,0.83,0.17,6,automatic,nc,nc
 2023-10-24T21:08:50.630Z,38.7836685,-122.7350006,1.6,0.71,md,9,83,0.001415,0.02,nc,nc73950925,2023-10-24T21:23:11.253Z,"2 km ENE of The Geysers, CA",earthquake,0.42,0.71,0.19,8,automatic,nc,nc
-2023-10-24T21:08:38.580Z,38.784832,-122.7344971,0.82,1.16,md,18,150,0.00236,0.05,nc,nc73950920,2023-10-24T21:10:14.413Z,"2 km ENE of The Geysers, CA",earthquake,0.3,0.49,0.16,18,automatic,nc,nc
+2023-10-24T21:08:38.580Z,38.784832,-122.7344971,0.82,1.16,md,18,150,0.00236,0.05,nc,nc73950920,2023-10-24T21:26:10.267Z,"2 km ENE of The Geysers, CA",earthquake,0.3,0.49,0.16,18,automatic,nc,nc
 2023-10-24T21:04:46.720Z,38.8236656,-122.8088303,0.62,0.75,md,14,56,0.0189,0.02,nc,nc73950915,2023-10-24T21:15:11.217Z,"7 km NW of The Geysers, CA",earthquake,0.21,1.1,0.25,15,automatic,nc,nc
 2023-10-24T20:56:34.685Z,63.065,-150.3324,87.6,1.9,ml,,,,0.45,ak,ak023dniutjg,2023-10-24T20:58:47.293Z,"67 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-24T20:52:03.161Z,65.0634,-151.7619,5.2,1.4,ml,,,,0.5,ak,ak023dnitw8s,2023-10-24T20:53:56.966Z,"19 km SE of Tanana, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -233,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T21:56:15.620Z,60.0519,-139.3463,6.9,1.8,ml,,,,0.76,ak,ak023dlvwv6i,2023-10-23T21:58:18.945Z,"60 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-23T21:39:10.920Z,46.2015,-122.172,7.07,0.2,ml,11,149,0.009466,0.28,uw,uw61958932,2023-10-24T03:15:35.350Z,"38 km NNE of Amboy, Washington",earthquake,0.89,1.01,0.15629900503335092,3,reviewed,uw,uw
 2023-10-23T21:38:11.820Z,38.1813333,-112.3375,5.35,1.6,ml,7,123,0.1846,0.15,uu,uu60552792,2023-10-23T21:54:22.030Z,"5 km W of Circleville, Utah",earthquake,0.6,31.61,0.447,3,reviewed,uu,uu
-2023-10-23T21:26:59.870Z,38.4744987,-122.6301651,0.49,1.54,md,12,136,0.08897,0.12,nc,nc73950505,2023-10-23T23:48:10.841Z,"7 km ENE of Santa Rosa, CA",earthquake,0.64,6.55,0.13,9,automatic,nc,nc
-2023-10-23T21:26:12.310Z,38.7843323,-122.7396698,0.66,0.92,md,8,82,0.002548,0.02,nc,nc73950500,2023-10-23T21:35:11.093Z,"2 km ENE of The Geysers, CA",earthquake,0.28,1.32,0.15,9,automatic,nc,nc
