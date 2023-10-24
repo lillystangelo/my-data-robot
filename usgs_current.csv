@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T16:24:03.970Z,40.4049988,-124.677002,25.25,2.43,md,15,266,0.2685,0.08,nc,nc73950395,2023-10-23T17:49:11.813Z,"34 km WNW of Petrolia, CA",earthquake,2.31,2.2,0.15,7,automatic,nc,nc
 2023-10-23T16:16:50.430Z,33.2543333,-116.3105,10.34,1.26,ml,48,29,0.08639,0.23,ci,ci40585352,2023-10-23T17:31:46.096Z,"6 km E of Borrego Springs, CA",earthquake,0.22,0.62,0.094,23,reviewed,ci,ci
 2023-10-23T16:13:02.276Z,60.7661,-151.306,235.4,1.4,ml,,,,0.52,ak,ak023dlsogc3,2023-10-23T16:15:21.568Z,"8 km N of Nikiski, Alaska",earthquake,,2.4,,,automatic,ak,ak
-2023-10-23T16:01:31.740Z,43.8368,147.6851,85.835,4.5,mb,55,145,3.686,0.82,us,us6000lhj3,2023-10-23T17:03:40.040Z,"Kuril Islands",earthquake,12.19,8.139,0.081,45,reviewed,us,us
+2023-10-23T16:01:31.740Z,43.8368,147.6851,85.835,4.5,mb,55,145,3.686,0.82,us,us6000lhj3,2023-10-23T17:03:40.040Z,"77 km E of Shikotan, Russia",earthquake,12.19,8.139,0.081,45,reviewed,us,us
 2023-10-23T15:49:29.810Z,38.129,-121.6703333,0.01,2.49,md,33,81,,0.54,nc,nc73950390,2023-10-23T20:05:12.610Z,"4 km SSE of Rio Vista, CA",earthquake,0.72,1.02,0.166,67,reviewed,nc,nc
 2023-10-23T15:20:52.360Z,32.7615,-115.4225,11.97,2.04,ml,24,65,0.04825,0.24,ci,ci40585304,2023-10-23T16:32:50.464Z,"7 km SW of Holtville, CA",earthquake,0.33,0.5,0.199,16,reviewed,ci,ci
 2023-10-23T15:14:54.750Z,18.005,-66.8181666666667,12.09,2.33,md,8,182,0.2051,0.09,pr,pr71429568,2023-10-23T16:18:05.790Z,"1 km N of Indios, Puerto Rico",earthquake,0.44,0.67,0.204826589824028,6,reviewed,pr,pr
@@ -136,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T13:51:44.980Z,38.5541667,-119.556,1.91,2.47,md,16,77,0.04253,0.07,nc,nc73950350,2023-10-23T21:45:11.143Z,"8 km WNW of Walker, CA",earthquake,0.21,0.61,0.212,37,reviewed,nc,nc
 2023-10-23T13:38:36.545Z,39.7135,-119.495,5.8,1.6,ml,15,106.51,0.085,0.127,nn,nn00867775,2023-10-23T17:32:27.863Z,"17 km SW of Nixon, Nevada",earthquake,,1.2,0.26,10,reviewed,nn,nn
 2023-10-23T13:14:59.349Z,39.6301,-119.6443,9.5,1.4,ml,19,75,0.051,0.1514,nn,nn00867773,2023-10-23T19:21:18.683Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.6,0.32,8,reviewed,nn,nn
-2023-10-23T12:58:01.184Z,17.9282,-66.7935,15.982,4.5,mwr,54,63,0.242,0.6,us,us6000lhh6,2023-10-24T04:29:45.040Z,"7 km SSE of Indios, Puerto Rico",earthquake,3.11,4.79,0.042,55,reviewed,us,us
+2023-10-23T12:58:01.184Z,17.9282,-66.7935,15.982,4.5,mwr,54,63,0.242,0.6,us,us6000lhh6,2023-10-24T04:46:01.399Z,"7 km SSE of Indios, Puerto Rico",earthquake,3.11,4.79,0.042,55,reviewed,us,us
 2023-10-23T12:36:55.190Z,46.198166666666665,-122.1865,3.11,0.01,ml,9,149,0.002149,0.09,uw,uw61958827,2023-10-23T17:40:37.600Z,"Mount St. Helens area, Washington",earthquake,0.57,0.46,0.05275259831993118,4,reviewed,uw,uw
 2023-10-23T12:28:56.994Z,36.7958,-115.969,5.7,0,ml,12,138.79,0.021,0.1738,nn,nn00867780,2023-10-23T16:36:36.956Z,"36 km NW of Indian Springs, Nevada",earthquake,,3.4,0.3,7,reviewed,nn,nn
 2023-10-23T12:13:57.880Z,46.204,-122.19733333333333,2.57,0.32,ml,12,85,0.009055,0.11,uw,uw61502838,2023-10-23T17:35:42.040Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.64,0.06803047586339353,3,reviewed,uw,uw
@@ -154,5 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T05:39:07.510Z,46.18083333333333,-122.21083333333333,6.19,0.03,ml,16,65,0.004814,0.2,uw,uw61958782,2023-10-23T16:12:20.270Z,"35 km NNE of Amboy, Washington",earthquake,0.48,0.6,0.1191831185097515,8,reviewed,uw,uw
 2023-10-23T05:33:57.090Z,33.1671667,-116.2986667,16.18,0.96,ml,19,142,0.2163,0.2,ci,ci40585136,2023-10-23T05:39:36.546Z,"12 km SE of Borrego Springs, CA",earthquake,0.58,1.46,0.126,13,automatic,ci,ci
 2023-10-23T05:06:18.250Z,19.3596668243408,-155.285339355469,2.02999997138977,1.70000005,md,21,117,,0.119999997,hv,hv73619537,2023-10-23T05:09:21.010Z,"10 km SSW of Volcano, Hawaii",earthquake,0.25,0.389999986,0.74000001,15,automatic,hv,hv
-2023-10-23T04:41:37.130Z,38.8326683,-122.819664,1.53,0.79,md,9,80,0.01191,0.02,nc,nc73950215,2023-10-23T04:57:11.340Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.12,0.35,10,automatic,nc,nc
-2023-10-23T04:38:02.840Z,38.803833,-122.8199997,1.04,0.33,md,7,108,0.008758,0.05,nc,nc73950205,2023-10-23T04:48:10.283Z,"6 km WNW of The Geysers, CA",earthquake,0.52,0.77,0.1,8,automatic,nc,nc
