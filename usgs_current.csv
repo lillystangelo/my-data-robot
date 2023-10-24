@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T12:56:41.460Z,32.7558333,-115.427,10.59,1.83,ml,22,63,0.05209,0.2,ci,ci40586032,2023-10-24T13:00:20.237Z,"8 km SW of Holtville, CA",earthquake,0.4,0.86,0.235,25,automatic,ci,ci
 2023-10-24T12:35:52.497Z,63.0966,-150.9222,114.2,1.5,ml,,,,0.71,ak,ak023dndyw1d,2023-10-24T12:38:08.609Z,"63 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-10-24T12:18:07.970Z,19.4478340148926,-155.564331054688,38.6800003051758,1.86,ml,26,43,,0.140000001,hv,hv73622122,2023-10-24T12:23:41.460Z,"28 km NNW of Pāhala, Hawaii",earthquake,0.71,1.16999996,3.62,4,automatic,hv,hv
 2023-10-24T11:56:24.320Z,47.06266784667969,-121.9991683959961,11.25,2.622577428817749,ml,73,79,,0.159999996,uw,uw61959007,2023-10-24T12:40:55.666Z,"Washington",earthquake,0.24,0.649999976,0.3169775903224945,106,automatic,uw,uw
@@ -7,9 +8,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T11:48:32.190Z,35.8696667,-117.7285,3.68,0.99,ml,14,112,0.06776,0.25,ci,ci40586008,2023-10-24T11:52:10.939Z,"18 km ESE of Little Lake, CA",earthquake,0.44,0.99,0.243,8,automatic,ci,ci
 2023-10-24T11:43:44.580Z,38.8305016,-122.8131638,1.62,1.69,md,30,42,0.007495,0.03,nc,nc73950705,2023-10-24T11:51:11.148Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.29,0.16,31,automatic,nc,nc
 2023-10-24T11:34:50.900Z,32.539,-115.2716667,17.77,2.44,ml,31,58,0.1224,0.29,ci,ci40586000,2023-10-24T11:45:09.740Z,"8 km ESE of Puebla, B.C., MX",earthquake,0.48,1.47,0.278,26,automatic,ci,ci
-2023-10-24T11:32:13.833Z,39.2654,97.3075,10,5.5,mww,123,33,6.051,0.7,us,us7000l5yp,2023-10-24T11:53:18.994Z,"Gansu, China",earthquake,8.27,1.837,0.071,19,reviewed,us,us
+2023-10-24T11:32:13.833Z,39.2654,97.3075,10,5.5,mww,123,33,6.051,0.7,us,us7000l5yp,2023-10-24T12:55:43.519Z,"Gansu, China",earthquake,8.27,1.837,0.071,19,reviewed,us,us
 2023-10-24T11:30:42.429Z,31.718,-103.994,6.183,2.3,ml(texnet),21,42,0,0.1,tx,tx2023uvrr,2023-10-24T12:29:08.237Z,"37 km W of Mentone, Texas",earthquake,0.5255835295,0.5880878437,0.1,7,reviewed,tx,tx
 2023-10-24T11:22:09.600Z,38.8364983,-122.8116684,1.83,0.59,md,7,103,0.01314,0.01,nc,nc73950700,2023-10-24T11:34:10.913Z,"8 km WNW of Cobb, CA",earthquake,0.43,1.45,0.36,9,automatic,nc,nc
+2023-10-24T11:17:52.194Z,27.4083,56.0894,10,4.4,mb,38,72,2.455,0.6,us,us7000l5yi,2023-10-24T12:53:17.040Z,"southern Iran",earthquake,7.92,1.774,0.09,35,reviewed,us,us
 2023-10-24T11:17:46.600Z,33.3145,-116.3228333,7.69,0.68,ml,19,69,0.2724,0.21,ci,ci40585992,2023-10-24T11:21:21.083Z,"8 km NE of Borrego Springs, CA",earthquake,0.36,13.14,0.086,12,automatic,ci,ci
 2023-10-24T11:06:10.930Z,35.8808333,-117.7056667,9.78,0.65,ml,10,183,0.08669,0.12,ci,ci40585984,2023-10-24T11:09:42.054Z,"19 km ESE of Little Lake, CA",earthquake,0.44,0.74,0.022,2,automatic,ci,ci
 2023-10-24T10:59:44.460Z,35.8835,-117.6958333,8.6,1.83,ml,25,76,0.09348,0.16,ci,ci40585976,2023-10-24T11:10:51.600Z,"20 km ESE of Little Lake, CA",earthquake,0.28,0.72,0.152,20,automatic,ci,ci
@@ -193,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T13:51:44.980Z,38.5541667,-119.556,1.91,2.47,md,16,77,0.04253,0.07,nc,nc73950350,2023-10-23T21:45:11.143Z,"8 km WNW of Walker, CA",earthquake,0.21,0.61,0.212,37,reviewed,nc,nc
 2023-10-23T13:38:36.545Z,39.7135,-119.495,5.8,1.6,ml,15,106.51,0.085,0.127,nn,nn00867775,2023-10-23T17:32:27.863Z,"17 km SW of Nixon, Nevada",earthquake,,1.2,0.26,10,reviewed,nn,nn
 2023-10-23T13:14:59.349Z,39.6301,-119.6443,9.5,1.4,ml,19,75,0.051,0.1514,nn,nn00867773,2023-10-23T19:21:18.683Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.6,0.32,8,reviewed,nn,nn
-2023-10-23T12:58:01.184Z,17.9282,-66.7935,15.982,4.5,mwr,54,63,0.242,0.6,us,us6000lhh6,2023-10-24T04:46:01.399Z,"7 km SSE of Indios, Puerto Rico",earthquake,3.11,4.79,0.042,55,reviewed,us,us
