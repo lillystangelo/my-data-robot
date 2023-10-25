@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T06:59:08.656Z,64.5936,-150.4555,2.7,1.7,ml,,,,0.53,ak,ak023doy2opd,2023-10-25T07:06:55.540Z,"46 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-25T06:55:23.670Z,34.1431667,-117.4258333,5.06,0.55,ml,17,97,0.1144,0.21,ci,ci40586928,2023-10-25T06:59:02.880Z,"6 km NNE of Fontana, CA",earthquake,0.47,0.87,0.105,7,automatic,ci,ci
 2023-10-25T06:52:21.510Z,19.1638336181641,-155.474838256836,29.0699996948242,1.74000001,md,26,166,,0.0799999982,hv,hv73623232,2023-10-25T06:55:34.690Z,"Hawaii region, Hawaii",earthquake,0.84,1.40999997,0.870000005,3,automatic,hv,hv
-2023-10-25T06:46:13.500Z,19.1678333282471,-155.481826782227,31.7600002288818,2.61,ml,51,149,,0.109999999,hv,hv73623227,2023-10-25T06:53:34.764Z,"3 km S of Pāhala, Hawaii",earthquake,0.46,0.720000029,3.37,30,automatic,hv,hv
+2023-10-25T06:46:13.500Z,19.1678333282471,-155.481826782227,31.7600002288818,2.61,ml,51,149,,0.109999999,hv,hv73623227,2023-10-25T07:02:40.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.46,0.720000029,3.37,30,automatic,hv,hv
 2023-10-25T06:39:33.490Z,38.7895012,-122.7344971,1.63,1.12,md,9,89,0.006493,0.01,nc,nc73951070,2023-10-25T06:49:11.041Z,"2 km NE of The Geysers, CA",earthquake,0.44,2.24,0.1,3,automatic,nc,nc
 2023-10-25T06:31:13.100Z,35.496,-118.3973333,8.68,1.41,ml,21,66,0.1778,0.11,ci,ci40586904,2023-10-25T06:42:06.550Z,"13 km SE of Bodfish, CA",earthquake,0.19,0.79,0.16,18,automatic,ci,ci
 2023-10-25T06:19:31.080Z,36.0478333,-117.8676667,1.05,1.04,ml,10,99,0.07037,0.17,ci,ci40586896,2023-10-25T06:23:06.518Z,"7 km E of Coso Junction, CA",earthquake,0.44,0.6,0.17,9,automatic,ci,ci
@@ -173,6 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T11:30:42.429Z,31.718,-103.994,6.183,2.3,ml(texnet),21,42,0,0.1,tx,tx2023uvrr,2023-10-24T12:29:08.237Z,"37 km W of Mentone, Texas",earthquake,0.5255835295,0.5880878437,0.1,7,reviewed,tx,tx
 2023-10-24T11:27:23.560Z,37.5636667,-112.5503333,16.15,1.65,ml,13,171,0.2495,0.17,uu,uu60552837,2023-10-24T14:10:52.810Z,"14 km SW of Hatch, Utah",earthquake,0.83,0.94,0.173,7,reviewed,uu,uu
 2023-10-24T11:22:09.600Z,38.8364983,-122.8116684,1.83,0.59,md,7,103,0.01314,0.01,nc,nc73950700,2023-10-24T11:34:10.913Z,"8 km WNW of Cobb, CA",earthquake,0.43,1.45,0.36,9,automatic,nc,nc
+2023-10-24T11:21:07.706Z,-22.2971,-67.5771,166.67,4,mb,13,185,0.857,0.44,us,us7000l5yj,2023-10-25T07:15:52.040Z,"Chile-Bolivia border region",earthquake,9.52,7.19,0.3,3,reviewed,us,us
 2023-10-24T11:17:52.194Z,27.4083,56.0894,10,4.4,mb,38,72,2.455,0.6,us,us7000l5yi,2023-10-24T23:31:28.563Z,"southern Iran",earthquake,7.92,1.774,0.09,35,reviewed,us,us
 2023-10-24T11:17:46.420Z,33.3095,-116.3213333,11.88,0.79,ml,40,35,0.04203,0.21,ci,ci40585992,2023-10-24T16:31:29.786Z,"8 km NE of Borrego Springs, CA",earthquake,0.24,0.86,0.103,10,reviewed,ci,ci
 2023-10-24T11:17:22.020Z,45.0023333333333,-112.0775,5.01,0.79,ml,9,105,0.2325,0.11,mb,mb90030763,2023-10-24T14:46:53.650Z,"34 km SSW of Virginia City, Montana",earthquake,0.37,7.36,0.0904376302001599,6,reviewed,mb,mb
@@ -213,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T07:28:24.360Z,18.0221666666667,-66.8176666666667,5.87,2.44,md,9,173,0.2022,0.09,pr,pr71429723,2023-10-24T07:46:25.150Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.34,0.39,0.225974848751477,5,reviewed,pr,pr
 2023-10-24T07:25:11.160Z,35.9983333333333,-89.9068333333333,3.9,2.22,md,27,63,0.04714,0.32,nm,nm60556576,2023-10-24T16:38:42.820Z,"7 km SSW of Holland, Missouri",earthquake,0.58,0.93,0.0600271061360815,19,reviewed,nm,nm
 2023-10-24T07:20:28.705Z,60.8806,-152.3448,16.7,0.9,ml,,,,0.42,ak,ak023dnawgfq,2023-10-24T07:22:29.932Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-24T07:13:42.160Z,37.5626667,-119.015,2.29,0.03,md,8,260,0.0482,0.02,nc,nc73950635,2023-10-24T11:30:10.882Z,"9 km SSW of Mammoth Lakes, CA",earthquake,0.59,0.77,0.25,8,reviewed,nc,nc
-2023-10-24T07:05:53.220Z,32.7511667,-115.4176667,9.53,1.42,ml,18,108,0.05931,0.29,ci,ci40585912,2023-10-24T16:00:16.588Z,"8 km SSW of Holtville, CA",earthquake,0.49,1.09,0.14,11,reviewed,ci,ci
