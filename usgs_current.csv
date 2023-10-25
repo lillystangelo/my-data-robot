@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T07:51:18.150Z,34.1448333,-117.4216667,6.88,2.07,ml,89,24,0.04732,0.19,ci,ci40586960,2023-10-25T07:54:50.790Z,"6 km NNE of Fontana, CA",earthquake,0.16,0.5,0.184,24,automatic,ci,ci
 2023-10-25T07:42:35.835Z,61.1329,-148.2807,12.2,0.7,ml,,,,1.18,ak,ak023doykj9b,2023-10-25T07:44:56.892Z,"45 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-25T07:34:18.500Z,32.721,-115.8171667,2.82,1.52,ml,28,40,0.1047,0.25,ci,ci40586952,2023-10-25T07:44:43.940Z,"16 km E of Ocotillo, CA",earthquake,0.33,0.69,0.207,22,automatic,ci,ci
+2023-10-25T07:34:18.500Z,32.721,-115.8171667,2.82,1.52,ml,28,40,0.1047,0.25,ci,ci40586952,2023-10-25T07:45:08.390Z,"16 km E of Ocotillo, CA",earthquake,0.33,0.69,0.207,22,automatic,ci,ci
 2023-10-25T07:29:25.022Z,58.4895,-154.8556,49.9,1.1,ml,,,,0.88,ak,ak023doyhq3a,2023-10-25T07:30:42.550Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
 2023-10-25T07:28:35.473Z,60.1552,-153.0209,144.4,2.5,ml,,,,0.45,ak,ak023doyhj77,2023-10-25T07:30:17.126Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-25T07:28:34.190Z,19.1690006256104,-155.486999511719,29.8500003814697,2.11,ml,48,147,,0.100000001,hv,hv73623277,2023-10-25T07:34:05.740Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.44,0.589999974,4.34,8,automatic,hv,hv
@@ -223,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T08:10:46.720Z,18.2245,-64.7723,116,4,md,11,232,0.2242,0.09,pr,pr2023297000,2023-10-24T08:43:06.254Z,"12 km S of Cruz Bay, U.S. Virgin Islands",earthquake,3.11,1.73,0.02,3,reviewed,pr,pr
 2023-10-24T08:06:54.373Z,63.4216,-147.4248,4.2,2.3,ml,,,,0.35,ak,ak023dnbexzx,2023-10-24T08:08:34.931Z,"76 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-24T08:00:15.980Z,19.2770004272461,-155.445999145508,32.1399993896484,2.46,ml,49,100,,0.129999995,hv,hv73621867,2023-10-24T08:05:46.550Z,"8 km NNE of Pāhala, Hawaii",earthquake,0.41,0.660000026,2.92,30,automatic,hv,hv
-2023-10-24T07:50:36.430Z,38.8258324,-122.8068314,1.93,0.76,md,8,108,0.003513,0.01,nc,nc73950645,2023-10-24T09:39:12.200Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.29,0.43,10,automatic,nc,nc
-2023-10-24T07:45:19.850Z,33.8781667,-116.8911667,12.14,0.58,ml,12,202,0.08983,0.09,ci,ci40585920,2023-10-24T16:14:21.700Z,"5 km SSW of Banning, CA",earthquake,0.33,0.73,0.195,8,reviewed,ci,ci
