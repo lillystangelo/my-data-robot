@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-26T05:14:15.830Z,61.095,-152.2796,104.9,1.8,ml,,,,0.65,ak,ak023dqkqyxb,2023-10-26T05:16:37.382Z,"61 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-26T05:11:27.878Z,61.994,-148.849,15.9,1.1,ml,,,,0.16,ak,ak023dqkqcpf,2023-10-26T05:12:49.090Z,"24 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-26T05:04:41.320Z,19.1895008087158,-155.487838745117,32.2400016784668,2.36,ml,51,76,,0.100000001,hv,hv73624617,2023-10-26T05:10:13.940Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.44,0.639999986,3.23,14,automatic,hv,hv
 2023-10-26T04:41:41.220Z,38.8040009,-122.7838364,0.59,1.08,md,11,98,0.009567,0.02,nc,nc73951460,2023-10-26T04:52:10.708Z,"4 km NW of The Geysers, CA",earthquake,0.3,0.56,0.26,11,automatic,nc,nc
@@ -212,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T05:44:05.580Z,32.7843333,-116.9725,16.61,1.19,ml,21,158,0.0548,0.14,ci,ci40586872,2023-10-25T13:31:52.379Z,"2 km SW of El Cajon, CA",earthquake,0.33,0.57,0.243,11,reviewed,ci,ci
 2023-10-25T05:36:52.789Z,34.38566667,-97.53816667,10.41,2.13,ml,72,53,0.05758869913,0.29,ok,ok2023uxbn,2023-10-25T12:46:41.823Z,"Oklahoma",earthquake,,1,0.23,30,reviewed,ok,ok
 2023-10-25T05:35:40.362Z,63.9204,-22.3886,5,3.5,mb_lg,5,237,0.951,0.87,us,us7000l661,2023-10-25T13:46:05.859Z,"6 km S of Vogar, Iceland",earthquake,7.01,2.023,0.361,2,reviewed,us,us
-2023-10-25T05:24:47.855Z,31.715,-104.014,7.327,2.1,ml(texnet),42,34,0,0.2,tx,tx2023uxbe,2023-10-25T14:16:09.123Z,"39 km W of Mentone, Texas",earthquake,0.4032210391,0.4886587834,0.1,36,reviewed,tx,tx
-2023-10-25T05:20:18.480Z,34.6865,-116.2855,2.42,1.63,ml,19,65,0.1106,0.13,ci,ci40586864,2023-10-25T15:00:05.684Z,"12 km WSW of Ludlow, CA",earthquake,0.16,0.42,0.101,32,reviewed,ci,ci
