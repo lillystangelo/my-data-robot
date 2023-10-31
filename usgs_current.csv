@@ -24,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T16:30:08.587Z,50.1795,178.9955,31.6,2.7,ml,,,,0.64,ak,ak023dz12x4p,2023-10-31T16:59:42.858Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.9,,,reviewed,ak,ak
 2023-10-31T16:24:30.570Z,38.8203316,-122.7723312,15.42,0.71,md,13,184,0.0103,0.09,nc,nc73954180,2023-10-31T16:58:11.345Z,"4 km W of Cobb, CA",earthquake,1.42,0.97,0.16,14,automatic,nc,nc
 2023-10-31T16:03:39.626Z,60.6113,-144.3268,14.3,2,ml,,,,0.65,ak,ak023dz0x60a,2023-10-31T16:05:13.955Z,"78 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-31T15:53:56.322Z,31.619,-103.985,7.0699,2.2,ml(texnet),23,57,0,0.2,tx,tx2023viuy,2023-10-31T19:29:51.080Z,"37 km WSW of Mentone, Texas",earthquake,0.4815869104,0.5067519688,0.2,18,reviewed,tx,tx
 2023-10-31T15:51:36.650Z,31.625,-103.993,9.8849,2.6,ml(texnet),22,54,0,0.1,tx,tx2023viuv,2023-10-31T18:05:26.744Z,"38 km WSW of Mentone, Texas",earthquake,0.7625887078,0.8143870178,0.3,30,reviewed,tx,tx
 2023-10-31T15:35:50.018Z,4.8022,32.0665,10,4.8,mb,38,66,5.53,0.8,us,us7000l7uj,2023-10-31T19:22:14.040Z,"53 km E of Juba, South Sudan",earthquake,10.68,1.872,0.105,28,reviewed,us,us
 2023-10-31T15:30:18.250Z,47.6935,-113.825166666667,11.52,0.79,ml,6,226,0.2186,0.07,mb,mb90031433,2023-10-31T15:59:59.980Z,"western Montana",earthquake,1.2,2.28,0.236497484115929,3,reviewed,mb,mb
@@ -203,5 +204,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T20:03:39.750Z,17.9675,-66.818,10.22,2.56,md,25,181,0.05797,0.27,pr,pr71430438,2023-10-30T20:21:41.330Z,"Puerto Rico",earthquake,0.5,0.41,0.136809206730517,10,reviewed,pr,pr
 2023-10-30T20:03:14.720Z,33.2675,-116.069,12.11,0.71,ml,8,148,0.121,0.25,ci,ci40591904,2023-10-30T22:36:03.228Z,"11 km WSW of Salton City, CA",earthquake,1.63,2.66,0.056,3,reviewed,ci,ci
 2023-10-30T19:56:07.990Z,19.1774997711182,-155.491165161133,35.439998626709,1.73000002,md,37,206,,0.109999999,hv,hv73633327,2023-10-30T19:59:38.330Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.76,1.01999998,0.579999983,3,automatic,hv,hv
+2023-10-30T19:54:06.149Z,31.601,-103.979,6.2252,1.5,ml(texnet),17,61,0,0.3,tx,tx2023vhhi,2023-10-31T19:27:08.468Z,"36 km NNW of Toyah, Texas",earthquake,0,2.402550566,0.2,13,automatic,tx,tx
 2023-10-30T19:34:50.189Z,34.7585,-97.54733333,0,1.44,ml,13,109,0.135873337,0.43,ok,ok2023vhgr,2023-10-31T13:22:45.884Z,"7 km SE of Erin Springs, Oklahoma",quarry blast,,1.2,0.16,3,reviewed,ok,ok
-2023-10-30T19:32:16.120Z,35.9235,-91.343,18.4,2.22,md,10,168,0.2118,0.21,nm,nm60501248,2023-10-31T13:01:19.960Z,"5 km SSW of Strawberry, Arkansas",earthquake,0.72,0.53,0.133237447619772,7,reviewed,nm,nm
