@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T04:01:15.650Z,33.2725,-116.7815,11.69,0.68,ml,21,87,0.0411,0.18,ci,ci40592352,2023-10-31T04:04:51.780Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.35,0.76,0.098,13,automatic,ci,ci
 2023-10-31T03:58:20.200Z,33.971,-116.6568333,12.64,0.99,ml,30,42,0.06775,0.18,ci,ci40592344,2023-10-31T04:02:05.949Z,"11 km SW of Morongo Valley, CA",earthquake,0.3,0.75,0.114,23,automatic,ci,ci
 2023-10-31T03:46:13.510Z,34.0128333,-117.1973333,15.07,1.23,ml,43,62,0.1145,0.19,ci,ci40592336,2023-10-31T03:56:40.230Z,"5 km SSW of Redlands, CA",earthquake,0.25,0.5,0.206,28,automatic,ci,ci
-2023-10-31T03:43:33.760Z,19.3309993743896,-155.301162719727,2.64000010490417,1.95,ml,27,122,,0.209999993,hv,hv73633762,2023-10-31T03:49:09.220Z,"14 km SSW of Volcano, Hawaii",earthquake,0.44,0.819999993,0.15,5,automatic,hv,hv
+2023-10-31T03:43:33.820Z,19.3376666666667,-155.312666666667,3.02,2.09,ml,20,73,,0.09,hv,hv73633762,2023-10-31T04:22:09.030Z,"14 km SW of Volcano, Hawaii",earthquake,0.24,0.42,0.204953362905814,10,reviewed,hv,hv
 2023-10-31T03:43:31.030Z,19.3633327484131,-155.325332641602,-0.540000021457672,1.92,ml,15,78,,0.330000013,hv,hv73633757,2023-10-31T03:49:03.240Z,"13 km SW of Volcano, Hawaii",earthquake,0.37,0.419999987,0.27,6,automatic,hv,hv
 2023-10-31T03:38:15.554Z,61.8528,-146.3008,7.5,1.7,ml,,,,0.92,ak,ak023dytdzcj,2023-10-31T03:40:25.326Z,"25 km SSE of Mendeltna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-31T03:36:26.781Z,63.1289,-150.8851,121.8,1.7,ml,,,,0.27,ak,ak023dytdks6,2023-10-31T03:38:28.987Z,"62 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T16:36:34.950Z,17.8753333333333,-66.4801666666667,29.8,3.18,md,21,205,0.2053,0.19,pr,pr71430428,2023-10-30T17:17:17.040Z,"12 km SW of Santa Isabel, Puerto Rico",earthquake,0.6,0.98,0.0964156934558069,14,reviewed,pr,pr
 2023-10-30T16:28:38.462Z,68.5348,-147.101,0,2,ml,,,,0.68,ak,ak023dxdj6bq,2023-10-30T16:39:30.135Z,"78 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T16:06:33.820Z,38.7355003,-122.883667,10.51,0.82,md,7,212,0.06668,0.2,nc,nc73953760,2023-10-30T16:18:11.558Z,"12 km WSW of The Geysers, CA",earthquake,6.4,5.69,0.07,5,automatic,nc,nc
-2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-31T03:51:36.588Z,"Jamaica region",earthquake,4.39,1.844,0.048,41,reviewed,us,us
+2023-10-30T15:57:20.229Z,18.2091,-76.6051,10,5.4,mww,127,27,0.884,0.98,us,us7000l7jv,2023-10-31T03:51:36.588Z,"4 km WNW of Hope Bay, Jamaica",earthquake,4.39,1.844,0.048,41,reviewed,us,us
 2023-10-30T15:51:31.231Z,60.9673,-152.2735,114.1,1.4,ml,,,,0.54,ak,ak023dxd2nmj,2023-10-30T15:56:44.466Z,"61 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-30T15:45:35.660Z,19.1574993133545,-155.418502807617,32.4500007629395,2.17000008,md,29,212,,0.0700000003,hv,hv73632957,2023-10-30T15:48:34.640Z,"8 km SE of Pāhala, Hawaii",earthquake,0.75,0.800000012,1.24000001,3,automatic,hv,hv
 2023-10-30T15:45:20.570Z,38.8154984,-122.8263321,2.27,0.8,md,17,56,0.006984,0.02,nc,nc73953750,2023-10-30T15:56:10.423Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.57,0.18,18,automatic,nc,nc
@@ -208,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T04:48:26.019Z,43.7937,147.8451,35,4.3,mb,31,189,3.806,0.75,us,us7000l7h5,2023-10-31T03:24:49.040Z,"90 km E of Shikotan, Russia",earthquake,5.89,1.979,0.129,17,reviewed,us,us
 2023-10-30T04:42:26.420Z,37.1113333,-121.8371667,2.21,0.72,md,13,65,0.03357,0.04,nc,nc73953565,2023-10-30T18:57:11.470Z,"9 km NNE of Day Valley, CA",earthquake,0.22,0.64,0.283,10,reviewed,nc,nc
 2023-10-30T04:39:01.932Z,63.2537,-148.3879,89.4,1.8,ml,,,,0.26,ak,ak023dx6g91b,2023-10-30T04:40:26.976Z,"32 km ESE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-30T04:22:29.077Z,23.8715,141.9729,131.541,4.9,mb,61,134,9.953,0.57,us,us7000l7h1,2023-10-31T03:15:14.040Z,"Volcano Islands, Japan region",earthquake,11.58,8.104,0.03,336,reviewed,us,us
-2023-10-30T04:20:22.349Z,31.0843,-8.4257,10,4.3,mb,15,185,1.026,0.88,us,us7000l7h7,2023-10-31T03:56:40.215Z,"55 km WSW of Oukaïmedene, Morocco",earthquake,7.38,1.993,0.238,5,reviewed,us,us
