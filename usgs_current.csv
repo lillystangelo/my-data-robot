@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T04:38:05.433Z,61.103,-150.4741,22.9,1.3,ml,,,,0.57,ak,ak023e0hiqnz,2023-11-01T04:39:44.381Z,"23 km NNE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-01T04:30:50.560Z,36.0208321,-120.5803299,4.25,2.45,md,42,43,,0.06,nc,nc73954455,2023-11-01T04:37:13.839Z,"19 km NW of Parkfield, CA",earthquake,0.18,0.28,0.13,47,automatic,nc,nc
 2023-11-01T04:26:27.280Z,33.7708333,-116.9385,15.09,0.57,ml,10,90,0.08168,0.21,ci,ci40593432,2023-11-01T04:29:57.100Z,"2 km SE of San Jacinto, CA",earthquake,0.75,1.19,0.117,10,automatic,ci,ci
 2023-11-01T03:55:23.720Z,33.7656667,-116.9385,14.31,1.11,ml,37,41,0.04881,0.2,ci,ci40593424,2023-11-01T03:58:58.406Z,"3 km SE of San Jacinto, CA",earthquake,0.25,0.51,0.147,26,automatic,ci,ci
@@ -10,13 +11,15 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T03:03:52.150Z,33.3435,-116.9231667,15.19,0.64,ml,18,61,0.1745,0.14,ci,ci40593392,2023-11-01T03:07:30.110Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.25,0.8,0.102,11,automatic,ci,ci
 2023-11-01T03:00:31.961Z,31.641,-104.173,3.8456,1.8,ml(texnet),20,63,0.1,0.2,tx,tx2023vjqx,2023-11-01T03:44:39.212Z,"western Texas",earthquake,0,1.326411455,0.2,14,automatic,tx,tx
 2023-11-01T02:57:10.340Z,19.407,-155.291666666667,7.4,2,md,13,94,,0.1,hv,hv73635132,2023-11-01T03:40:14.070Z,"7 km WSW of Volcano, Hawaii",earthquake,0.51,0.63,0.00835473475477178,2,reviewed,hv,hv
+2023-11-01T02:51:13.443Z,53.3941,-165.7998,41.2,2.3,ml,,,,0.38,ak,ak023e0gek01,2023-11-01T04:43:47.819Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-11-01T02:47:30.900Z,33.9003333,-117.8811667,5.32,1.89,ml,44,69,0.0572,0.24,ci,ci40593384,2023-11-01T03:15:35.642Z,"2 km SE of Brea, CA",earthquake,0.3,0.73,0.205,27,automatic,ci,ci
 2023-11-01T02:44:31.642Z,58.9979,-151.1853,30.9,2,ml,,,,0.33,ak,ak023e0gd7rw,2023-11-01T02:47:33.924Z,"53 km SE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-01T02:39:00.658Z,44.2319,-115.1032,5,3.5,ml,8,69,0.223,0.15,us,us7000l7zl,2023-11-01T03:54:26.106Z,"13 km W of Stanley, Idaho",earthquake,1.3,0.983,0.027,180,reviewed,us,us
+2023-11-01T02:39:00.658Z,44.2319,-115.1032,5,3.5,ml,8,69,0.223,0.15,us,us7000l7zl,2023-11-01T04:48:25.441Z,"13 km W of Stanley, Idaho",earthquake,1.3,0.983,0.027,180,reviewed,us,us
 2023-11-01T02:32:24.649Z,61.6836,-147.7118,25.4,1.4,ml,,,,1.41,ak,ak023e0gamn4,2023-11-01T02:35:17.501Z,"14 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-01T02:27:13.450Z,33.767,-116.9371667,14.1,1.57,ml,49,40,0.07953,0.2,ci,ci40593360,2023-11-01T02:37:40.820Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.46,0.242,28,automatic,ci,ci
 2023-11-01T02:24:44.616Z,38.5466,-119.4882,8.4,1.7,ml,10,88.95,0.046,0.1631,nn,nn00868242,2023-11-01T02:27:03.874Z,"2 km SE of Coleville, California",earthquake,,0.7,0.26,5,automatic,nn,nn
 2023-11-01T02:24:04.833Z,60.9321,-150.7151,34,1.5,ml,,,,0.38,ak,ak023e0g8vdv,2023-11-01T02:26:05.828Z,"1 km NW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-11-01T02:12:14.260Z,47.98716666666667,-121.92966666666666,12.77,1.1400000000000001,ml,9,149,0.06861,0.07,uw,uw61960827,2023-11-01T04:40:46.020Z,"0 km N of Lake Roesiger, Washington",earthquake,0.47,1.06,0.08524986974323645,5,reviewed,uw,uw
 2023-11-01T02:11:35.511Z,31.642,-104.174,4.5398,1.7,ml(texnet),20,63,0.1,0.1,tx,tx2023vjph,2023-11-01T02:30:45.994Z,"51 km NW of Toyah, Texas",earthquake,0,1.221417174,0.2,16,automatic,tx,tx
 2023-11-01T02:07:34.220Z,33.4811667,-116.4548333,11.64,0.9,ml,21,136,0.04865,0.18,ci,ci40593344,2023-11-01T02:11:13.159Z,"22 km ESE of Anza, CA",earthquake,0.39,0.64,0.182,20,automatic,ci,ci
 2023-11-01T02:06:54.270Z,31.64,-104.176,4.2768,1.8,ml(texnet),20,63,0.1,0.2,tx,tx2023vjpd,2023-11-01T02:30:36.026Z,"51 km NW of Toyah, Texas",earthquake,0,1.329432708,0.2,16,automatic,tx,tx
@@ -25,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T01:41:05.963Z,59.8086,-153.4803,119.4,2,ml,,,,0.4,ak,ak023e0fr31g,2023-11-01T01:43:48.486Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T01:38:00.031Z,61.6011,-149.8586,27.2,2.3,ml,,,,0.68,ak,ak023e0fqcc6,2023-11-01T01:39:23.798Z,"3 km SSW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T01:32:02.007Z,60.9119,-150.305,45.7,1.6,ml,,,,0.49,ak,ak023e0fp5ag,2023-11-01T01:34:06.463Z,"20 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-01T01:24:39.490Z,37.9716682,-122.0455017,16.55,2.67,md,72,49,,0.17,nc,nc73954420,2023-11-01T03:58:10.615Z,"3 km W of Concord, CA",earthquake,0.26,0.38,0.12,72,automatic,nc,nc
+2023-11-01T01:24:39.490Z,37.9716682,-122.0455017,16.55,2.67,md,72,49,,0.17,nc,nc73954420,2023-11-01T04:48:12.907Z,"3 km W of Concord, CA",earthquake,0.26,0.38,0.12,72,automatic,nc,nc
 2023-11-01T01:12:46.240Z,33.6963333,-116.8413333,-0.21,0.58,ml,16,107,0.06638,0.3,ci,ci40593336,2023-11-01T01:16:19.269Z,"8 km SE of Valle Vista, CA",earthquake,0.66,31.61,0.197,11,automatic,ci,ci
 2023-11-01T01:11:01.329Z,38.3491,-118.8983,12.9,2,ml,13,66.05,0.324,0.1889,nn,nn00868237,2023-11-01T01:13:33.551Z,"30 km SW of Hawthorne, Nevada",earthquake,,0.8,0.23,9,automatic,nn,nn
 2023-11-01T01:09:44.415Z,62.8689,-151.0007,102.2,1.4,ml,,,,0.28,ak,ak023e0fkb3d,2023-11-01T01:11:54.411Z,"43 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -44,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T00:01:17.120Z,33.9771667,-116.5481667,2.59,0.95,ml,29,107,0.04797,0.13,ci,ci40593304,2023-11-01T00:20:20.818Z,"5 km WNW of Desert Hot Springs, CA",earthquake,0.16,0.36,0.151,21,reviewed,ci,ci
 2023-11-01T00:01:01.283Z,60.3076,-150.8906,52.6,1.5,ml,,,,0.39,ak,ak023e0ex2fk,2023-11-01T00:03:22.906Z,"21 km E of Kasilof, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-31T23:58:51.140Z,19.2181663513184,-155.481170654297,32.9300003051758,1.84000003,md,39,99,,0.119999997,hv,hv73634917,2023-11-01T00:02:38.920Z,"1 km N of Pāhala, Hawaii",earthquake,0.6,0.870000005,0.170000002,9,automatic,hv,hv
-2023-10-31T23:55:43.270Z,31.758,-104.397,4.0032,1.9,ml(texnet),18,107,0,0.3,tx,tx2023vjku,2023-11-01T00:12:03.040Z,"western Texas",earthquake,0,1.316924358,0.1,13,automatic,tx,tx
+2023-10-31T23:55:43.270Z,31.758,-104.397,4.0032,1.9,ml(texnet),18,107,0,0.3,tx,tx2023vjku,2023-11-01T00:12:03.040Z,"46 km S of Whites City, New Mexico",earthquake,0,1.316924358,0.1,13,automatic,tx,tx
 2023-10-31T23:49:08.830Z,33.6658333,-116.735,17.23,0.66,ml,22,99,0.04844,0.09,ci,ci40593296,2023-11-01T00:01:25.695Z,"8 km S of Idyllwild, CA",earthquake,0.23,0.29,0.117,13,reviewed,ci,ci
 2023-10-31T23:41:21.872Z,61.5841,-146.336,28.9,1.6,ml,,,,0.61,ak,ak023dz5bb2z,2023-10-31T23:42:55.480Z,"50 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-31T23:34:47.858Z,60.9559,-150.6933,49.5,3,ml,,,,0.45,ak,ak023dz59v16,2023-11-01T03:42:41.027Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,reviewed,ak,ak
@@ -207,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T05:07:49.553Z,62.3604,-148.5873,30.9,1.6,ml,,,,0.77,ak,ak023dyue9zf,2023-10-31T05:10:21.072Z,"63 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-31T05:06:03.420Z,19.2320003509521,-155.399337768555,30.8700008392334,2.07,ml,45,140,,0.119999997,hv,hv73633797,2023-10-31T05:11:34.470Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.52,0.74000001,3.3,7,automatic,hv,hv
 2023-10-31T04:58:51.618Z,59.5337,-151.7528,52.6,2.8,ml,,,,0.57,ak,ak023dyu3s0g,2023-11-01T02:35:35.040Z,"8 km NW of Seldovia Village, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-10-31T04:47:16.970Z,39.4324989,-123.2891693,2.51,2.03,md,17,84,0.0522,0.05,nc,nc73954000,2023-10-31T05:12:13.100Z,"6 km ENE of Willits, CA",earthquake,0.25,1.17,0.1,15,automatic,nc,nc
-2023-10-31T04:45:28.470Z,45.29816666666667,-121.65866666666666,6.4,0.22,ml,6,243,0.02471,0.08,uw,uw61960542,2023-10-31T18:50:59.630Z,"Washington-Oregon border region",earthquake,1.14,0.53,0.1898983644331152,2,reviewed,uw,uw
