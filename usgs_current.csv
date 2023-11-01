@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T11:38:01.403Z,36.6861,-116.2733,2,0.3,ml,14,136.79,0.064,0.2436,nn,nn00868260,2023-11-01T11:39:48.008Z,"49 km ESE of Beatty, Nevada",earthquake,,0.8,0.33,10,automatic,nn,nn
+2023-11-01T11:37:58.390Z,33.7698333,-116.9365,14.36,0.9,ml,29,41,0.08201,0.18,ci,ci40593600,2023-11-01T11:41:46.565Z,"3 km SE of San Jacinto, CA",earthquake,0.26,0.6,0.143,24,automatic,ci,ci
+2023-11-01T11:35:36.712Z,61.3249,-146.9273,16.1,2.5,ml,,,,0.92,ak,ak023e0lo75q,2023-11-01T11:37:22.825Z,"37 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-01T11:18:57.800Z,34.2175,-117.4596667,10.73,1.01,ml,19,131,0.1661,0.16,ci,ci40593576,2023-11-01T11:22:30.342Z,"5 km W of Devore, CA",earthquake,0.37,0.7,0.19,19,automatic,ci,ci
 2023-11-01T11:15:01.106Z,36.6594,-116.2572,13.718,2.7,ml,40,32,0.242,0.59,us,us7000l81x,2023-11-01T11:22:24.040Z,"52 km ESE of Beatty, Nevada",earthquake,1.28,7.952,0.064,32,reviewed,us,us
 2023-11-01T11:12:30.300Z,37.972332,-122.0619965,13.98,1.26,md,10,117,,0.03,nc,nc73954560,2023-11-01T11:29:17.086Z,"2 km SE of Pacheco, CA",earthquake,0.72,0.98,0.07,7,automatic,nc,nc
@@ -202,6 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T12:10:19.862Z,31.673,-104.443,6.0802,2.3,ml(texnet),28,57,0,0.2,tx,tx2023vinn,2023-10-31T15:51:57.240Z,"56 km S of Whites City, New Mexico",earthquake,0.9157186438,0.5485506481,0.2,20,reviewed,tx,tx
 2023-10-31T11:54:59.350Z,19.4033333333333,-155.2605,11.61,1.37,ml,19,64,,0.13,hv,hv73634157,2023-10-31T21:15:56.460Z,"Island of Hawaii, Hawaii",earthquake,0.43,0.52,0.0728033404257187,9,reviewed,hv,hv
 2023-10-31T11:49:47.620Z,33.8681667,-117.0498333,14.23,1.19,ml,49,28,0.09084,0.18,ci,ci40592448,2023-10-31T18:03:22.710Z,"10 km SW of Beaumont, CA",earthquake,0.17,0.57,0.193,22,reviewed,ci,ci
-2023-10-31T11:41:43.315Z,-34.3765,179.5327,177.716,4.4,mb,32,184,3.331,0.86,us,us7000l7s0,2023-11-01T11:22:27.040Z,"south of the Kermadec Islands",earthquake,11.59,10.228,0.108,27,reviewed,us,us
-2023-10-31T11:35:11.980Z,37.4536667,-118.7843323,2.75,1.84,md,21,157,0.1407,0.04,nc,nc73954110,2023-10-31T13:39:11.156Z,"15 km SW of Toms Place, CA",earthquake,0.46,1.65,0.14,20,automatic,nc,nc
-2023-10-31T11:34:36.790Z,36.8358345,-121.3061676,7.93,1.61,md,13,136,0.0618,0.06,nc,nc73954105,2023-10-31T13:11:12.975Z,"5 km NNE of Tres Pinos, CA",earthquake,0.45,1.08,0.25,9,automatic,nc,nc
