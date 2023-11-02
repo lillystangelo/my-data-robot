@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T19:52:05.191Z,31.66,-104.293,6.9028,1.5,ml(texnet),19,86,0,0.2,tx,tx2023vmtu,2023-11-02T21:03:06.920Z,"western Texas",earthquake,0.8838109136,0.9051377261,0.1,7,reviewed,tx,tx
 2023-11-02T19:51:09.965Z,62.7253,-152.4524,0,1.7,ml,,,,0.45,ak,ak023e2e2dw4,2023-11-02T19:53:07.864Z,"90 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-02T19:45:59.070Z,38.689167,-122.496666,6.59,1.55,md,13,109,0.09526,0.06,nc,nc73955195,2023-11-02T20:03:12.607Z,"12 km SE of Middletown, CA",earthquake,0.3,1.26,0.14,13,automatic,nc,nc
-2023-11-02T19:39:13.620Z,46.8971666666667,-112.647833333333,11.56,0.78,ml,6,110,0.01699,0.08,mb,mb90031698,2023-11-02T20:06:26.200Z,"western Montana",earthquake,0.4,0.7,0.132465620380685,5,reviewed,mb,mb
+2023-11-02T19:39:13.620Z,46.8971666666667,-112.647833333333,11.56,0.78,ml,6,110,0.01699,0.08,mb,mb90031698,2023-11-02T20:06:26.200Z,"6 km SSE of Lincoln, Montana",earthquake,0.4,0.7,0.132465620380685,5,reviewed,mb,mb
 2023-11-02T19:39:10.865Z,32.403,-101.588,4.4752,3.3,ml(texnet),25,51,0,0.2,tx,tx2023vmtn,2023-11-02T20:54:58.273Z,"18 km SE of Ackerly, Texas",earthquake,0.8019438666,0.8150121589,0.3,19,reviewed,tx,tx
 2023-11-02T19:23:49.860Z,33.7226667,-116.7641667,16.59,0.6,ml,13,82,0.04322,0.15,ci,ci39705058,2023-11-02T19:27:29.140Z,"5 km WSW of Idyllwild, CA",earthquake,0.43,0.63,0.099,9,automatic,ci,ci
 2023-11-02T18:58:29.174Z,62.1573,-145.6483,3.9,1.5,ml,,,,1.33,ak,ak023e2dihsn,2023-11-02T19:01:06.438Z,"7 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T18:36:30.190Z,36.8943329,-121.6173325,0.38,2.32,md,10,76,0.0226,0.06,nc,nc73955185,2023-11-02T19:03:14.241Z,"2 km ENE of Aromas, CA",earthquake,0.3,0.63,0.12,9,automatic,nc,nc
 2023-11-02T18:36:06.656Z,31.656,-104.291,8.291,2,ml(texnet),14,86,0,0.1,tx,tx2023vmrg,2023-11-02T20:56:20.759Z,"58 km S of Whites City, New Mexico",earthquake,0.8635727956,0.9431658625,0.1,14,reviewed,tx,tx
 2023-11-02T18:32:43.080Z,38.8111649,-122.8014984,2.43,1.09,md,26,36,0.005798,0.02,nc,nc73955180,2023-11-02T18:52:14.168Z,"5 km NW of The Geysers, CA",earthquake,0.21,0.39,0.13,27,automatic,nc,nc
-2023-11-02T18:31:37.490Z,38.8103333,-122.8016663,2.53,2.24,md,38,38,0.005504,0.03,nc,nc73955175,2023-11-02T21:07:09.955Z,"5 km NW of The Geysers, CA",earthquake,0.16,0.29,0.18,46,automatic,nc,nc
+2023-11-02T18:31:37.490Z,38.8103333,-122.8016663,2.53,2.24,md,38,38,0.005504,0.03,nc,nc73955175,2023-11-02T21:24:12.180Z,"5 km NW of The Geysers, CA",earthquake,0.16,0.29,0.18,46,automatic,nc,nc
 2023-11-02T18:28:16.707Z,60.6258,-144.3221,5.5,1.6,ml,,,,0.44,ak,ak023e2dbw26,2023-11-02T18:30:54.586Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-02T18:11:49.492Z,-17.5794,-178.9797,540.822,4.7,mb,49,65,5.046,0.97,us,us7000l8ej,2023-11-02T20:15:03.040Z,"188 km ENE of Levuka, Fiji",earthquake,14.57,6.096,0.086,41,reviewed,us,us
 2023-11-02T18:05:44.920Z,34.0476667,-117.266,10.95,1.2,ml,36,51,0.1057,0.21,ci,ci39704906,2023-11-02T18:09:27.082Z,"0 km W of Loma Linda, CA",earthquake,0.27,0.56,0.16,28,automatic,ci,ci
@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T10:59:20.430Z,42.539,-111.4393333,9.69,1.37,ml,13,135,0.3372,0.19,uu,uu60553442,2023-11-02T20:04:54.970Z,"8 km NW of Georgetown, Idaho",earthquake,0.8,0.92,0.208,2,reviewed,uu,uu
 2023-11-02T10:59:19.930Z,46.8851666666667,-112.520666666667,10.09,0.7,ml,5,165,0.05082,0.07,mb,mb90031693,2023-11-02T19:59:33.390Z,"14 km ESE of Lincoln, Montana",earthquake,0.69,0.53,0.315601635521643,3,reviewed,mb,mb
 2023-11-02T10:58:45.050Z,38.8258324,-122.8538361,2.24,0.45,md,9,112,0.002924,0.01,nc,nc73955010,2023-11-02T13:49:12.283Z,"10 km WNW of The Geysers, CA",earthquake,0.34,0.92,0.33,10,automatic,nc,nc
-2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-02T21:08:07.793Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
+2023-11-02T10:45:21.290Z,38.8136667,-112.064,11.56,3.17,ml,34,59,0.04233,0.2,uu,uu60553437,2023-11-02T21:24:03.194Z,"4 km NNE of Richfield, Utah",earthquake,0.33,0.56,0.127,30,reviewed,uu,uu
 2023-11-02T10:31:16.380Z,37.4303333,-113.1185,9.99,2.08,ml,16,78,0.0743,0.13,uu,uu60553432,2023-11-02T13:27:56.460Z,"13 km SSE of Kanarraville, Utah",earthquake,0.34,0.67,0.158,10,reviewed,uu,uu
 2023-11-02T10:14:58.160Z,38.8320007,-122.8166656,1.4,0.65,md,10,73,0.01002,0.01,nc,nc73954995,2023-11-02T12:52:10.965Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.75,0.07,12,automatic,nc,nc
 2023-11-02T09:48:34.630Z,38.7789993,-122.7450027,-0.28,0.8,md,10,84,0.007731,0.05,nc,nc73954980,2023-11-02T10:49:11.251Z,"1 km E of The Geysers, CA",earthquake,0.28,0.61,0.19,8,automatic,nc,nc
@@ -227,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T21:50:28.570Z,19.4905,-155.541833333333,38.51,1.57,md,21,61,,0.19,hv,hv73636057,2023-11-02T02:23:53.790Z,"32 km NNW of Pāhala, Hawaii",earthquake,0.9,0.74,0.072091115642935,8,reviewed,hv,hv
 2023-11-01T21:33:06.392Z,36.724,-117.198,0,1.1,ml,17,204.96,0.178,0.1506,nn,nn00868291,2023-11-01T22:16:22.784Z,"43 km NW of Furnace Creek, California",earthquake,,0,0.25,6,reviewed,nn,nn
 2023-11-01T21:27:07.780Z,19.1663341522217,-155.500839233398,32.5099983215332,1.85000002,md,31,212,,0.129999995,hv,hv73636022,2023-11-01T21:30:15.250Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.88,0.899999976,0.239999995,5,automatic,hv,hv
-2023-11-01T21:25:06.640Z,38.706501,-122.5273361,2.16,1.81,md,18,122,0.08448,0.13,nc,nc73954750,2023-11-02T00:34:12.526Z,"9 km SE of Middletown, CA",earthquake,0.39,4.63,0.07,18,automatic,nc,nc
-2023-11-01T21:21:53.754Z,39.5385,-119.6425,0,2,ml,13,91.74,0.078,0.2565,nn,nn00868281,2023-11-01T21:54:36.888Z,"9 km E of Sparks, Nevada",explosion,,0,0.21,6,reviewed,nn,nn
