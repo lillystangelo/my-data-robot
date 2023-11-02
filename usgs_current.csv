@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T04:06:48.953Z,62.1797,-150.12,9.8,2.4,ml,,,,0.53,ak,ak023e24vblr,2023-11-02T04:40:37.027Z,"14 km W of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-02T03:53:41.120Z,35.3955,-118.2243333,5.64,1.99,ml,37,33,0.1566,0.17,ci,ci40594736,2023-11-02T04:04:48.900Z,"32 km SE of Bodfish, CA",earthquake,0.23,1.18,0.154,25,automatic,ci,ci
 2023-11-02T03:50:02.410Z,37.4855,-118.8045,5.66,0.85,md,18,215,0.1062,0.03,nc,nc71131759,2023-11-02T10:04:10.983Z,"14 km SW of Toms Place, CA",earthquake,1.03,0.77,0.126,19,reviewed,nc,nc
-2023-11-02T03:49:42.210Z,37.4946667,-118.8098333,5.83,0.74,md,23,139,0.08745,0.04,nc,nc73954905,2023-11-02T09:57:09.941Z,"14 km WSW of Toms Place, CA",earthquake,0.65,1,0.198,21,reviewed,nc,nc
+2023-11-02T03:49:42.210Z,37.4946667,-118.8098333,5.83,0.74,md,23,139,0.08745,0.04,nc,nc73954905,2023-11-02T10:39:12.188Z,"14 km WSW of Toms Place, CA",earthquake,0.65,1,0.198,21,reviewed,nc,nc
 2023-11-02T03:46:21.619Z,38.1361,-118.0011,0,1.4,ml,12,92.9,0.064,0.3957,nn,nn00868316,2023-11-02T03:49:19.242Z,"California-Nevada border region",earthquake,,0.5,0.28,7,automatic,nn,nn
 2023-11-02T03:43:18.633Z,36.39217377,-98.44091797,3.814562798,1.97,ml,21,114.500885,0.1301051378,0.270848071,ok,ok2023vlnu,2023-11-02T03:48:38.663Z,"1 km S of Cleo Springs, Oklahoma",earthquake,4.080038089,2.523045294,0.19,12,automatic,ok,ok
 2023-11-02T03:35:56.755Z,-24.0258,-66.7207,217.172,4.3,mb,23,78,1.713,0.55,us,us7000l88m,2023-11-02T04:07:17.040Z,"46 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.64,13.71,0.216,6,reviewed,us,us
@@ -208,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T11:10:53.650Z,38.8165016,-122.8181686,2.4,2.01,md,37,46,0.009347,0.05,nc,nc73954555,2023-11-01T13:12:32.527Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.28,0.13,38,automatic,nc,nc
 2023-11-01T11:09:29.010Z,46.900666666666666,-121.93666666666667,6.22,0.56,ml,9,142,0.05956,0.15,uw,uw61960867,2023-11-01T20:14:05.820Z,"17 km NNE of Ashford, Washington",earthquake,0.42,0.87,0.14652003373845351,6,reviewed,uw,uw
 2023-11-01T10:59:18.880Z,38.8180008,-122.8213348,2.38,0.39,md,8,86,0.01031,0.01,nc,nc73954550,2023-11-01T11:32:14.102Z,"7 km NW of The Geysers, CA",earthquake,0.86,2.08,0.19,8,automatic,nc,nc
-2023-11-01T10:46:13.279Z,35.85916667,-98.057,6.95,2.43,ml,82,42,0.1097784577,0.16,ok,ok2023vkgg,2023-11-01T23:06:27.187Z,"11 km W of Kingfisher, Oklahoma",earthquake,,0.4,0.24,38,reviewed,ok,ok
-2023-11-01T10:40:15.387Z,1.5491,129.2877,10,4.9,mb,49,106,2.07,0.63,us,us7000l81n,2023-11-01T10:56:15.040Z,"Halmahera, Indonesia",earthquake,8.64,1.878,0.087,42,reviewed,us,us
-2023-11-01T10:39:46.814Z,32.0727,59.721,10,4.7,mb,56,110,7.745,0.65,us,us7000l81l,2023-11-01T11:00:52.040Z,"99 km SSE of Bīrjand, Iran",earthquake,6.28,1.723,0.07,62,reviewed,us,us
