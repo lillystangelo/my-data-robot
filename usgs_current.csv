@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-02T03:46:21.619Z,38.1361,-118.0011,0,1.4,ml,12,92.9,0.064,0.3957,nn,nn00868316,2023-11-02T03:49:19.242Z,"29 km SSE of Mina, Nevada",earthquake,,0.5,0.28,7,automatic,nn,nn
+2023-11-02T03:43:18.633Z,36.39217377,-98.44091797,3.814562798,1.97,ml,21,114.500885,0.1301051378,0.270848071,ok,ok2023vlnu,2023-11-02T03:48:38.663Z,"1 km S of Cleo Springs, Oklahoma",earthquake,4.080038089,2.523045294,0.19,12,automatic,ok,ok
 2023-11-02T03:30:34.364Z,61.5316,-146.5916,32.1,1.4,ml,,,,0.26,ak,ak023e24f024,2023-11-02T03:32:07.422Z,"46 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-02T03:29:45.770Z,35.6708333,-117.4848333,4.82,0.94,ml,11,140,0.0501,0.12,ci,ci40594728,2023-11-02T03:33:29.887Z,"13 km SW of Searles Valley, CA",earthquake,0.39,0.55,0.207,5,automatic,ci,ci
 2023-11-02T03:22:34.600Z,33.6778333,-116.7076667,14.99,0.93,ml,28,62,0.03369,0.16,ci,ci40594720,2023-11-02T03:26:08.942Z,"7 km S of Idyllwild, CA",earthquake,0.27,0.42,0.204,26,automatic,ci,ci
-2023-11-02T03:19:09.750Z,38.8364983,-122.7911682,2.16,1.03,md,18,51,0.002014,0.03,nc,nc73954900,2023-11-02T03:32:10.717Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.5,0.08,19,automatic,nc,nc
+2023-11-02T03:19:09.750Z,38.8364983,-122.7911682,2.16,1.03,md,18,51,0.002014,0.03,nc,nc73954900,2023-11-02T03:47:18.688Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.5,0.08,19,automatic,nc,nc
 2023-11-02T03:08:02.175Z,61.4944,-149.9781,24.9,2.6,ml,,,,0.68,ak,ak023e24a7uy,2023-11-02T03:20:01.040Z,"3 km SSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-02T03:01:26.852Z,60.037,-149.181,7.7,2,ml,,,,0.8,ak,ak023e248rpp,2023-11-02T03:04:04.809Z,"15 km ESE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-02T02:39:45.551Z,-5.9376,130.7216,144.764,4.6,mb,31,100,1.624,0.79,us,us7000l88f,2023-11-02T03:00:30.040Z,"Banda Sea",earthquake,7.58,6.121,0.112,24,reviewed,us,us
@@ -207,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T04:03:22.758Z,31.382,-103.772,2.4553,2.1,ml(texnet),13,52,0.1,0.2,tx,tx2023vjsz,2023-11-01T13:16:28.805Z,"7 km NNE of Toyah, Texas",earthquake,1.140797206,2.013891017,0.1,14,reviewed,tx,tx
 2023-11-01T03:55:23.570Z,33.7676667,-116.9376667,15.27,1.13,ml,45,41,0.04746,0.18,ci,ci40593424,2023-11-01T16:49:33.166Z,"3 km SE of San Jacinto, CA",earthquake,0.23,0.41,0.145,29,reviewed,ci,ci
 2023-11-01T03:53:15.315Z,38.1675,-116.4944,12.2,1.9,ml,12,177.72,0.46,0.1259,nn,nn00868244,2023-11-01T18:45:05.968Z,"65 km E of Tonopah, Nevada",earthquake,,1.7,0.47,5,reviewed,nn,nn
-2023-11-01T03:52:15.100Z,33.0365,-116.4461667,7.55,0.64,ml,18,139,0.07108,0.19,ci,ci40593416,2023-11-01T16:08:16.404Z,"15 km ESE of Julian, CA",earthquake,0.39,1.07,0.149,6,reviewed,ci,ci
