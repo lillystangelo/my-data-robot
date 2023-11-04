@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-04T18:07:21.390Z,38.6850014,-122.5028305,3.61,1.27,md,8,128,0.09186,0.03,nc,nc73956050,2023-11-04T18:08:57.726Z,"12 km SE of Middletown, CA",earthquake,0.41,3.99,0.27,8,automatic,nc,nc
+2023-11-04T18:07:21.390Z,38.6850014,-122.5028305,3.61,1.27,md,8,128,0.09186,0.03,nc,nc73956050,2023-11-04T18:24:16.126Z,"12 km SE of Middletown, CA",earthquake,0.41,3.99,0.27,8,automatic,nc,nc
 2023-11-04T17:50:57.290Z,19.2876663208008,-155.38166809082,1.3400000333786,1.75999999,md,15,178,,0.129999995,hv,hv73639017,2023-11-04T17:54:03.580Z,"Hawaii region, Hawaii",earthquake,0.48,0.610000014,0.219999999,5,automatic,hv,hv
 2023-11-04T17:50:49.770Z,38.6878319,-122.4978333,6.47,2.18,md,30,57,,0.11,nc,nc73956045,2023-11-04T18:03:15.005Z,"12 km SE of Middletown, CA",earthquake,0.24,0.85,0.08,34,automatic,nc,nc
 2023-11-04T17:37:58.257Z,37.0857,-116.1903,3.8,0.4,ml,11,69.27,0.13,0.1208,nn,nn00868442,2023-11-04T17:39:51.097Z,"Nevada",earthquake,,0,0.96,8,automatic,nn,nn
@@ -133,7 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T01:40:31.749Z,39.0614,-97.587,10,2.9,mb_lg,17,87,0.762,0.46,us,us7000l8ss,2023-11-04T12:14:55.337Z,"3 km N of Bennington, Kansas",earthquake,2.08,1.988,0.049,108,reviewed,us,us
 2023-11-04T01:38:54.680Z,33.6705,-116.7348333,14.34,0.99,ml,35,58,0.04407,0.16,ci,ci39706890,2023-11-04T16:36:23.320Z,"8 km S of Idyllwild, CA",earthquake,0.23,0.37,0.206,25,reviewed,ci,ci
 2023-11-04T01:34:05.430Z,38.8356667,-122.7903366,1.7,0.28,md,7,82,0.002738,0.01,nc,nc73955765,2023-11-04T04:17:11.127Z,"6 km WNW of Cobb, CA",earthquake,0.5,1.48,0.19,8,automatic,nc,nc
-2023-11-04T01:28:02.983Z,39.0992,-97.5842,10,3.4,mb_lg,14,88,0.759,0.53,us,us7000l8sp,2023-11-04T16:44:44.113Z,"7 km N of Bennington, Kansas",earthquake,3.15,1.989,0.04,164,reviewed,us,us
+2023-11-04T01:28:02.983Z,39.0992,-97.5842,10,3.4,mb_lg,14,88,0.759,0.53,us,us7000l8sp,2023-11-04T18:16:48.288Z,"7 km N of Bennington, Kansas",earthquake,3.15,1.989,0.04,164,reviewed,us,us
 2023-11-04T01:23:10.558Z,-41.1703,-89.8059,10,4.8,mb,34,157,12.543,0.93,us,us7000l8t0,2023-11-04T03:15:03.040Z,"southeast of Easter Island",earthquake,5.47,1.896,0.109,26,reviewed,us,us
 2023-11-04T01:22:37.398Z,58.7308,-153.7112,11.8,1.7,ml,,,,0.83,ak,ak023e5e94cb,2023-11-04T01:24:16.681Z,"88 km NNW of Aleneva, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-04T01:09:11.250Z,19.1588325500488,-155.489334106445,34.4799995422363,1.86000001,md,31,160,,0.109999999,hv,hv73638667,2023-11-04T01:12:36.640Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.63,0.930000007,1.86000001,4,automatic,hv,hv
@@ -181,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T20:25:46.010Z,19.2980003356934,-155.384170532227,3.99000000953674,1.74000001,md,27,155,,0.129999995,hv,hv73638477,2023-11-03T20:29:04.370Z,"Island of Hawaii, Hawaii",earthquake,0.45,1.03999996,0.829999983,10,automatic,hv,hv
 2023-11-03T20:24:52.942Z,62.9038,-150.229,77.8,1.8,ml,,,,0.48,ak,ak023e421gz2,2023-11-03T20:27:03.996Z,"51 km N of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-03T20:20:38.650Z,34.4081667,-119.1698333,4.71,1.88,ml,26,53,0.03921,0.21,ci,ci39706682,2023-11-03T21:32:19.058Z,"8 km ESE of Ojai, CA",earthquake,0.29,0.52,0.206,35,reviewed,ci,ci
-2023-11-03T20:12:18.460Z,34.4215,-119.1696667,6.91,4.02,mw,105,25,0.03072,0.29,ci,ci39706674,2023-11-04T18:06:05.049Z,"7 km ESE of Ojai, CA",earthquake,0.19,0.51,,5,reviewed,ci,ci
+2023-11-03T20:12:18.460Z,34.4215,-119.1696667,6.91,4.02,mw,105,25,0.03072,0.29,ci,ci39706674,2023-11-04T18:19:06.699Z,"7 km ESE of Ojai, CA",earthquake,0.19,0.51,,5,reviewed,ci,ci
 2023-11-03T20:07:06.020Z,19.4751666666667,-155.603666666667,5.04,0.56,md,14,82,,0.14,hv,hv73638437,2023-11-03T20:54:02.100Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.67,0.0522015286732119,6,reviewed,hv,hv
 2023-11-03T20:06:38.176Z,31.614,-104.514,7.1085,2.3,ml(texnet),29,147,0.1,0.2,tx,tx2023vopt,2023-11-04T13:23:39.247Z,"63 km SSW of Whites City, New Mexico",earthquake,1.276174568,0.9513273337,0.1,20,reviewed,tx,tx
 2023-11-03T19:58:07.182Z,60.8197,-147.6885,25.5,1.4,ml,,,,0.56,ak,ak023e41n86m,2023-11-03T19:59:39.616Z,"54 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T18:43:22.790Z,35.0468333,-118.3256667,-0.93,1.5,ml,25,43,0.0576,0.19,ci,ci39706602,2023-11-04T00:32:55.947Z,"14 km W of Mojave, CA",quarry blast,0.31,31.61,0.156,25,reviewed,ci,ci
 2023-11-03T18:42:43.387Z,61.4448,-150.9843,62.7,1.4,ml,,,,0.49,ak,ak023e40yfwy,2023-11-03T18:44:26.147Z,"27 km WSW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-03T18:32:14.984Z,50.0381,156.3776,66.619,5,mb,121,94,3.183,0.58,us,us7000l8pk,2023-11-04T17:36:22.040Z,"73 km SSE of Severo-Kuril’sk, Russia",earthquake,8.78,5.522,0.044,169,reviewed,us,us
-2023-11-03T18:16:19.100Z,46.199333333333335,-122.18033333333334,1.28,0.34,ml,8,139,0.003692,0.09,uw,uw61961287,2023-11-03T21:00:40.360Z,"38 km NNE of Amboy, Washington",earthquake,0.51,0.36,0.10350634969111627,4,reviewed,uw,uw
-2023-11-03T18:11:32.640Z,60.0313333333333,-153.061,0.89,-0.32,ml,5,127,,0.27,av,av92105836,2023-11-04T03:12:43.480Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.59,2.05,0.269096575834784,5,reviewed,av,av
