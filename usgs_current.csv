@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T23:06:47.949Z,58.6984,-153.6858,7.1,1.1,ml,,,,0.66,ak,ak023e43pwzt,2023-11-04T04:30:47.550Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-11-03T22:59:28.550Z,58.6611666666667,-153.693833333333,10.08,0.47,ml,5,193,,0.22,av,av92106081,2023-11-04T04:43:24.030Z,"Kodiak Island region, Alaska",earthquake,4.15,1.46,0.281308179069067,5,reviewed,av,av
 2023-11-03T22:54:32.490Z,60.0523333333333,-153.054833333333,6.14,-0.45,ml,5,194,,0.27,av,av92106076,2023-11-04T04:26:16.940Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.26,1.35,0.192079450282725,5,reviewed,av,av
-2023-11-03T22:39:07.540Z,58.6653333333333,-153.721,9.8,0.2,ml,4,345,,0.08,av,av92106061,2023-11-04T04:23:30.520Z,"Kodiak Island region, Alaska",earthquake,2.79,2.42,0.284900231704653,4,reviewed,av,av
