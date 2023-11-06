@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-06T04:36:31.932Z,63.5495,-147.6914,16.1,2.2,ml,,,,0.34,ak,ak023e8r73qx,2023-11-06T04:38:06.210Z,"63 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-06T03:59:27.510Z,38.8436661,-122.8793335,2.38,0.67,md,10,99,0.006316,0.02,nc,nc73956675,2023-11-06T04:18:14.188Z,"13 km ENE of Cloverdale, CA",earthquake,0.38,0.58,0.21,9,automatic,nc,nc
 2023-11-06T03:53:29.939Z,63.8104,-148.7588,106.5,1.6,ml,,,,0.33,ak,ak023e8qpb5t,2023-11-06T03:55:43.538Z,"11 km ESE of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-06T03:47:09.020Z,38.8351669,-122.8166656,1.96,0.87,md,18,71,0.01283,0.02,nc,nc73956670,2023-11-06T04:07:15.243Z,"8 km W of Cobb, CA",earthquake,0.23,0.72,0.23,18,automatic,nc,nc
@@ -211,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T04:54:46.172Z,31.578,-104.529,4.0185,1.6,ml(texnet),9,154,0.1,0.2,tx,tx2023vrcq,2023-11-05T05:17:28.219Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.651787094,0.1,7,automatic,tx,tx
 2023-11-05T04:46:47.210Z,39.2486667,-122.7183333,7.4,1.73,md,40,83,0.0944,0.22,nc,nc73956265,2023-11-06T01:03:12.069Z,"18 km NE of Nice, CA",earthquake,0.25,0.74,0.211,38,reviewed,nc,nc
 2023-11-05T04:40:23.290Z,37.7628326,-122.0136642,7.38,1.5,md,8,95,,0.06,nc,nc73956260,2023-11-05T07:53:16.911Z,"4 km WSW of San Ramon, CA",earthquake,0.41,0.69,0.13,6,automatic,nc,nc
-2023-11-05T04:40:11.380Z,36.6681671,-121.3216629,0.98,1.76,md,22,58,0.04401,0.21,nc,nc73956255,2023-11-05T07:41:10.977Z,"14 km S of Tres Pinos, CA",earthquake,0.42,1.19,0.19,19,automatic,nc,nc
-2023-11-05T04:35:12.436Z,59.0895,-152.2157,67.3,2,ml,,,,0.33,ak,ak023e73ni17,2023-11-05T04:37:35.670Z,"34 km SSW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
