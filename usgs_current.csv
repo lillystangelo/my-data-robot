@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-06T19:31:59.010Z,38.8231659,-122.8078308,0.79,2.14,md,42,37,0.001767,0.05,nc,nc73956945,2023-11-06T19:33:34.882Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.21,0.14,44,automatic,nc,nc
+2023-11-06T19:41:31.610Z,37.9878349,-122.4491653,1.55,1.58,md,8,114,0.02461,0.05,nc,nc73956970,2023-11-06T19:43:08.944Z,"7 km E of Santa Venetia, CA",earthquake,0.38,0.59,0.2,7,automatic,nc,nc
+2023-11-06T19:34:35.890Z,38.8243332,-122.8099976,0.83,1.22,md,20,37,0.0009387,0.02,nc,nc73956955,2023-11-06T19:36:14.986Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.39,0.16,21,automatic,nc,nc
+2023-11-06T19:31:59.010Z,38.8231659,-122.8078308,0.79,2.14,md,42,37,0.001767,0.05,nc,nc73956945,2023-11-06T19:35:12.660Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.21,0.14,44,automatic,nc,nc
 2023-11-06T19:30:29.705Z,57.7489,-155.9518,11.2,1.4,ml,,,,0.58,ak,ak023e903bcq,2023-11-06T19:31:53.079Z,"90 km ENE of Ugashik, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-11-06T19:30:05.410Z,38.8321648,-122.8148346,1.27,1.94,md,31,44,0.009514,0.04,nc,nc73956940,2023-11-06T19:33:37.853Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.25,0.14,35,automatic,nc,nc
-2023-11-06T19:23:56.870Z,38.8354988,-122.7916641,1.61,0.8,md,12,73,0.003083,0.04,nc,nc73956935,2023-11-06T19:25:33.783Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.94,0.2,12,automatic,nc,nc
+2023-11-06T19:23:56.870Z,38.8354988,-122.7916641,1.61,0.8,md,12,73,0.003083,0.04,nc,nc73956935,2023-11-06T19:41:18.766Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.94,0.2,12,automatic,nc,nc
 2023-11-06T18:57:41.024Z,60.3048,-152.2986,85.1,1.9,ml,,,,0.49,ak,ak023e8znoye,2023-11-06T18:59:43.448Z,"45 km NW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-11-06T18:55:38.970Z,19.216,-155.372833333333,33.08,3.68,ml,62,157,,0.12,hv,hv73640357,2023-11-06T19:26:34.637Z,"11 km E of Pāhala, Hawaii",earthquake,0.42,0.49,0.150141689380384,43,reviewed,hv,hv
+2023-11-06T18:55:38.970Z,19.216,-155.372833333333,33.08,3.68,ml,62,157,,0.12,hv,hv73640357,2023-11-06T19:34:46.355Z,"11 km E of Pāhala, Hawaii",earthquake,0.42,0.49,0.150141689380384,43,reviewed,hv,hv
 2023-11-06T18:55:37.390Z,37.0553322,-121.1291656,-0.18,2.4,md,45,111,0.1349,0.35,nc,nc73956925,2023-11-06T19:30:14.703Z,"25 km W of Los Banos, CA",earthquake,0.65,9.1,0.1,44,automatic,nc,nc
 2023-11-06T18:50:32.505Z,61.9984,-149.9274,30.8,1.4,ml,,,,0.83,ak,ak023e8zm6aa,2023-11-06T18:52:46.637Z,"18 km SSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T18:49:24.720Z,38.7799988,-122.7580032,1.5,1.06,md,11,82,0.01694,0.02,nc,nc73956915,2023-11-06T19:30:13.704Z,"0 km NNW of The Geysers, CA",earthquake,0.31,0.54,0.27,10,automatic,nc,nc
@@ -219,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T19:56:53.420Z,33.9311667,-116.7531667,17.59,0.95,ml,29,62,0.104,0.19,ci,ci39708818,2023-11-05T20:00:27.172Z,"4 km ENE of Cabazon, CA",earthquake,0.33,0.74,0.228,19,automatic,ci,ci
 2023-11-05T19:45:33.837Z,37.0046,-116.217,5.8,0.7,ml,31,62.86,0.035,0.1866,nn,nn00868486,2023-11-06T03:29:33.293Z,"Nevada",earthquake,,1.1,0.38,21,reviewed,nn,nn
 2023-11-05T19:44:10.808Z,60.9864,-141.2028,16.1,1,ml,,,,0.29,ak,ak023e7cmxfc,2023-11-05T19:45:47.658Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-05T19:40:32.330Z,47.693,-120.10283333333334,4.57,0.41000000000000003,ml,10,118,0.05308,0.07,uw,uw61970536,2023-11-06T05:55:49.410Z,"Washington",earthquake,0.34,0.83,0.09602710554966162,4,reviewed,uw,uw
