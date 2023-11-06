@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T23:05:17.610Z,38.8293343,-122.8105011,1.53,1.08,md,22,60,0.00594,0.02,nc,nc73956570,2023-11-05T23:19:10.453Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.44,0.17,21,automatic,nc,nc
 2023-11-05T22:57:46.213Z,40.366,63.1164,11.615,4.6,mb,44,87,3.528,0.76,us,us7000l92p,2023-11-05T23:09:35.040Z,"38 km NW of Gazli, Uzbekistan",earthquake,8.54,4.843,0.09,37,reviewed,us,us
 2023-11-05T22:57:18.650Z,32.312,-101.828,7.0185,1.8,ml(texnet),17,51,0,0.1,tx,tx2023vsmj,2023-11-06T20:01:43.730Z,"20 km N of Stanton, Texas",earthquake,0.7244329027,0.9521717349,0.1,7,reviewed,tx,tx
-2023-11-05T22:53:45.441Z,61.9931,-150.2673,21,1.6,ml,,,,0.15,ak,ak023e7eh8cw,2023-11-05T22:55:34.126Z,"28 km SW of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-05T22:50:24.830Z,38.8431664,-122.8156662,1.89,0.76,md,15,67,0.01295,0.02,nc,nc73956560,2023-11-05T23:01:10.353Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.67,0.18,16,automatic,nc,nc
