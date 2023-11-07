@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T13:33:33.208Z,-7.7145,127.3432,177.075,4.5,mb,39,55,4.067,0.8,us,us7000l9c7,2023-11-07T14:38:42.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,9.84,9.068,0.099,30,reviewed,us,us
 2023-11-07T13:27:55.130Z,38.179,-112.2851667,6.62,1.39,md,9,114,0.1587,0.21,uu,uu60553797,2023-11-07T14:16:25.050Z,"1 km WNW of Circleville, Utah",earthquake,0.72,1.56,0.173,8,reviewed,uu,uu
 2023-11-07T13:26:37.130Z,38.831665,-122.8184967,1.61,0.77,md,13,61,0.01056,0.01,nc,nc73957270,2023-11-07T14:02:13.215Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.58,0.17,13,automatic,nc,nc
-2023-11-07T13:21:16.830Z,38.8186684,-122.7946701,3.42,0.74,md,11,65,0.0107,0.01,nc,nc73957265,2023-11-07T14:37:10.409Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.38,0.33,15,automatic,nc,nc
+2023-11-07T13:21:16.830Z,38.8186684,-122.7946701,3.42,0.74,md,11,65,0.0107,0.01,nc,nc73957265,2023-11-07T14:54:15.500Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.38,0.33,15,automatic,nc,nc
 2023-11-07T13:20:39.260Z,38.8334999,-122.8146667,1.73,0.76,md,15,55,0.01071,0.01,nc,nc73957260,2023-11-07T14:25:13.342Z,"8 km W of Cobb, CA",earthquake,0.23,0.63,0.1,16,automatic,nc,nc
 2023-11-07T13:18:15.860Z,33.516,-116.5556667,12.93,0.63,ml,31,90,0.04427,0.19,ci,ci39709746,2023-11-07T14:18:44.427Z,"12 km ESE of Anza, CA",earthquake,0.25,0.33,0.118,13,reviewed,ci,ci
 2023-11-07T13:14:16.530Z,33.6951667,-116.7453333,16.82,0.48,ml,18,69,0.03049,0.09,ci,ci39709738,2023-11-07T14:18:48.390Z,"6 km SSW of Idyllwild, CA",earthquake,0.21,0.28,0.123,8,reviewed,ci,ci
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T15:06:02.663Z,60.9407,-150.5375,66.2,1.5,ml,,,,0.37,ak,ak023e8xkdnu,2023-11-06T15:08:02.742Z,"8 km ENE of Point Possession, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-11-06T15:01:54.500Z,44.2705,-110.6176667,11.26,1.33,md,12,84,0.06487,0.22,uu,uu60553737,2023-11-06T19:04:40.640Z,"58 km SE of West Yellowstone, Montana",earthquake,1.02,1.17,0.177,8,reviewed,uu,uu
 2023-11-06T15:00:28.867Z,58.1876,-155.3656,5.5,1.2,ml,,,,0.6,ak,ak023e8xj5en,2023-11-06T15:02:55.305Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-06T14:49:09.380Z,44.2628333,-110.6161667,9.34,2.36,ml,23,91,0.06348,0.23,uu,uu60553732,2023-11-06T18:40:11.900Z,"58 km ENE of Warm River, Idaho",earthquake,0.55,0.93,0.249,7,reviewed,uu,uu
-2023-11-06T14:48:04.412Z,31.698,-104.176,4.3648,1.7,ml(texnet),19,90,0.1,0.2,tx,tx2023vtrt,2023-11-06T15:04:23.428Z,"54 km W of Mentone, Texas",earthquake,0,1.17971539,0.2,15,automatic,tx,tx
