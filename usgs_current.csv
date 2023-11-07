@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T15:51:57.181Z,38.8881,-118.5976,0,2.2,ml,12,59.66,0.418,0.1754,nn,nn00868502,2023-11-06T16:44:07.958Z,"19 km ESE of Schurz, Nevada",earthquake,,0,0.13,8,reviewed,nn,nn
 2023-11-06T15:50:26.840Z,19.5235004425049,-156.452835083008,15.1999998092651,2.84,ml,24,280,,0.25,hv,hv73640267,2023-11-06T19:07:04.297Z,"49 km WSW of Kailua-Kona, Hawaii",earthquake,1.52,24.0400009,0.12,3,automatic,hv,hv
 2023-11-06T15:46:34.960Z,17.9206666666667,-66.2841666666667,7.78,2.47,md,11,201,0.1176,0.23,pr,pr71430928,2023-11-06T16:09:53.800Z,"6 km SSE of Salinas, Puerto Rico",earthquake,0.87,1.93,0.213910570824527,10,reviewed,pr,pr
-2023-11-06T15:36:44.150Z,-7.5306,127.7471,172.438,5.2,mww,95,37,3.679,0.84,us,us7000l95l,2023-11-06T15:55:29.040Z,"137 km NE of Lospalos, Timor Leste",earthquake,7.57,5.933,0.075,17,reviewed,us,us
