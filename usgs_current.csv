@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-06T12:04:21.255Z,-1.2269,-24.137,10,5.5,mww,63,49,11.8,0.44,us,us7000l94t,2023-11-06T14:07:43.922Z,"central Mid-Atlantic Ridge",earthquake,9.75,1.872,0.086,13,reviewed,us,us
 2023-11-06T12:03:16.690Z,32.9551667,-115.8488333,7.86,1.04,ml,35,62,0.02063,0.2,ci,ci39709146,2023-11-06T19:23:27.662Z,"23 km WSW of Westmorland, CA",earthquake,0.23,0.45,0.212,7,reviewed,ci,ci
 2023-11-06T12:01:56.980Z,44.2841667,-110.6265,13.59,1.19,md,9,73,0.07369,0.13,uu,uu60553702,2023-11-06T19:29:39.670Z,"Yellowstone National Park, Wyoming",earthquake,1.13,1.02,0.1,4,reviewed,uu,uu
-2023-11-06T11:42:06.741Z,62.3333,-147.8359,41.5,1.4,ml,,,,0.21,ak,ak023e8vedc2,2023-11-06T11:43:42.763Z,"56 km NW of Eureka Roadhouse, Alaska",earthquake,,0.8,,,automatic,ak,ak
