@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-09T07:49:17.690Z,38.8333321,-122.8153305,1.78,0.71,md,9,55,0.01074,0.01,nc,nc73960336,2023-11-09T07:50:54.051Z,"8 km NW of The Geysers, CA",earthquake,0.34,1.28,0.27,9,automatic,nc,nc
+2023-11-09T07:49:08.030Z,60.1347,-152.4429,88.9,1.9,ml,,,,0.23,ak,ak023edro6ib,2023-11-09T07:51:42.655Z,"44 km WNW of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-09T07:12:07.850Z,33.8904991,-116.234169,6.09,1.82,ml,60,37,0.0614,0.16,ci,ci39710666,2023-11-09T07:23:03.480Z,"16 km ENE of Thousand Palms, CA",earthquake,0.19,0.64,0.202,26,automatic,ci,ci
 2023-11-09T07:10:11.313Z,60.0018,-153.4325,140.2,2.6,ml,,,,0.34,ak,ak023edrftu7,2023-11-09T07:14:20.386Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-09T07:06:53.102Z,31.654,-104.579,3.4025,1.7,ml(texnet),14,187,0.1,0.2,tx,tx2023vypc,2023-11-09T07:28:56.916Z,"western Texas",earthquake,0,2.582651776,0.1,11,automatic,tx,tx
@@ -251,7 +253,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T10:31:07.555Z,31.622,-103.98,7.0828,2.8,ml(texnet),14,58,0,0.2,tx,tx2023vxak,2023-11-09T06:29:22.040Z,"37 km WSW of Mentone, Texas",earthquake,0.7314280183,1.031653294,0.3,7,reviewed,tx,tx
 2023-11-08T10:30:06.871Z,31.613,-103.994,7.5841,3.2,ml(texnet),15,58,0,0.1,tx,tx2023vxai,2023-11-09T06:18:20.040Z,"38 km NNW of Toyah, Texas",earthquake,0.4682446831,0.6219120053,0.2,13,reviewed,tx,tx
 2023-11-08T10:29:41.440Z,33.8011667,-116.2021667,8.73,1.22,ml,43,74,0.0167,0.14,ci,ci39710298,2023-11-08T17:59:34.950Z,"9 km N of Indio, CA",earthquake,0.19,0.35,0.143,23,reviewed,ci,ci
-2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-09T06:47:20.506Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
+2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-09T07:48:25.685Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
 2023-11-08T10:27:24.722Z,31.626,-104.517,7.1856,0.4,ml(texnet),6,276,0,0.1,tx,tx2023vxad,2023-11-08T16:53:53.560Z,"62 km SSW of Whites City, New Mexico",earthquake,2.020156741,1.552113787,0.1,6,reviewed,tx,tx
 2023-11-08T10:23:52.340Z,19.2544994354248,-155.404663085938,30.3500003814697,2.2,ml,45,126,,0.119999997,hv,hv73641452,2023-11-08T10:29:22.780Z,"9 km NE of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.17,3,automatic,hv,hv
 2023-11-08T10:02:02.233Z,63.0999,-150.885,131.1,2.4,ml,,,,0.3,ak,ak023ec5n1ql,2023-11-08T10:17:31.040Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
