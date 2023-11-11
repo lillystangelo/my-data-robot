@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-11T08:11:28.010Z,38.8120003,-122.7543335,0.36,1.05,md,8,116,0.01211,0.03,nc,nc73961396,2023-11-11T08:13:00.627Z,"3 km WSW of Cobb, CA",earthquake,0.26,0.76,0.17,11,automatic,nc,nc
+2023-11-11T08:11:28.010Z,38.8120003,-122.7543335,0.36,1.05,md,8,116,0.01211,0.03,nc,nc73961396,2023-11-11T08:27:13.769Z,"3 km WSW of Cobb, CA",earthquake,0.26,0.76,0.17,11,automatic,nc,nc
 2023-11-11T08:09:56.340Z,38.7868347,-122.7738342,1.56,0.79,md,11,95,0.0127,0.02,nc,nc73961391,2023-11-11T08:23:11.568Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.63,0.27,14,automatic,nc,nc
 2023-11-11T08:08:46.440Z,38.7944984,-122.7606659,0.1,0.77,md,11,82,0.02407,0.02,nc,nc73961386,2023-11-11T08:19:10.548Z,"2 km N of The Geysers, CA",earthquake,0.24,0.8,0.14,10,automatic,nc,nc
 2023-11-11T07:47:26.570Z,38.776001,-122.8861694,1.82,1.21,md,13,224,0.03079,0.02,nc,nc73961376,2023-11-11T07:57:10.406Z,"11 km W of The Geysers, CA",earthquake,0.53,0.55,0.11,12,automatic,nc,nc
@@ -30,8 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T04:51:18.569Z,31.635,-104.001,5.9929,2.2,mlv,15,43,0,0.2,tx,tx2023wcbp,2023-11-11T05:09:42.378Z,"38 km WSW of Mentone, Texas",earthquake,0,2.094770382,0.2,13,automatic,tx,tx
 2023-11-11T04:22:59.142Z,31.609,-104.068,7.9652,1.5,ml(texnet),11,132,0,0.6,tx,tx2023wcaq,2023-11-11T04:36:53.933Z,"41 km NW of Toyah, Texas",earthquake,0,2.898389461,0.3,9,automatic,tx,tx
 2023-11-11T04:11:53.040Z,18.103,-66.5903333333333,18.21,2.07,md,15,84,0.02994,0.21,pr,pr71431228,2023-11-11T04:29:28.830Z,"7 km NW of Coto Laurel, Puerto Rico",earthquake,0.54,0.45,0.0938336083619491,5,reviewed,pr,pr
-2023-11-11T03:58:15.110Z,40.5158333,-124.8706667,18.68,2.8,md,57,254,0.4086,0.18,nc,nc73961291,2023-11-11T08:13:10.513Z,"52 km W of Ferndale, CA",earthquake,1.22,1.14,0.203,46,reviewed,nc,nc
-2023-11-11T03:57:59.540Z,40.5688,-126.1383,8,4.1,mw,5,,,,ew,ew1699675100,2023-11-11T06:32:17.060Z,"158 km W of Ferndale, California",earthquake,15.714,5,0.3,5,automatic,ew,ew
+2023-11-11T03:58:15.110Z,40.5158333,-124.8706667,18.68,2.8,md,57,254,0.4086,0.18,nc,nc73961291,2023-11-11T08:28:22.898Z,"52 km W of Ferndale, CA",earthquake,1.22,1.14,0.203,46,reviewed,nc,nc
 2023-11-11T03:54:39.460Z,38.8291664,-122.8146667,2.13,1.06,md,19,45,0.006788,0.01,nc,nc73961286,2023-11-11T04:04:11.194Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.4,0.14,20,automatic,nc,nc
 2023-11-11T03:50:20.310Z,47.667,-120.25116666666666,-0.2,0.39,ml,5,106,0.08319,0.08,uw,uw61502908,2023-11-11T05:51:46.790Z,"3 km WSW of Entiat, Washington",earthquake,0.28,7.73,0.04737971161021037,3,reviewed,uw,uw
 2023-11-11T03:49:58.320Z,19.386833190918,-155.277328491211,0.600000023841858,1.71,ml,15,70,,0.140000001,hv,hv73643717,2023-11-11T03:55:28.590Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.25,0.21,5,automatic,hv,hv
@@ -267,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T09:04:24.590Z,33.6948333,-116.7268333,17.29,2.19,ml,95,19,0.01941,0.19,ci,ci39711138,2023-11-10T17:51:36.610Z,"5 km S of Idyllwild, CA",earthquake,0.12,0.23,0.26,25,reviewed,ci,ci
 2023-11-10T08:57:06.145Z,56.4777,-153.0777,0,2.7,ml,,,,0.93,ak,ak023effuo6u,2023-11-10T09:23:18.040Z,"Kodiak Island region, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-11-10T08:49:43.076Z,-6.3751,129.7831,10,4.9,mb,32,79,7.498,0.74,us,us7000la0u,2023-11-10T09:09:53.040Z,"Banda Sea",earthquake,4.12,1.906,0.117,23,reviewed,us,us
-2023-11-10T08:31:57.654Z,-6.1238,129.9311,10,4.5,mb,29,60,1.591,0.97,us,us7000la10,2023-11-11T05:39:34.040Z,"Banda Sea",earthquake,7.97,1.906,0.136,16,reviewed,us,us
