@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T00:06:40.901Z,61.6752,-151.5969,91.2,2.1,ml,,,,0.48,ak,ak023egyboyd,2023-11-11T00:09:02.390Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-11T00:02:11.940Z,46.998,-122.20333333333333,0.59,1.4000000000000001,ml,28,128,0.01551,0.17,uw,uw61971641,2023-11-11T04:52:48.580Z,"Puget Sound region, Washington",earthquake,0.7,0.32,0.1200925466401237,14,reviewed,uw,uw
 2023-11-11T00:01:24.206Z,62.1899,-148.0619,37.8,1.5,ml,,,,0.2,ak,ak023egyal50,2023-11-11T00:03:53.947Z,"47 km NNW of Glacier View, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-11-10T23:41:40.951Z,63.958,-22.5005,10,4.6,mb,47,111,0.943,0.37,us,us7000la96,2023-11-11T00:27:59.040Z,"5 km SSE of Reykjanesbær, Iceland",earthquake,4.33,1.907,0.078,49,reviewed,us,us
