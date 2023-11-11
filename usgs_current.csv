@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-11T07:37:40.050Z,36.0303345,-120.5901642,3.71,1.4,md,18,76,0.0387,0.04,nc,nc73961371,2023-11-11T07:39:15.588Z,"20 km NW of Parkfield, CA",earthquake,0.28,0.46,0.35,9,automatic,nc,nc
+2023-11-11T07:47:26.570Z,38.776001,-122.8861694,1.82,1.21,md,13,224,0.03079,0.02,nc,nc73961376,2023-11-11T07:49:01.448Z,"11 km W of The Geysers, CA",earthquake,0.53,0.55,0.11,12,automatic,nc,nc
+2023-11-11T07:37:40.050Z,36.0303345,-120.5901642,3.71,1.4,md,18,76,0.0387,0.04,nc,nc73961371,2023-11-11T07:50:10.371Z,"20 km NW of Parkfield, CA",earthquake,0.28,0.46,0.35,9,automatic,nc,nc
 2023-11-11T07:18:37.580Z,31.672,-104.175,4.5752,1.5,ml(texnet),17,102,0.1,0.6,tx,tx2023wcgl,2023-11-11T07:32:14.175Z,"53 km NW of Toyah, Texas",earthquake,0,1.444220796,0.2,12,automatic,tx,tx
 2023-11-11T07:08:34.191Z,31.617,-104.098,4.1401,1.6,ml(texnet),19,71,0,0.3,tx,tx2023wcgc,2023-11-11T07:32:54.627Z,"44 km NW of Toyah, Texas",earthquake,0,1.285064137,0.3,15,automatic,tx,tx
 2023-11-11T07:03:34.926Z,-34.9449,-71.6188,50.809,4.4,mb,26,131,0.705,0.49,us,us7000labe,2023-11-11T07:31:21.188Z,"27 km W of Rauco, Chile",earthquake,5.67,10.079,0.203,7,reviewed,us,us
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T05:55:41.320Z,17.9386666666667,-66.7791666666667,9.3,2.17,md,8,220,0.08174,0.3,pr,pr71431238,2023-11-11T06:09:21.510Z,"7 km SE of Indios, Puerto Rico",earthquake,1.51,1.69,0.087091797880998,4,reviewed,pr,pr
 2023-11-11T05:48:31.150Z,38.8129997,-122.8284988,1.93,0.78,md,14,90,0.00416,0.02,nc,nc73961341,2023-11-11T05:59:11.780Z,"7 km WNW of The Geysers, CA",earthquake,0.32,0.66,0.08,15,automatic,nc,nc
 2023-11-11T05:42:29.649Z,60.1848,-153.2077,142.9,2.5,ml,,,,0.4,ak,ak023eh1ijxw,2023-11-11T05:58:49.040Z,"61 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-11T05:34:58.650Z,38.7738342,-122.8873367,1.92,1.13,md,8,230,0.03232,0.01,nc,nc73961336,2023-11-11T05:50:10.736Z,"11 km W of The Geysers, CA",earthquake,0.67,0.65,0.14,6,automatic,nc,nc
+2023-11-11T05:34:58.650Z,38.7738342,-122.8873367,1.92,1.13,md,8,230,0.03232,0.01,nc,nc73961336,2023-11-11T07:43:11.344Z,"11 km W of The Geysers, CA",earthquake,0.67,0.65,0.14,6,automatic,nc,nc
 2023-11-11T05:30:19.850Z,38.8198318,-122.7975006,2.5,1.02,md,18,46,0.01045,0.02,nc,nc73961331,2023-11-11T05:46:11.720Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.45,0.21,20,automatic,nc,nc
 2023-11-11T05:27:00.940Z,38.8293343,-122.7894974,-0.73,0.7,md,6,169,0.02181,0.19,nc,nc73961326,2023-11-11T05:41:10.689Z,"6 km W of Cobb, CA",earthquake,2.05,6.98,0.07,6,automatic,nc,nc
 2023-11-11T05:26:17.510Z,38.8084984,-122.8133316,0.91,0.74,md,8,114,0.01239,0.02,nc,nc73961321,2023-11-11T07:18:10.199Z,"6 km NW of The Geysers, CA",earthquake,0.33,1.1,0.22,8,automatic,nc,nc
@@ -269,4 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T08:10:44.530Z,38.7874985,-122.7334976,1.77,0.77,md,9,87,0.004947,0.02,nc,nc73960806,2023-11-10T08:20:10.250Z,"2 km ENE of The Geysers, CA",earthquake,0.36,0.74,0.12,9,automatic,nc,nc
 2023-11-10T08:07:14.790Z,35.5058333,-118.3825,8.31,0.83,ml,21,65,0.1735,0.12,ci,ci39711130,2023-11-10T16:53:47.165Z,"14 km SE of Bodfish, CA",earthquake,0.17,1.12,0.125,5,reviewed,ci,ci
 2023-11-10T07:55:30.701Z,40.313,-119.4885,15.5,1.1,ml,4,296.03,0.235,0.0825,nn,nn00868765,2023-11-11T02:19:30.699Z,"31 km SSW of Empire, Nevada",earthquake,,4,0.07,3,reviewed,nn,nn
-2023-11-10T07:48:04.627Z,4.3549,-73.4965,10,4.5,mb,43,82,1.582,0.54,us,us7000la0s,2023-11-10T16:01:10.347Z,"Colombia",earthquake,7.45,1.922,0.088,38,reviewed,us,us
