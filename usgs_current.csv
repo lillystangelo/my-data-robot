@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-11T08:35:42.840Z,38.8258324,-122.8290024,-0.62,1.05,md,14,64,0.005434,0.17,nc,nc73961416,2023-11-11T08:37:16.398Z,"8 km NW of The Geysers, CA",earthquake,0.37,1.49,0.21,14,automatic,nc,nc
+2023-11-11T08:25:07.252Z,-23.3022,-68.5153,123.655,4.5,mb,21,87,0.466,0.49,us,us7000labp,2023-11-11T08:39:09.040Z,"53 km SW of San Pedro de Atacama, Chile",earthquake,7.32,7.435,0.163,11,reviewed,us,us
+2023-11-11T08:23:01.760Z,38.7750015,-122.8853302,2.31,1.06,md,8,225,0.03099,0.03,nc,nc73961406,2023-11-11T08:37:16.057Z,"11 km W of The Geysers, CA",earthquake,0.89,0.67,0.09,10,automatic,nc,nc
+2023-11-11T08:17:45.591Z,-7.7491,119.2028,286.395,4.4,mb,21,128,1.772,0.64,us,us7000labn,2023-11-11T08:42:10.040Z,"Flores Sea",earthquake,13.18,8.508,0.161,11,reviewed,us,us
+2023-11-11T08:12:29.984Z,-21.4968,-66.7296,233.466,4.4,mb,14,116,1.975,0.36,us,us7000labm,2023-11-11T08:43:12.040Z,"81 km SW of Atocha, Bolivia",earthquake,9.63,8.5,0.309,3,reviewed,us,us
 2023-11-11T08:11:28.010Z,38.8120003,-122.7543335,0.36,1.05,md,8,116,0.01211,0.03,nc,nc73961396,2023-11-11T08:27:13.769Z,"3 km WSW of Cobb, CA",earthquake,0.26,0.76,0.17,11,automatic,nc,nc
 2023-11-11T08:09:56.340Z,38.7868347,-122.7738342,1.56,0.79,md,11,95,0.0127,0.02,nc,nc73961391,2023-11-11T08:23:11.568Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.63,0.27,14,automatic,nc,nc
 2023-11-11T08:08:46.440Z,38.7944984,-122.7606659,0.1,0.77,md,11,82,0.02407,0.02,nc,nc73961386,2023-11-11T08:19:10.548Z,"2 km N of The Geysers, CA",earthquake,0.24,0.8,0.14,10,automatic,nc,nc
@@ -127,7 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T20:50:30.023Z,31.263,130.8105,108.775,5.3,mww,92,71,0.392,0.9,us,us7000la7u,2023-11-11T05:53:39.809Z,"13 km SSW of Kanoya, Japan",earthquake,6.04,4.077,0.069,20,reviewed,us,us
 2023-11-10T20:47:52.360Z,58.2936666666667,-154.983333333333,3.06,-0.4,ml,8,147,,0.08,av,av91121308,2023-11-11T01:43:21.400Z,"86 km NNW of Karluk, Alaska",earthquake,0.29,0.63,0.329618955412157,8,reviewed,av,av
 2023-11-10T20:45:11.025Z,-6.1554,130.088,10.725,6.1,mww,72,44,1.632,1.46,us,us7000la7r,2023-11-10T22:52:41.234Z,"Banda Sea",earthquake,6.38,4.615,0.052,36,reviewed,us,us
-2023-11-10T20:33:49.550Z,44.3935,-124.587,29.67,3.08,ml,29,144,0.3604,0.21,uw,uw61971621,2023-11-11T05:05:19.883Z,"near the coast of Oregon",earthquake,0.4,0.65,0.14486018729385686,18,reviewed,uw,uw
+2023-11-10T20:33:49.550Z,44.3935,-124.587,29.67,3.08,ml,29,144,0.3604,0.21,uw,uw61971621,2023-11-11T08:39:14.165Z,"near the coast of Oregon",earthquake,0.4,0.65,0.14486018729385686,18,reviewed,uw,uw
 2023-11-10T20:32:57.060Z,31.538,-104.037,4.8731,1.7,ml(texnet),13,89,0,0.5,tx,tx2023wble,2023-11-10T20:59:57.025Z,"33 km NW of Toyah, Texas",earthquake,0,1.444456435,0.2,11,automatic,tx,tx
 2023-11-10T20:23:38.010Z,31.654,-104.021,4.445,1.5,mlv,6,182,0,0.2,tx,tx2023wbkv,2023-11-10T21:07:30.969Z,"40 km W of Mentone, Texas",earthquake,0,1.943211106,0.3,6,automatic,tx,tx
 2023-11-10T20:23:00.190Z,33.3376667,-116.3893333,11.07,0.71,ml,28,91,0.02154,0.13,ci,ci39711298,2023-11-10T21:23:37.014Z,"9 km N of Borrego Springs, CA",earthquake,0.28,0.69,0.139,12,reviewed,ci,ci
