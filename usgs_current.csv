@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-11T06:52:51.965Z,64.8798,-147.9204,13.8,0.5,ml,,,,0.23,ak,ak023eh266fb,2023-11-11T06:54:59.227Z,"5 km NE of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-11T06:41:51.407Z,-5.7323,130.1786,10,5.7,mww,67,63,1.233,0.77,us,us7000laba,2023-11-11T06:55:02.040Z,"285 km W of Tual, Indonesia",earthquake,7.28,1.878,0.073,18,reviewed,us,us
 2023-11-11T06:38:40.119Z,60.249,-150.6336,50.3,1.9,ml,,,,0.58,ak,ak023eh235hn,2023-11-11T06:40:31.024Z,"29 km SSE of Funny River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-11T06:34:25.060Z,38.769001,-122.7371674,0.2,2.18,md,41,54,0.01422,0.11,nc,nc73961351,2023-11-11T06:41:10.984Z,"2 km ESE of The Geysers, CA",earthquake,0.2,0.33,0.17,38,automatic,nc,nc
 2023-11-11T06:26:50.433Z,5.1636,36.7969,10,4.8,mb,46,96,6.265,0.78,us,us7000lab8,2023-11-11T06:41:31.040Z,"Ethiopia",earthquake,4.45,1.893,0.097,33,reviewed,us,us
@@ -32,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T03:31:20.110Z,19.3815002441406,-155.279998779297,1.44000005722046,1.70000005,md,11,162,,0.119999997,hv,hv73643677,2023-11-11T03:36:52.980Z,"8 km SW of Volcano, Hawaii",earthquake,0.39,0.360000014,0.25,13,automatic,hv,hv
 2023-11-11T03:25:49.030Z,33.6696667,-116.7205,14.87,0.9,ml,49,30,0.03896,0.12,ci,ci39711490,2023-11-11T03:32:37.032Z,"8 km S of Idyllwild, CA",earthquake,0.14,0.21,0.156,26,automatic,ci,ci
 2023-11-11T03:25:02.620Z,34.944,-119,12.59,1.09,ml,34,86,0.05455,0.19,ci,ci39711482,2023-11-11T03:35:38.490Z,"6 km W of Grapevine, CA",earthquake,0.25,0.54,0.179,13,automatic,ci,ci
-2023-11-11T03:15:24.730Z,40.417,-124.8208333,17.42,4.1,mw,143,221,0.3735,0.21,nc,nc73961261,2023-11-11T06:07:10.813Z,"46 km WNW of Petrolia, CA",earthquake,0.5,0.54,,4,reviewed,nc,nc
+2023-11-11T03:15:24.730Z,40.417,-124.8208333,17.42,4.1,mw,143,221,0.3735,0.21,nc,nc73961261,2023-11-11T06:52:10.055Z,"46 km WNW of Petrolia, CA",earthquake,0.5,0.54,,4,reviewed,nc,nc
 2023-11-11T03:15:24.600Z,19.2363338470459,-155.400161743164,30,2.22,ml,42,155,,0.119999997,hv,hv73643667,2023-11-11T03:20:54.620Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.620000005,0.08,4,automatic,hv,hv
 2023-11-11T03:13:38.641Z,31.588,-104.247,3.1248,1.8,ml(texnet),18,72,0.1,0.3,tx,tx2023wbyj,2023-11-11T03:29:16.793Z,"52 km NW of Toyah, Texas",earthquake,0,1.304616458,0.2,14,automatic,tx,tx
 2023-11-11T03:12:53.012Z,31.646,-104.408,3.4516,1.8,ml(texnet),18,76,0,0.4,tx,tx2023wbyi,2023-11-11T03:29:15.023Z,"58 km S of Whites City, New Mexico",earthquake,0,1.309462347,0.2,12,automatic,tx,tx
@@ -274,5 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T07:01:01.130Z,18.6323,-68.9391,106,3.76,md,10,232,0.5701,0.72,pr,pr2023314003,2023-11-11T05:45:19.040Z,"6 km NE of Guaymate, Dominican Republic",earthquake,8.84,3.9,0.23,5,reviewed,pr,pr
 2023-11-10T06:59:24.830Z,18.0125,-66.672,7.91,2.06,md,6,196,0.06946,0.11,pr,pr71431158,2023-11-10T18:57:13.650Z,"5 km ENE of Tallaboa, Puerto Rico",earthquake,0.77,31.61,0.0785946483235997,3,reviewed,pr,pr
 2023-11-10T06:57:08.545Z,62.2318,-151.1227,65.4,2.4,ml,,,,0.56,ak,ak023efent56,2023-11-10T08:15:37.040Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-10T06:51:40.330Z,33.0125,-116.4275,6.11,0.76,ml,27,109,0.04298,0.15,ci,ci39711114,2023-11-10T19:24:47.383Z,"18 km ESE of Julian, CA",earthquake,0.22,0.43,0.121,5,reviewed,ci,ci
-2023-11-10T06:50:17.260Z,19.3803329467773,-155.276840209961,0.610000014305115,1.88,md,8,160,,0.109999999,hv,hv73642657,2023-11-10T06:53:12.890Z,"Hawaii region, Hawaii",earthquake,0.32,0.349999994,1.47000003,6,automatic,hv,hv
