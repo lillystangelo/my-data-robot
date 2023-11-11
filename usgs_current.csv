@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-11T13:26:52.740Z,34.0398331,-117.5263367,13.35,1.12,ml,19,105,0.04576,0.37,ci,ci39711626,2023-11-11T13:28:57.656Z,"5 km NW of Glen Avon, CA",earthquake,1.2,1.65,0.227,7,automatic,ci,ci
-2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T13:20:53.818Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
+2023-11-11T13:36:12.030Z,38.7873344,-122.746666,0.97,1.47,md,18,83,0.008781,0.03,nc,nc73961581,2023-11-11T13:37:47.710Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.63,0.16,20,automatic,nc,nc
+2023-11-11T13:26:52.520Z,34.0531667,-117.535,9.35,0.87,ml,35,61,0.06967,0.12,ci,ci39711626,2023-11-11T13:33:35.123Z,"6 km NW of Glen Avon, CA",earthquake,0.19,0.32,0.241,13,automatic,ci,ci
+2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T13:31:10.450Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
 2023-11-11T13:16:15.030Z,38.822834,-122.8443298,1.72,0.72,md,12,85,0.00727,0.03,nc,nc73961566,2023-11-11T13:26:10.421Z,"9 km WNW of The Geysers, CA",earthquake,0.35,0.65,0.42,12,automatic,nc,nc
 2023-11-11T12:53:46.130Z,33.9895,-116.4638333,8.3,1.83,ml,74,36,0.06683,0.13,ci,ci39711610,2023-11-11T13:04:42.520Z,"5 km NE of Desert Hot Springs, CA",earthquake,0.09,0.31,0.142,26,automatic,ci,ci
 2023-11-11T12:46:47.244Z,32.308,-101.83,5.649,2.7,ml(texnet),22,43,0,0.1,tx,tx2023wcrj,2023-11-11T13:10:30.509Z,"20 km N of Stanton, Texas",earthquake,0.3984335469,0.5929752836,0.1,12,reviewed,tx,tx
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T12:27:27.024Z,31.639,-104.015,5.3378,1.6,ml(texnet),18,42,0,0.3,tx,tx2023wcqq,2023-11-11T13:02:25.508Z,"40 km W of Mentone, Texas",earthquake,0,2.089106863,0.1,14,automatic,tx,tx
 2023-11-11T12:25:12.540Z,35.9686667,-117.683,2.44,1.51,ml,31,56,0.103,0.14,ci,ci39711602,2023-11-11T12:35:32.240Z,"20 km E of Little Lake, CA",earthquake,0.19,0.31,0.175,16,automatic,ci,ci
 2023-11-11T12:12:11.790Z,33.485,-116.4931667,12.75,1.3,ml,75,29,0.06815,0.17,ci,ci39711594,2023-11-11T12:23:26.960Z,"18 km ESE of Anza, CA",earthquake,0.13,0.26,0.15,26,automatic,ci,ci
-2023-11-11T12:04:02.290Z,19.204833984375,-155.501159667969,31.0900001525879,1.94000006,md,18,198,,0.129999995,hv,hv73644152,2023-11-11T12:07:21.810Z,"2 km W of Pāhala, Hawaii",earthquake,0.87,1.28999996,0.519999981,5,automatic,hv,hv
+2023-11-11T12:04:02.290Z,19.204833984375,-155.501159667969,31.0900001525879,1.94000006,md,18,198,,0.129999995,hv,hv73644152,2023-11-11T12:07:21.810Z,"Island of Hawaii, Hawaii",earthquake,0.87,1.28999996,0.519999981,5,automatic,hv,hv
 2023-11-11T11:57:41.800Z,63.2305,-151.0036,2.4,1.9,ml,,,,0.51,ak,ak023eh56e90,2023-11-11T12:01:14.446Z,"49 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-11T11:41:14.989Z,31.638,-104.009,6.0098,2.4,ml(texnet),22,38,0,0.3,tx,tx2023wcpe,2023-11-11T11:53:24.804Z,"39 km W of Mentone, Texas",earthquake,0,2.000450084,0.2,18,automatic,tx,tx
 2023-11-11T11:36:24.960Z,19.3931674957275,-155.279159545898,0.430000007152557,2.23,ml,7,118,,0.100000001,hv,hv73644142,2023-11-11T11:41:57.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.529999971,0.28,3,automatic,hv,hv
