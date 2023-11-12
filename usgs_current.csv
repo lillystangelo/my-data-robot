@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-12T13:27:38.750Z,37.6291656,-122.3568344,10.26,1.53,md,16,96,0.04886,0.08,nc,nc73962041,2023-11-12T13:29:13.643Z,"4 km NE of Millbrae, CA",earthquake,0.44,0.53,0.32,10,automatic,nc,nc
+2023-11-12T13:26:05.833Z,62.1654,-153.2908,1.7,2.1,ml,,,,0.27,ak,ak023eitpvzb,2023-11-12T13:28:18.498Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-12T13:21:29.195Z,59.8694,-152.9259,95.9,1.9,ml,,,,0.18,ak,ak023eitov7b,2023-11-12T13:23:00.340Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-12T12:55:26.206Z,61.6907,-149.64,20,1.7,ml,,,,0.69,ak,ak023eitap3e,2023-11-12T12:56:46.855Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-12T12:48:15.200Z,37.901001,-122.1068344,7.14,1.34,md,13,72,0.04062,0.05,nc,nc73962036,2023-11-12T13:20:10.802Z,"2 km NNE of Lafayette, CA",earthquake,0.32,0.58,0.11,11,automatic,nc,nc
@@ -183,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T14:01:54.700Z,32.9258333,-116.3003333,10.58,0.88,ml,31,43,0.0288,0.14,ci,ci39711634,2023-11-11T14:08:07.740Z,"24 km ENE of Pine Valley, CA",earthquake,0.17,0.31,0.219,7,automatic,ci,ci
 2023-11-11T13:56:34.980Z,38.7944984,-122.7490005,2.63,0.71,md,12,92,0.01037,0.02,nc,nc73961586,2023-11-11T14:07:10.677Z,"2 km NNE of The Geysers, CA",earthquake,0.35,0.82,0.12,11,automatic,nc,nc
 2023-11-11T13:36:12.030Z,38.7873344,-122.746666,0.97,1.47,md,18,83,0.008781,0.03,nc,nc73961581,2023-11-11T16:27:10.528Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.63,0.16,20,automatic,nc,nc
-2023-11-11T13:26:52.520Z,34.0531667,-117.535,9.35,0.87,ml,35,61,0.06967,0.12,ci,ci39711626,2023-11-11T13:33:35.123Z,"6 km NW of Glen Avon, CA",earthquake,0.19,0.32,0.241,13,automatic,ci,ci
