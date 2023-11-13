@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T11:41:59.450Z,19.3798332214355,-155.275665283203,0.819999992847443,1.75,ml,13,159,,0.150000006,hv,hv73646617,2023-11-13T11:47:33.000Z,"8 km SSW of Volcano, Hawaii",earthquake,0.29,0.219999999,0.21,3,automatic,hv,hv
 2023-11-13T11:22:19.980Z,33.2528333,-116.1106667,10.95,1.39,ml,72,44,0.1081,0.17,ci,ci39712426,2023-11-13T11:28:49.591Z,"12 km N of Ocotillo Wells, CA",earthquake,0.12,0.35,0.205,26,automatic,ci,ci
 2023-11-13T11:20:52.496Z,62.098,-148.2574,38.7,1.2,ml,,,,0.38,ak,ak023ekg16kh,2023-11-13T11:22:49.870Z,"35 km NNE of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-13T11:19:49.740Z,38.8219986,-122.8541641,2.31,0.92,md,16,66,0.005929,0.03,nc,nc73962391,2023-11-13T11:30:11.346Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.56,0.17,19,automatic,nc,nc
+2023-11-13T11:07:51.504Z,31.686,-104.421,6.2274,1.8,ml(texnet),16,58,0,0.3,tx,tx2023wgez,2023-11-13T11:47:03.791Z,"54 km S of Whites City, New Mexico",earthquake,0,2.484719786,0.2,12,automatic,tx,tx
 2023-11-13T11:00:50.630Z,19.3451671600342,-155.29866027832,2.26999998092651,2.42,ml,41,112,,0.219999999,hv,hv73646562,2023-11-13T11:06:21.480Z,"12 km SSW of Volcano, Hawaii",earthquake,0.31,0.5,0.34,16,automatic,hv,hv
 2023-11-13T10:52:47.980Z,18.008,-66.8138,14,3.32,md,14,150,0.0732,0.17,pr,pr2023317000,2023-11-13T11:22:50.330Z,"1 km NNE of Indios, Puerto Rico",earthquake,0.46,0.78,0.08,8,reviewed,pr,pr
 2023-11-13T10:39:36.690Z,19.3856658935547,-155.274993896484,0.479999989271164,1.93,ml,28,58,,0.280000001,hv,hv73646512,2023-11-13T10:45:06.750Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.200000003,0.28,9,automatic,hv,hv
@@ -78,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T00:53:13.890Z,19.3801666666667,-155.241,1.6,1.87,ml,18,83,,0.1,hv,hv73645837,2023-11-13T04:05:52.500Z,"Hawaii region, Hawaii",earthquake,0.2,0.17,0.141438217915081,9,reviewed,hv,hv
 2023-11-13T00:27:45.614Z,61.0299,-151.4424,80.9,1.7,ml,,,,0.46,ak,ak023ek9iwe9,2023-11-13T00:30:05.006Z,"17 km WSW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-13T00:25:37.750Z,64.7016,-149.2641,8.5,1.6,ml,,,,0.84,ak,ak023ek9igcv,2023-11-13T00:28:39.772Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-13T00:22:18.673Z,65.0349,-146.6128,2,1.6,ml,,,,0.98,ak,ak023ek9hrqj,2023-11-13T00:24:12.943Z,"northern Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-11-13T00:22:18.673Z,65.0349,-146.6128,2,1.6,ml,,,,0.98,ak,ak023ek9hrqj,2023-11-13T00:24:12.943Z,"20 km NE of Pleasant Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-13T00:13:23.917Z,41.87,-126.0856,10,3.9,mb,50,233,1.651,0.79,us,us7000lajy,2023-11-13T01:34:18.813Z,"off the coast of Northern California",earthquake,6.71,1.994,0.21,6,reviewed,us,us
 2023-11-13T00:13:01.570Z,35.6713333,-117.5273333,6.17,0.53,ml,23,83,0.0846,0.13,ci,ci39712298,2023-11-13T00:18:52.287Z,"14 km ENE of Ridgecrest, CA",earthquake,0.22,0.63,0.092,5,automatic,ci,ci
 2023-11-13T00:02:17.450Z,19.3818333333333,-155.2805,1.1,1.31,ml,16,162,,0.07,hv,hv73645782,2023-11-13T00:31:34.020Z,"Hawaii region, Hawaii",earthquake,0.23,0.16,0.208694519154793,3,reviewed,hv,hv
