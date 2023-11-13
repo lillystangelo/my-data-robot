@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-13T05:53:00.490Z,33.2745018,-116.7856674,14.87,1.37,ml,26,80,0.04455,0.15,ci,ci39712386,2023-11-13T05:55:04.444Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.37,0.79,0.54,17,automatic,ci,ci
 2023-11-13T05:43:45.389Z,63.1253,-148.5966,67.1,1.1,ml,,,,1.2,ak,ak023ekclhuy,2023-11-13T05:45:33.234Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-13T05:40:03.230Z,17.9243333333333,-66.2901666666667,13.44,2.01,md,8,223,0.1167,0.12,pr,pr71431323,2023-11-13T05:51:25.500Z,"Puerto Rico region",earthquake,0.54,0.52,0.0935532736733635,4,reviewed,pr,pr
 2023-11-13T05:28:17.960Z,38.8138351,-122.8263321,1.83,1.07,md,23,55,0.005435,0.02,nc,nc73962326,2023-11-13T05:39:10.324Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.38,0.17,23,automatic,nc,nc
 2023-11-13T05:25:10.920Z,59.3726,-144.1719,62.7,1.9,ml,,,,0.24,ak,ak023ekchkb8,2023-11-13T05:26:56.156Z,"Gulf of Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-11-13T05:24:21.670Z,38.7751656,-122.7440033,2.27,0.81,md,9,126,0.009865,0.02,nc,nc73962321,2023-11-13T05:35:11.295Z,"1 km ESE of The Geysers, CA",earthquake,0.43,1.01,0.2,8,automatic,nc,nc
@@ -192,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T06:13:32.190Z,35.6321667,-117.4573333,6.66,0.72,ml,19,59,0.04278,0.14,ci,ci39712018,2023-11-12T06:19:18.339Z,"16 km SSW of Searles Valley, CA",earthquake,0.22,0.33,0.069,2,automatic,ci,ci
 2023-11-12T06:13:07.053Z,-18.1503,-172.9599,10,4.8,mb,22,103,3.02,1.6,us,us7000lafr,2023-11-12T06:32:34.040Z,"Tonga region",earthquake,5.72,1.891,0.135,17,reviewed,us,us
 2023-11-12T06:12:20.619Z,-3.9107,151.1652,10.037,5.2,mb,62,74,1.034,0.52,us,us7000laft,2023-11-12T06:46:56.040Z,"New Ireland region, Papua New Guinea",earthquake,9.15,4.831,0.082,49,reviewed,us,us
-2023-11-12T05:54:39.207Z,-3.8135,151.1108,1.248,5.2,mb,103,55,1.115,0.71,us,us7000lafn,2023-11-12T06:12:54.040Z,"124 km WNW of Rabaul, Papua New Guinea",earthquake,8.39,4.237,0.057,101,reviewed,us,us
-2023-11-12T05:51:25.339Z,39.0394,-119.1552,10,1.9,ml,14,61.79,0.535,0.0999,nn,nn00868788,2023-11-12T05:53:55.935Z,"5 km N of Yerington, Nevada",earthquake,,0.9,0.37,6,automatic,nn,nn
-2023-11-12T05:50:35.687Z,53.5749,-165.4871,50.435,4.5,mb,75,156,0.576,0.87,us,us7000lafm,2023-11-12T06:39:16.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,3.17,7.341,0.099,30,reviewed,us,us
