@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T20:01:37.836Z,65.0176,-148.8284,13.6,1.5,ml,,,,0.6,ak,ak023eixqms7,2023-11-12T20:03:26.854Z,"28 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-12T19:57:33.570Z,38.8460007,-122.7693329,1.13,0.67,md,7,182,0.006477,0.03,nc,nc73962166,2023-11-12T20:30:11.176Z,"5 km WNW of Cobb, CA",earthquake,0.62,0.63,0.43,9,automatic,nc,nc
 2023-11-12T19:56:08.342Z,60.2559,-141.1028,15.9,1.5,ml,,,,0.39,ak,ak023eixgx9h,2023-11-12T20:03:20.032Z,"110 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-12T19:54:28.449Z,39.1884,71.1104,12.485,4.5,mb,36,82,0.607,0.68,us,us7000lai9,2023-11-12T20:23:14.040Z,"36 km W of Karakenja, Tajikistan",earthquake,4.05,5.136,0.104,27,reviewed,us,us
+2023-11-12T19:54:28.449Z,39.1884,71.1104,12.485,4.5,mb,36,82,0.607,0.68,us,us7000lai9,2023-11-12T20:23:14.040Z,"Kyrgyzstan-Tajikistan border region",earthquake,4.05,5.136,0.104,27,reviewed,us,us
 2023-11-12T19:52:32.910Z,33.8503333,-117.0611667,3.85,0.86,ml,7,116,0.1389,0.2,ci,ci39712250,2023-11-12T19:58:55.708Z,"10 km NE of Nuevo, CA",earthquake,1.2,2.55,0.139,19,automatic,ci,ci
 2023-11-12T19:50:33.550Z,33.6238333,-116.77,14.11,0.69,ml,28,88,0.03046,0.13,ci,ci39712242,2023-11-12T19:56:51.953Z,"12 km NW of Anza, CA",earthquake,0.26,0.36,0.271,18,automatic,ci,ci
 2023-11-12T19:39:57.160Z,33.7655,-116.9395,15.42,1.33,ml,61,29,0.04855,0.17,ci,ci39712234,2023-11-12T19:51:24.230Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.3,0.162,28,automatic,ci,ci
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T16:36:21.440Z,63.4536,-145.9624,12.3,1.1,ml,,,,0.35,ak,ak023eivkd55,2023-11-12T16:38:44.876Z,"44 km NNW of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-12T16:25:13.619Z,63.5327,-147.695,16.1,1.3,ml,,,,0.72,ak,ak023eivhzp0,2023-11-12T16:27:33.452Z,"64 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-12T16:23:06.730Z,35.6038333,-117.4786667,8.51,1.05,ml,25,47,0.02189,0.17,ci,ci39712130,2023-11-12T16:28:58.618Z,"18 km E of Ridgecrest, CA",earthquake,0.22,0.4,0.173,9,automatic,ci,ci
-2023-11-12T16:20:19.846Z,31.637,-104.051,3.3713,2.6,ml(texnet),20,98,0,0.7,tx,tx2023wetw,2023-11-12T16:42:31.986Z,"43 km NW of Toyah, Texas",earthquake,0,1.244307239,0.3,15,automatic,tx,tx
+2023-11-12T16:20:19.846Z,31.637,-104.051,3.3713,2.6,ml(texnet),20,98,0,0.7,tx,tx2023wetw,2023-11-12T16:42:31.986Z,"western Texas",earthquake,0,1.244307239,0.3,15,automatic,tx,tx
 2023-11-12T16:17:18.180Z,38.8286667,-122.8526688,1.62,1.08,md,18,81,0.00347,0.02,nc,nc73962106,2023-11-12T18:33:10.550Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.38,0.21,19,automatic,nc,nc
 2023-11-12T16:00:19.040Z,39.4056664,-120.2060013,7.12,1.71,md,7,170,0.1732,0.07,nc,nc73962101,2023-11-12T18:06:10.404Z,"9 km NNW of Truckee, CA",earthquake,0.67,2.34,0.24,6,automatic,nc,nc
 2023-11-12T15:57:55.660Z,33.7155,-116.8296667,16.17,0.74,ml,41,63,0.08345,0.13,ci,ci39712122,2023-11-12T20:51:33.882Z,"7 km ESE of Valle Vista, CA",earthquake,0.17,0.31,0.173,19,reviewed,ci,ci
@@ -194,9 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T03:19:35.690Z,51.868,-177.930833333333,5.6,1.8,ml,5,173,,0.14,av,av92115851,2023-11-12T05:22:05.630Z,"89 km W of Adak, Alaska",earthquake,0.5,1.16,0.133249507971652,5,reviewed,av,av
 2023-11-12T03:12:59.180Z,18.0115,-66.8065,15.2,2.42,md,23,148,0.01656,0.2,pr,pr71431258,2023-11-12T03:30:30.900Z,"1 km WSW of Guayanilla, Puerto Rico",earthquake,0.36,0.53,0.206723174847467,9,reviewed,pr,pr
 2023-11-12T03:10:25.748Z,31.717,-104.33,5.1002,2.1,ml(texnet),19,66,0.1,0.2,tx,tx2023wdtt,2023-11-12T03:43:36.013Z,"western Texas",earthquake,0,2.146254217,0.2,15,automatic,tx,tx
-2023-11-12T03:08:58.346Z,31.692,-104.457,9.538,1.9,mlv,6,89,0,0.7,tx,tx2023wdtx,2023-11-12T03:49:59.829Z,"54 km S of Whites City, New Mexico",earthquake,0,4.827352419,0.1,6,automatic,tx,tx
-2023-11-12T03:07:59.750Z,51.8578333333333,-177.922166666667,-1.8,1.47,ml,4,215,,0.17,av,av92115816,2023-11-12T06:31:24.530Z,"88 km W of Adak, Alaska",earthquake,0.61,1.37,0.220015408106431,4,reviewed,av,av
-2023-11-12T03:05:21.240Z,51.8616666666667,-177.922666666667,1.75,1.2,ml,4,218,,0.21,av,av92115811,2023-11-12T06:37:09.240Z,"88 km W of Adak, Alaska",earthquake,0.83,3.52,0.222842016212185,4,reviewed,av,av
-2023-11-12T03:04:01.370Z,19.0926666666667,-67.3565,22.83,3.4,md,14,298,0.6265,0.25,pr,pr71431253,2023-11-12T04:05:09.040Z,"71 km NNW of San Antonio, Puerto Rico",earthquake,1.12,17.99,0.101740615662561,4,reviewed,pr,pr
-2023-11-12T03:00:15.790Z,19.3318328857422,-155.320007324219,2.08999991416931,2.04999995,md,20,111,,0.209999993,hv,hv73644602,2023-11-12T03:03:11.160Z,"15 km SW of Volcano, Hawaii",earthquake,0.36,0.670000017,0.629999995,14,automatic,hv,hv
-2023-11-12T02:58:32.475Z,51.8761,-177.9255,8.006,3.5,ml,13,138,0.044,0.29,us,us7000laf8,2023-11-12T04:01:49.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.04,2.352,0.115,18,reviewed,us,us
