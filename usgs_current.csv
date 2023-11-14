@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T19:10:10.017Z,52.2712,-174.0844,78.371,4.4,mb,67,135,0.098,0.93,us,us7000larq,2023-11-13T21:13:02.204Z,"11 km NE of Atka, Alaska",earthquake,12.28,8.583,0.048,124,reviewed,us,us
 2023-11-13T18:56:33.790Z,35.9718333,-117.4983333,3.13,0.95,ml,18,86,0.2521,0.17,ci,ci39712658,2023-11-14T01:33:04.115Z,"24 km NNW of Searles Valley, CA",earthquake,0.39,1.02,0.104,6,reviewed,ci,ci
 2023-11-13T18:54:22.232Z,3.7904,31.2355,8.407,4.9,mb,71,54,4.391,1.99,us,us7000larp,2023-11-14T17:46:07.843Z,"35 km N of Yumbe, Uganda",earthquake,9.85,4.288,0.068,68,reviewed,us,us
-2023-11-13T18:42:57.676Z,-24.3232,-179.9245,521.248,4.6,mb,51,101,5.235,0.68,us,us7000larm,2023-11-13T19:48:21.040Z,"south of the Fiji Islands",earthquake,13.69,7.048,0.082,44,reviewed,us,us
