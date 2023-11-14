@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-14T10:14:52.353Z,61.0453,-148.5112,2.7,1.4,ml,,,,0.83,ak,ak023em2xt5f,2023-11-14T10:16:46.445Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-14T10:11:25.930Z,57.6436,-156.0552,90.9,2,ml,,,,0.22,ak,ak023em2x3yp,2023-11-14T10:13:31.260Z,"81 km E of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-11-14T10:07:28.290Z,38.8241653,-122.8108368,1.04,1.05,md,20,38,0.000973,0.03,nc,nc73962771,2023-11-14T10:09:03.292Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.44,0.22,22,automatic,nc,nc
+2023-11-14T10:10:22.600Z,19.2609996795654,-155.401336669922,29.75,2.11999989,md,42,125,,0.140000001,hv,hv73647437,2023-11-14T10:13:42.980Z,"Island of Hawaii, Hawaii",earthquake,0.49,0.709999979,1.45000005,19,automatic,hv,hv
+2023-11-14T10:07:28.290Z,38.8241653,-122.8108368,1.04,1.05,md,20,38,0.000973,0.03,nc,nc73962771,2023-11-14T10:17:10.884Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.44,0.22,22,automatic,nc,nc
 2023-11-14T10:03:00.140Z,38.8250008,-122.8003311,3.31,0.52,md,7,179,0.007778,0,nc,nc73962766,2023-11-14T10:13:10.857Z,"6 km NW of The Geysers, CA",earthquake,0.91,1.66,0.28,11,automatic,nc,nc
 2023-11-14T09:43:58.530Z,59.9423,-153.0373,105.6,2,ml,,,,0.41,ak,ak023em2ilsd,2023-11-14T09:45:58.082Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-14T09:42:24.261Z,57.9547,-154.5414,50.1,1.4,ml,,,,0.55,ak,ak023em2ibfe,2023-11-14T09:44:08.550Z,"43 km N of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -211,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T10:52:47.980Z,18.008,-66.8138,14,3.32,md,14,150,0.0732,0.17,pr,pr2023317000,2023-11-13T11:22:50.330Z,"1 km NNE of Indios, Puerto Rico",earthquake,0.46,0.78,0.08,8,reviewed,pr,pr
 2023-11-13T10:42:30.400Z,58.2456666666667,-155.155166666667,3.12,-0.42,ml,7,81,,0.08,av,av91121408,2023-11-13T23:51:43.550Z,"Alaska Peninsula",earthquake,0.26,0.74,0.15398559660116,7,reviewed,av,av
 2023-11-13T10:39:36.690Z,19.3856658935547,-155.274993896484,0.479999989271164,1.93,ml,28,58,,0.280000001,hv,hv73646512,2023-11-13T10:45:06.750Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.200000003,0.28,9,automatic,hv,hv
-2023-11-13T10:21:21.470Z,38.8308334,-122.8161697,1.6,0.76,md,14,54,0.008823,0.02,nc,nc73962386,2023-11-13T12:42:10.739Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.66,0.18,15,automatic,nc,nc
