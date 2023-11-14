@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T17:40:47.230Z,38.8230019,-122.7659988,2,0.69,md,8,118,0.008061,0.01,nc,nc73962506,2023-11-13T17:51:10.407Z,"4 km W of Cobb, CA",earthquake,0.48,0.96,0.09,8,automatic,nc,nc
 2023-11-13T17:33:16.844Z,67.5206,-168.8944,9.93,3.3,mb_lg,45,245,2.007,1.09,us,us7000las6,2023-11-13T20:58:26.040Z,"Bering Strait",earthquake,8.05,9.086,0.18,8,reviewed,us,us
 2023-11-13T17:30:08.135Z,36.7396,-116.2963,7.5,-0.1,ml,14,81.44,0.019,0.0689,nn,nn00868855,2023-11-14T00:45:52.728Z,"California-Nevada border region",earthquake,,1.3,1.27,5,reviewed,nn,nn
-2023-11-13T17:28:44.890Z,40.2218323,-121.1558304,0.96,2.22,md,9,141,0.2401,0.18,nc,nc73962501,2023-11-13T20:02:11.128Z,"2 km N of Prattville, CA",earthquake,0.85,12.27,0.12,8,automatic,nc,nc
+2023-11-13T17:28:45.030Z,40.2103333,-121.1568333,3.18,2.31,md,31,51,0.03834,0.21,nc,nc73962501,2023-11-14T08:54:10.391Z,"0 km N of Prattville, CA",earthquake,0.29,0.71,0.207,35,reviewed,nc,nc
 2023-11-13T17:27:25.080Z,19.3923333333333,-155.252666666667,1.71,0.51,md,15,63,,0.09,hv,hv73646877,2023-11-13T19:50:56.340Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.35,0.0736855828890041,2,reviewed,hv,hv
 2023-11-13T17:26:41.790Z,58.23,-155.2505,3.21,-0.03,ml,9,91,,0.23,av,av91121468,2023-11-14T01:16:52.010Z,"Alaska Peninsula",earthquake,0.38,1.13,0.273448568424902,9,reviewed,av,av
 2023-11-13T17:20:06.670Z,35.6493333,-117.558,7.85,1.47,ml,28,83,0.0846,0.12,ci,ci39712578,2023-11-14T01:19:42.670Z,"11 km ENE of Ridgecrest, CA",earthquake,0.16,0.56,0.18,15,reviewed,ci,ci
@@ -213,7 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T09:02:35.114Z,59.9172,-140.7674,5.9,1.9,ml,,,,0.92,ak,ak023ekeqf4n,2023-11-13T09:05:12.857Z,"71 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-13T09:01:03.725Z,61.3868,-147.4233,33.6,1.1,ml,,,,0.12,ak,ak023ekeq4zo,2023-11-13T09:02:19.247Z,"48 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-13T09:00:32.500Z,61.1313333333333,-152.314833333333,6.72,-0.06,ml,6,152,,0.18,av,av91121403,2023-11-13T23:47:44.340Z,"63 km W of Tyonek, Alaska",earthquake,0.68,1.21,0.221387533825131,6,reviewed,av,av
-2023-11-13T08:58:11.960Z,32.3686667,-115.2293333,11.87,2.04,ml,22,51,0.08165,0.33,ci,ci39712410,2023-11-13T20:27:06.601Z,"4 km WNW of Delta, B.C., MX",earthquake,0.61,1.35,0.273,16,reviewed,ci,ci
-2023-11-13T08:54:05.807Z,62.6248,-150.9528,76.3,1.7,ml,,,,0.75,ak,ak023ekeg2hw,2023-11-13T08:57:31.657Z,"17 km NW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-13T08:52:18.630Z,61.9041666666667,-143.947166666667,0.14,0.03,ml,4,292,,0.17,av,av91121398,2023-11-13T23:34:01.770Z,"Southern Alaska",earthquake,0.99,1.21,0.206410912245326,4,reviewed,av,av
-2023-11-13T08:51:13.480Z,32.985,-115.5508333,6.31,1.14,ml,20,75,0.05919,0.2,ci,ci39712402,2023-11-13T20:43:13.088Z,"2 km WNW of Brawley, CA",earthquake,0.28,0.65,0.165,9,reviewed,ci,ci
