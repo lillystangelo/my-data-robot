@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T19:34:21.959Z,64.4544,-147.9176,6,1.4,ml,,,,0.38,ak,ak023envya2b,2023-11-15T19:35:55.126Z,"40 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-15T19:26:55.000Z,36.463501,-121.0381699,7,2.11,md,21,116,0.01795,0.11,nc,nc73963296,2023-11-15T19:31:09.999Z,"12 km SE of Pinnacles, CA",earthquake,0.31,0.63,0.17,17,automatic,nc,nc
 2023-11-15T19:24:33.850Z,36.4598351,-121.0426636,5.93,2.12,md,26,101,0.01315,0.22,nc,nc73963291,2023-11-15T19:31:10.117Z,"12 km SE of Pinnacles, CA",earthquake,0.46,0.96,0.15,23,automatic,nc,nc
-2023-11-15T19:20:45.540Z,36.4620018,-121.0373306,8.01,2.78,md,42,116,0.01794,0.11,nc,nc73963286,2023-11-15T19:28:09.979Z,"12 km SE of Pinnacles, CA",earthquake,0.27,0.53,0.13,58,automatic,nc,nc
+2023-11-15T19:20:45.540Z,36.4620018,-121.0373306,8.01,2.78,md,42,116,0.01794,0.11,nc,nc73963286,2023-11-15T21:48:10.732Z,"12 km SE of Pinnacles, CA",earthquake,0.27,0.53,0.13,58,automatic,nc,nc
 2023-11-15T19:18:48.939Z,31.61,-104.119,4.6491,1.7,ml(texnet),19,57,0,0.4,tx,tx2023wkmh,2023-11-15T20:06:44.833Z,"western Texas",earthquake,0,1.358225413,0.3,15,automatic,tx,tx
 2023-11-15T19:18:24.614Z,31.666,-103.95,3.6664,2,ml(texnet),7,233,0,0.4,tx,tx2023wkna,2023-11-15T19:49:40.641Z,"33 km W of Mentone, Texas",earthquake,0,3.553601579,0.6,5,automatic,tx,tx
 2023-11-15T19:09:00.330Z,38.8371658,-122.8018341,1.28,0.79,md,13,63,0.009059,0.03,nc,nc73963276,2023-11-15T19:20:10.936Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.52,0.12,14,automatic,nc,nc
@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T13:40:26.380Z,38.8381653,-122.8355026,0.92,1.21,md,23,55,0.0004233,0.06,nc,nc73963151,2023-11-15T16:00:09.811Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.35,0.14,25,automatic,nc,nc
 2023-11-15T13:29:47.780Z,40.0811653,-121.0199966,18.06,2.32,md,11,186,0.2025,0.26,nc,nc73963146,2023-11-15T15:33:10.771Z,"5 km NW of Indian Falls, CA",earthquake,1.77,2.23,0.16,9,automatic,nc,nc
 2023-11-15T13:09:22.873Z,62.2703,-151.092,74.4,1.6,ml,,,,0.46,ak,ak023ens8blr,2023-11-15T13:12:08.106Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-15T12:56:22.580Z,19.3656673431396,-155.08349609375,5.42000007629395,2.27,ml,42,130,,0.25,hv,hv73648837,2023-11-15T13:07:51.134Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.54,0.680000007,0.38,8,automatic,hv,hv
+2023-11-15T12:56:22.360Z,19.3468333333333,-155.074666666667,4.26,2.43,ml,46,177,,0.2,hv,hv73648837,2023-11-15T21:43:29.505Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.47,0.77,0.174679728942615,15,reviewed,hv,hv
 2023-11-15T12:43:11.711Z,61.6704,-148.2254,37.6,1.7,ml,,,,0.19,ak,ak023enru5hf,2023-11-15T12:44:24.536Z,"18 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-15T12:34:32.250Z,35.7398333,-117.5798333,12,1.14,ml,27,62,0.1125,0.14,ci,ci39713410,2023-11-15T16:45:52.054Z,"16 km NNE of Ridgecrest, CA",earthquake,0.24,0.59,0.108,11,reviewed,ci,ci
 2023-11-15T12:27:59.348Z,38.1827,-117.7969,11.6,1.8,ml,11,80.32,0.127,0.1799,nn,nn00868902,2023-11-15T17:07:05.358Z,"35 km SE of Mina, Nevada",earthquake,,1.5,0.3,7,reviewed,nn,nn
@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T11:16:30.896Z,37.012,-97.8428,5,2.7,ml,36,69,0.156,0.32,us,us6000lni4,2023-11-15T11:24:03.040Z,"7 km SSE of Bluff City, Kansas",earthquake,1.66,1.928,0.063,33,reviewed,us,us
 2023-11-15T11:12:57.600Z,46.11516666666667,-122.68466666666667,12.64,1.08,ml,22,55,0.05441,0.15,uw,uw61972276,2023-11-15T19:49:01.060Z,"17 km NE of Kalama, Washington",earthquake,0.34,0.73,0.06329830142859305,13,reviewed,uw,uw
 2023-11-15T10:58:32.905Z,31.1,-103.265,0.0902,3.5,ml(texnet),18,70,0,0.2,tx,tx2023wjvs,2023-11-15T18:45:05.190Z,"western Texas",earthquake,0.8790168247,0.9820288713,0.4,13,reviewed,tx,tx
-2023-11-15T10:41:55.840Z,41.241,-89.1766,4.589,3.6,mb_lg,64,28,0.69,0.39,us,us6000lnhy,2023-11-15T21:39:00.491Z,"1 km SSE of Standard, Illinois",earthquake,2.98,7.222,0.038,178,reviewed,us,us
+2023-11-15T10:41:55.840Z,41.241,-89.1766,4.589,3.6,mb_lg,64,28,0.69,0.39,us,us6000lnhy,2023-11-15T21:45:28.263Z,"1 km SSE of Standard, Illinois",earthquake,2.98,7.222,0.038,178,reviewed,us,us
 2023-11-15T10:39:31.180Z,33.014,-116.4295,6.27,1.04,ml,54,52,0.04496,0.19,ci,ci39713386,2023-11-15T16:36:01.937Z,"18 km ESE of Julian, CA",earthquake,0.19,0.41,0.139,17,reviewed,ci,ci
 2023-11-15T10:35:34.980Z,38.8256683,-122.8058319,1.32,0.28,md,11,73,0.004017,0.02,nc,nc73963121,2023-11-15T10:45:11.069Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.8,0.11,11,automatic,nc,nc
 2023-11-15T10:25:34.520Z,19.4009990692139,-155.276840209961,1.22000002861023,1.71000004,md,8,89,,0.100000001,hv,hv73648687,2023-11-15T10:28:38.080Z,"6 km SW of Volcano, Hawaii",earthquake,0.3,0.310000002,0.850000024,3,automatic,hv,hv
@@ -213,6 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T21:59:16.120Z,38.8175011,-122.82267,2.41,1.46,md,29,50,0.01001,0.03,nc,nc73962946,2023-11-14T22:23:10.611Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,27,automatic,nc,nc
 2023-11-14T21:52:54.337Z,36.7092,-116.076,2,0,ml,11,115.97,0.023,0.1011,nn,nn00868901,2023-11-15T02:57:14.192Z,"California-Nevada border region",earthquake,,1.5,0.1,4,reviewed,nn,nn
 2023-11-14T21:50:50.041Z,31.104,-103.76,4.5634,1.7,ml(texnet),10,82,0.2,0.2,tx,tx2023wivt,2023-11-15T16:07:25.666Z,"13 km N of Balmorhea, Texas",earthquake,1.171470812,2.5409309,0.2,9,reviewed,tx,tx
-2023-11-14T21:42:29.926Z,37.4891,72.2005,189.505,4.2,mb,31,85,2.01,0.59,us,us6000lnfp,2023-11-14T23:11:56.040Z,"57 km E of Khorugh, Tajikistan",earthquake,8.48,9.142,0.167,10,reviewed,us,us
-2023-11-14T21:40:37.800Z,19.3628330230713,-155.308502197266,1.10000002384186,1.71000004,md,9,121,,0.100000001,hv,hv73648082,2023-11-14T21:43:38.110Z,"11 km SW of Volcano, Hawaii",earthquake,0.32,0.460000008,0.810000002,9,automatic,hv,hv
-2023-11-14T21:40:16.750Z,58.1851666666667,-155.322833333333,0.55,0.29,ml,10,105,,0.07,av,av92118866,2023-11-14T22:59:43.620Z,"85 km NW of Karluk, Alaska",earthquake,0.16,0.78,0.245596954873216,10,reviewed,av,av
