@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-15T02:23:20.160Z,36.4606667,-121.0370026,7.43,2.17,md,28,116,0.01774,0.07,nc,nc73963021,2023-11-15T02:29:11.543Z,"12 km SE of Pinnacles, CA",earthquake,0.24,0.49,0.15,27,automatic,nc,nc
 2023-11-15T02:22:23.880Z,36.4641685,-121.0386658,8.28,2.77,md,47,117,0.01792,0.1,nc,nc73963016,2023-11-15T02:29:11.354Z,"12 km SE of Pinnacles, CA",earthquake,0.24,0.46,0.16,69,automatic,nc,nc
 2023-11-15T02:12:18.589Z,60.2375,-153.0847,143.6,2.3,ml,,,,0.65,ak,ak023enlp73z,2023-11-15T02:16:23.256Z,"68 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-15T01:57:29.240Z,19.4455,-155.864166666667,-2.47,2.5,ml,35,144,,0.27,hv,hv73648357,2023-11-15T02:32:30.900Z,"1 km S of Honaunau-Napoopoo, Hawaii",earthquake,0.84,0.24,0.234700459101175,12,reviewed,hv,hv
 2023-11-15T01:40:52.142Z,59.8322,-152.911,92.9,1.8,ml,,,,0.32,ak,ak023enl9tsu,2023-11-15T01:42:29.686Z,"60 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-15T01:38:38.150Z,19.2668333333333,-65.6238333333333,95.35,3.29,md,13,318,1.048,0.39,pr,pr71431443,2023-11-15T02:14:29.940Z,"95 km NNE of Suárez, Puerto Rico",earthquake,4.07,5.93,0.0372231352854442,9,reviewed,pr,pr
 2023-11-15T01:34:53.780Z,19.2870006561279,-155.369003295898,30.2600002288818,1.73000002,md,23,185,,0.109999999,hv,hv73648332,2023-11-15T01:37:55.810Z,"14 km NE of Pāhala, Hawaii",earthquake,0.74,0.879999995,0.74000001,3,automatic,hv,hv
@@ -248,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T03:17:38.554Z,60.1792,-152.9196,106.9,1.9,ml,,,,0.52,ak,ak023elyscve,2023-11-14T03:19:53.061Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-11-14T03:15:29.970Z,19.3853340148926,-155.248336791992,1.07000005245209,1.83,ml,15,78,,0.129999995,hv,hv73647282,2023-11-14T03:21:02.720Z,"6 km SSW of Volcano, Hawaii",earthquake,0.19,0.180000007,0.25,7,automatic,hv,hv
 2023-11-14T02:43:02.120Z,38.8311653,-122.8161697,2.21,0.82,md,8,118,0.009103,0.01,nc,nc73962681,2023-11-14T02:54:10.392Z,"8 km NW of The Geysers, CA",earthquake,0.45,0.98,0.36,8,automatic,nc,nc
-2023-11-14T02:33:05.190Z,48.788333333333334,-119.4225,6.81,1.34,ml,7,116,0.06736,0.34,uw,uw61972166,2023-11-14T17:02:05.360Z,"9 km N of Tonasket, Washington",earthquake,0.92,1.86,0.15031694582197885,5,reviewed,uw,uw
-2023-11-14T02:31:55.660Z,37.6171684,-121.7976685,11.05,1.54,md,17,77,0.0911,0.06,nc,nc73962671,2023-11-14T05:45:11.345Z,"8 km SSW of Livermore, CA",earthquake,0.24,0.75,0.21,11,automatic,nc,nc
-2023-11-14T02:31:44.258Z,31.553,-104.149,8.291,1.5,ml(texnet),17,69,0,0.2,tx,tx2023whjn,2023-11-14T21:52:44.748Z,"42 km NW of Toyah, Texas",earthquake,0.9379863793,0.7170012373,0.2,11,reviewed,tx,tx
