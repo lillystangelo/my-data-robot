@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-19T08:36:18.020Z,38.8376656,-122.807663,1.99,0.7,md,9,96,0.01355,0,nc,nc73964481,2023-11-19T08:37:53.855Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.82,0.13,10,automatic,nc,nc
+2023-11-19T08:36:18.020Z,38.8376656,-122.807663,1.99,0.7,md,9,96,0.01355,0,nc,nc73964481,2023-11-19T08:53:19.284Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.82,0.13,10,automatic,nc,nc
 2023-11-19T08:19:03.612Z,60.9011,-150.6751,33.1,2,ml,,,,0.68,ak,ak023eubgn89,2023-11-19T08:42:42.498Z,"2 km SSE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-19T08:00:09.060Z,35.4985,-118.3896667,8.53,1.26,ml,24,39,0.1778,0.12,ci,ci39715130,2023-11-19T08:06:21.204Z,"14 km SE of Bodfish, CA",earthquake,0.15,0.62,0.089,13,automatic,ci,ci
 2023-11-19T07:52:44.957Z,58.2771,-154.9964,6.3,0.9,ml,,,,0.47,ak,ak023eub2dgv,2023-11-19T07:55:16.853Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
