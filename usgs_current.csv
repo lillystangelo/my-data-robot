@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-21T14:48:52.540Z,34.8388329,-119.0476685,8.57,1.69,ml,22,122,0.08448,0.18,ci,ci39716066,2023-11-21T14:55:36.186Z,"9 km E of Pine Mountain Club, CA",earthquake,0.5,0.89,0.236,27,automatic,ci,ci
 2023-11-21T14:44:00.345Z,57.5613,-153.5046,86.2,2.3,ml,,,,0.64,ak,ak023exq9ahu,2023-11-21T14:46:00.029Z,"28 km E of Larsen Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-21T14:34:05.690Z,35.7538338,-121.2523346,5.73,1.88,md,25,180,0.1074,0.08,nc,nc73965321,2023-11-21T14:43:10.840Z,"14 km NNW of San Simeon, CA",earthquake,0.36,0.82,0.16,14,automatic,nc,nc
 2023-11-21T14:28:02.830Z,38.7869987,-122.7655029,1.96,0.75,md,7,158,0.01625,0.01,nc,nc73965316,2023-11-21T14:48:13.869Z,"1 km NW of The Geysers, CA",earthquake,0.69,1.71,0.26,8,automatic,nc,nc
