@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T08:02:33.570Z,38.8236656,-122.7945023,2.51,1.08,md,16,60,0.01217,0.02,nc,nc73965231,2023-11-21T08:14:10.515Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.6,0.14,17,automatic,nc,nc
 2023-11-21T08:01:57.770Z,38.8288345,-122.8150024,2.01,0.77,md,13,65,0.006657,0.02,nc,nc73965226,2023-11-21T08:11:11.498Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.66,0.15,14,automatic,nc,nc
 2023-11-21T07:35:35.005Z,60.9913,-152.3118,5.5,1.6,ml,,,,1.07,ak,ak023exm1eho,2023-11-21T07:37:10.227Z,"64 km W of Tyonek, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2023-11-21T07:30:17.320Z,38.8134995,-122.8161697,2.86,1.24,md,23,52,0.01097,0.02,nc,nc73965221,2023-11-21T07:40:10.331Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.44,0.18,24,automatic,nc,nc
+2023-11-21T07:30:17.320Z,38.8134995,-122.8161697,2.86,1.24,md,23,52,0.01097,0.02,nc,nc73965221,2023-11-21T08:36:11.650Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.44,0.18,24,automatic,nc,nc
 2023-11-21T07:26:23.270Z,37.6183319,-122.3844986,10.71,1.28,md,12,91,0.04577,0.11,nc,nc73965211,2023-11-21T08:24:14.578Z,"2 km N of Millbrae, CA",earthquake,0.55,1.01,,8,automatic,nc,nc
 2023-11-21T07:12:15.258Z,-0.5469,135.8335,17.067,5.3,mb,47,44,4.288,1.25,us,us6000lprg,2023-11-21T07:31:03.040Z,"69 km NNW of Insrom, Indonesia",earthquake,7.96,4.101,0.082,50,reviewed,us,us
 2023-11-21T07:10:15.685Z,-9.5805,148.633,10,5.5,mww,75,51,7.822,0.79,us,us6000lprf,2023-11-21T07:30:13.196Z,"100 km SSE of Popondetta, Papua New Guinea",earthquake,10.19,1.866,0.06,27,reviewed,us,us
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T08:50:03.201Z,31.672,-104.397,6.7486,3,ml(texnet),16,69,0,0.3,tx,tx2023wsuz,2023-11-20T15:15:29.153Z,"55 km S of Whites City, New Mexico",earthquake,1.075615579,0.9624256559,0.2,12,reviewed,tx,tx
 2023-11-20T08:48:32.920Z,31.674,-104.378,6.4915,1.2,ml(texnet),16,86,0,0.2,tx,tx2023wsuy,2023-11-20T20:05:50.475Z,"55 km S of Whites City, New Mexico",earthquake,0.8332517113,0.9618308096,0.1,7,reviewed,tx,tx
 2023-11-20T08:45:50.640Z,36.5486667,-120.7001667,6.66,2.09,md,39,73,0.1274,0.12,nc,nc73964901,2023-11-20T20:51:12.201Z,"15 km N of New Idria, CA",earthquake,0.34,0.43,0.214,45,reviewed,nc,nc
-2023-11-20T08:35:17.250Z,33.6911667,-116.7116667,15.29,0.57,ml,28,98,0.02006,0.09,ci,ci39715554,2023-11-20T14:13:24.466Z,"6 km S of Idyllwild, CA",earthquake,0.17,0.26,0.147,8,reviewed,ci,ci
