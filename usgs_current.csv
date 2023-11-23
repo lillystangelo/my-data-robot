@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-23T14:24:56.100Z,17.9465,-66.9316666666667,17.19,2.49,md,8,211,0.03367,0.09,pr,pr71431893,2023-11-23T14:37:23.430Z,"Puerto Rico region",earthquake,0.6,0.45,0.244110387966178,10,reviewed,pr,pr
 2023-11-23T13:59:44.280Z,45.665,-111.938166666667,2,2.09,ml,20,72,0.06744,0.1,mb,mb90033828,2023-11-23T14:27:03.040Z,"3 km WNW of Pony, Montana",earthquake,0.26,0.58,0.196802988118453,21,reviewed,mb,mb
 2023-11-23T13:36:34.910Z,32.827,-115.6048333,11.87,2.16,ml,55,40,0.06302,0.24,ci,ci39717058,2023-11-23T13:47:19.510Z,"4 km SW of Imperial, CA",earthquake,0.22,0.33,0.263,27,automatic,ci,ci
 2023-11-23T13:36:02.809Z,6.4842,126.0196,143.09,4.5,mb,21,127,0.728,0.72,us,us6000lq9h,2023-11-23T14:25:56.040Z,"Mindanao, Philippines",earthquake,12.71,10.661,0.128,18,reviewed,us,us
 2023-11-23T13:35:15.390Z,38.7886658,-122.7556686,2.28,0.81,md,13,79,0.01235,0.02,nc,nc73966351,2023-11-23T14:05:13.417Z,"1 km N of The Geysers, CA",earthquake,0.3,0.69,0.29,13,automatic,nc,nc
 2023-11-23T13:34:32.310Z,38.7888336,-122.7565002,1.77,0.85,md,16,128,0.01643,0.03,nc,nc73966346,2023-11-23T13:53:14.346Z,"1 km N of The Geysers, CA",earthquake,0.29,0.54,0.22,16,automatic,nc,nc
 2023-11-23T13:33:40.126Z,56.0118,111.373,10,4.4,mb,21,98,3.698,1.02,us,us6000lq9g,2023-11-23T14:20:05.040Z,"Lake Baykal region, Russia",earthquake,8.06,1.924,0.149,13,reviewed,us,us
+2023-11-23T13:17:42.860Z,17.9478333333333,-66.9286666666667,17.28,2.36,md,7,210,0.05427,0.11,pr,pr71431888,2023-11-23T14:34:32.800Z,"Puerto Rico region",earthquake,0.93,0.77,0.0615978247426114,6,reviewed,pr,pr
 2023-11-23T13:16:41.700Z,19.3150005340576,-155.356170654297,1.36000001430511,1.73000002,md,21,133,,0.109999999,hv,hv73658887,2023-11-23T13:19:52.860Z,"17 km NE of Pāhala, Hawaii",earthquake,0.55,0.670000017,0.629999995,6,automatic,hv,hv
 2023-11-23T13:11:13.570Z,62.9794,-149.3365,74.1,1.9,ml,,,,0.29,ak,ak023f10ji9p,2023-11-23T13:12:57.173Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-23T13:06:13.336Z,35.14231491,-97.55987549,3.675229073,1.72,ml,16,92.28140259,0.07581011951,0.389708952,ok,ok2023wypy,2023-11-23T13:39:33.030Z,"4 km NNE of Cole, Oklahoma",earthquake,2.916413997,2.266883923,0.3,9,automatic,ok,ok
@@ -166,5 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T14:53:08.823Z,61.2448,-150.479,43.4,1.8,ml,,,,0.56,ak,ak023ezdul36,2023-11-22T14:55:26.809Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-22T14:39:22.403Z,63.1103,-151.5264,0,1.9,ml,,,,0.64,ak,ak023ezdrm40,2023-11-22T14:42:06.837Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-22T14:38:39.170Z,31.607,-104.094,7.6226,2,ml(texnet),24,68,0,0.1,tx,tx2023wwxn,2023-11-22T15:06:03.544Z,"43 km NW of Toyah, Texas",earthquake,0.6519759599,0.5884231602,0.3,18,reviewed,tx,tx
-2023-11-22T14:34:25.170Z,34.042,-117.2568333,16.51,0.97,ml,40,52,0.09022,0.19,ci,ci39716570,2023-11-22T15:54:11.643Z,"1 km SSE of Loma Linda, CA",earthquake,0.23,0.53,0.251,23,reviewed,ci,ci
-2023-11-22T14:28:54.239Z,38.8847,-118.5853,8.4,1.4,ml,8,96.67,0.411,0.1358,nn,nn00869207,2023-11-23T00:26:15.947Z,"20 km ESE of Schurz, Nevada",earthquake,,2.9,0.16,3,reviewed,nn,nn
