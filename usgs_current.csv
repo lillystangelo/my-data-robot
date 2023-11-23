@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-23T11:22:42.320Z,17.9413333333333,-66.9363333333333,17.08,2.86,md,14,214,0.04046,0.15,pr,pr71431873,2023-11-23T11:33:55.450Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.51,0.48,0.131279473420524,8,reviewed,pr,pr
 2023-11-23T11:19:05.439Z,62.483,-151.6409,89.3,2,ml,,,,0.55,ak,ak023f0zec5r,2023-11-23T11:21:05.499Z,"45 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-23T11:16:39.290Z,37.4766655,-118.815834,2.89,1.02,md,14,231,0.1137,0.02,nc,nc73966331,2023-11-23T11:18:14.445Z,"15 km SW of Toms Place, CA",earthquake,1.34,2.48,0.11,13,automatic,nc,nc
+2023-11-23T11:16:39.290Z,37.4766655,-118.815834,2.89,1.02,md,14,231,0.1137,0.02,nc,nc73966331,2023-11-23T11:33:11.542Z,"15 km SW of Toms Place, CA",earthquake,1.34,2.48,0.11,13,automatic,nc,nc
+2023-11-23T11:09:59.404Z,38.8915,71.6646,44.631,4.7,mb,47,42,1.336,1.19,us,us6000lq8z,2023-11-23T11:25:22.040Z,"Afghanistan-Tajikistan border region",earthquake,5.87,3.851,0.092,36,reviewed,us,us
 2023-11-23T10:22:48.790Z,38.8083344,-122.8183365,2.97,0.94,md,21,57,0.008487,0.02,nc,nc73966326,2023-11-23T10:41:14.193Z,"6 km WNW of The Geysers, CA",earthquake,0.24,0.57,0.27,21,automatic,nc,nc
 2023-11-23T10:09:55.586Z,60.1666,-152.8484,116.8,2.1,ml,,,,0.56,ak,ak023f0yqv9i,2023-11-23T10:12:38.754Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-23T10:01:55.038Z,38.8767,71.7019,36.267,5.2,mb,96,41,1.363,1.33,us,us6000lq8w,2023-11-23T10:20:18.040Z,"Afghanistan-Tajikistan border region",earthquake,5.58,5.882,0.04,208,reviewed,us,us
@@ -180,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T11:49:57.928Z,-7.0188,150.7873,10,5,mb,43,152,11.013,0.55,us,us6000lq23,2023-11-22T12:06:37.040Z,"New Britain region, Papua New Guinea",earthquake,12.93,1.877,0.075,57,reviewed,us,us
 2023-11-22T11:43:19.670Z,19.3586673736572,-155.288162231445,1.78999996185303,1.70000005,md,17,65,,0.100000001,hv,hv73657622,2023-11-22T11:46:18.710Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.560000002,0.569999993,9,automatic,hv,hv
 2023-11-22T11:43:04.925Z,63.5342,-154.6684,0.1,1.9,ml,,,,0.89,ak,ak023ezc04t8,2023-11-22T11:55:08.952Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-22T11:27:33.679Z,62.3858,-149.8601,12.4,1.7,ml,,,,0.31,ak,ak023ezbwrkn,2023-11-22T11:29:10.269Z,"14 km ESE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-22T11:26:30.290Z,19.3843326568604,-155.267837524414,-1.05999994277954,2.01,ml,9,116,,0.140000001,hv,hv73657592,2023-11-22T11:32:02.580Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.649999976,2.29,10,automatic,hv,hv
-2023-11-22T11:26:29.000Z,19.3711666666667,-155.281833333333,1.77,2.33,ml,20,60,,0.09,hv,hv73657597,2023-11-22T17:22:40.080Z,"Hawaii region, Hawaii",earthquake,0.19,0.22,0.201017628387498,13,reviewed,hv,hv
