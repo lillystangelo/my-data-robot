@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-23T19:35:18.960Z,19.1573333740234,-155.498840332031,31.2700004577637,1.82000005,md,30,122,,0.109999999,hv,hv73659117,2023-11-23T19:38:27.060Z,"Hawaii region, Hawaii",earthquake,0.82,1.23000002,0.239999995,5,automatic,hv,hv
 2023-11-23T19:02:04.954Z,61.7112,-149.5713,35.7,1.6,ml,,,,0.43,ak,ak023f1425sf,2023-11-23T19:03:22.081Z,"9 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-23T18:47:11.710Z,17.76,-68.8138,74,3.94,md,16,219,0.8691,0.54,pr,pr2023327002,2023-11-23T19:07:17.777Z,"Dominican Republic region",earthquake,6.93,9.95,0.12,15,reviewed,pr,pr
 2023-11-23T18:21:08.980Z,35.663,-117.5313333,4.77,1.53,ml,30,57,0.08766,0.12,ci,ci39717106,2023-11-23T18:27:21.381Z,"14 km ENE of Ridgecrest, CA",earthquake,0.16,0.34,0.177,17,automatic,ci,ci
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T19:58:25.710Z,18.0151666666667,-66.7448333333333,15.01,2.45,md,13,165,0.04469,0.11,pr,pr71431798,2023-11-22T20:08:31.070Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.36,0.61,0.208110461341541,7,reviewed,pr,pr
 2023-11-22T19:56:29.710Z,34.9871667,-118.192,-0.93,1.14,ml,22,52,0.1122,0.22,ci,ci39716706,2023-11-22T21:16:57.133Z,"7 km SSW of Mojave, CA",quarry blast,0.44,31.61,0.076,14,reviewed,ci,ci
 2023-11-22T19:49:47.370Z,38.7804985,-122.7181702,1.93,1.05,md,11,157,0.01476,0.03,nc,nc73966026,2023-11-22T19:59:11.033Z,"2 km WNW of Anderson Springs, CA",earthquake,0.38,0.74,0.14,11,automatic,nc,nc
-2023-11-22T19:34:26.380Z,27.7096,85.118,10,3.8,mb,19,177,0.169,1.02,us,us6000lq54,2023-11-23T16:39:39.386Z,"Nepal",earthquake,8.1,1.836,0.146,12,reviewed,us,us
