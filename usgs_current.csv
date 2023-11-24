@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-24T11:31:21.343Z,38.267,-119.3494,2.1,1.7,ml,8,167.19,0.346,0.167,nn,nn00869245,2023-11-24T11:34:02.590Z,"Central California",earthquake,,1.8,0.13,3,automatic,nn,nn
+2023-11-24T11:19:04.917Z,31.736,-104.117,4.6274,2.7,ml(texnet),22,66,0,0.3,tx,tx2023xahx,2023-11-24T11:34:29.076Z,"western Texas",earthquake,0,1.125684,0.2,17,automatic,tx,tx
+2023-11-24T11:13:27.351Z,31.641,-104.016,6.3483,2.8,ml(texnet),22,43,0,0.3,tx,tx2023xaht,2023-11-24T11:34:14.826Z,"40 km W of Mentone, Texas",earthquake,0,2.1583295,0.2,18,automatic,tx,tx
 2023-11-24T11:00:31.090Z,20.1844,145.3878,10,5,mb,61,119,4.931,0.87,us,us6000lqg4,2023-11-24T11:26:18.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,12.02,1.883,0.043,174,reviewed,us,us
+2023-11-24T10:57:21.080Z,17.9465,-66.9255,16.32,,,7,210,0.05238,0.15,pr,pr71432023,2023-11-24T11:28:53.450Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.97,0.83,,,reviewed,pr,pr
 2023-11-24T10:56:48.170Z,17.9856666666667,-66.9285,9.58,1.87,md,5,183,0.1113,0.07,pr,pr71432008,2023-11-24T11:16:19.860Z,"1 km W of Fuig, Puerto Rico",earthquake,0.74,1.19,0.325509467077854,4,reviewed,pr,pr
 2023-11-24T10:50:57.580Z,38.769165,-122.7259979,0.73,1,md,8,111,0.007613,0.04,nc,nc73966746,2023-11-24T11:14:14.014Z,"3 km ESE of The Geysers, CA",earthquake,0.37,0.65,0.12,8,automatic,nc,nc
 2023-11-24T10:41:17.031Z,20.1012,145.5536,10,5.1,mb,59,79,4.839,0.95,us,us6000lqg3,2023-11-24T11:15:21.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,4.75,1.874,0.045,159,reviewed,us,us
@@ -23,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T09:05:03.163Z,20.1569,145.5491,16.033,6.9,mww,182,33,4.895,0.87,us,us6000lqf9,2023-11-24T11:15:15.764Z,"Maug Islands region, Northern Mariana Islands",earthquake,8.93,3.336,0.058,29,reviewed,us,us
 2023-11-24T08:56:54.809Z,-5.288,131.6627,48.799,4.6,mb,12,83,1.91,0.37,us,us6000lqf8,2023-11-24T10:31:10.040Z,"126 km WNW of Tual, Indonesia",earthquake,9.23,5.77,0.165,11,reviewed,us,us
 2023-11-24T08:47:06.600Z,34.0128333,-116.7365,15.92,1.14,ml,55,77,0.06325,0.18,ci,ci39717314,2023-11-24T08:53:26.562Z,"12 km NNE of Cabazon, CA",earthquake,0.17,0.44,0.163,27,automatic,ci,ci
-2023-11-24T08:45:36.970Z,36.2285004,-120.7910004,7.52,1.34,md,12,154,0.01506,0.02,nc,nc73966701,2023-11-24T11:14:14.181Z,"23 km ENE of San Lucas, CA",earthquake,0.35,0.33,0.4,7,automatic,nc,nc
+2023-11-24T08:45:36.970Z,36.2285004,-120.7910004,7.52,1.34,md,12,154,0.01506,0.02,nc,nc73966701,2023-11-24T11:33:11.141Z,"23 km ENE of San Lucas, CA",earthquake,0.35,0.33,0.4,7,automatic,nc,nc
 2023-11-24T08:36:56.040Z,33.596,-116.8076667,8,0.48,ml,22,71,0.03644,0.1,ci,ci39717298,2023-11-24T08:42:49.941Z,"13 km WNW of Anza, CA",earthquake,0.16,0.38,0.233,10,automatic,ci,ci
 2023-11-24T08:35:40.600Z,38.8294983,-122.8150024,2.39,0.62,md,11,57,0.007208,0.01,nc,nc73966696,2023-11-24T11:07:09.971Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.87,0.39,11,automatic,nc,nc
 2023-11-24T08:17:03.350Z,20.0875,-156.582333333333,-0.4,3.88,ml,69,175,,0.21,hv,hv73659637,2023-11-24T08:54:33.586Z,"64 km SSW of Mākena, Hawaii",earthquake,0.88,0.22,0.17648422942601,48,reviewed,hv,hv
