@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-25T22:27:31.310Z,33.1535,-115.9985,7.11,1.55,ml,48,45,0.02647,0.27,ci,ci39717938,2023-11-25T22:34:05.402Z,"12 km E of Ocotillo Wells, CA",earthquake,0.22,0.51,0.098,26,automatic,ci,ci
+2023-11-25T22:27:31.310Z,33.1535,-115.9985,7.11,1.55,ml,48,45,0.02647,0.27,ci,ci39717938,2023-11-25T22:38:27.250Z,"12 km E of Ocotillo Wells, CA",earthquake,0.22,0.51,0.098,26,automatic,ci,ci
 2023-11-25T22:15:26.757Z,31.648,-104.303,4.4143,1.7,ml(texnet),16,69,0.1,0.2,tx,tx2023xczc,2023-11-25T22:30:15.537Z,"58 km S of Whites City, New Mexico",earthquake,0,1.335527547,0.2,12,automatic,tx,tx
 2023-11-25T22:10:23.510Z,19.382999420166,-155.282669067383,1.25,1.78,ml,18,74,,0.0900000036,hv,hv73662977,2023-11-25T22:15:53.510Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.219999999,2.36,8,automatic,hv,hv
 2023-11-25T22:08:04.694Z,61.7885,-150.3189,32.1,1.4,ml,,,,0.19,ak,ak023f4gyfv9,2023-11-25T22:09:05.787Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T21:09:03.567Z,63.5526,-150.8324,0,1.3,ml,,,,0.82,ak,ak023f4gd7w4,2023-11-25T21:20:25.470Z,"44 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-25T21:06:52.536Z,61.6987,-151.6604,87.3,1.9,ml,,,,0.45,ak,ak023f4gcoi9,2023-11-25T21:10:04.195Z,"35 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-25T20:57:46.760Z,33.3375,-116.2443333,10.47,1.15,ml,37,213,0.1034,0.15,ci,ci39717914,2023-11-25T21:04:13.080Z,"15 km NE of Borrego Springs, CA",earthquake,0.85,0.53,0.145,24,automatic,ci,ci
+2023-11-25T20:54:06.738Z,20.0857,145.3867,10,4.9,mb,77,81,4.834,0.63,us,us6000lqrh,2023-11-25T22:43:31.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,10.96,1.882,0.053,111,reviewed,us,us
 2023-11-25T20:53:31.040Z,38.8201675,-122.7641678,1.94,1.06,md,16,117,0.01122,0.03,nc,nc73967346,2023-11-25T21:56:15.118Z,"4 km W of Cobb, CA",earthquake,0.28,0.45,0.07,16,automatic,nc,nc
 2023-11-25T20:43:47.936Z,62.6969,-149.4839,70.3,1.3,ml,,,,0.1,ak,ak023f4fz621,2023-11-25T20:45:46.731Z,"42 km NE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-25T20:36:12.463Z,62.9921,-150.6655,112.2,2.2,ml,,,,0.28,ak,ak023f4fxlb2,2023-11-25T20:38:42.652Z,"55 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -227,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T23:20:38.718Z,63.012,-150.4607,107.2,2.2,ml,,,,0.32,ak,ak023f2u3673,2023-11-24T23:33:38.040Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-24T23:15:41.155Z,56.3266,-149.1807,13.4,2.8,ml,,,,0.63,ak,ak023f2u2a9j,2023-11-25T04:13:56.277Z,"Gulf of Alaska",earthquake,,5.4,,,reviewed,ak,ak
 2023-11-24T23:13:50.408Z,58.8334,-154.4659,121.8,2.1,ml,,,,0.38,ak,ak023f2u1p34,2023-11-24T23:16:12.929Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
-2023-11-24T22:36:54.720Z,19.4805,-65.8866666666667,28.56,3.07,md,10,287,1.169,0.27,pr,pr71432058,2023-11-24T23:01:02.040Z,"Puerto Rico region",earthquake,1.56,20.47,0.0279580163694748,4,reviewed,pr,pr
-2023-11-24T22:35:35.312Z,36.8853,-116.2251,4.4,-0.1,ml,12,71.32,0.028,0.1168,nn,nn00869285,2023-11-25T01:24:40.286Z,"47 km E of Beatty, Nevada",earthquake,,2,0.3,8,reviewed,nn,nn
