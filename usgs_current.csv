@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T09:49:17.420Z,33.7528333,-116.9328333,17.61,0.83,ml,37,57,0.06601,0.18,ci,ci39718090,2023-11-26T09:55:43.902Z,"4 km E of Hemet, CA",earthquake,0.27,0.47,0.21,9,automatic,ci,ci
+2023-11-26T09:39:48.740Z,26.8766,126.9791,109.853,5.2,mww,107,46,1.156,0.75,us,us6000lquh,2023-11-26T09:57:09.067Z,"84 km WNW of Ie, Japan",earthquake,6.39,5.255,0.062,25,reviewed,us,us
 2023-11-26T09:36:49.400Z,32.7476667,-115.4181667,12.61,1.19,ml,20,78,0.06234,0.3,ci,ci39718082,2023-11-26T09:42:52.951Z,"8 km SSW of Holtville, CA",earthquake,0.58,1.17,0.115,8,automatic,ci,ci
 2023-11-26T09:27:18.646Z,59.9796,-153.5088,164.7,2.3,ml,,,,0.62,ak,ak023f5wv8wm,2023-11-26T09:34:19.040Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-26T09:20:52.340Z,19.246166229248,-155.397506713867,30.1200008392334,2.12,ml,43,134,,0.150000006,hv,hv73663592,2023-11-26T09:26:23.010Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.660000026,0.07,3,automatic,hv,hv
@@ -43,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T04:49:39.740Z,38.8400002,-122.8105011,2.02,0.7,md,8,130,0.01582,0.02,nc,nc73967506,2023-11-26T06:55:11.397Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.36,0.25,9,automatic,nc,nc
 2023-11-26T04:47:22.960Z,32.6408333,-115.7876667,8.42,1.33,ml,23,59,0.0524,0.22,ci,ci39718026,2023-11-26T04:53:21.416Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.32,0.67,0.27,15,automatic,ci,ci
 2023-11-26T04:43:09.380Z,35.7701667,-117.5793333,2.56,1.07,ml,28,66,0.1383,0.15,ci,ci39718018,2023-11-26T04:49:16.400Z,"16 km W of Searles Valley, CA",earthquake,0.2,0.76,0.203,8,automatic,ci,ci
-2023-11-26T04:31:10.049Z,24.0162,122.4825,22.862,4.9,mww,71,80,0.659,1.05,us,us6000lqt8,2023-11-26T05:47:44.744Z,"72 km SW of Yonakuni, Japan",earthquake,4.73,5.06,0.089,12,reviewed,us,us
+2023-11-26T04:31:10.049Z,24.0162,122.4825,22.862,4.9,mww,71,80,0.659,1.05,us,us6000lqt8,2023-11-26T09:57:33.778Z,"72 km SW of Yonakuni, Japan",earthquake,4.73,5.06,0.089,12,reviewed,us,us
 2023-11-26T04:30:20.928Z,60.3449,-150.4446,32.2,1.8,ml,,,,0.41,ak,ak023f5twqh8,2023-11-26T04:32:17.156Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T04:29:26.010Z,38.8398323,-122.8106689,1.98,1.27,md,21,54,0.01642,0.02,nc,nc73967496,2023-11-26T05:03:13.772Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.47,0.15,21,automatic,nc,nc
 2023-11-26T04:23:25.660Z,36.7658333,-121.303,4.15,0.84,md,11,183,0.01118,0.07,nc,nc73967491,2023-11-26T08:04:11.802Z,"3 km SSE of Tres Pinos, CA",earthquake,0.31,0.54,0.23,9,reviewed,nc,nc
@@ -212,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T10:13:57.230Z,17.9313333333333,-66.9373333333333,17.23,1.8,md,3,240,0.07033,0.03,pr,pr71432148,2023-11-25T12:46:53.750Z,"Puerto Rico region",earthquake,0.82,0.8,0.302583353517634,2,reviewed,pr,pr
 2023-11-25T10:13:10.730Z,17.9185,-66.8471666666667,15.52,1.98,md,7,225,0.06401,0.18,pr,pr71432143,2023-11-25T12:43:17.640Z,"Puerto Rico region",earthquake,1.44,0.96,0.267916617966661,6,reviewed,pr,pr
 2023-11-25T09:59:16.620Z,37.64,-118.8815,5.33,0.19,md,15,81,0.01294,0.08,nc,nc73967176,2023-11-26T05:28:10.913Z,"9 km E of Mammoth Lakes, CA",earthquake,0.29,0.78,0.203,14,reviewed,nc,nc
-2023-11-25T09:57:11.500Z,37.6431667,-118.8816667,4.86,-0.18,md,16,73,0.0121,0.1,nc,nc73967171,2023-11-26T04:28:45.249Z,"9 km E of Mammoth Lakes, CA",earthquake,0.31,0.75,0.144,16,reviewed,nc,nc
-2023-11-25T09:53:09.892Z,31.671,-104.419,7.1208,1.8,ml(texnet),16,87,0,0.4,tx,tx2023xcao,2023-11-25T10:41:30.411Z,"56 km S of Whites City, New Mexico",earthquake,0,2.502648286,0.2,12,automatic,tx,tx
-2023-11-25T09:52:09.210Z,17.938,-66.9283333333333,16.98,2.54,md,7,215,0.0595,0.08,pr,pr71432128,2023-11-25T10:08:47.920Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.59,0.62,0.263840012116207,7,reviewed,pr,pr
