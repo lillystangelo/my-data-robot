@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-26T21:46:27.570Z,38.8230019,-122.7665024,2.07,1.27,md,24,115,0.00792,0.02,nc,nc73967946,2023-11-26T21:48:02.920Z,"4 km W of Cobb, CA",earthquake,0.26,0.4,0.2,24,automatic,nc,nc
-2023-11-26T21:43:14.610Z,38.791832,-122.8058319,3.23,1.28,md,28,81,0.004113,0.03,nc,nc73967941,2023-11-26T21:45:58.150Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.46,0.21,29,automatic,nc,nc
+2023-11-26T21:47:34.650Z,33.097,-116.6196667,10.13,1.08,ml,49,53,0.02449,0.2,ci,ci39718178,2023-11-26T21:53:59.946Z,"3 km NW of Julian, CA",earthquake,0.2,0.4,0.102,18,automatic,ci,ci
+2023-11-26T21:46:27.570Z,38.8230019,-122.7665024,2.07,1.27,md,24,115,0.00792,0.02,nc,nc73967946,2023-11-26T21:56:10.617Z,"4 km W of Cobb, CA",earthquake,0.26,0.4,0.2,24,automatic,nc,nc
+2023-11-26T21:43:14.610Z,38.791832,-122.8058319,3.23,1.28,md,28,81,0.004113,0.03,nc,nc73967941,2023-11-26T21:52:10.728Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.46,0.21,29,automatic,nc,nc
 2023-11-26T21:35:46.230Z,38.7924995,-122.8063354,3.35,0.56,md,13,87,0.004887,0.02,nc,nc73967936,2023-11-26T21:48:10.573Z,"5 km WNW of The Geysers, CA",earthquake,0.38,1.28,0.27,13,automatic,nc,nc
 2023-11-26T21:35:13.069Z,31.701,-104.178,4.4591,1.7,ml(texnet),17,89,0.1,0.3,tx,tx2023xetg,2023-11-26T21:48:23.854Z,"54 km W of Mentone, Texas",earthquake,0,1.307440406,0.3,12,automatic,tx,tx
 2023-11-26T21:35:04.070Z,38.7898331,-122.8028336,4.63,0.29,md,6,148,0.001516,0.01,nc,nc73967931,2023-11-26T21:44:10.552Z,"4 km WNW of The Geysers, CA",earthquake,1.33,3.44,0.06,8,automatic,nc,nc
@@ -8,10 +9,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T21:02:38.980Z,38.8318329,-122.8141632,1.55,0.72,md,15,50,0.009011,0.01,nc,nc73967921,2023-11-26T21:49:11.577Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.68,0.07,16,automatic,nc,nc
 2023-11-26T20:58:34.110Z,38.7911682,-122.8066635,3.16,0.99,md,27,81,0.01479,0.02,nc,nc73967916,2023-11-26T21:39:12.523Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.53,0.22,28,automatic,nc,nc
 2023-11-26T20:58:19.590Z,38.791832,-122.8061676,3.09,1.44,md,29,81,0.004256,0.02,nc,nc73967911,2023-11-26T21:29:13.468Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.44,0.23,28,automatic,nc,nc
+2023-11-26T20:49:16.990Z,18.5318,-68.7406,113,3.97,md,15,159,0.3596,0.25,pr,pr2023330004,2023-11-26T21:50:46.243Z,"9 km SSW of Salvaleón de Higüey, Dominican Republic",earthquake,3.27,0.96,0.06,7,reviewed,pr,pr
 2023-11-26T20:44:32.311Z,-24.0211,-67.0562,172.918,5,mb,48,55,1.482,1,us,us6000lqx4,2023-11-26T20:58:41.040Z,"78 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.72,6.606,0.04,194,reviewed,us,us
 2023-11-26T20:42:42.790Z,33.8985,-117.0411667,14.85,1.09,ml,44,36,0.1414,0.16,ci,ci39718162,2023-11-26T20:49:18.545Z,"7 km WSW of Beaumont, CA",earthquake,0.16,0.37,0.193,28,automatic,ci,ci
 2023-11-26T20:19:39.490Z,38.7911682,-122.8063354,2.89,1.33,md,29,81,0.003817,0.05,nc,nc73967901,2023-11-26T21:16:12.399Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.45,0.16,27,automatic,nc,nc
-2023-11-26T20:16:21.527Z,59.8489,-152.3857,96.2,2,ml,,,,0.52,ak,ak023f63co6g,2023-11-26T20:18:32.734Z,"32 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-11-26T20:16:21.527Z,59.8489,-152.3857,96.2,2,ml,,,,0.52,ak,ak023f63co6g,2023-11-26T20:18:32.734Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T20:14:05.640Z,38.8358345,-122.8541641,-0.38,0.37,md,7,155,0.01484,0.04,nc,nc73967891,2023-11-26T20:54:14.272Z,"11 km NW of The Geysers, CA",earthquake,0.47,1.86,0.22,8,automatic,nc,nc
 2023-11-26T20:07:37.490Z,38.8465004,-122.8151703,1.41,1.05,md,17,54,0.01035,0.02,nc,nc73967886,2023-11-26T20:32:11.143Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.56,0.37,17,automatic,nc,nc
 2023-11-26T20:06:28.605Z,-1.7573,139.0702,23.208,4.5,mb,16,145,1.797,0.96,us,us6000lqwz,2023-11-26T20:24:56.040Z,"near the north coast of Papua, Indonesia",earthquake,8.11,8.378,0.139,15,reviewed,us,us
