@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T10:10:53.000Z,38.8303337,-122.7958298,2.32,0.74,md,9,53,0.009131,0.03,nc,nc73967591,2023-11-26T10:12:28.290Z,"6 km W of Cobb, CA",earthquake,0.51,1.25,0.2,10,automatic,nc,nc
 2023-11-26T09:49:17.420Z,33.7528333,-116.9328333,17.61,0.83,ml,37,57,0.06601,0.18,ci,ci39718090,2023-11-26T09:55:43.902Z,"4 km E of Hemet, CA",earthquake,0.27,0.47,0.21,9,automatic,ci,ci
-2023-11-26T09:39:48.740Z,26.8766,126.9791,109.853,5.2,mww,107,46,1.156,0.75,us,us6000lquh,2023-11-26T09:57:09.067Z,"84 km WNW of Ie, Japan",earthquake,6.39,5.255,0.062,25,reviewed,us,us
+2023-11-26T09:39:48.735Z,26.8824,126.9829,109.963,5.2,mww,109,47,1.153,0.72,us,us6000lquh,2023-11-26T10:11:59.247Z,"84 km WNW of Ie, Japan",earthquake,6.02,4.965,0.06,27,reviewed,us,us
 2023-11-26T09:36:49.400Z,32.7476667,-115.4181667,12.61,1.19,ml,20,78,0.06234,0.3,ci,ci39718082,2023-11-26T09:42:52.951Z,"8 km SSW of Holtville, CA",earthquake,0.58,1.17,0.115,8,automatic,ci,ci
 2023-11-26T09:27:18.646Z,59.9796,-153.5088,164.7,2.3,ml,,,,0.62,ak,ak023f5wv8wm,2023-11-26T09:34:19.040Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-26T09:20:52.340Z,19.246166229248,-155.397506713867,30.1200008392334,2.12,ml,43,134,,0.150000006,hv,hv73663592,2023-11-26T09:26:23.010Z,"Island of Hawaii, Hawaii",earthquake,0.51,0.660000026,0.07,3,automatic,hv,hv
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T08:17:12.020Z,31.614,-104.179,4.9151,2.6,ml(texnet),18,66,0.1,0.3,tx,tx2023xdsx,2023-11-26T08:38:16.038Z,"49 km NW of Toyah, Texas",earthquake,0,1.270533099,0.2,14,automatic,tx,tx
 2023-11-26T08:15:44.321Z,63.1673,-150.012,85,1.5,ml,,,,0.52,ak,ak023f5w7ayo,2023-11-26T08:17:35.051Z,"58 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-11-26T07:56:04.210Z,33.1583333,-116.4638333,7.02,0.99,ml,35,97,0.08363,0.19,ci,ci39718050,2023-11-26T08:02:22.703Z,"14 km SW of Borrego Springs, CA",earthquake,0.22,0.54,0.201,9,automatic,ci,ci
-2023-11-26T07:44:12.090Z,38.8153343,-122.8205032,2.87,1.01,md,18,51,0.009361,0.02,nc,nc73967556,2023-11-26T08:15:12.884Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.73,0.34,18,automatic,nc,nc
+2023-11-26T07:44:12.090Z,38.8153343,-122.8205032,2.87,1.01,md,18,51,0.009361,0.02,nc,nc73967556,2023-11-26T10:14:10.545Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.73,0.34,18,automatic,nc,nc
 2023-11-26T07:21:20.706Z,34.3371,-81.3191,0.946,2.1,mb_lg,17,55,0.074,0.47,us,us6000lqtx,2023-11-26T07:35:20.040Z,"8 km NNW of Jenkinsville, South Carolina",earthquake,0.84,3.894,0.295,3,reviewed,us,us
 2023-11-26T07:17:06.390Z,38.8241653,-122.8518295,2.34,0.43,md,9,112,0.005187,0.01,nc,nc73967541,2023-11-26T09:34:14.341Z,"10 km WNW of The Geysers, CA",earthquake,0.37,1.12,0.29,8,automatic,nc,nc
 2023-11-26T07:10:37.690Z,19.7043,-64.5406,39,3.6,md,12,308,1.4144,0.44,pr,pr2023330002,2023-11-26T07:44:01.478Z,"Virgin Islands",earthquake,3.52,26.71,0.11,4,reviewed,pr,pr
@@ -154,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T16:10:29.264Z,62.9887,-151.7538,20.4,1.6,ml,,,,0.94,ak,ak023f4debke,2023-11-25T16:12:42.469Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-25T16:08:21.434Z,65.147,-146.037,8.6,1.8,ml,,,,0.54,ak,ak023f4ddvj3,2023-11-25T16:10:15.521Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-25T16:07:58.760Z,19.3578338623047,-155.285507202148,2.29999995231628,1.75999999,md,16,123,,0.170000002,hv,hv73662392,2023-11-25T16:13:29.910Z,"10 km SSW of Volcano, Hawaii",earthquake,0.41,0.550000012,0.409999996,13,automatic,hv,hv
-2023-11-25T15:34:49.350Z,17.9511666666667,-66.9285,16.66,2.42,md,15,207,0.02819,0.23,pr,pr71432163,2023-11-25T16:56:24.950Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.78,0.55,0.274382686385752,10,reviewed,pr,pr
+2023-11-25T15:34:49.350Z,17.9511666666667,-66.9285,16.66,2.42,md,15,207,0.02819,0.23,pr,pr71432163,2023-11-25T16:56:24.950Z,"Puerto Rico region",earthquake,0.78,0.55,0.274382686385752,10,reviewed,pr,pr
 2023-11-25T15:28:14.750Z,36.662,-121.2911667,3.14,1.08,md,18,180,0.05027,0.08,nc,nc73967266,2023-11-25T22:33:15.311Z,"14 km S of Tres Pinos, CA",earthquake,0.38,0.77,0.313,19,reviewed,nc,nc
 2023-11-25T15:28:04.900Z,19.367166519165,-155.283493041992,2.28999996185303,1.78,ml,20,62,,0.100000001,hv,hv73662297,2023-11-25T15:33:36.040Z,"9 km SSW of Volcano, Hawaii",earthquake,0.26,0.360000014,2.55,6,automatic,hv,hv
 2023-11-25T15:20:27.599Z,20.0901,145.4134,10,4.8,mb,26,130,4.836,0.66,us,us6000lqpy,2023-11-25T15:57:29.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,5.1,1.887,0.098,32,reviewed,us,us
@@ -210,7 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T10:45:03.125Z,60.3493,-152.7793,125.8,2.5,ml,,,,0.6,ak,ak023f4a15x3,2023-11-25T11:24:07.040Z,"70 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-25T10:39:03.199Z,31.673,-104.181,5.0035,1.8,ml(texnet),19,103,0.1,0.5,tx,tx2023xccc,2023-11-25T11:08:24.533Z,"54 km NW of Toyah, Texas",earthquake,0,3.211314827,0.2,15,automatic,tx,tx
 2023-11-25T10:25:23.490Z,38.7916679,-122.8066635,3.37,1.01,md,13,95,0.004361,0.02,nc,nc73967181,2023-11-25T12:37:13.743Z,"5 km WNW of The Geysers, CA",earthquake,0.42,1.04,0.25,16,automatic,nc,nc
-2023-11-25T10:16:20.681Z,60.1822,-141.2718,16.4,1.4,ml,,,,0.75,ak,ak023f49uzkk,2023-11-25T10:18:15.815Z,"111 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-25T10:13:57.230Z,17.9313333333333,-66.9373333333333,17.23,1.8,md,3,240,0.07033,0.03,pr,pr71432148,2023-11-25T12:46:53.750Z,"Puerto Rico region",earthquake,0.82,0.8,0.302583353517634,2,reviewed,pr,pr
-2023-11-25T10:13:10.730Z,17.9185,-66.8471666666667,15.52,1.98,md,7,225,0.06401,0.18,pr,pr71432143,2023-11-25T12:43:17.640Z,"Puerto Rico region",earthquake,1.44,0.96,0.267916617966661,6,reviewed,pr,pr
-2023-11-25T09:59:16.620Z,37.64,-118.8815,5.33,0.19,md,15,81,0.01294,0.08,nc,nc73967176,2023-11-26T05:28:10.913Z,"9 km E of Mammoth Lakes, CA",earthquake,0.29,0.78,0.203,14,reviewed,nc,nc
