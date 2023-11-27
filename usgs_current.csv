@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-27T20:27:35.690Z,35.9243317,-119.9141693,-0.33,1.64,md,6,194,0.3214,0.12,nc,nc73968681,2023-11-27T20:35:11.175Z,"10 km SSE of Kettleman City, CA",earthquake,2.72,8.92,,1,automatic,nc,nc
+2023-11-27T20:46:00.670Z,19.2988338470459,-155.380340576172,2.26999998092651,2.51,ml,41,113,,0.189999998,hv,hv73664987,2023-11-27T20:51:30.530Z,"14 km NE of Pāhala, Hawaii",earthquake,0.35,0.610000014,2.93,24,automatic,hv,hv
+2023-11-27T20:27:35.690Z,35.9243317,-119.9141693,-0.33,1.64,md,6,194,0.3214,0.12,nc,nc73968681,2023-11-27T20:45:15.243Z,"10 km SSE of Kettleman City, CA",earthquake,2.72,8.92,,1,automatic,nc,nc
 2023-11-27T20:02:38.076Z,36.7388,-116.1598,4.5,0.5,ml,12,44.11,0.03,0.075,nn,nn00869360,2023-11-27T20:04:25.725Z,"Nevada",earthquake,,0.7,0.33,5,automatic,nn,nn
 2023-11-27T19:55:04.730Z,38.8349991,-122.8355026,1.69,0.74,md,16,68,0.003585,0.05,nc,nc73968661,2023-11-27T20:04:10.979Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.47,0.14,17,automatic,nc,nc
 2023-11-27T19:27:33.301Z,63.0568,-150.2917,86.8,1.9,ml,,,,0.34,ak,ak023f7qcyuq,2023-11-27T19:29:42.856Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T21:02:38.980Z,38.8318329,-122.8141632,1.55,0.72,md,15,50,0.009011,0.01,nc,nc73967921,2023-11-26T21:49:11.577Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.68,0.07,16,automatic,nc,nc
 2023-11-26T20:58:34.110Z,38.7911682,-122.8066635,3.16,0.99,md,27,81,0.01479,0.02,nc,nc73967916,2023-11-26T21:39:12.523Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.53,0.22,28,automatic,nc,nc
 2023-11-26T20:58:19.590Z,38.791832,-122.8061676,3.09,1.44,md,29,81,0.004256,0.02,nc,nc73967911,2023-11-27T00:29:19.501Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.44,0.23,28,automatic,nc,nc
-2023-11-26T20:49:16.990Z,18.5318,-68.7406,113,3.97,md,15,159,0.3596,0.25,pr,pr2023330004,2023-11-27T18:57:45.040Z,"9 km SSW of Salvaleón de Higüey, Dominican Republic",earthquake,3.27,0.96,0.06,7,reviewed,pr,pr
-2023-11-26T20:44:32.311Z,-24.0211,-67.0562,172.918,5,mb,48,55,1.482,1,us,us6000lqx4,2023-11-26T20:58:41.040Z,"78 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.72,6.606,0.04,194,reviewed,us,us
