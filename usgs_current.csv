@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T11:26:36.340Z,19.3034992218018,-155.384002685547,2.59999990463257,1.88,ml,35,122,,0.200000003,hv,hv73664672,2023-11-27T11:32:07.150Z,"14 km NE of Pāhala, Hawaii",earthquake,0.42,0.689999998,0.32,5,automatic,hv,hv
 2023-11-27T10:51:02.412Z,63.8807,-151.7755,7.6,2,ml,,,,0.68,ak,ak023f7l557l,2023-11-27T10:53:27.710Z,"26 km E of Lake Minchumina, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-11-27T10:44:09.061Z,44.4757,149.1178,49.099,4.7,mb,57,137,4.698,0.66,us,us6000lr12,2023-11-27T10:59:58.040Z,"Kuril Islands",earthquake,9.23,6.282,0.048,131,reviewed,us,us
-2023-11-27T10:37:40.590Z,35.5239983,-118.3831635,4.38,3.47,ml,84,21,0.157,0.19,ci,ci39718330,2023-11-27T12:26:42.980Z,"12 km SE of Bodfish, CA",earthquake,0.17,0.83,0.246,18,reviewed,ci,ci
+2023-11-27T10:37:40.590Z,35.5239983,-118.3831635,4.38,3.47,ml,84,21,0.157,0.19,ci,ci39718330,2023-11-27T13:44:29.675Z,"12 km SE of Bodfish, CA",earthquake,0.17,0.83,0.246,18,reviewed,ci,ci
 2023-11-27T10:33:31.290Z,33.525,-116.5285,12.57,0.63,ml,36,68,0.03248,0.14,ci,ci39718322,2023-11-27T10:39:41.230Z,"14 km ESE of Anza, CA",earthquake,0.2,0.3,0.193,14,automatic,ci,ci
 2023-11-27T10:20:36.920Z,18.9983,-64.9958,27,3.57,md,12,285,0.6458,0.29,pr,pr2023331000,2023-11-27T11:45:16.040Z,"72 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.69,19.41,0.14,4,reviewed,pr,pr
 2023-11-27T10:10:58.108Z,31.668,-104.193,4.2154,1.5,ml(texnet),19,70,0.1,0.2,tx,tx2023xfsf,2023-11-27T11:02:38.369Z,"western Texas",earthquake,0,1.178020892,0.2,15,automatic,tx,tx
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T13:54:03.150Z,1.6265,127.5614,120.637,4.3,mb,14,186,0.871,0.82,us,us6000lqvf,2023-11-26T17:47:37.040Z,"51 km WSW of Tobelo, Indonesia",earthquake,13.42,9.407,0.189,8,reviewed,us,us
 2023-11-26T13:53:52.710Z,38.8423347,-122.8421631,1.74,1.09,md,16,121,0.006417,0.02,nc,nc73967676,2023-11-26T14:20:12.924Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.4,0.15,19,automatic,nc,nc
 2023-11-26T13:53:36.700Z,38.8423347,-122.841835,1.78,1.06,md,20,91,0.00621,0.02,nc,nc73967671,2023-11-26T16:31:13.753Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.39,0.14,21,automatic,nc,nc
-2023-11-26T13:43:00.340Z,37.1423333,-121.53,8.11,1.06,md,29,35,0.0722,0.12,nc,nc73967666,2023-11-26T20:43:12.204Z,"10 km NE of San Martin, CA",earthquake,0.26,0.78,0.191,24,reviewed,nc,nc
