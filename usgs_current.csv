@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T13:53:52.710Z,38.8423347,-122.8421631,1.74,1.09,md,16,121,0.006417,0.02,nc,nc73967676,2023-11-26T14:20:12.924Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.4,0.15,19,automatic,nc,nc
 2023-11-26T13:53:36.700Z,38.8423347,-122.841835,1.78,1.06,md,20,91,0.00621,0.02,nc,nc73967671,2023-11-26T16:31:13.753Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.39,0.14,21,automatic,nc,nc
 2023-11-26T13:43:00.340Z,37.1423333,-121.53,8.11,1.06,md,29,35,0.0722,0.12,nc,nc73967666,2023-11-26T20:43:12.204Z,"10 km NE of San Martin, CA",earthquake,0.26,0.78,0.191,24,reviewed,nc,nc
-2023-11-26T13:33:30.872Z,-21.4607,-68.867,97.544,4.9,mb,55,50,0.712,0.99,us,us6000lqvd,2023-11-26T21:02:52.784Z,"Chile-Bolivia border region",earthquake,4.95,5.516,0.048,134,reviewed,us,us
