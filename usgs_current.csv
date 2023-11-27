@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-27T23:11:57.580Z,19.2950000762939,-155.386840820312,1.96000003814697,2.21000004,md,32,113,,0.180000007,hv,hv73665127,2023-11-27T23:15:11.150Z,"14 km NE of Pāhala, Hawaii",earthquake,0.37,0.639999986,0.600000024,23,automatic,hv,hv
+2023-11-27T23:11:57.580Z,19.2950000762939,-155.386840820312,1.96000003814697,2.09,ml,32,113,,0.180000007,hv,hv73665127,2023-11-27T23:17:27.720Z,"14 km NE of Pāhala, Hawaii",earthquake,0.37,0.639999986,0.29,8,automatic,hv,hv
 2023-11-27T23:10:51.020Z,18.691499710083,-156.242172241211,4.78999996185303,3.4,ml,16,332,,0.180000007,hv,hv73665122,2023-11-27T23:16:22.870Z,"65 km SW of Hawaiian Ocean View, Hawaii",earthquake,9.76,12.6400003,0.29,8,automatic,hv,hv
 2023-11-27T22:55:23.788Z,-59.3972,-25.8722,47.808,4.9,mb,38,92,18.793,0.6,us,us7000le7g,2023-11-27T23:11:01.040Z,"South Sandwich Islands region",earthquake,13.24,7.998,0.082,47,reviewed,us,us
 2023-11-27T22:54:12.963Z,60.2432,-143.3104,1.1,1.7,ml,,,,1.12,ak,ak023f7sb0fk,2023-11-27T22:56:39.142Z,"134 km S of McCarthy, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -12,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T22:02:50.010Z,38.7913322,-122.7358322,1.43,1.03,md,14,92,0.008113,0.03,nc,nc73968751,2023-11-27T22:10:10.782Z,"2 km NE of The Geysers, CA",earthquake,0.25,0.81,0.08,14,automatic,nc,nc
 2023-11-27T21:57:39.780Z,38.8364983,-122.7991638,2.01,1.06,md,15,66,0.007147,0.02,nc,nc73968746,2023-11-27T22:54:15.067Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.7,0.28,15,automatic,nc,nc
 2023-11-27T21:46:43.171Z,-3.5615,144.0199,12.332,6.5,mww,93,32,3.472,1.09,us,us7000le6w,2023-11-27T22:32:23.231Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,3.49,4.35,0.093,11,reviewed,us,us
+2023-11-27T21:41:37.755Z,2.3823,128.4274,228.631,4.4,mb,25,111,1.919,0.66,us,us7000le6v,2023-11-27T23:18:48.040Z,"85 km NNE of Tobelo, Indonesia",earthquake,9.84,4.321,0.126,18,reviewed,us,us
 2023-11-27T21:33:06.960Z,33.5048333,-116.5656667,12.46,0.55,ml,21,113,0.03216,0.13,ci,ci39718618,2023-11-27T22:19:10.906Z,"12 km ESE of Anza, CA",earthquake,0.28,0.39,0.133,9,reviewed,ci,ci
 2023-11-27T21:30:31.080Z,44.2931666666667,-115.106166666667,5.01,1.06,ml,6,126,0.2642,0.06,mb,mb90034023,2023-11-27T23:01:53.470Z,"15 km WNW of Stanley, Idaho",earthquake,0.41,31.61,0.268302316067376,7,reviewed,mb,mb
 2023-11-27T21:30:15.723Z,58.2575,-155.0157,0,0.4,ml,,,,1.2,ak,ak023f7rkfus,2023-11-27T21:31:59.832Z,"83 km NNW of Karluk, Alaska",earthquake,,28.5,,,automatic,ak,ak
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T00:04:00.190Z,34.669,-96.13083333,4.82,1.72,ml,48,163,0.4103194813,0.21,ok,ok2023xeyd,2023-11-27T20:27:55.568Z,"9 km W of Wardville, Oklahoma",earthquake,,1.5,0.27,18,reviewed,ok,ok
 2023-11-26T23:47:13.190Z,17.9838333333333,-66.8306666666667,14.99,2.46,md,8,186,0.04707,0.12,pr,pr71432313,2023-11-27T00:19:42.430Z,"1 km SW of Indios, Puerto Rico",earthquake,0.7,0.86,0.0412035994720803,4,reviewed,pr,pr
 2023-11-26T23:30:57.910Z,33.2638333,-116.439,4.1,2,ml,84,17,0.01881,0.17,ci,ci39718210,2023-11-27T22:12:48.620Z,"6 km W of Borrego Springs, CA",earthquake,0.11,0.3,0.199,26,reviewed,ci,ci
-2023-11-26T23:21:46.240Z,38.7923317,-122.8061676,3.28,0.75,md,13,87,0.004675,0.02,nc,nc73968031,2023-11-27T01:56:14.019Z,"5 km WNW of The Geysers, CA",earthquake,0.37,1.29,0.23,14,automatic,nc,nc
-2023-11-26T23:16:51.180Z,46.42216666666667,-122.3205,16.77,1.49,ml,60,57,0.1012,0.18,uw,uw61973876,2023-11-27T05:34:26.860Z,"15 km SSW of Morton, Washington",earthquake,0.25,0.42,0.17330382743036554,32,reviewed,uw,uw
