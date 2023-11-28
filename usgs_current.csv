@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-28T18:38:09.190Z,32.9728317,-116.3583298,8.86,1.98,ml,66,47,0.04398,0.22,ci,ci39719018,2023-11-28T18:40:39.407Z,"23 km NE of Pine Valley, CA",earthquake,0.23,0.56,0.305,26,automatic,ci,ci
-2023-11-28T18:25:13.540Z,38.8190002,-122.7881699,1.25,1.08,md,20,42,0.008189,0.03,nc,nc73969111,2023-11-28T18:35:11.206Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.37,0.06,20,automatic,nc,nc
+2023-11-28T18:38:09.140Z,32.9756667,-116.3583333,8.09,1.67,ml,69,51,0.04414,0.19,ci,ci39719018,2023-11-28T18:48:47.580Z,"23 km NE of Pine Valley, CA",earthquake,0.14,0.39,0.167,26,automatic,ci,ci
+2023-11-28T18:25:13.540Z,38.8190002,-122.7881699,1.25,1.08,md,20,42,0.008189,0.03,nc,nc73969111,2023-11-28T18:50:14.293Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.37,0.06,20,automatic,nc,nc
 2023-11-28T18:21:23.220Z,38.8308334,-122.814003,2.27,1.08,md,23,44,0.008037,0.02,nc,nc73969106,2023-11-28T18:38:13.221Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.48,0.11,23,automatic,nc,nc
 2023-11-28T18:04:15.500Z,37.8866653,-122.2186661,7.38,1.37,md,17,57,0.01697,0.04,nc,nc73969096,2023-11-28T18:25:16.147Z,"4 km WNW of Orinda, CA",earthquake,0.22,0.31,0.19,15,automatic,nc,nc
 2023-11-28T17:57:52.460Z,38.8199997,-122.7645035,2.31,1.04,md,14,115,0.01128,0.02,nc,nc73969086,2023-11-28T18:14:14.077Z,"4 km W of Cobb, CA",earthquake,0.3,0.77,0.24,14,automatic,nc,nc
 2023-11-28T17:45:08.098Z,62.3639,-147.6902,47.6,1.6,ml,,,,0.64,ak,ak023f9ct92x,2023-11-28T17:48:51.015Z,"54 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T17:39:06.013Z,31.613,-104.381,4.3701,1.6,ml(texnet),17,86,0.1,0.3,tx,tx2023xicl,2023-11-28T18:23:20.767Z,"62 km S of Whites City, New Mexico",earthquake,0,1.442094344,0.1,13,automatic,tx,tx
-2023-11-28T17:38:27.370Z,34.0238333,-116.888,2.24,0.96,ml,30,86,0.06757,0.19,ci,ci39718962,2023-11-28T17:44:42.931Z,"11 km N of Banning, CA",earthquake,0.2,0.35,0.158,18,automatic,ci,ci
+2023-11-28T17:38:27.430Z,34.0261667,-116.89,1.44,0.89,ml,19,88,0.06887,0.22,ci,ci39718962,2023-11-28T18:41:30.368Z,"11 km N of Banning, CA",earthquake,0.27,0.47,0.117,14,reviewed,ci,ci
 2023-11-28T17:23:23.850Z,38.8283348,-122.8535004,1.72,1.04,md,18,90,0.01534,0.02,nc,nc73969081,2023-11-28T17:49:14.891Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.46,0.13,21,automatic,nc,nc
 2023-11-28T17:22:36.360Z,38.7926674,-122.8081665,3.54,0.4,md,9,135,0.005887,0.02,nc,nc73969076,2023-11-28T17:39:15.827Z,"5 km WNW of The Geysers, CA",earthquake,0.55,1.72,0.13,9,automatic,nc,nc
 2023-11-28T17:01:55.570Z,36.1036667,-117.8616667,7.76,1.47,ml,23,85,0.01494,0.15,ci,ci39718922,2023-11-28T17:07:57.914Z,"10 km NE of Coso Junction, CA",earthquake,0.2,0.37,0.238,10,automatic,ci,ci
@@ -196,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T19:07:05.436Z,31.679,-104.425,7.0571,2.5,ml(texnet),15,66,0,0.2,tx,tx2023xgjw,2023-11-27T22:31:17.838Z,"western Texas",earthquake,1.113560183,0.7736938475,0.1,8,reviewed,tx,tx
 2023-11-27T19:05:53.786Z,31.681,-104.414,6.1701,2.8,ml(texnet),29,71,0,0.2,tx,tx2023xgju,2023-11-27T22:36:44.872Z,"western Texas",earthquake,0.5721661165,0.4661925466,0.1,9,reviewed,tx,tx
 2023-11-27T19:00:01.690Z,19.1426658630371,-155.510498046875,31.7700004577637,1.92999995,md,37,149,,0.140000001,hv,hv73664907,2023-11-27T19:03:08.440Z,"Hawaii region, Hawaii",earthquake,0.62,1.08000004,1.09000003,15,automatic,hv,hv
-2023-11-27T18:41:51.270Z,33.8221667,-117.4855,2.23,1.31,ml,42,49,0.03404,0.17,ci,ci39718530,2023-11-27T18:49:03.336Z,"7 km SSE of Home Gardens, CA",earthquake,0.19,0.24,0.184,30,automatic,ci,ci
-2023-11-27T18:41:40.500Z,33.32,-116.3401667,8.2,1.2,ml,53,48,0.02356,0.25,ci,ci39718522,2023-11-27T18:47:54.272Z,"8 km NNE of Borrego Springs, CA",earthquake,0.26,0.59,0.136,25,automatic,ci,ci
