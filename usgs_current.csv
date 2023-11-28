@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T14:12:25.170Z,38.8176651,-122.8221664,2.02,1.66,md,32,48,0.01035,0.03,nc,nc73968426,2023-11-27T15:43:15.430Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.29,0.12,35,automatic,nc,nc
 2023-11-27T14:04:17.876Z,62.4588,-147.8308,41.5,1.7,ml,,,,0.99,ak,ak023f7n8u63,2023-11-27T14:06:51.026Z,"67 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-27T13:58:54.070Z,35.825,-117.6616667,3.65,1.19,ml,21,62,0.08548,0.19,ci,ci39718378,2023-11-27T14:04:41.198Z,"23 km N of Ridgecrest, CA",earthquake,0.26,0.73,0.133,7,automatic,ci,ci
-2023-11-27T13:49:54.260Z,38.4905,-112.8426667,0.29,0.56,md,11,97,0.009701,0.05,uu,uu60555237,2023-11-27T14:19:27.270Z,"17 km NE of Milford, Utah",earthquake,0.41,1.26,0.031,2,reviewed,uu,uu
-2023-11-27T13:47:08.910Z,38.4856667,-112.8433333,-0.15,0.64,md,12,103,0.01019,0.1,uu,uu60555232,2023-11-27T14:26:10.240Z,"17 km NE of Milford, Utah",earthquake,0.4,0.16,0.101,2,reviewed,uu,uu
