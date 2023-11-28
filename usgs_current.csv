@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-28T22:44:14.446Z,64.6692,-149.1227,14.6,1,ml,,,,0.39,ak,ak023f9fs7tn,2023-11-28T22:46:14.533Z,"7 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-28T22:24:12.880Z,32.7648333,-116.8945,3.14,1.46,ml,28,85,0.1005,0.19,ci,ci39719234,2023-11-28T22:30:40.042Z,"4 km ENE of Rancho San Diego, CA",earthquake,0.28,0.63,0.217,11,automatic,ci,ci
 2023-11-28T22:23:39.639Z,38.6669,-117.0904,0.2,1.6,ml,9,214.5,0.875,0.2679,nn,nn00869431,2023-11-28T22:26:27.154Z,"Nevada",earthquake,,6.9,0.43,5,automatic,nn,nn
+2023-11-28T22:22:04.250Z,-17.9884,-178.5101,579.274,4.5,mb,76,49,4.334,0.64,us,us7000leer,2023-11-28T22:45:37.040Z,"Fiji region",earthquake,9.28,6.257,0.071,59,reviewed,us,us
 2023-11-28T22:19:09.450Z,38.831501,-122.819664,1.83,0.76,md,11,96,0.01103,0.01,nc,nc73969221,2023-11-28T22:29:11.681Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.84,0.13,12,automatic,nc,nc
 2023-11-28T22:15:08.570Z,62.7173,-150.628,73.3,1.5,ml,,,,0.73,ak,ak023f9flznt,2023-11-28T22:17:03.983Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T22:07:34.010Z,33.62,-116.6745,13.99,1.03,ml,27,64,0.04878,0.1,ci,ci39719210,2023-11-28T22:14:16.240Z,"7 km N of Anza, CA",earthquake,0.29,0.77,0.181,27,automatic,ci,ci
@@ -199,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T23:10:50.600Z,18.6561666666667,-156.309333333333,42.28,2.32,md,38,313,,0.25,hv,hv73665122,2023-11-28T00:54:09.040Z,"73 km SW of Hawaiian Ocean View, Hawaii",earthquake,1.17,2.41,0.0873302186595326,18,reviewed,hv,hv
 2023-11-27T22:55:23.788Z,-59.3972,-25.8722,47.808,4.9,mb,38,92,18.793,0.6,us,us7000le7g,2023-11-27T23:11:01.040Z,"South Sandwich Islands region",earthquake,13.24,7.998,0.082,47,reviewed,us,us
 2023-11-27T22:54:12.963Z,60.2432,-143.3104,1.1,1.7,ml,,,,1.12,ak,ak023f7sb0fk,2023-11-27T22:56:39.142Z,"134 km S of McCarthy, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-27T22:47:46.594Z,64.6628,-149.3576,19.1,1.5,ml,,,,0.31,ak,ak023f7s9l0h,2023-11-27T23:00:09.693Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
