@@ -171,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T20:05:54.260Z,35.8295,-117.6655,6.27,1.58,ml,26,62,0.08343,0.15,ci,ci39719082,2023-11-28T22:49:38.782Z,"23 km N of Ridgecrest, CA",earthquake,0.24,0.6,0.108,18,reviewed,ci,ci
 2023-11-28T19:55:27.010Z,38.444,-122.2405,5.82,1.6,md,29,48,0.01059,0.16,nc,nc73969176,2023-11-29T01:29:14.749Z,"12 km ENE of Yountville, CA",earthquake,0.33,0.5,0.217,21,reviewed,nc,nc
 2023-11-28T19:45:49.650Z,38.8330002,-122.8164978,1.91,0.71,md,7,144,0.01082,0.01,nc,nc73969171,2023-11-28T19:58:10.692Z,"8 km NW of The Geysers, CA",earthquake,0.5,1.27,0.05,8,automatic,nc,nc
-2023-11-28T19:41:37.805Z,36.9828,-116.1924,2.8,0.2,ml,10,94.07,0.019,0.1585,nn,nn00869440,2023-11-29T01:16:50.342Z,"51 km E of Beatty, Nevada",earthquake,,1.7,0.39,5,reviewed,nn,nn
