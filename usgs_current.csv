@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-30T11:38:25.047Z,62.2743,-151.6825,0,1.8,ml,,,,0.75,ak,ak023fck9vqg,2023-11-30T11:40:06.365Z,"34 km NNW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-30T11:37:53.970Z,33.6295,-116.9006667,16.04,0.73,ml,35,40,0.04411,0.15,ci,ci39720202,2023-11-30T11:43:52.956Z,"13 km S of Valle Vista, CA",earthquake,0.22,0.37,0.123,9,automatic,ci,ci
 2023-11-30T11:11:31.790Z,34.0341667,-118.3466667,3.38,1.11,ml,19,56,0.03841,0.18,ci,ci39720194,2023-11-30T11:17:53.426Z,"4 km NE of Baldwin Hills, CA",earthquake,0.37,0.54,0.384,13,automatic,ci,ci
 2023-11-30T10:31:30.852Z,31.615,-103.985,4.9412,2,ml(texnet),16,49,0,0.3,tx,tx2023xlfj,2023-11-30T10:55:36.822Z,"western Texas",earthquake,0,1.145356698,0.2,12,automatic,tx,tx
 2023-11-30T10:25:50.930Z,34.1391667,-116.965,2.28,0.86,ml,41,56,0.05152,0.14,ci,ci39720186,2023-11-30T10:32:03.446Z,"13 km SSW of Big Bear Lake, CA",earthquake,0.15,0.23,0.13,17,automatic,ci,ci
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T08:22:05.421Z,35.08296967,-97.60626221,0.07371547818,1.83,ml,10,56.74085999,0.070220083,0.9262834633,ok,ok2023xlbc,2023-11-30T08:25:00.125Z,"Oklahoma",earthquake,3.889721032,2.890305134,0.38,4,automatic,ok,ok
 2023-11-30T08:16:07.758Z,37.1499,-116.2983,12.9,0,ml,10,91.26,0.066,0.2002,nn,nn00869489,2023-11-30T08:18:21.146Z,"Nevada",earthquake,,1.2,1.12,7,automatic,nn,nn
 2023-11-30T08:10:54.711Z,59.8495,-152.1885,64.2,2.1,ml,,,,0.6,ak,ak023fcibn5r,2023-11-30T08:14:09.709Z,"21 km WNW of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-30T08:07:39.967Z,64.9783,-147.4835,0,1.5,ml,,,,0.61,ak,ak023fciayvg,2023-11-30T08:09:41.811Z,"6 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-30T08:07:39.967Z,64.9783,-147.4835,0,1.5,ml,,,,0.61,ak,ak023fciayvg,2023-11-30T08:09:41.811Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-30T07:57:43.830Z,36.1936667,-118.496,7.56,1.35,ml,19,94,0.1536,0.17,ci,ci39720146,2023-11-30T08:03:53.196Z,"45 km WSW of Olancha, CA",earthquake,0.26,1.43,0.179,11,automatic,ci,ci
 2023-11-30T07:54:57.914Z,-56.295,-27.3689,98.586,5.8,mww,78,41,16.94,0.84,us,us7000leqe,2023-11-30T09:58:48.323Z,"South Sandwich Islands region",earthquake,10.55,6.195,0.093,11,reviewed,us,us
 2023-11-30T07:50:33.106Z,61.6786,-151.4521,81.3,1.9,ml,,,,0.51,ak,ak023fchyqbs,2023-11-30T07:54:00.328Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -157,5 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T12:16:28.610Z,58.3071666666667,-154.867666666667,23.63,0.3,ml,7,217,,0.21,av,av91122863,2023-11-30T03:06:16.480Z,"Alaska Peninsula",earthquake,0.89,0.99,0.373634407008173,7,reviewed,av,av
 2023-11-29T12:10:40.129Z,60.1926,-152.7661,108.9,1.7,ml,,,,0.48,ak,ak023fax5zyk,2023-11-29T12:13:04.756Z,"63 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-29T12:06:44.410Z,35.8793333,-117.6831667,5.25,0.92,ml,22,99,0.09693,0.14,ci,ci39719514,2023-11-29T14:44:55.145Z,"21 km ESE of Little Lake, CA",earthquake,0.23,0.76,0.113,8,reviewed,ci,ci
-2023-11-29T11:47:05.988Z,37.9891,-116.9157,7.6,1.5,ml,15,165.88,0.257,0.135,nn,nn00869453,2023-11-29T18:17:57.436Z,"28 km ESE of Tonopah, Nevada",earthquake,,2.6,0.27,7,reviewed,nn,nn
-2023-11-29T11:46:10.600Z,35.2051667,-118.6688333,6.93,1.15,ml,34,55,0.03057,0.15,ci,ci39719498,2023-11-29T22:13:23.705Z,"14 km E of Arvin, CA",earthquake,0.19,0.37,0.197,17,reviewed,ci,ci
