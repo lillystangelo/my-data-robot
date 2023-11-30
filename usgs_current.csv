@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-30T21:17:40.080Z,33.658165,-116.7616653,15.73,1.09,ml,21,111,0.06434,0.12,ci,ci39720450,2023-11-30T21:19:54.713Z,"10 km SSW of Idyllwild, CA",earthquake,0.44,0.82,0.248,5,automatic,ci,ci
-2023-11-30T21:05:34.210Z,37.7579994,-122.5623322,8.89,2.18,md,32,97,0.0786,0.06,nc,nc73970116,2023-11-30T21:12:10.009Z,"6 km WNW of San Francisco Zoo, CA",earthquake,0.23,0.61,0.14,33,automatic,nc,nc
+2023-11-30T21:25:37.990Z,33.6588326,-116.7648315,15.71,1.11,ml,27,100,0.06498,0.12,ci,ci39720458,2023-11-30T21:27:54.848Z,"10 km SSW of Idyllwild, CA",earthquake,0.36,0.62,0.32,10,automatic,ci,ci
+2023-11-30T21:21:55.983Z,61.6378,-146.3435,27.2,2,ml,,,,0.69,ak,ak023fcq4mzy,2023-11-30T21:23:54.840Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-11-30T21:17:40.090Z,33.6525,-116.7663333,15.48,0.67,ml,24,110,0.05869,0.1,ci,ci39720450,2023-11-30T21:24:04.764Z,"11 km SSW of Idyllwild, CA",earthquake,0.21,0.32,0.133,14,automatic,ci,ci
+2023-11-30T21:05:34.210Z,37.7579994,-122.5623322,8.89,2.18,md,32,97,0.0786,0.06,nc,nc73970116,2023-11-30T21:23:21.076Z,"6 km WNW of San Francisco Zoo, CA",earthquake,0.23,0.61,0.14,33,automatic,nc,nc
 2023-11-30T21:04:24.770Z,35.512,-118.4018333,5.55,1.4,ml,27,40,0.1615,0.15,ci,ci39720442,2023-11-30T21:10:54.644Z,"12 km SE of Bodfish, CA",earthquake,0.17,0.96,0.138,16,automatic,ci,ci
 2023-11-30T20:44:43.748Z,60.9911,-141.1979,16.3,1.5,ml,,,,0.15,ak,ak023fcpo3x2,2023-11-30T20:47:30.753Z,"104 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-30T20:42:26.120Z,31.605,-104.564,4.5993,1.6,ml,7,171,0.1,0.6,tx,tx2023xlzn,2023-11-30T21:03:32.537Z,"western Texas",earthquake,0,2.571508715,0.2,7,automatic,tx,tx
-2023-11-30T20:38:13.760Z,35.5898333,-117.5415,7.3,1.24,ml,19,90,0.06472,0.15,ci,ci39720418,2023-11-30T20:44:39.435Z,"13 km ESE of Ridgecrest, CA",earthquake,0.25,0.61,0.215,11,automatic,ci,ci
+2023-11-30T20:42:26.238Z,31.608,-104.56,4.6173,1.6,ml,13,170,0.1,0.5,tx,tx2023xlzn,2023-11-30T21:26:20.661Z,"western Texas",earthquake,0,2.150333747,0.2,9,automatic,tx,tx
+2023-11-30T20:38:13.720Z,35.593,-117.5423333,7.31,1.12,ml,14,90,0.06563,0.12,ci,ci39720418,2023-11-30T21:28:55.867Z,"12 km ESE of Ridgecrest, CA",earthquake,0.29,0.63,0.163,10,reviewed,ci,ci
 2023-11-30T20:36:30.746Z,28.468,104.7573,40.245,4.3,mb,37,133,4.51,0.57,us,us7000ley0,2023-11-30T21:16:51.040Z,"4 km ENE of Xunchang, China",earthquake,3.9,8.108,0.106,25,reviewed,us,us
 2023-11-30T20:36:29.430Z,38.8455009,-122.838501,1.89,0.71,md,10,136,0.007292,0.01,nc,nc73970106,2023-11-30T21:01:15.066Z,"10 km WNW of Cobb, CA",earthquake,0.39,0.75,0.29,10,automatic,nc,nc
 2023-11-30T20:35:56.890Z,34.0778333,-117.1295,9.17,0.79,ml,32,71,0.0386,0.17,ci,ci39720410,2023-11-30T20:42:05.834Z,"1 km NNE of Mentone, CA",earthquake,0.19,0.5,0.152,13,automatic,ci,ci
@@ -225,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T21:43:51.083Z,36.8595,-116.2428,3.8,0.4,ml,22,63.72,0.043,0.136,nn,nn00869467,2023-11-29T22:10:06.853Z,"46 km E of Beatty, Nevada",earthquake,,1.5,0.22,8,reviewed,nn,nn
 2023-11-29T21:42:46.840Z,61.2803333333333,-152.260666666667,3.51,0.6,ml,8,109,,0.16,av,av91122898,2023-11-30T19:59:52.030Z,"Southern Alaska",earthquake,0.59,0.74,0.18959686032638,8,reviewed,av,av
 2023-11-29T21:34:09.908Z,62.3527,-149.8079,7.4,1.7,ml,,,,0.78,ak,ak023fb2nz9a,2023-11-29T21:36:50.673Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-29T21:26:13.530Z,28.926,-98.137,0.0245,2.4,ml(texnet),17,80,0.1,0.2,tx,tx2023xkfl,2023-11-30T12:05:09.267Z,"13 km WSW of Falls City, Texas",earthquake,1.196257562,2.086939294,0,14,reviewed,tx,tx
