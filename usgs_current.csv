@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T11:06:23.230Z,33.7705,-117.8668333,13.15,1.34,ml,36,81,0.02592,0.22,ci,ci39720810,2023-12-01T11:12:56.739Z,"4 km NNE of Santa Ana, CA",earthquake,0.33,0.44,0.343,28,automatic,ci,ci
 2023-12-01T10:37:14.740Z,32.7401667,-115.8701667,2.52,1.92,ml,48,37,0.1023,0.26,ci,ci39720802,2023-12-01T10:48:25.690Z,"12 km E of Ocotillo, CA",earthquake,0.21,0.39,0.246,26,automatic,ci,ci
 2023-12-01T10:34:04.070Z,32.7415,-115.869,2.33,1.58,ml,37,44,0.1039,0.23,ci,ci39720794,2023-12-01T10:40:21.449Z,"12 km E of Ocotillo, CA",earthquake,0.2,0.38,0.237,27,automatic,ci,ci
+2023-12-01T10:30:44.014Z,34.5119,23.8181,10,4.3,mb,55,178,1.173,0.72,us,us7000lf2n,2023-12-01T11:20:13.040Z,"43 km SW of Kastrí, Greece",earthquake,6.22,1.866,0.08,47,reviewed,us,us
 2023-12-01T10:16:44.390Z,33.6995,-116.7111667,17.54,0.77,ml,41,37,0.0119,0.12,ci,ci39720786,2023-12-01T10:22:59.601Z,"5 km S of Idyllwild, CA",earthquake,0.15,0.25,0.155,15,automatic,ci,ci
 2023-12-01T10:03:49.390Z,33.3483333,-116.3615,11.52,0.8,ml,46,39,0.02206,0.19,ci,ci39720778,2023-12-01T10:10:06.569Z,"10 km N of Borrego Springs, CA",earthquake,0.23,0.53,0.148,12,automatic,ci,ci
 2023-12-01T09:34:35.594Z,62.9589,-150.3482,67.6,1.5,ml,,,,0.96,ak,ak023fe6liyv,2023-12-01T09:37:20.230Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T08:02:47.940Z,32.7686667,-115.8598333,2.48,2.64,ml,60,28,0.1318,0.24,ci,ci39720714,2023-12-01T10:59:50.120Z,"13 km ENE of Ocotillo, CA",earthquake,0.18,0.37,0.199,27,automatic,ci,ci
 2023-12-01T08:00:27.440Z,18.9538333333333,-64.9205,25.3,3.33,md,16,253,0.5992,0.28,pr,pr71432728,2023-12-01T08:39:09.040Z,"67 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.12,17.35,0.122101537758754,12,reviewed,pr,pr
 2023-12-01T07:44:12.130Z,17.9513333333333,-66.8503333333333,12.62,2.23,md,3,225,0.03626,0.16,pr,pr71432748,2023-12-01T08:28:04.150Z,"Puerto Rico",earthquake,3.55,0.79,0.0592714420314446,3,reviewed,pr,pr
-2023-12-01T07:43:27.580Z,32.7495003,-115.8694992,9.6,4.77,mw,104,29,0.111,0.29,ci,ci39720706,2023-12-01T11:02:04.352Z,"12 km E of Ocotillo, CA",earthquake,0.25,0.71,,6,reviewed,ci,ci
+2023-12-01T07:43:27.580Z,32.7495003,-115.8694992,9.6,4.77,mw,104,29,0.111,0.29,ci,ci39720706,2023-12-01T11:25:02.451Z,"12 km E of Ocotillo, CA",earthquake,0.25,0.71,,6,reviewed,ci,ci
 2023-12-01T07:40:37.012Z,31.613,-104.396,3.9784,1.6,ml,17,90,0.1,0.2,tx,tx2023xmvf,2023-12-01T07:59:17.070Z,"62 km S of Whites City, New Mexico",earthquake,0,1.39405695,0.1,13,automatic,tx,tx
 2023-12-01T07:35:43.550Z,32.7518349,-115.8730011,8.91,3.33,ml,93,29,0.112,0.28,ci,ci39720698,2023-12-01T08:33:19.083Z,"11 km E of Ocotillo, CA",earthquake,0.24,0.82,0.278,17,reviewed,ci,ci
 2023-12-01T07:33:53.100Z,35.8288345,-119.9564972,9.47,2.44,md,33,82,0.1463,0.2,nc,nc73970291,2023-12-01T10:04:14.586Z,"20 km S of Kettleman City, CA",earthquake,0.37,1.12,0.15,30,automatic,nc,nc
@@ -63,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T05:37:17.232Z,61.5291,-147.3877,20,1.8,ml,,,,0.73,ak,ak023fe48ea3,2023-12-01T05:39:07.620Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-01T05:31:37.650Z,38.8226662,-122.807663,2.61,1.06,md,21,38,0.002019,0.03,nc,nc73970261,2023-12-01T05:48:13.052Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.62,0.16,22,automatic,nc,nc
 2023-12-01T05:11:41.550Z,34.0505,-116.7886667,13.54,1.12,ml,44,81,0.02205,0.17,ci,ci39720626,2023-12-01T05:18:07.248Z,"15 km N of Cabazon, CA",earthquake,0.17,0.36,0.154,26,automatic,ci,ci
-2023-12-01T04:56:52.480Z,33.695,-115.952,2.61,2.74,ml,66,62,0.05086,0.16,ci,ci39720618,2023-12-01T08:10:12.059Z,"18 km NE of Mecca, CA",earthquake,0.13,0.25,0.121,26,automatic,ci,ci
+2023-12-01T04:56:52.480Z,33.695,-115.952,2.61,2.74,ml,66,62,0.05086,0.16,ci,ci39720618,2023-12-01T11:23:43.506Z,"18 km NE of Mecca, CA",earthquake,0.13,0.25,0.121,26,automatic,ci,ci
 2023-12-01T04:53:34.990Z,38.8300018,-122.8150024,2.32,0.67,md,10,63,0.007638,0.01,nc,nc73970241,2023-12-01T05:10:11.818Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.21,0.42,11,automatic,nc,nc
 2023-12-01T04:42:32.740Z,33.5815,-116.7233333,15.86,0.48,ml,26,60,0.01984,0.13,ci,ci39720610,2023-12-01T04:48:19.871Z,"6 km WNW of Anza, CA",earthquake,0.21,0.35,0.145,10,automatic,ci,ci
 2023-12-01T04:33:34.640Z,33.5675,-116.7111667,14.68,0.46,ml,31,41,0.02192,0.11,ci,ci39720602,2023-12-01T04:39:44.009Z,"4 km WNW of Anza, CA",earthquake,0.15,0.28,0.138,11,automatic,ci,ci
@@ -244,6 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T11:38:25.047Z,62.2743,-151.6825,0,1.8,ml,,,,0.75,ak,ak023fck9vqg,2023-11-30T11:40:06.365Z,"34 km NNW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-30T11:37:53.970Z,33.6295,-116.9006667,16.04,0.73,ml,35,40,0.04411,0.15,ci,ci39720202,2023-11-30T14:50:15.446Z,"13 km S of Valle Vista, CA",earthquake,0.22,0.37,0.123,9,reviewed,ci,ci
 2023-11-30T11:36:26.090Z,51.4421666666667,-178.952,12.72,3.22,ml,14,297,,0.22,av,av92139011,2023-12-01T06:36:26.797Z,"167 km WSW of Adak, Alaska",earthquake,1.14,0.82,0.267233357147972,14,reviewed,av,av
-2023-11-30T11:25:40.081Z,40.3064,105.9088,10,4.7,mb,65,61,4.68,0.54,us,us7000lerp,2023-11-30T11:57:48.040Z,"103 km NW of Wuhai, China",earthquake,9.29,1.899,0.076,52,reviewed,us,us
-2023-11-30T11:24:00.464Z,55.4669,-156.2399,4.9,2.7,ml,,,,0.98,ak,ak023fck6vac,2023-11-30T17:22:31.503Z,"163 km SE of Chignik, Alaska",earthquake,,5.1,,,reviewed,ak,ak
-2023-11-30T11:23:02.323Z,31.519,-104.008,7.674,1.7,ml(texnet),14,64,0,0.1,tx,tx2023xlhb,2023-11-30T14:08:32.671Z,"western Texas",earthquake,0.9118418394,0.6058359178,0.1,12,reviewed,tx,tx
