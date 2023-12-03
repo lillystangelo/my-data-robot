@@ -292,5 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T07:47:06.290Z,38.7893333,-122.7730026,2.01,1.08,md,16,80,0.01227,0.02,nc,nc73970676,2023-12-02T07:56:10.343Z,"2 km NW of The Geysers, CA",earthquake,0.27,0.51,0.25,17,automatic,nc,nc
 2023-12-02T07:42:01.040Z,32.7386667,-115.8785,4.34,1.44,ml,35,42,0.0981,0.22,ci,ci39721402,2023-12-02T07:52:48.550Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.73,0.183,18,automatic,ci,ci
 2023-12-02T07:26:12.150Z,33.902,-116.2803333,5.97,0.87,ml,40,43,0.09195,0.15,ci,ci39721394,2023-12-02T07:32:22.876Z,"14 km NE of Thousand Palms, CA",earthquake,0.19,0.67,0.158,19,automatic,ci,ci
-2023-12-02T07:14:59.229Z,-33.5003,-68.7334,2.23,4.2,mb,14,188,1.174,0.97,us,us7000lfb6,2023-12-02T15:14:04.521Z,"52 km SSW of San Martín, Argentina",earthquake,6.95,6.326,0.236,5,reviewed,us,us
-2023-12-02T07:14:57.140Z,19.158166885376,-155.359497070312,28.9300003051758,1.78,ml,50,180,,0.119999997,hv,hv73669002,2023-12-02T07:22:49.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,0.819999993,4.7,5,automatic,hv,hv
