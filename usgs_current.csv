@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-03T09:35:27.658Z,36.5552,-116.9852,0,1.2,ml,17,228.06,0.237,0.2019,nn,nn00869616,2023-12-03T09:37:38.958Z,"16 km NW of Furnace Creek, California",earthquake,,39.2,0.43,12,automatic,nn,nn
+2023-12-03T09:27:14.730Z,33.9531667,-116.3733333,3.49,0.54,ml,30,49,0.03198,0.19,ci,ci39722010,2023-12-03T09:33:19.818Z,"12 km E of Desert Hot Springs, CA",earthquake,0.23,0.49,0.103,8,automatic,ci,ci
+2023-12-03T09:19:58.264Z,8.3945,126.7383,53.875,4.6,mb,46,118,1.747,0.48,us,us7000lft2,2023-12-03T09:34:08.040Z,"42 km NE of Barcelona, Philippines",earthquake,9.32,6.524,0.075,53,reviewed,us,us
 2023-12-03T09:12:09.120Z,8.4496,126.901,51.31,4.6,mb,30,128,1.896,0.44,us,us7000lft1,2023-12-03T09:26:35.040Z,"60 km ENE of Barcelona, Philippines",earthquake,7.15,8.474,0.122,20,reviewed,us,us
 2023-12-03T09:03:39.510Z,8.4074,126.882,56.183,4.9,mb,64,103,1.853,0.65,us,us7000lft0,2023-12-03T09:18:11.040Z,"56 km ENE of Barcelona, Philippines",earthquake,9.3,7.139,0.084,44,reviewed,us,us
 2023-12-03T09:02:40.290Z,19.1553325653076,-155.429672241211,32.8300018310547,1.77999997,md,35,177,,0.100000001,hv,hv73671767,2023-12-03T09:05:42.930Z,"7 km SE of Pāhala, Hawaii",earthquake,0.71,0.829999983,0.939999998,7,automatic,hv,hv
@@ -287,7 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T10:00:35.605Z,37.4187,-116.6037,12.9,1.1,ml,24,142.76,0.182,0.1394,nn,nn00869557,2023-12-02T22:53:42.684Z,"Nevada",earthquake,,1.6,0.15,13,reviewed,nn,nn
 2023-12-02T09:59:37.240Z,33.9133333,-116.7741667,17.95,0.85,ml,41,51,0.08185,0.12,ci,ci39721474,2023-12-02T10:05:47.047Z,"1 km ESE of Cabazon, CA",earthquake,0.16,0.32,0.173,16,automatic,ci,ci
 2023-12-02T09:57:38.000Z,19.3921661376953,-155.276168823242,1.58000004291534,1.76,ml,16,65,,0.140000001,hv,hv73669242,2023-12-02T10:03:09.010Z,"Hawaii region, Hawaii",earthquake,0.22,0.200000003,0.09,6,automatic,hv,hv
-2023-12-02T09:39:26.220Z,17.9293333333333,-66.9768333333333,7.8,1.9,md,4,239,0.07553,0.33,pr,pr71432953,2023-12-03T03:01:50.190Z,"Puerto Rico region",earthquake,2.9,0.74,0.107016824267242,3,reviewed,pr,pr
-2023-12-02T09:37:04.430Z,19.3921666666667,-155.273833333333,1.43,2.03,ml,26,45,,0.11,hv,hv73669182,2023-12-02T12:21:43.820Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.14,0.175862560234197,11,reviewed,hv,hv
-2023-12-02T09:36:35.900Z,17.6403333333333,-66.8343333333333,17.59,2.13,md,5,296,0.3356,0.12,pr,pr71432943,2023-12-02T10:37:02.530Z,"37 km SSE of Guánica, Puerto Rico",earthquake,1.29,0.81,0.0911730661764165,2,reviewed,pr,pr
-2023-12-02T09:31:32.722Z,-24.5208,-70.4145,40.231,5.1,mwr,78,91,0.984,1.12,us,us7000lfbl,2023-12-02T13:26:17.233Z,"Antofagasta, Chile",earthquake,5.19,5.673,0.048,42,reviewed,us,us
