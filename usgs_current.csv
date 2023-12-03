@@ -14,7 +14,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T17:30:48.110Z,38.8279991,-122.8099976,1.36,1.89,md,37,41,0.004598,0.03,nc,nc73971241,2023-12-03T19:01:13.676Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.23,0.13,38,automatic,nc,nc
 2023-12-03T17:26:57.320Z,32.7428333,-115.868,2.18,1.22,ml,20,49,0.1055,0.15,ci,ci39722122,2023-12-03T17:33:08.307Z,"12 km E of Ocotillo, CA",earthquake,0.18,0.36,0.201,11,automatic,ci,ci
 2023-12-03T17:25:32.020Z,61.4393,-147.9474,17.4,1.4,ml,,,,0.32,ak,ak023fhmdr2q,2023-12-03T17:27:14.197Z,"43 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-03T17:14:34.293Z,56.1217,-157.5673,27.3,2.5,ml,,,,0.17,ak,ak023fhmbedh,2023-12-03T17:17:01.628Z,"55 km ESE of Chignik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-12-03T17:14:34.293Z,56.1217,-157.5673,27.3,2.5,ml,,,,0.17,ak,ak023fhmbedh,2023-12-03T17:17:01.628Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2023-12-03T17:09:15.453Z,8.478,126.839,65.744,4.5,mb,64,101,1.875,0.85,us,us7000lfx5,2023-12-03T19:21:58.040Z,"Mindanao, Philippines",earthquake,10.05,7.31,0.075,53,reviewed,us,us
 2023-12-03T17:07:42.430Z,33.6963333,-115.9536667,2.75,1.12,ml,39,61,0.05106,0.17,ci,ci39722114,2023-12-03T17:14:03.347Z,"18 km NE of Mecca, CA",earthquake,0.17,0.27,0.156,24,automatic,ci,ci
 2023-12-03T17:03:55.007Z,13.1879,-90.5543,55.383,4.3,mb,66,132,1.035,1.04,us,us7000lfx4,2023-12-03T18:06:57.840Z,"84 km SSE of Iztapa, Guatemala",earthquake,9.72,7.304,0.077,48,reviewed,us,us
 2023-12-03T17:01:51.033Z,8.536,126.7324,63.606,5,mb,78,89,1.851,0.78,us,us7000lfx2,2023-12-03T17:40:50.113Z,"47 km ENE of Hinatuan, Philippines",earthquake,9.17,6.927,0.052,118,reviewed,us,us
@@ -249,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T19:57:09.508Z,8.5961,126.6241,75.839,5.3,mb,32,96,1.836,0.89,us,us7000lflz,2023-12-02T20:17:05.040Z,"40 km NE of Hinatuan, Philippines",earthquake,11.48,8.765,0.047,151,reviewed,us,us
 2023-12-02T19:54:18.697Z,8.0613,126.6212,67.416,5.1,mb,95,31,1.428,0.59,us,us7000lfly,2023-12-02T20:23:40.040Z,"20 km ENE of Santa Maria, Philippines",earthquake,8.6,5.616,0.057,99,reviewed,us,us
 2023-12-02T19:37:03.009Z,8.5186,126.946,61.175,5.2,mb,42,79,1.977,0.78,us,us7000lflt,2023-12-02T19:51:16.040Z,"68 km NE of Barcelona, Philippines",earthquake,9.09,8.365,0.068,71,reviewed,us,us
-2023-12-02T19:19:23.249Z,8.4219,126.8382,34.603,5.4,mb,108,50,1.834,0.75,us,us7000lfln,2023-12-02T21:23:41.495Z,"53 km ENE of Barcelona, Philippines",earthquake,9.47,4.8,0.043,180,reviewed,us,us
-2023-12-02T19:18:25.030Z,38.8098335,-122.7938309,7,0.77,md,13,57,0.002189,0.07,nc,nc73970851,2023-12-02T20:52:12.935Z,"5 km NW of The Geysers, CA",earthquake,0.77,1.86,0.12,14,automatic,nc,nc
