@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-07T11:20:43.930Z,38.8434982,-122.8266678,1.98,0.75,md,11,142,0.008454,0.01,nc,nc73972771,2023-12-07T11:31:10.651Z,"9 km WNW of Cobb, CA",earthquake,0.37,0.83,0.1,12,automatic,nc,nc
+2023-12-07T11:42:51.930Z,32.7126656,-115.5233307,8.74,1.61,ml,13,173,0.07199,0.2,ci,ci40617144,2023-12-07T11:44:57.668Z,"2 km SSE of Heber, CA",earthquake,0.74,1.57,0.192,3,automatic,ci,ci
+2023-12-07T11:26:05.450Z,31.669,-104.413,4.5118,2.1,ml,18,70,0,0.3,tx,tx2023xybs,2023-12-07T11:44:20.343Z,"56 km S of Whites City, New Mexico",earthquake,0,1.261276971,0.2,12,automatic,tx,tx
+2023-12-07T11:20:43.930Z,38.8434982,-122.8266678,1.98,0.75,md,11,142,0.008454,0.01,nc,nc73972771,2023-12-07T11:37:11.683Z,"9 km WNW of Cobb, CA",earthquake,0.37,0.83,0.1,12,automatic,nc,nc
 2023-12-07T11:18:42.440Z,19.3033332824707,-155.386993408203,2,2.33,ml,36,148,,0.270000011,hv,hv73675527,2023-12-07T11:24:13.810Z,"14 km NE of Pāhala, Hawaii",earthquake,0.44,0.540000021,0.32,3,automatic,hv,hv
 2023-12-07T11:07:10.480Z,38.8311653,-122.8108368,1.92,1.07,md,17,68,0.007782,0.01,nc,nc73972766,2023-12-07T11:24:11.608Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.53,0.25,17,automatic,nc,nc
 2023-12-07T11:05:16.310Z,34.8028333,-118.9128333,13.89,1.32,ml,33,67,0.0374,0.17,ci,ci40617136,2023-12-07T11:34:18.879Z,"4 km SE of Frazier Park, CA",earthquake,0.21,0.36,0.204,15,automatic,ci,ci
@@ -179,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T12:08:25.339Z,59.2924,-152.0977,63.4,2.2,ml,,,,0.43,ak,ak023fmhwyud,2023-12-06T12:10:06.199Z,"12 km SW of Nanwalek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-12-06T12:07:07.995Z,62.8601,-150.6348,9.2,2,ml,,,,0.56,ak,ak023fmhwpsf,2023-12-06T12:09:00.610Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-06T11:49:52.290Z,19.2276668548584,-155.447494506836,33.9500007629395,1.89999998,md,27,128,,0.0799999982,hv,hv73674582,2023-12-06T11:53:11.260Z,"Hawaii region, Hawaii",earthquake,0.81,0.720000029,1.96000004,4,automatic,hv,hv
-2023-12-06T11:42:50.286Z,8.458,126.8475,59.195,4.6,mb,27,70,1.866,0.77,us,us7000lgmr,2023-12-06T11:59:52.040Z,"56 km NE of Barcelona, Philippines",earthquake,9.7,5.898,0.125,19,reviewed,us,us
-2023-12-06T11:42:16.964Z,62.9869,-149.578,72.3,2.3,ml,,,,0.59,ak,ak023fmhisvh,2023-12-06T11:44:15.607Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
