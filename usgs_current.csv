@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T04:45:58.000Z,62.5215,-152.858,10.7,1.8,ml,,,,0.68,ak,ak0234d4shxd8,2023-12-08T04:49:04.382Z,"94 km SE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-08T04:33:29.550Z,33.1868333,-115.5978333,2.03,1.55,ml,40,87,0.01761,0.2,ci,ci40617448,2023-12-08T04:40:19.743Z,"9 km SW of Niland, CA",earthquake,0.2,0.23,0.169,27,automatic,ci,ci
 2023-12-08T04:24:23.059Z,52.8666,-167.7997,49.3,2.1,ml,,,,0.41,ak,ak023fpobktp,2023-12-08T04:41:47.488Z,"71 km E of Nikolski, Alaska",earthquake,,6.1,,,reviewed,ak,ak
-2023-12-08T04:20:50.410Z,38.7883339,-122.7669983,1.82,0.73,md,13,77,0.01353,0.02,nc,nc73973081,2023-12-08T06:39:10.919Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,14,automatic,nc,nc
+2023-12-08T04:20:50.410Z,38.7883339,-122.7669983,1.82,0.73,md,13,77,0.01353,0.02,nc,nc73973081,2023-12-08T06:47:12.960Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,14,automatic,nc,nc
 2023-12-08T04:18:11.374Z,60.0972,-152.5374,102.1,1.9,ml,,,,0.1,ak,ak023fpoab2p,2023-12-08T04:38:36.040Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-12-08T04:08:59.370Z,19.064,-155.429666666667,52.16,2.07,md,32,198,,0.13,hv,hv73677272,2023-12-08T06:00:35.850Z,"15 km E of Naalehu, Hawaii",earthquake,0.88,0.71,0.157101658067344,17,reviewed,hv,hv
 2023-12-08T04:01:40.880Z,19.0746666666667,-155.441666666667,41.86,1.91,md,26,193,,0.14,hv,hv73677257,2023-12-08T05:54:40.820Z,"14 km E of Naalehu, Hawaii",earthquake,0.98,0.7,0.161481925098362,12,reviewed,hv,hv
