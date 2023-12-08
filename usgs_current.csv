@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T11:13:19.590Z,19.3718338012695,-155.279159545898,1.89999997615814,2.1,ml,29,109,,0.189999998,hv,hv73678162,2023-12-08T11:18:50.770Z,"9 km SSW of Volcano, Hawaii",earthquake,0.27,0.289999992,0.41,9,automatic,hv,hv
 2023-12-08T10:49:09.250Z,38.8231659,-122.8105011,2.57,0.68,md,7,117,0.0004045,0.01,nc,nc73973176,2023-12-08T11:20:14.782Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.19,0.26,8,automatic,nc,nc
 2023-12-08T10:46:58.158Z,63.2697,-148.8683,2.1,1.4,ml,,,,0.5,ak,ak023fps10d3,2023-12-08T10:48:49.411Z,"14 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-08T10:41:48.292Z,39.5418,-112.002,10,3,ml,38,39,0.383,0.71,us,us7000lhae,2023-12-08T10:54:12.040Z,"12 km W of Levan, Utah",earthquake,1.72,2.006,0.031,136,reviewed,us,us
+2023-12-08T10:41:48.390Z,39.5275,-111.995,1.62,2.9,ml,32,63,0.1411,0.18,uu,uu60556002,2023-12-08T15:27:55.350Z,"11 km WSW of Levan, Utah",earthquake,0.27,0.66,0.131,23,reviewed,uu,uu
 2023-12-08T10:38:48.590Z,19.3781661987305,-155.281005859375,1.35000002384186,1.94,ml,16,135,,0.119999997,hv,hv73678097,2023-12-08T10:44:18.840Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.209999993,0.22,6,automatic,hv,hv
 2023-12-08T10:38:13.700Z,19.2508335113525,-155.389007568359,32.7799987792969,2.44,ml,22,216,,0.109999999,hv,hv73678092,2023-12-08T10:43:44.190Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.82,0.99000001,0.25,6,automatic,hv,hv
 2023-12-08T10:37:24.460Z,38.8028336,-122.8093338,1.9,0.46,md,10,84,0.0121,0.02,nc,nc73973171,2023-12-08T11:09:16.716Z,"5 km WNW of The Geysers, CA",earthquake,0.36,0.89,0.22,10,automatic,nc,nc
@@ -160,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T00:07:40.770Z,19.3728333333333,-155.283,1.43,2,md,14,202,,0.07,hv,hv73676777,2023-12-08T00:34:41.620Z,"9 km SSW of Volcano, Hawaii",earthquake,0.35,0.26,0.610000014,9,reviewed,hv,hv
 2023-12-08T00:06:50.160Z,19.3426666666667,-155.304833333333,3.13,2.17,ml,40,45,,0.11,hv,hv73676772,2023-12-08T00:19:29.040Z,"13 km SW of Volcano, Hawaii",earthquake,0.22,0.41,0.177720187531899,20,reviewed,hv,hv
 2023-12-07T23:47:42.221Z,31.555,-104.542,2.0441,1.7,ml,8,164,0.1,0.3,tx,tx2023xzaf,2023-12-08T00:15:43.747Z,"63 km NNE of Van Horn, Texas",earthquake,0,2.302049064,0.2,6,automatic,tx,tx
-2023-12-07T23:46:32.133Z,31.611,-104.372,3.9197,1.7,ml,18,85,0.1,0.2,tx,tx2023xzac,2023-12-08T00:08:21.741Z,"62 km S of Whites City, New Mexico",earthquake,0,1.492075571,0.1,14,automatic,tx,tx
+2023-12-07T23:46:32.047Z,31.632,-104.366,6.1316,1.7,ml,22,72,0.1,0.2,tx,tx2023xzac,2023-12-08T15:28:48.742Z,"60 km S of Whites City, New Mexico",earthquake,0.9357986559,1.005068842,0.1,6,reviewed,tx,tx
 2023-12-07T23:44:06.762Z,60.9099,-146.8664,20.4,1.8,ml,,,,0.64,ak,ak023foc7rc4,2023-12-07T23:46:07.881Z,"11 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-07T23:37:27.285Z,60.9336,-150.7233,40.6,1.6,ml,,,,0.45,ak,ak023foc6awo,2023-12-07T23:39:29.755Z,"2 km WNW of Point Possession, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-12-07T23:34:53.290Z,38.8253326,-122.7666702,2.08,0.99,md,9,122,0.005722,0.02,nc,nc73972996,2023-12-08T01:17:13.597Z,"4 km W of Cobb, CA",earthquake,0.42,0.88,0.23,12,automatic,nc,nc
