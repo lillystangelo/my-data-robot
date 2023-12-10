@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-10T22:10:48.361Z,42.9859,-96.9727,8.281,3,mb_lg,36,31,0.792,0.63,us,us7000lhzm,2023-12-10T22:18:47.040Z,"11 km ESE of Wakonda, South Dakota",earthquake,2.83,7.182,0.078,43,reviewed,us,us
 2023-12-10T22:02:10.920Z,35.7016678,-121.0866699,7.98,1.41,md,9,100,0.05787,0.03,nc,nc73974351,2023-12-10T22:11:11.146Z,"11 km NE of San Simeon, CA",earthquake,0.33,0.93,0.13,8,automatic,nc,nc
 2023-12-10T21:58:45.350Z,33.2695,-116.7808333,11.82,0.65,ml,29,43,0.1083,0.16,ci,ci40618840,2023-12-10T22:05:33.196Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.64,0.122,15,automatic,ci,ci
 2023-12-10T21:55:58.350Z,33.3273333,-116.7906667,13.65,1.01,ml,53,25,0.06571,0.16,ci,ci40618832,2023-12-10T22:02:59.184Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.15,0.41,0.133,24,automatic,ci,ci
@@ -143,8 +144,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T04:40:51.720Z,19.2886657714844,-155.408996582031,29.1499996185303,1.79999995,md,29,116,,0.109999999,hv,hv73680267,2023-12-10T04:44:02.550Z,"11 km NE of Pāhala, Hawaii",earthquake,0.73,0.629999995,1.13999999,9,automatic,hv,hv
 2023-12-10T04:34:08.770Z,38.8338318,-122.7943344,1.73,0.23,md,8,83,0.005532,0.01,nc,nc73974046,2023-12-10T06:39:14.629Z,"6 km WNW of Cobb, CA",earthquake,0.42,0.96,0.16,8,automatic,nc,nc
 2023-12-10T04:29:14.214Z,35.09855652,-97.55297089,1.773706436,1.7,ml,10,96.32313919,0.03615914285,0.9400661362,ok,ok2023ydal,2023-12-10T04:33:38.682Z,"1 km ESE of Cole, Oklahoma",earthquake,4.180949444,3.476059611,0.14,4,automatic,ok,ok
+2023-12-10T04:20:38.770Z,39.0155,-123.3091667,3.13,1.03,md,14,57,0.04157,0.05,nc,nc73974036,2023-12-10T22:27:11.248Z,"5 km E of Boonville, CA",earthquake,0.19,0.68,0.147,14,reviewed,nc,nc
 2023-12-10T04:14:28.250Z,38.7938347,-122.8056641,3.46,0.79,md,14,121,0.005862,0.01,nc,nc73974031,2023-12-10T04:40:12.697Z,"5 km WNW of The Geysers, CA",earthquake,0.34,0.92,0.33,17,automatic,nc,nc
-2023-12-10T04:07:01.990Z,37.5503333,-121.6871667,5.93,0.93,md,21,58,0.1344,0.06,nc,nc73974026,2023-12-10T21:51:11.024Z,"16 km SSE of Livermore, CA",earthquake,0.24,1.46,0.319,19,reviewed,nc,nc
+2023-12-10T04:07:01.990Z,37.5503333,-121.6871667,5.93,0.93,md,21,58,0.1344,0.06,nc,nc73974026,2023-12-10T22:23:17.221Z,"16 km SSE of Livermore, CA",earthquake,0.24,1.46,0.319,19,reviewed,nc,nc
 2023-12-10T04:01:06.898Z,37.4816,-118.8069,5,1.3,ml,5,242.14,0.151,0.119,nn,nn00869942,2023-12-10T21:27:33.648Z,"11 km SW of Aspen Springs, California",earthquake,,6.2,0.27,3,reviewed,nn,nn
 2023-12-10T03:26:41.112Z,62.1783,-150.0206,39.4,2,ml,,,,0.69,ak,ak023fsytcfj,2023-12-10T03:28:03.445Z,"9 km WNW of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-10T03:18:14.190Z,39.3655014,-123.2910004,4,2.17,md,23,74,0.1094,0.06,nc,nc73974016,2023-12-10T05:11:16.913Z,"7 km SE of Willits, CA",earthquake,0.23,1.55,0.15,16,automatic,nc,nc
@@ -188,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T22:46:15.270Z,33.514,-116.4605,7.71,1.27,ml,50,42,0.03055,0.18,ci,ci40618384,2023-12-10T14:46:51.660Z,"20 km ESE of Anza, CA",earthquake,0.16,0.38,0.208,29,reviewed,ci,ci
 2023-12-09T22:38:02.984Z,31.612,-104.075,6.7275,1.6,ml,10,138,0,0.3,tx,tx2023ycov,2023-12-09T23:03:25.242Z,"42 km NW of Toyah, Texas",earthquake,0,3.399336071,0.1,6,automatic,tx,tx
 2023-12-09T22:31:20.759Z,8.5249,127.8514,10,4.6,mb,42,44,7.717,0.49,us,us7000lhts,2023-12-09T22:59:56.040Z,"161 km ENE of Barcelona, Philippines",earthquake,7.13,1.68,0.097,32,reviewed,us,us
-2023-12-09T22:19:57.070Z,35.09183333,-97.56966667,6,1.9,ml,42,49,0.04409134777,0.47,ok,ok2023ycog,2023-12-09T23:06:11.490Z,"1 km SSE of Cole, Oklahoma",earthquake,,1,0.19,20,reviewed,ok,ok
