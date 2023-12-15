@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-15T18:11:49.440Z,33.6976662,-115.9616699,1.79,1.11,ml,16,105,0.04856,0.19,ci,ci40445199,2023-12-15T18:13:51.814Z,"18 km NE of Mecca, CA",earthquake,0.7,0.8,0.163,5,automatic,ci,ci
 2023-12-15T17:50:28.501Z,59.1523,-153.1088,77.3,1.9,ml,,,,0.3,ak,ak023g1gz9mq,2023-12-15T17:52:41.489Z,"71 km WSW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-15T17:32:40.510Z,19.3858337402344,-155.244995117188,0.819999992847443,2.85,ml,30,53,,0.270000011,hv,hv73687012,2023-12-15T17:38:13.110Z,"6 km S of Volcano, Hawaii",earthquake,0.3,0.159999996,0.38,14,automatic,hv,hv
 2023-12-15T17:18:58.530Z,38.8375015,-122.8031693,1.45,0.93,md,13,79,0.01006,0.04,nc,nc73976631,2023-12-15T17:35:17.902Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.41,0.17,16,automatic,nc,nc
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-15T14:35:28.770Z,38.8263321,-122.8134995,1.08,1.01,md,17,63,0.00397,0.02,nc,nc73976571,2023-12-15T14:37:02.436Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.53,0.26,17,automatic,nc,nc
 2023-12-15T14:34:54.410Z,38.8274994,-122.814003,0.79,0.91,md,12,70,0.00512,0.03,nc,nc73976566,2023-12-15T14:36:32.535Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.66,0.3,12,automatic,nc,nc
 2023-12-15T14:34:44.040Z,38.8294983,-122.8138351,0.63,1.07,md,16,57,0.006766,0.05,nc,nc73976561,2023-12-15T14:58:11.026Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.45,0.17,16,automatic,nc,nc
-2023-12-15T14:34:38.860Z,38.8271675,-122.8138351,0.93,1.51,md,15,58,0.004777,0.02,nc,nc73976556,2023-12-15T15:22:14.170Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.54,0.12,16,automatic,nc,nc
+2023-12-15T14:34:38.860Z,38.8271675,-122.8138351,0.93,1.51,md,15,58,0.004777,0.02,nc,nc73976556,2023-12-15T18:05:12.079Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.54,0.12,16,automatic,nc,nc
 2023-12-15T14:28:18.170Z,34.246,-116.7875,5.66,2.99,ml,127,21,0.1116,0.14,ci,ci40444983,2023-12-15T17:23:17.872Z,"6 km ESE of Big Bear City, CA",earthquake,0.08,0.38,0.135,189,reviewed,ci,ci
 2023-12-15T14:26:20.030Z,38.8269997,-122.814003,0.79,0.75,md,10,72,0.00473,0.02,nc,nc73976546,2023-12-15T15:12:13.109Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.78,0.13,12,automatic,nc,nc
 2023-12-15T14:25:52.740Z,38.8251648,-122.8133316,0.88,1.65,md,33,38,0.003098,0.03,nc,nc73976541,2023-12-15T16:57:11.831Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.27,0.12,32,automatic,nc,nc
@@ -215,7 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-14T19:11:02.560Z,36.8883324,-121.6143341,0.82,1.8,md,19,65,0.01835,0.09,nc,nc73976196,2023-12-14T22:27:16.345Z,"2 km E of Aromas, CA",earthquake,0.19,0.48,0.16,13,automatic,nc,nc
 2023-12-14T19:04:14.450Z,33.0055,-115.5676667,4.98,1.2,ml,12,88,0.03479,0.22,ci,ci40444015,2023-12-14T22:35:34.068Z,"5 km NW of Brawley, CA",earthquake,0.41,0.97,0.35,7,reviewed,ci,ci
 2023-12-14T18:58:20.526Z,36.4869,-115.0643,15.9,1.3,ml,10,267.7,0.857,0.2726,nn,nn00870149,2023-12-14T19:00:47.286Z,"26 km N of Nellis Air Force Base, Nevada",earthquake,,0,0.2,8,automatic,nn,nn
-2023-12-14T18:01:30.497Z,63.182,-150.3594,94.8,1.8,ml,,,,0.76,ak,ak023fztqut5,2023-12-14T18:03:45.561Z,"74 km WSW of Cantwell, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-12-14T17:59:02.750Z,38.8361664,-122.8101654,1.78,0.58,md,9,105,0.01275,0.02,nc,nc73976176,2023-12-14T20:12:15.567Z,"8 km WNW of Cobb, CA",earthquake,0.37,1.26,0.39,12,automatic,nc,nc
-2023-12-14T17:55:43.040Z,19.1844997406006,-155.504837036133,33.4500007629395,1.71000004,md,29,141,,0.109999999,hv,hv73685782,2023-12-14T17:58:50.400Z,"3 km SW of Pāhala, Hawaii",earthquake,0.95,1.21000004,1.34000003,10,automatic,hv,hv
-2023-12-14T17:55:01.792Z,13.9634,-91.3947,78.198,5.4,mww,195,136,1.569,0.86,us,us7000lj39,2023-12-15T03:17:50.796Z,"28 km SSW of Nueva Concepción, Guatemala",earthquake,6.78,4.216,0.057,30,reviewed,us,us
