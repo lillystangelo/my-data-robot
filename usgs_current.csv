@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-18T19:42:26.080Z,32.7145004,-115.4024963,10.17,2.13,ml,29,72,0.09795,0.24,ci,ci40447167,2023-12-18T19:44:46.675Z,"9 km NE of Mexicali, B.C., MX",earthquake,0.42,0.98,0.325,28,automatic,ci,ci
+2023-12-18T19:52:25.630Z,34.5424995,-119.1330032,8.56,1.54,ml,13,61,0.1207,0.16,ci,ci40447175,2023-12-18T19:54:40.782Z,"14 km NE of Ojai, CA",earthquake,0.46,3.28,0.143,10,automatic,ci,ci
+2023-12-18T19:46:02.190Z,38.7823334,-122.7523346,5.56,0.39,md,9,94,0.01223,0.19,nc,nc73977861,2023-12-18T19:47:36.631Z,"1 km NNE of The Geysers, CA",earthquake,1.28,1.19,0.23,6,automatic,nc,nc
+2023-12-18T19:42:25.970Z,32.7206667,-115.3993333,12.96,2.08,ml,31,66,0.09341,0.25,ci,ci40447167,2023-12-18T19:49:52.027Z,"10 km NE of Mexicali, B.C., MX",earthquake,0.34,0.89,0.179,25,automatic,ci,ci
 2023-12-18T19:19:33.786Z,61.4514,-146.5594,22,1.8,ml,,,,0.78,ak,ak023g6gljj6,2023-12-18T19:21:30.429Z,"37 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-18T19:07:54.036Z,61.5225,-151.4299,67.8,2,ml,,,,0.82,ak,ak023g6gj0i3,2023-12-18T19:10:13.031Z,"46 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-18T18:52:34.860Z,38.8125,-122.8193359,2.81,0.75,md,8,148,0.008502,0.02,nc,nc73977841,2023-12-18T19:09:12.274Z,"7 km NW of The Geysers, CA",earthquake,0.86,1.6,0.25,8,automatic,nc,nc
@@ -42,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T14:45:44.320Z,44.6051666666667,-112.603833333333,8.94,0.51,ml,4,150,0.03111,0.03,mb,mb90036563,2023-12-18T16:43:35.340Z,"3 km SSW of Lima, Montana",earthquake,0.41,0.46,0.17576100314908,2,reviewed,mb,mb
 2023-12-18T14:29:31.874Z,31.56,-104.19,3.9066,1.8,ml,19,72,0.1,0.2,tx,tx2023yski,2023-12-18T14:57:18.204Z,"46 km NW of Toyah, Texas",earthquake,0,1.368837331,0.3,14,automatic,tx,tx
 2023-12-18T14:29:00.453Z,61.7027,-151.7827,98,1.8,ml,,,,0.39,ak,ak023g6dog3h,2023-12-18T14:31:04.085Z,"37 km SSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-12-18T14:26:47.230Z,33.4838333,-116.4321667,12.4,1.64,ml,14,259,0.1105,0.11,ci,ci40446871,2023-12-18T14:33:13.200Z,"23 km SSW of La Quinta, CA",earthquake,0.53,0.62,0.116,6,automatic,ci,ci
+2023-12-18T14:26:46.970Z,33.475,-116.4205,12.24,0.22,ml,18,129,0.04847,0.11,ci,ci40446871,2023-12-18T19:53:19.558Z,"23 km SSW of La Quinta, CA",earthquake,0.28,0.61,0.138,4,reviewed,ci,ci
 2023-12-18T14:14:00.460Z,36.5475006,-121.1751633,3.23,1.72,md,8,196,0.02552,0.05,nc,nc73977776,2023-12-18T16:10:10.315Z,"3 km WNW of Pinnacles, CA",earthquake,1.07,0.72,0.14,10,automatic,nc,nc
 2023-12-18T14:06:15.820Z,33.017,-116.3401667,9.97,0.8,ml,33,89,0.07442,0.2,ci,ci40446863,2023-12-18T19:40:05.792Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.26,0.62,0.322,8,reviewed,ci,ci
 2023-12-18T14:06:14.873Z,-16.2811,-172.9865,10,5,mb,48,53,2.63,0.69,us,us7000ljv0,2023-12-18T14:53:18.040Z,"93 km ESE of Hihifo, Tonga",earthquake,4.08,1.813,0.072,62,reviewed,us,us
