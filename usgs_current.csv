@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-21T07:34:34.610Z,37.2631,-117.5093,7.5,2.6,ml,33,106.79,0.113,0.3404,nn,nn00870402,2023-12-21T07:37:22.427Z,"55 km SSW of Goldfield, Nevada",earthquake,,0.6,0.28,24,automatic,nn,nn
 2023-12-21T07:06:31.950Z,17.9311666666667,-66.277,15.2,2.87,md,16,182,0.1053,0.16,pr,pr71434653,2023-12-21T07:17:14.940Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.52,0.8,0.282115003662798,12,reviewed,pr,pr
 2023-12-21T06:43:41.544Z,31.672,-104.202,4.4738,1.5,ml,17,66,0.1,0.2,tx,tx2023yxhl,2023-12-21T07:19:30.207Z,"55 km NW of Toyah, Texas",earthquake,0,1.210608801,0.1,13,automatic,tx,tx
 2023-12-21T06:35:14.604Z,36.4761,-116.0386,4.9,1.1,ml,25,153.04,0.196,0.1206,nn,nn00870395,2023-12-21T07:13:33.788Z,"30 km N of Pahrump, Nevada",earthquake,,2.6,0.21,14,reviewed,nn,nn
@@ -257,4 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-20T07:55:30.228Z,38.2001,-117.8512,11.2,1.5,ml,10,82.84,0.105,0.0934,nn,nn00870356,2023-12-21T02:04:01.109Z,"30 km SE of Mina, Nevada",earthquake,,1.4,0.26,4,reviewed,nn,nn
 2023-12-20T07:52:55.979Z,36.9749,-117.4632,9.5,0.7,ml,13,190.83,0.296,0.1514,nn,nn00870353,2023-12-21T02:03:55.510Z,"63 km W of Beatty, Nevada",earthquake,,2.7,0.34,5,reviewed,nn,nn
 2023-12-20T07:48:06.130Z,33.3595,-116.3078333,10.71,0.73,ml,33,131,0.003222,0.18,ci,ci40448335,2023-12-20T18:47:52.540Z,"13 km NNE of Borrego Springs, CA",earthquake,0.27,0.47,0.09,14,reviewed,ci,ci
-2023-12-20T07:43:29.491Z,31.625,-104.118,6.4401,1.9,ml,20,55,0,0.2,tx,tx2023yvnv,2023-12-20T16:26:38.406Z,"46 km NW of Toyah, Texas",earthquake,0.8082037365,0.8442365269,0.1,6,reviewed,tx,tx
