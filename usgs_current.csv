@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-25T23:03:11.030Z,35.6995,-117.5135,6.47,1.91,ml,36,61,0.08075,0.14,ci,ci40450959,2023-12-25T23:13:46.730Z,"12 km SW of Searles Valley, CA",earthquake,0.18,0.5,0.115,24,automatic,ci,ci
+2023-12-25T22:59:08.094Z,64.9337,-149.2344,11.9,1.3,ml,,,,0.43,ak,ak023gi3dsgh,2023-12-25T23:03:47.049Z,"24 km SSE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-25T22:23:56.660Z,35.7555,-117.5646667,9.25,0.85,ml,22,92,0.1459,0.17,ci,ci40450943,2023-12-25T22:29:49.866Z,"15 km W of Searles Valley, CA",earthquake,0.33,0.91,0.133,6,automatic,ci,ci
 2023-12-25T22:16:55.090Z,19.345832824707,-155.328338623047,25.6499996185303,2.19,ml,52,56,,0.200000003,hv,hv73696717,2023-12-25T22:22:27.570Z,"14 km SW of Volcano, Hawaii",earthquake,0.45,0.649999976,3.52,11,automatic,hv,hv
 2023-12-25T22:16:32.180Z,19.0575008392334,-155.406173706055,34.0200004577637,2.5,ml,14,269,,0.119999997,hv,hv73696712,2023-12-25T22:22:03.900Z,"17 km SSE of Pāhala, Hawaii",earthquake,1.29,0.99000001,4.53,12,automatic,hv,hv
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T21:34:42.050Z,38.8221664,-122.762001,2,0.77,md,7,142,0.01034,0.01,nc,nc73980996,2023-12-25T22:01:13.813Z,"3 km W of Cobb, CA",earthquake,0.56,1.03,0.07,8,automatic,nc,nc
 2023-12-25T21:25:35.830Z,38.8336678,-122.7914963,3.45,0.69,md,13,87,0.004819,0.05,nc,nc73980986,2023-12-25T21:50:13.752Z,"6 km WNW of Cobb, CA",earthquake,0.45,0.79,0.07,12,automatic,nc,nc
 2023-12-25T21:23:46.219Z,61.3036,-150.1766,36.2,2.3,ml,,,,0.45,ak,ak023gi2kq0t,2023-12-25T21:25:30.470Z,"12 km WSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-12-25T21:22:05.090Z,38.8354988,-122.795166,1.87,1.09,md,17,56,0.004757,0.02,nc,nc73980981,2023-12-25T21:40:13.696Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.54,0.15,18,automatic,nc,nc
+2023-12-25T21:22:05.090Z,38.8354988,-122.795166,1.87,1.09,md,17,56,0.004757,0.02,nc,nc73980981,2023-12-25T23:13:10.212Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.54,0.15,18,automatic,nc,nc
 2023-12-25T20:57:38.100Z,33.648,-116.7165,13.09,0.23,ml,17,86,0.06303,0.1,ci,ci40450927,2023-12-25T21:03:18.322Z,"10 km S of Idyllwild, CA",earthquake,0.31,0.44,0.099,5,automatic,ci,ci
 2023-12-25T20:47:36.320Z,-41.3571,-90.826,10,4.8,mb,41,104,13.177,0.97,us,us7000llel,2023-12-25T21:59:55.040Z,"southeast of Easter Island",earthquake,12.61,1.871,0.098,34,reviewed,us,us
 2023-12-25T20:45:19.867Z,59.7251,-151.1873,38.3,2.3,ml,,,,0.48,ak,ak023gi23y4y,2023-12-25T20:47:22.647Z,"6 km ESE of Fritz Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -67,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T15:06:58.980Z,47.6035,-122.8125,20.44,1.84,ml,18,91,0.03787,0.3,uw,uw61977971,2023-12-25T17:41:10.180Z,"4 km SSE of Seabeck, Washington",earthquake,0.77,1.04,0.18022921112296397,12,reviewed,uw,uw
 2023-12-25T15:00:03.070Z,33.3308333,-116.1923333,10.26,0.94,ml,55,37,0.1031,0.21,ci,ci40450815,2023-12-25T15:06:14.414Z,"17 km SSW of Oasis, CA",earthquake,0.17,0.58,0.123,17,automatic,ci,ci
 2023-12-25T15:00:00.020Z,51.7936666666667,-178.813666666667,7.35,0.44,ml,5,130,,0.16,av,av92164581,2023-12-25T20:17:26.900Z,"150 km W of Adak, Alaska",earthquake,0.76,0.93,0.18117402151742,5,reviewed,av,av
+2023-12-25T14:55:02.652Z,36.7195,-116.256,7.3,-0.1,ml,9,161.39,0.024,0.0532,nn,nn00870653,2023-12-25T22:56:44.257Z,"49 km ESE of Beatty, Nevada",earthquake,,1.4,0.11,5,reviewed,nn,nn
 2023-12-25T14:48:00.855Z,31.583,-104.565,1.3721,1.9,ml,16,168,0.1,0.5,tx,tx2023zffk,2023-12-25T15:05:03.920Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.234031171,0.2,12,automatic,tx,tx
 2023-12-25T14:39:45.221Z,55.1687,-159.4683,6.4,2.4,ml,,,,0.56,ak,ak023ghyi35a,2023-12-25T17:01:43.153Z,"68 km ESE of Sand Point, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2023-12-25T14:28:53.090Z,33.8838333,-116.8593333,15.53,0.98,ml,53,34,0.0719,0.15,ci,ci40450807,2023-12-25T17:29:39.000Z,"5 km SSE of Banning, CA",earthquake,0.15,0.4,0.196,26,reviewed,ci,ci
@@ -187,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-24T23:26:10.320Z,33.9288333,-118.7076667,12.85,1.81,ml,47,148,0.1117,0.18,ci,ci40450599,2023-12-25T08:21:35.795Z,"12 km S of Malibu Beach, CA",earthquake,0.27,0.53,0.14,31,automatic,ci,ci
 2023-12-24T23:25:32.870Z,52.0273333333333,-177.115333333333,0.25,1.93,ml,5,328,,0.17,av,av92163956,2023-12-25T03:05:17.550Z,"37 km WNW of Adak, Alaska",earthquake,1.92,3.8,0.280710631585471,5,reviewed,av,av
 2023-12-24T23:19:55.857Z,43.3925,-127.6996,10,3.3,ml,35,281,2.677,0.53,us,us7000llb3,2023-12-25T17:28:35.926Z,"268 km W of Bandon, Oregon",earthquake,13.09,2.026,0.048,58,reviewed,us,us
-2023-12-24T22:57:19.500Z,33.5263333,-116.4678333,-1.59,0.53,ml,8,186,0.03532,0.2,ci,ci40450591,2023-12-24T23:03:13.776Z,"19 km E of Anza, CA",earthquake,1.15,16.86,0.212,4,automatic,ci,ci
