@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-26T04:54:00.390Z,35.7475014,-117.565834,3.48,0.96,ml,13,169,0.1419,0.13,ci,ci40451047,2023-12-26T04:56:02.768Z,"15 km W of Searles Valley, CA",earthquake,0.6,1.48,0.047,3,automatic,ci,ci
+2023-12-26T04:54:00.380Z,35.7475,-117.5686667,4.17,0.96,ml,26,66,0.1241,0.13,ci,ci40451047,2023-12-26T04:59:39.198Z,"15 km W of Searles Valley, CA",earthquake,0.21,0.52,0.047,3,automatic,ci,ci
 2023-12-26T04:44:48.250Z,17.9461666666667,-66.7861666666667,18.49,2.24,md,7,173,0.07361,0.08,pr,pr71435313,2023-12-26T04:53:02.420Z,"6 km SSE of Indios, Puerto Rico",earthquake,0.63,0.61,0.212200797120575,6,reviewed,pr,pr
 2023-12-26T04:40:45.210Z,33.6645,-116.7783333,14.3,0.72,ml,40,51,0.06739,0.15,ci,ci40451039,2023-12-26T04:46:45.026Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.33,0.093,13,automatic,ci,ci
 2023-12-26T04:27:55.790Z,38.8373337,-122.8095016,2.15,0.78,md,12,153,0.01393,0.03,nc,nc73981141,2023-12-26T04:44:14.091Z,"8 km WNW of Cobb, CA",earthquake,0.57,0.9,0.14,12,automatic,nc,nc
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-25T05:24:19.547Z,62.6457,-154.8161,0,1.8,ml,,,,0.9,ak,ak023ght1yf4,2023-12-25T05:30:08.414Z,"46 km SSW of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-25T05:17:50.600Z,38.7878342,-122.745163,1.42,0.54,md,8,123,0.008035,0.01,nc,nc73980681,2023-12-25T05:45:15.028Z,"2 km NE of The Geysers, CA",earthquake,0.33,0.8,0.28,8,automatic,nc,nc
 2023-12-25T05:15:25.260Z,38.8408318,-122.824501,1.42,0.8,md,17,69,0.008867,0.04,nc,nc73980676,2023-12-25T05:34:14.966Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.53,0.2,18,automatic,nc,nc
-2023-12-25T05:07:27.340Z,37.7915001,-122.2050018,12.21,1.8,md,36,45,0.02464,0.07,nc,nc73980671,2023-12-25T07:08:10.476Z,"2 km ESE of Oakland, CA",earthquake,0.2,0.5,0.3,28,automatic,nc,nc
