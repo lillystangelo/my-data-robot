@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-28T14:18:17.571Z,59.2127,-152.4468,65.9,2,ml,,,,0.4,ak,ak023gmwzlh9,2023-12-28T14:20:13.314Z,"33 km WSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-28T14:08:54.370Z,36.7145,-115.9515,3.7,0.5,ml,12,184.84,0.031,0.1354,nn,nn00870808,2023-12-28T14:10:53.409Z,"29 km WNW of Indian Springs, Nevada",earthquake,,0.4,0.44,6,automatic,nn,nn
 2023-12-28T14:00:57.330Z,38.8458328,-122.8170013,1.12,1.17,md,20,97,0.01794,0.04,nc,nc73982076,2023-12-28T14:17:17.957Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.45,0.21,22,automatic,nc,nc
 2023-12-28T14:00:34.449Z,36.737,-115.9964,2.4,0.4,ml,8,190.07,0.012,0.1231,nn,nn00870807,2023-12-28T14:02:13.111Z,"34 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.36,4,automatic,nn,nn
@@ -138,10 +139,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T23:12:22.710Z,38.8349991,-122.8170013,1.61,0.29,md,7,94,0.01279,0.01,nc,nc73981921,2023-12-27T23:41:17.530Z,"8 km W of Cobb, CA",earthquake,0.48,0.94,0.16,9,automatic,nc,nc
 2023-12-27T23:03:14.685Z,62.6675,-151.2381,88.5,2.1,ml,,,,0.48,ak,ak023glepxgs,2023-12-27T23:06:12.507Z,"30 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-27T23:01:07.050Z,19.1081666666667,-68.527,29.9,3.43,md,8,309,0.6065,0.16,pr,pr71435478,2023-12-28T00:54:48.040Z,"52 km NNE of Otra Banda, Dominican Republic",earthquake,3.27,12.35,0.159075862259537,7,reviewed,pr,pr
-2023-12-27T22:43:56.769Z,-7.7936,107.9423,71.557,5.1,mww,75,39,0.438,0.89,us,us6000m02j,2023-12-28T02:38:47.477Z,"52 km SSW of Singaparna, Indonesia",earthquake,7.36,2.591,0.086,13,reviewed,us,us
+2023-12-27T22:43:56.769Z,-7.7936,107.9423,71.557,5.1,mww,75,39,0.438,0.89,us,us6000m02j,2023-12-28T14:27:17.040Z,"52 km SSW of Singaparna, Indonesia",earthquake,7.36,2.591,0.086,13,reviewed,us,us
 2023-12-27T22:40:22.750Z,19.1870002746582,-155.490997314453,34.5400009155273,1.79999995,md,39,81,,0.119999997,hv,hv73698642,2023-12-27T22:43:37.290Z,"2 km SW of Pāhala, Hawaii",earthquake,0.54,0.709999979,1.65999997,6,automatic,hv,hv
 2023-12-27T22:35:07.900Z,54.7445,-164.097833333333,1.81,0.73,ml,4,209,,0.1,av,av91125878,2023-12-28T02:40:54.860Z,"45 km WSW of False Pass, Alaska",earthquake,0.57,2.58,0.226702438164654,4,reviewed,av,av
 2023-12-27T22:26:10.410Z,38.8325005,-122.8178329,1.61,0.31,md,9,84,0.01093,0.01,nc,nc73981916,2023-12-27T22:38:10.139Z,"8 km NW of The Geysers, CA",earthquake,0.45,1.05,0.21,9,automatic,nc,nc
+2023-12-27T22:22:15.380Z,38.4935,-112.8408333,-0.22,-0.32,md,7,110,0.02406,0.06,uu,uu60557122,2023-12-28T14:19:24.410Z,"18 km NE of Milford, Utah",earthquake,0.22,0.13,0.199,3,reviewed,uu,uu
 2023-12-27T22:21:10.180Z,38.7871666,-122.7699966,1.13,1.09,md,8,137,0.01524,0.01,nc,nc73981911,2023-12-27T23:18:15.376Z,"2 km NW of The Geysers, CA",earthquake,0.59,0.47,0.18,8,automatic,nc,nc
 2023-12-27T22:12:59.340Z,51.96,-177.17,-1.79,0.53,ml,5,299,,0.19,av,av92166566,2023-12-28T02:25:13.120Z,"38 km WNW of Adak, Alaska",earthquake,3.76,2.93,0.579401768976868,5,reviewed,av,av
 2023-12-27T22:10:37.660Z,38.8266678,-122.8525009,2.33,1.09,md,15,89,0.003526,0.02,nc,nc73981906,2023-12-27T23:05:18.291Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.53,0.42,16,automatic,nc,nc
@@ -196,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T17:56:24.100Z,51.9316666666667,-177.1745,8.59,0.46,ml,4,256,,0.2,av,av92166456,2023-12-28T01:08:47.350Z,"37 km W of Adak, Alaska",earthquake,1.95,1.03,0.430773849266916,4,reviewed,av,av
 2023-12-27T17:56:04.103Z,61.1931,-146.8367,7.2,1.8,ml,,,,0.47,ak,ak023glbgnyy,2023-12-27T17:58:33.060Z,"27 km WNW of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-27T17:54:16.580Z,51.9465,-177.196333333333,7.02,0.81,ml,4,304,,0.05,av,av92166451,2023-12-28T00:46:04.550Z,"39 km WNW of Adak, Alaska",earthquake,0.95,0.53,0.450418638270896,4,reviewed,av,av
-2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T14:05:01.715Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
+2023-12-27T17:46:56.340Z,35.7705,-90.1903333333333,11.54,3.8,mw,66,58,0.1119,0.18,nm,nm60563441,2023-12-28T14:24:11.216Z,"5 km NE of Etowah, Arkansas",earthquake,0.27,0.37,,0,reviewed,nm,nm
 2023-12-27T17:41:46.768Z,61.377,-150.2192,44,1.9,ml,,,,0.3,ak,ak023glbdjis,2023-12-27T17:43:26.871Z,"13 km W of Point MacKenzie, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-12-27T17:31:15.350Z,19.3881664276123,-155.487503051758,5.63000011444092,1.88,md,42,55,,0.209999993,hv,hv73698357,2023-12-27T17:34:18.580Z,"20 km N of Pāhala, Hawaii",earthquake,0.32,0.829999983,0.74000001,17,automatic,hv,hv
 2023-12-27T17:26:37.500Z,58.4138333333333,-154.770166666667,6.28,0.75,ml,14,147,,0.29,av,av92166436,2023-12-28T00:42:29.530Z,"95 km NNW of Karluk, Alaska",earthquake,0.67,1.08,0.180951111037007,14,reviewed,av,av
@@ -224,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T14:47:16.340Z,42.8645,-82.4677,7.325,2.4,ml,11,96,0.145,0.44,us,us6000m04m,2023-12-28T06:07:47.906Z,"3 km SW of Corunna, Canada",earthquake,2.17,3.839,0.115,10,reviewed,us,us
 2023-12-27T14:44:24.900Z,19.1561660766602,-155.365005493164,28.1700000762939,2.91,ml,56,180,,0.129999995,hv,hv73698252,2023-12-28T05:28:35.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.41,0.579999983,3.4,27,automatic,hv,hv
 2023-12-27T14:41:38.640Z,54.7423333333333,-164.120666666667,3.14,0.64,ml,4,240,,0.09,av,av91125793,2023-12-27T17:59:40.650Z,"47 km WSW of False Pass, Alaska",earthquake,0.54,0.66,0.216374794146784,4,reviewed,av,av
-2023-12-27T14:18:04.360Z,54.7476666666667,-164.1005,2.73,1.74,ml,9,104,,0.12,av,av92166331,2023-12-27T17:56:40.330Z,"45 km WSW of False Pass, Alaska",earthquake,0.32,0.58,0.210743141039617,10,reviewed,av,av
