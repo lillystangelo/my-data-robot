@@ -272,4 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T19:05:28.423Z,31.669,-104.403,4.5007,1.7,ml,15,70,0,0.4,tx,tx2023zlak,2023-12-28T19:38:56.914Z,"56 km S of Whites City, New Mexico",earthquake,0,1.38605249,0.1,13,automatic,tx,tx
 2023-12-28T19:02:00.560Z,61.6034,-148.7752,34.7,2,ml,,,,0.57,ak,ak023gmzvaqg,2023-12-28T19:03:21.663Z,"9 km ESE of Lazy Mountain, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-28T18:57:11.314Z,-56.1871,-27.2808,88.458,4.9,mb,46,76,5.603,0.57,us,us6000m08u,2023-12-28T19:33:00.040Z,"South Sandwich Islands region",earthquake,11.88,5.492,0.099,32,reviewed,us,us
-2023-12-28T18:53:04.245Z,36.695,-116.2812,4.6,0.1,ml,5,163.78,0.044,0.0508,nn,nn00870864,2023-12-29T04:52:49.132Z,"48 km ESE of Beatty, Nevada",earthquake,,4,0.05,2,reviewed,nn,nn
