@@ -256,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-30T22:51:23.350Z,33.5751667,-116.7863333,3.31,0.8,ml,43,41,0.02619,0.18,ci,ci40452823,2023-12-30T22:57:46.772Z,"11 km WNW of Anza, CA",earthquake,0.16,0.33,0.111,17,automatic,ci,ci
 2023-12-30T22:49:04.429Z,31.618,-103.979,6.6114,1.6,ml,16,61,0,0.3,tx,tx2023zoyu,2023-12-30T23:20:02.081Z,"37 km WSW of Mentone, Texas",earthquake,0,2.097612718,0.2,12,automatic,tx,tx
 2023-12-30T22:39:19.515Z,40.0319,142.0615,52.527,4.9,mb,29,123,1.073,0.66,us,us6000m0qf,2023-12-30T23:02:00.040Z,"22 km ESE of Noda, Japan",earthquake,6.73,7.708,0.135,17,reviewed,us,us
-2023-12-30T22:36:04.316Z,59.8001,-153.4288,135,3.1,ml,,,,0.25,ak,ak023gqcxl3z,2023-12-30T23:19:02.095Z,"38 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
