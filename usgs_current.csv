@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-31T05:38:35.530Z,37.6128349,-118.8666687,0.88,0.92,md,8,143,0.006818,0.01,nc,nc73983286,2023-12-31T06:11:14.083Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.59,0.75,0.09,8,automatic,nc,nc
 2023-12-31T05:34:59.430Z,38.8348351,-122.8066635,2.08,0.44,md,8,134,0.01173,0.01,nc,nc73983281,2023-12-31T05:58:12.133Z,"7 km W of Cobb, CA",earthquake,0.57,1.12,0.25,10,automatic,nc,nc
 2023-12-31T05:34:36.123Z,39.5511,-119.802,9.2,1.8,ml,16,72.99,0.05,0.3206,nn,nn00871008,2023-12-31T06:47:02.799Z,"2 km NNE of Reno, Nevada",earthquake,,0.4,0.05,8,automatic,nn,nn
-2023-12-31T05:29:43.370Z,38.8363342,-122.7975006,1.86,1.1,md,17,83,0.005961,0.01,nc,nc73983271,2023-12-31T06:49:11.333Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.41,0.11,21,automatic,nc,nc
+2023-12-31T05:29:43.370Z,38.8363342,-122.7975006,1.86,1.1,md,17,83,0.005961,0.01,nc,nc73983271,2023-12-31T06:52:11.354Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.41,0.11,21,automatic,nc,nc
 2023-12-31T05:24:51.631Z,37.0587,-114.7148,4.8,1.4,ml,10,286.19,0.439,0.2908,nn,nn00871006,2023-12-31T05:27:18.805Z,"43 km NNW of Moapa Town, Nevada",earthquake,,9,0.16,3,automatic,nn,nn
 2023-12-31T05:23:49.579Z,31.604,-103.955,5.7544,1.8,ml,16,73,0,0.3,tx,tx2023zplu,2023-12-31T06:04:41.524Z,"35 km WSW of Mentone, Texas",earthquake,0,2.26101331,0.2,12,automatic,tx,tx
 2023-12-31T05:22:48.221Z,56.1105,-149.6436,10,3.7,ml,53,180,2.325,0.89,us,us6000m0s4,2023-12-31T05:42:57.040Z,"231 km SE of Chiniak, Alaska",earthquake,9.08,2.004,0.053,46,reviewed,us,us
@@ -319,4 +319,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-30T07:21:19.140Z,62.9078,-150.8034,107.1,1.9,ml,,,,0.35,ak,ak023gq3wwi2,2023-12-30T07:23:40.891Z,"45 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-30T07:21:02.412Z,31.642,-103.99,17.6545,1.6,ml,11,146,0,1.1,tx,tx2023znue,2023-12-30T07:52:19.482Z,"37 km W of Mentone, Texas",earthquake,0,3.862580732,0.2,9,automatic,tx,tx
 2023-12-30T07:01:38.550Z,19.3791675567627,-155.281173706055,1.08000004291534,1.77,ml,16,83,,0.119999997,hv,hv73701857,2023-12-30T07:07:10.240Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.25,0.29,5,automatic,hv,hv
-2023-12-30T06:57:22.750Z,19.3818333333333,-155.240833333333,0.82,0.68,md,18,81,,0.07,hv,hv73701847,2023-12-30T07:40:13.880Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.22,0.220540072110421,2,reviewed,hv,hv
