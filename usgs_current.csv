@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-08T05:48:44.828Z,62.4705,-151.4571,94.7,2.3,ml,,,,0.72,ak,ak024dbkbsy,2024-01-08T05:52:03.626Z,"35 km W of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-01-08T05:24:31.780Z,37.406,-117.8476,4.5,1.9,ml,21,315.89,0.236,0.3716,nn,nn00871433,2024-01-08T05:27:09.689Z,"34 km SSE of Dyer, Nevada",earthquake,,1.9,0.35,15,automatic,nn,nn
 2024-01-08T05:17:24.292Z,37.315,-117.6946,0.7,1.7,ml,13,299.88,0.091,0.3093,nn,nn00871432,2024-01-08T05:19:58.133Z,"49 km S of Silver Peak, Nevada",earthquake,,15.6,0.52,10,automatic,nn,nn
 2024-01-08T05:13:47.430Z,38.7576675,-122.7340012,2.42,1.59,md,23,65,0.00815,0.04,nc,nc73986346,2024-01-08T05:31:10.344Z,"3 km SE of The Geysers, CA",earthquake,0.24,0.45,0.18,23,automatic,nc,nc
@@ -161,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-07T06:38:34.720Z,38.8190002,-122.822998,2.21,0.75,md,14,57,0.01026,0.02,nc,nc73986001,2024-01-07T08:57:10.888Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.68,0.13,16,automatic,nc,nc
 2024-01-07T06:26:56.376Z,37.1974,136.7744,10,4.8,mb,81,65,1.318,0.79,us,us6000m2b6,2024-01-07T06:56:09.040Z,"11 km WSW of Anamizu, Japan",earthquake,5.2,1.853,0.048,139,reviewed,us,us
 2024-01-07T06:20:31.940Z,37.7675018,-122.0500031,9.86,1.38,md,11,93,0.03185,0.05,nc,nc73985996,2024-01-07T08:05:11.628Z,"6 km WSW of San Ramon, CA",earthquake,0.38,0.59,0.23,8,automatic,nc,nc
-2024-01-07T05:50:08.032Z,59.4258,-151.5395,43.3,4.3,ml,,,,0.54,ak,ak024bo1buk,2024-01-08T05:21:25.176Z,"8 km SE of Seldovia Village, Alaska",earthquake,,0.3,,,reviewed,ak,ak
