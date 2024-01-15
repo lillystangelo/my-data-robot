@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T19:32:59.680Z,33.5548333,-116.6335,16.46,0.75,ml,27,56,0.01206,0.13,ci,ci40460255,2024-01-15T20:10:36.357Z,"4 km E of Anza, CA",earthquake,0.25,0.4,0.111,16,reviewed,ci,ci
 2024-01-15T19:23:10.550Z,38.8333321,-122.8181686,1.5,0.71,md,14,59,0.01177,0.01,nc,nc73989706,2024-01-15T19:55:13.442Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.74,0.29,14,automatic,nc,nc
 2024-01-15T19:20:27.240Z,38.7311668,-122.9151688,5.81,1.09,md,12,181,0.06552,0.02,nc,nc73989701,2024-01-15T19:43:13.367Z,"12 km SE of Cloverdale, CA",earthquake,1.06,1.47,0.16,13,automatic,nc,nc
-2024-01-15T19:14:11.970Z,38.8380013,-122.8066635,0.95,0.72,md,6,131,0.01275,0.02,nc,nc73989696,2024-01-15T19:32:14.298Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.44,0.52,8,automatic,nc,nc
+2024-01-15T19:14:11.970Z,38.8380013,-122.8066635,0.95,0.72,md,6,131,0.01275,0.02,nc,nc73989696,2024-01-15T20:45:10.774Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.44,0.52,8,automatic,nc,nc
 2024-01-15T19:07:04.980Z,33.8195,-117.485,2.25,1.71,ml,65,49,0.03336,0.2,ci,ci40460247,2024-01-15T19:14:23.490Z,"7 km SSE of Home Gardens, CA",earthquake,0.17,0.26,0.237,31,automatic,ci,ci
 2024-01-15T18:56:09.970Z,33.9603333,-116.9603333,8.54,1.18,ml,47,33,0.1344,0.14,ci,ci40460231,2024-01-15T20:10:50.340Z,"4 km NNE of Beaumont, CA",earthquake,0.12,0.53,0.16,28,reviewed,ci,ci
 2024-01-15T18:02:10.280Z,47.794,-123.185,46.45,2.32,ml,23,71,0.1631,0.18,uw,uw61979991,2024-01-15T18:25:32.370Z,"23 km W of Quilcene, Washington",earthquake,0.45,0.79,0.1608852447795961,14,reviewed,uw,uw
@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T06:08:39.925Z,62.1754,-150.613,0,2.4,ml,,,,0.85,ak,ak024owolug,2024-01-15T06:11:01.410Z,"25 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-15T06:08:05.510Z,38.8354988,-122.8150024,0.59,0.72,md,11,60,0.01268,0.02,nc,nc73989391,2024-01-15T07:40:11.971Z,"8 km W of Cobb, CA",earthquake,0.23,0.61,0.21,10,automatic,nc,nc
 2024-01-15T06:04:59.574Z,60.1276,-150.5388,34.8,1.8,ml,,,,0.6,ak,ak024ownshx,2024-01-15T06:07:10.655Z,"38 km NE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-15T05:48:16.630Z,47.88183333333333,-122.00733333333334,27.94,2.67,ml,16,106,0.03658,0.19,uw,uw61979961,2024-01-15T17:07:57.838Z,"1 km SSE of Roosevelt, Washington",earthquake,0.57,0.85,0.26030105655365876,14,reviewed,uw,uw
+2024-01-15T05:48:16.620Z,47.88333333333333,-122.01066666666667,28.03,2.67,ml,67,43,0.03894,0.25,uw,uw61979961,2024-01-15T20:53:59.130Z,"1 km S of Roosevelt, Washington",earthquake,0.3,0.46,0.19340446991955074,64,reviewed,uw,uw
 2024-01-15T05:39:05.813Z,31.58,-104.536,3.5126,2,ml,8,157,0.1,0.3,tx,tx2024baaf,2024-01-15T06:24:27.777Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.790244827,0.2,6,automatic,tx,tx
 2024-01-15T05:37:31.210Z,19.1860008239746,-155.371337890625,28.5599994659424,1.79999995,md,34,180,,0.140000001,hv,hv73717912,2024-01-15T05:40:50.030Z,"11 km E of Pāhala, Hawaii",earthquake,0.84,0.680000007,1.79999995,4,automatic,hv,hv
 2024-01-15T05:37:20.950Z,62.1884,-150.6099,1,2.6,ml,,,,0.8,ak,ak024ow9cjj,2024-01-15T05:39:41.621Z,"24 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-14T21:09:06.028Z,60.8838,-149.0569,8.1,1.6,ml,,,,0.4,ak,ak024ni2wiy,2024-01-14T21:11:02.873Z,"8 km SE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-14T21:06:16.300Z,33.0291667,-116.0113333,2.46,1.97,ml,75,22,0.1463,0.23,ci,ci40459815,2024-01-14T21:17:32.030Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.15,0.43,0.19,27,automatic,ci,ci
 2024-01-14T21:02:41.510Z,46.215666666666664,-122.17966666666666,6.71,0.31,ml,11,88,0.006808,0.14,uw,uw61979936,2024-01-15T06:46:15.070Z,"38 km S of Morton, Washington",earthquake,0.42,0.83,0.09268108021197395,6,reviewed,uw,uw
-2024-01-14T20:52:16.750Z,34.5201667,-118.1025,9.61,1.14,ml,19,44,0.03598,0.1,ci,ci40459799,2024-01-15T01:22:35.865Z,"2 km NNE of Vincent, CA",earthquake,0.17,0.28,0.258,21,reviewed,ci,ci
-2024-01-14T20:45:46.000Z,19.3926658630371,-155.277496337891,0.910000026226044,2.2,ml,15,94,,0.119999997,hv,hv73717202,2024-01-14T20:51:17.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.150000006,1.94,10,automatic,hv,hv
