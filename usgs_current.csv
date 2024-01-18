@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-18T14:45:09.635Z,36.6376,-116.2419,7.3,1.4,ml,22,160.03,0.078,0.1046,nn,nn00871806,2024-01-18T14:47:15.437Z,"51 km W of Indian Springs, Nevada",earthquake,,0.6,0.32,18,automatic,nn,nn
 2024-01-18T14:35:17.792Z,36.5989,-116.2504,10.5,0.7,ml,17,228.53,0.085,0.1405,nn,nn00871804,2024-01-18T14:37:05.727Z,"49 km NNW of Pahrump, Nevada",earthquake,,0.7,0.39,11,automatic,nn,nn
-2024-01-18T14:32:37.330Z,38.8279991,-122.8151703,2.11,1.08,md,19,43,0.006081,0.01,nc,nc73991091,2024-01-18T14:34:15.597Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.45,0.11,21,automatic,nc,nc
+2024-01-18T14:32:37.330Z,38.8279991,-122.8151703,2.11,1.08,md,19,43,0.006081,0.01,nc,nc73991091,2024-01-18T14:44:10.577Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.45,0.11,21,automatic,nc,nc
 2024-01-18T14:16:06.366Z,36.6166,-116.2292,9.9,0.9,ml,13,228.02,0.083,0.3479,nn,nn00871802,2024-01-18T14:18:13.593Z,"50 km W of Indian Springs, Nevada",earthquake,,0.9,0.36,10,automatic,nn,nn
 2024-01-18T14:06:46.133Z,36.5804,-116.2805,11.5,0.4,ml,8,252.06,0.08,0.2559,nn,nn00871801,2024-01-18T14:09:10.641Z,"49 km NNW of Pahrump, Nevada",earthquake,,1.2,0.38,6,automatic,nn,nn
 2024-01-18T13:56:26.969Z,63.5965,-150.763,3.2,1.9,ml,,,,0.61,ak,ak024tzqxxk,2024-01-18T13:58:27.951Z,"48 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T15:10:16.190Z,37.9118333,-121.9951667,9.95,0.94,md,13,140,0.05294,0.05,nc,nc73990636,2024-01-17T21:59:18.529Z,"6 km WSW of Clayton, CA",earthquake,0.28,0.44,0.317,9,reviewed,nc,nc
 2024-01-17T15:10:05.100Z,18.3275,-66.6635,119.23,3.12,md,17,159,0.09178,0.15,pr,pr71437088,2024-01-17T23:39:24.040Z,"7 km NNE of Utuado, Puerto Rico",earthquake,1.58,0.81,0.0380875602475494,10,reviewed,pr,pr
 2024-01-17T14:51:11.230Z,38.8353348,-122.8161697,1.61,0.85,md,11,61,0.01543,0.01,nc,nc73990626,2024-01-17T17:07:14.752Z,"8 km W of Cobb, CA",earthquake,0.27,1.18,0.24,13,automatic,nc,nc
-2024-01-17T14:48:42.270Z,35.64,-117.458,5.67,0.83,ml,18,74,0.03752,0.17,ci,ci40461455,2024-01-17T19:57:37.922Z,"15 km SSW of Searles Valley, CA",earthquake,0.3,0.5,0.144,5,reviewed,ci,ci
