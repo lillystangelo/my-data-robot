@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-19T17:20:41.080Z,38.8171654,-122.8160019,2.08,1.09,md,20,47,0.007755,0.05,nc,nc73991556,2024-01-19T17:22:17.251Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.65,0.17,20,automatic,nc,nc
-2024-01-19T17:10:29.250Z,38.8219986,-122.7938309,3.38,0.77,md,8,93,0.01276,0.02,nc,nc73991551,2024-01-19T17:30:09.997Z,"6 km NNW of The Geysers, CA",earthquake,0.81,2.89,0.18,8,automatic,nc,nc
+2024-01-19T17:36:34.290Z,34.1436667,-116.4085,5.78,1.16,ml,36,39,0.053,0.15,ci,ci40462823,2024-01-19T17:42:45.476Z,"4 km NNE of Yucca Valley, CA",earthquake,0.17,0.44,0.15,21,automatic,ci,ci
+2024-01-19T17:20:41.080Z,38.8171654,-122.8160019,2.08,1.09,md,20,47,0.007755,0.05,nc,nc73991556,2024-01-19T17:41:11.066Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.65,0.17,20,automatic,nc,nc
+2024-01-19T17:10:29.250Z,38.8219986,-122.7938309,3.38,0.77,md,8,93,0.01276,0.02,nc,nc73991551,2024-01-19T17:45:12.091Z,"6 km NNW of The Geysers, CA",earthquake,0.81,2.89,0.18,8,automatic,nc,nc
 2024-01-19T17:10:09.350Z,38.8325005,-122.8199997,1.76,0.96,md,13,136,0.01195,0.01,nc,nc73991546,2024-01-19T17:34:12.020Z,"8 km NW of The Geysers, CA",earthquake,0.43,0.55,0.29,14,automatic,nc,nc
 2024-01-19T17:04:13.530Z,38.8165016,-122.8144989,1.3,2.12,md,36,46,0.007703,0.13,nc,nc73991541,2024-01-19T17:21:13.946Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.35,0.16,37,automatic,nc,nc
 2024-01-19T17:02:58.120Z,38.8303337,-122.8186646,1.93,1.12,md,21,49,0.009645,0.02,nc,nc73991536,2024-01-19T17:21:12.945Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.4,0.1,22,automatic,nc,nc
-2024-01-19T16:57:02.160Z,46.8678,141.7619,10,4.6,mb,54,85,0.691,0.54,us,us6000m4r1,2024-01-19T17:31:56.040Z,"20 km WSW of Pravda, Russia",earthquake,7.28,1.885,0.067,66,reviewed,us,us
+2024-01-19T16:57:02.160Z,46.8678,141.7619,10,4.6,mb,54,85,0.691,0.54,us,us6000m4r1,2024-01-19T17:46:13.619Z,"20 km WSW of Pravda, Russia",earthquake,7.28,1.885,0.067,66,reviewed,us,us
 2024-01-19T16:52:45.500Z,38.836834,-122.8381653,4.35,0.86,md,9,108,0.002729,0.07,nc,nc73991531,2024-01-19T17:10:12.881Z,"10 km NW of The Geysers, CA",earthquake,0.7,0.88,0.44,8,automatic,nc,nc
 2024-01-19T16:52:44.147Z,62.135,-152.1214,108.2,2.1,ml,,,,0.56,ak,ak024vp1rpa,2024-01-19T16:55:56.833Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-19T16:10:05.190Z,45.370333333333335,-121.7025,0.27,0.35000000000000003,ml,5,96,0.01195,0.04,uw,uw61980456,2024-01-19T16:47:03.580Z,"8 km NNE of Government Camp, Oregon",earthquake,0.32,0.5,0.17082959395711353,3,reviewed,uw,uw
