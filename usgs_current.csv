@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T03:54:02.424Z,67.3505,-156.3148,0,3.2,ml,,,,0.74,ak,ak024yse65k,2024-01-21T04:06:14.040Z,"55 km NNE of Kobuk, Alaska",earthquake,,460.4,,,automatic,ak,ak
 2024-01-21T03:50:08.470Z,35.6645012,-121.1193314,7.3,1.67,md,13,142,0.03312,0.11,nc,nc73992061,2024-01-21T04:07:14.929Z,"7 km ENE of San Simeon, CA",earthquake,0.45,1.94,0.08,7,automatic,nc,nc
 2024-01-21T03:42:04.345Z,58.9971,-152.5648,60.7,2.1,ml,,,,0.46,ak,ak024ysblle,2024-01-21T03:44:29.984Z,"54 km SW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-01-21T03:33:41.970Z,38.8264999,-122.8564987,2.65,0.84,md,15,96,0.01647,0.03,nc,nc73992056,2024-01-21T03:51:16.846Z,"10 km WNW of The Geysers, CA",earthquake,0.33,0.66,0.24,16,automatic,nc,nc
+2024-01-21T03:33:41.970Z,38.8264999,-122.8564987,2.65,0.84,md,15,96,0.01647,0.03,nc,nc73992056,2024-01-21T05:35:17.500Z,"10 km WNW of The Geysers, CA",earthquake,0.33,0.66,0.24,16,automatic,nc,nc
 2024-01-21T03:24:57.681Z,60.1465,-152.852,115.9,1.7,ml,,,,0.55,ak,ak024ys7utk,2024-01-21T03:27:09.357Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-21T03:23:08.440Z,19.4080009460449,-155.284164428711,0.389999985694885,2.09,ml,24,46,,0.25999999,hv,hv73723387,2024-01-21T03:28:38.640Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.209999993,3.7,4,automatic,hv,hv
 2024-01-21T03:23:00.240Z,19.4063339233398,-155.28450012207,0.660000026226044,2.16,ml,22,42,,0.100000001,hv,hv73723382,2024-01-21T03:28:31.670Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.170000002,0.23,10,automatic,hv,hv
@@ -271,4 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-20T05:49:33.106Z,61.8939,-149.299,8.3,1.7,ml,,,,0.71,ak,ak024x60oji,2024-01-20T05:51:38.410Z,"17 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-20T05:45:47.154Z,64.4881,-146.9012,1.4,1.4,ml,,,,0.61,ak,ak024x5zurf,2024-01-20T05:46:51.913Z,"4 km S of Salcha, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-01-20T05:45:16.991Z,64.3767,-146.6749,22.5,1.3,ml,,,,1.58,ak,ak024x5zsfn,2024-01-20T05:46:58.486Z,"3 km W of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-20T05:37:51.528Z,59.8397,-152.8857,101,1.9,ml,,,,0.31,ak,ak024x5y5dc,2024-01-20T05:39:48.585Z,"59 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
