@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-21T17:09:26.350Z,38.814167,-122.8181686,2.93,1.1,md,25,52,0.0101,0.05,nc,nc73992216,2024-01-21T17:11:03.181Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.57,0.15,25,automatic,nc,nc
+2024-01-21T17:09:26.350Z,38.814167,-122.8181686,2.93,1.1,md,25,52,0.0101,0.05,nc,nc73992216,2024-01-21T17:26:13.712Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.57,0.15,25,automatic,nc,nc
 2024-01-21T17:02:41.860Z,19.3379993438721,-155.187835693359,-0.680000007152557,2.5,ml,42,99,,0.230000004,hv,hv73723952,2024-01-21T17:11:59.040Z,"12 km SSE of Volcano, Hawaii",earthquake,0.37,0.180000007,1.77,25,automatic,hv,hv
 2024-01-21T16:59:02.710Z,33.0298333,-116.0058333,4.51,0.99,ml,40,48,0.1452,0.22,ci,ci40463687,2024-01-21T17:05:02.386Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.2,0.83,0.134,12,automatic,ci,ci
 2024-01-21T16:56:01.140Z,33.2118333,-116.0683333,8.44,1.43,ml,55,49,0.08504,0.21,ci,ci40463679,2024-01-21T17:07:18.570Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.18,0.64,0.158,28,automatic,ci,ci
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-20T17:44:21.330Z,33.3088333,-116.2406667,8.64,3.19,ml,101,17,0.07862,0.19,ci,ci40463303,2024-01-21T16:36:05.670Z,"14 km ENE of Borrego Springs, CA",earthquake,0.1,0.52,0.141,118,reviewed,ci,ci
 2024-01-20T17:41:00.324Z,60.673,-147.4098,13.1,1.8,ml,,,,1.07,ak,ak024xd43jk,2024-01-20T17:42:58.453Z,"45 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-20T17:34:42.453Z,64.4877,-146.9426,5.6,1.1,ml,,,,0.57,ak,ak024xd2os5,2024-01-20T17:37:04.275Z,"4 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-20T17:27:54.770Z,38.8321648,-122.8160019,1.46,1.04,md,12,59,0.009906,0.01,nc,nc73991946,2024-01-20T20:00:09.962Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.85,0.24,13,automatic,nc,nc
