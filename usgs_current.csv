@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-28T02:51:26.250Z,19.38450050354,-155.277496337891,0.819999992847443,2.61999989,md,27,64,,0.310000002,hv,hv73729507,2024-01-28T02:54:43.510Z,"7 km SW of Volcano, Hawaii",earthquake,0.42,0.310000002,1.35000002,19,automatic,hv,hv
+2024-01-28T02:48:35.690Z,63.1494,-150.5103,82.6,1.6,ml,,,,1.99,ak,ak0241aciy5t,2024-01-28T02:50:44.082Z,"73 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-28T02:42:43.251Z,62.8215,-149.2572,75.7,1.4,ml,,,,0.43,ak,ak0241achog5,2024-01-28T02:44:41.317Z,"59 km NE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-01-28T02:35:42.580Z,19.3910007476807,-155.275833129883,1.86000001430511,1.72,ml,9,118,,0.109999999,hv,hv73729462,2024-01-28T02:41:13.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.28,0.439999998,0.2,3,automatic,hv,hv
 2024-01-28T02:21:23.660Z,38.8336678,-122.8166656,1.82,1.03,md,17,58,0.0155,0.01,nc,nc73995506,2024-01-28T02:39:14.321Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.56,0.24,18,automatic,nc,nc
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-28T01:01:56.770Z,18.5741666666667,-65.0415,71.82,3.29,md,16,251,0.2349,0.3,pr,pr71437833,2024-01-28T01:29:58.300Z,"28 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.77,1.35,0.148347552950387,12,reviewed,pr,pr
 2024-01-28T01:01:44.934Z,60.193,-152.4649,97.7,2.6,ml,,,,0.96,ak,ak0241abngm5,2024-01-28T01:07:08.643Z,"47 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-28T00:57:19.670Z,19.864,-64.4915,61,3.98,md,13,311,1.5815,0.48,pr,pr2024028000,2024-01-28T01:47:26.155Z,"172 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.5,22.58,0.14,8,reviewed,pr,pr
-2024-01-28T00:53:54.100Z,38.8353348,-122.8068314,2.24,1.07,md,18,58,0.01219,0.02,nc,nc73995481,2024-01-28T02:27:15.254Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.58,0.11,20,automatic,nc,nc
+2024-01-28T00:53:54.100Z,38.8353348,-122.8068314,2.24,1.07,md,18,58,0.01219,0.02,nc,nc73995481,2024-01-28T02:47:12.367Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.58,0.11,20,automatic,nc,nc
 2024-01-28T00:49:19.040Z,19.3936666666667,-155.279333333333,1.45,1.44,md,13,95,,0.09,hv,hv73729197,2024-01-28T01:05:47.010Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.31,0.112853389586707,2,reviewed,hv,hv
 2024-01-28T00:47:18.470Z,19.3794994354248,-155.279327392578,1.44000005722046,1.8,ml,15,88,,0.100000001,hv,hv73729187,2024-01-28T00:52:51.510Z,"8 km SW of Volcano, Hawaii",earthquake,0.26,0.319999993,0.16,5,automatic,hv,hv
 2024-01-28T00:39:54.400Z,19.368,-155.2885,1.84,1.67,md,22,60,,0.1,hv,hv73729172,2024-01-28T00:55:45.010Z,"10 km SW of Volcano, Hawaii",earthquake,0.21,0.28,0.0584276902611587,3,reviewed,hv,hv
@@ -243,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T03:06:49.340Z,38.831665,-122.8178329,1.63,0.93,md,12,84,0.01024,0.02,nc,nc73994941,2024-01-27T03:58:13.131Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.42,0.31,10,automatic,nc,nc
 2024-01-27T03:01:20.590Z,38.8308334,-122.817337,1.61,1.04,md,23,50,0.009346,0.02,nc,nc73994936,2024-01-27T03:47:19.078Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.4,0.16,24,automatic,nc,nc
 2024-01-27T02:57:41.976Z,64.4914,-146.9037,11.2,1.2,ml,,,,0.32,ak,ak02418p1jlh,2024-01-27T02:59:03.179Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-27T02:46:36.251Z,60.414,-147.4436,21.5,1.7,ml,,,,0.39,ak,ak02418oz6a1,2024-01-27T02:48:10.118Z,"49 km NE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
