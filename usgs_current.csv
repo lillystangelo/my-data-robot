@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-28T20:29:22.820Z,19.3899993896484,-155.279663085938,1.21000003814697,1.78,ml,15,56,,0.100000001,hv,hv73733192,2024-01-28T20:34:55.740Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.270000011,0.09,4,automatic,hv,hv
-2024-01-28T20:28:59.149Z,62.6978,-150.3387,70.6,2.2,ml,,,,0.5,ak,ak0241an4iis,2024-01-28T20:30:57.559Z,"30 km NNW of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-01-28T20:28:59.149Z,62.6978,-150.3387,70.6,2.2,ml,,,,0.5,ak,ak0241an4iis,2024-01-28T20:37:11.040Z,"30 km NNW of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-01-28T20:23:58.556Z,64.4848,-146.9456,9.2,1.9,ml,,,,0.32,ak,ak0241an3fwv,2024-01-28T20:31:21.255Z,"4 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-28T20:16:41.889Z,63.5578,-150.7647,4.2,1.7,ml,,,,0.58,ak,ak0241an1wm4,2024-01-28T20:18:36.538Z,"47 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-28T20:10:05.200Z,19.3818340301514,-155.279830932617,0.28999999165535,1.72000003,md,9,160,,0.100000001,hv,hv73733132,2024-01-28T20:12:57.380Z,"8 km SW of Volcano, Hawaii",earthquake,0.19,0.230000004,1.66999996,8,automatic,hv,hv
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-28T18:16:15.782Z,64.4529,-146.8685,14.3,1.1,ml,,,,0.51,ak,ak0241aluze2,2024-01-28T18:18:11.747Z,"8 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-28T18:14:38.110Z,19.3974990844727,-155.273498535156,1.41999995708466,1.95,ml,21,46,,0.140000001,hv,hv73732907,2024-01-28T18:20:10.310Z,"6 km SW of Volcano, Hawaii",earthquake,0.21,0.180000007,0.17,7,automatic,hv,hv
 2024-01-28T18:12:44.524Z,57.7832,-153.5703,51.5,2.3,ml,,,,0.37,ak,ak0241alu6qs,2024-01-28T18:14:47.177Z,"36 km NE of Larsen Bay, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2024-01-28T18:11:22.847Z,23.6297,121.3333,4.469,5.1,mww,71,82,0.238,0.75,us,us7000lul3,2024-01-28T18:54:50.543Z,"47 km SW of Hualien City, Taiwan",earthquake,3.33,4.044,0.071,19,reviewed,us,us
+2024-01-28T18:11:22.847Z,23.6297,121.3333,4.469,5.1,mww,71,82,0.238,0.75,us,us7000lul3,2024-01-28T20:43:31.395Z,"47 km SW of Hualien City, Taiwan",earthquake,3.33,4.044,0.071,19,reviewed,us,us
 2024-01-28T17:55:20.670Z,38.8378334,-122.8089981,2.1,0.3,md,10,81,0.01444,0.01,nc,nc73995836,2024-01-28T20:02:10.477Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.19,0.19,11,automatic,nc,nc
 2024-01-28T17:53:01.130Z,19.3735008239746,-155.282333374023,1.74000000953674,2.3,ml,34,53,,0.209999993,hv,hv73732857,2024-01-28T17:58:32.480Z,"9 km SSW of Volcano, Hawaii",earthquake,0.27,0.330000013,0.21,8,automatic,hv,hv
 2024-01-28T17:45:51.130Z,19.3735008239746,-155.281829833984,1.28999996185303,2.17,ml,28,53,,0.180000007,hv,hv73732837,2024-01-28T17:51:22.010Z,"9 km SSW of Volcano, Hawaii",earthquake,0.2,0.270000011,0.28,8,automatic,hv,hv
@@ -113,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-28T09:33:10.510Z,19.3826675415039,-155.303833007812,0.790000021457672,1.98000002,md,11,124,,0.170000002,hv,hv73730507,2024-01-28T09:36:30.350Z,"9 km SW of Volcano, Hawaii",earthquake,0.56,0.330000013,1.63,6,automatic,hv,hv
 2024-01-28T09:32:28.600Z,19.3811664581299,-155.280334472656,1.01999998092651,1.71,ml,15,77,,0.150000006,hv,hv73730497,2024-01-28T09:38:05.640Z,"8 km SW of Volcano, Hawaii",earthquake,0.22,0.300000012,0.16,4,automatic,hv,hv
 2024-01-28T09:32:05.700Z,19.386999130249,-155.277328491211,0.270000010728836,1.71,ml,12,127,,0.140000001,hv,hv73730487,2024-01-28T09:37:59.630Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.300000012,0.16,4,automatic,hv,hv
-2024-01-28T09:23:22.816Z,40.7073,15.443,5.395,4.2,mb,50,91,0.739,0.88,us,us7000lui0,2024-01-28T10:38:00.040Z,"5 km NW of Ricigliano, Italy",earthquake,5.38,5.88,0.153,12,reviewed,us,us
+2024-01-28T09:23:22.816Z,40.7073,15.443,5.395,4.2,mb,50,91,0.739,0.88,us,us7000lui0,2024-01-28T20:44:12.501Z,"5 km NW of Ricigliano, Italy",earthquake,5.38,5.88,0.153,12,reviewed,us,us
 2024-01-28T09:05:53.620Z,38.8301659,-122.8128357,-0.04,0.86,md,9,84,0.007097,0.1,nc,nc73995646,2024-01-28T11:26:10.435Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.3,0.15,10,automatic,nc,nc
 2024-01-28T09:04:37.360Z,62.4959,-151.4298,82.3,1.8,ml,,,,0.57,ak,ak0241agfk0o,2024-01-28T09:06:37.399Z,"34 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-28T08:54:34.190Z,19.3864994049072,-155.27783203125,1.21000003814697,1.71000004,md,15,67,,0.0799999982,hv,hv73730272,2024-01-28T08:57:31.950Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.180000007,0.680000007,11,automatic,hv,hv
@@ -265,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T20:58:19.050Z,38.8095016,-122.7720032,1.18,0.8,md,7,128,0.007751,0.01,nc,nc73995376,2024-01-27T21:33:13.502Z,"4 km NNW of The Geysers, CA",earthquake,0.52,0.92,0.18,10,automatic,nc,nc
 2024-01-27T20:56:35.560Z,19.3898334503174,-155.278671264648,1.11000001430511,1.92,ml,18,56,,0.119999997,hv,hv73728632,2024-01-27T21:02:06.390Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.180000007,0.25,7,automatic,hv,hv
 2024-01-27T20:53:17.360Z,38.8354988,-122.8326645,0.66,0.75,md,16,59,0.003792,0.03,nc,nc73995371,2024-01-27T21:22:12.426Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.44,0.18,15,automatic,nc,nc
-2024-01-27T20:39:00.749Z,32.1492,-93.3147,5,3.5,mb_lg,37,73,0.784,0.66,us,us7000lueh,2024-01-28T14:44:23.560Z,"3 km SSW of Hall Summit, Louisiana",earthquake,5.92,1.999,0.041,153,reviewed,us,us
