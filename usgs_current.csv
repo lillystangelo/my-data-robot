@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-31T10:49:36.269Z,-22.8316,-177.1381,185.482,5.8,mww,106,31,2.441,0.86,us,us7000lv7d,2024-01-31T11:11:11.749Z,"264 km SW of Houma, Tonga",earthquake,9.91,5.584,0.068,21,reviewed,us,us
 2024-01-31T10:47:45.270Z,33.6861667,-116.7938333,16.87,0.86,ml,50,60,0.07094,0.16,ci,ci39760410,2024-01-31T10:54:01.507Z,"9 km SW of Idyllwild, CA",earthquake,0.16,0.33,0.226,24,automatic,ci,ci
 2024-01-31T10:21:29.125Z,61.7141,-151.0295,60,1.8,ml,,,,0.38,ak,ak0241ffqnn4,2024-01-31T10:24:02.090Z,"33 km NW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-31T10:16:54.400Z,19.3834991455078,-155.280166625977,1.37000000476837,1.74000001,md,17,76,0.003352,0.150000006,hv,hv74079341,2024-01-31T10:18:14.950Z,"8 km SW of Volcano, Hawaii",earthquake,0.29,0.300000012,0.720000029,12,automatic,hv,hv
+2024-01-31T10:16:54.400Z,19.3834991455078,-155.280166625977,1.37000000476837,1.75,ml,17,76,0.003352,0.150000006,hv,hv74079341,2024-01-31T11:38:20.490Z,"8 km SW of Volcano, Hawaii",earthquake,0.29,0.300000012,0.11,5,automatic,hv,hv
 2024-01-31T10:15:51.810Z,19.3856658935547,-155.277160644531,1.51999998092651,2.11999989,md,17,68,0.004385,0.159999996,hv,hv74079336,2024-01-31T10:17:19.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.25999999,0.5,13,automatic,hv,hv
 2024-01-31T10:11:10.349Z,63.1893,-150.5559,114.7,1.8,ml,,,,0.44,ak,ak0241ffoh16,2024-01-31T10:13:53.070Z,"70 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-01-31T10:05:11.520Z,38.833168,-122.8103333,1.97,1.22,md,11,71,0.009761,0.02,nc,nc73997031,2024-01-31T10:39:16.047Z,"8 km W of Cobb, CA",earthquake,0.3,0.96,0.2,12,automatic,nc,nc
@@ -279,4 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-30T12:18:40.851Z,64.4935,-146.9157,0.1,1.8,ml,,,,0.39,ak,ak0241dtdk45,2024-01-30T12:20:36.006Z,"3 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-30T12:14:21.940Z,19.3843326568604,-155.272506713867,1.20000004768372,1.87,ml,12,133,,0.140000001,hv,hv73737247,2024-01-30T12:19:53.370Z,"7 km SSW of Volcano, Hawaii",earthquake,0.24,0.389999986,0.24,3,automatic,hv,hv
 2024-01-30T11:54:01.790Z,33.3146667,-116.2355,5.51,0.83,ml,41,58,0.07817,0.19,ci,ci39759802,2024-01-30T17:09:41.976Z,"14 km ENE of Borrego Springs, CA",earthquake,0.22,0.45,0.086,13,reviewed,ci,ci
-2024-01-30T11:42:39.912Z,60.2071,-151.1104,59.7,2.3,ml,,,,0.46,ak,ak0241dsx9mf,2024-01-30T11:44:52.073Z,"15 km E of Clam Gulch, Alaska",earthquake,,0.8,,,automatic,ak,ak
