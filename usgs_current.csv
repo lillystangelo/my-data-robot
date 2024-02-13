@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-13T07:53:23.100Z,36.0094986,-117.3698349,1.99,1.39,ml,22,69,0.1376,0.21,ci,ci40668816,2024-02-13T07:55:25.509Z,"27 km N of Searles Valley, CA",earthquake,0.51,1.04,0.418,5,automatic,ci,ci
+2024-02-13T07:44:08.740Z,33.5936667,-116.7323333,12.32,0.64,ml,48,41,0.02652,0.18,ci,ci40668808,2024-02-13T07:49:58.986Z,"7 km NW of Anza, CA",earthquake,0.19,0.36,0.159,20,automatic,ci,ci
 2024-02-13T07:37:05.190Z,38.8391685,-122.8296661,2.16,0.75,md,10,113,0.004583,0.01,nc,nc74002131,2024-02-13T07:38:39.515Z,"9 km NW of The Geysers, CA",earthquake,0.41,1.17,0.24,11,automatic,nc,nc
 2024-02-13T07:21:39.790Z,38.7916679,-122.7366638,1.72,1.15,md,11,92,0.008419,0.02,nc,nc74002126,2024-02-13T07:33:09.566Z,"2 km NE of The Geysers, CA",earthquake,0.28,0.89,0.32,11,automatic,nc,nc
 2024-02-13T07:03:18.064Z,31.642,-104.467,4.2353,1.7,ml,16,105,0,0.2,tx,tx2024dbcp,2024-02-13T07:27:59.021Z,"59 km S of Whites City, New Mexico",earthquake,0,1.46571182,0.1,13,automatic,tx,tx
@@ -440,5 +442,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T08:08:15.990Z,38.8328323,-122.8115005,2.05,0.89,md,16,49,0.009489,0.01,nc,nc74001566,2024-02-12T09:59:13.758Z,"8 km W of Cobb, CA",earthquake,0.26,0.6,0.3,16,automatic,nc,nc
 2024-02-12T08:07:10.134Z,28.957,-98.008,4.3774,3.9,ml,17,70,0.1,0.3,tx,tx2024czjf,2024-02-13T03:24:54.284Z,"3 km SSE of Falls City, Texas",earthquake,1.286382866,2.941345116,0.2,13,reviewed,tx,tx
 2024-02-12T07:57:30.210Z,19.3436660766602,-155.133163452148,2.08999991416931,2.27,ml,36,115,0.04162,0.219999999,hv,hv74108116,2024-02-12T08:02:10.370Z,"13 km S of Fern Forest, Hawaii",earthquake,0.37,0.550000012,1.56,3,automatic,hv,hv
-2024-02-12T07:54:16.800Z,38.8201675,-122.8069992,3.21,0.76,md,12,113,0.004019,0.02,nc,nc74001561,2024-02-12T09:33:12.415Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.2,0.26,13,automatic,nc,nc
-2024-02-12T07:49:23.940Z,39.3376667,-123.2475,5.14,1.23,md,19,60,0.05084,0.06,nc,nc74001556,2024-02-13T03:54:11.436Z,"9 km NNW of Redwood Valley, CA",earthquake,0.16,0.56,0.221,17,reviewed,nc,nc
