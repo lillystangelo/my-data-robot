@@ -9,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-02T13:57:56.552Z,31.625,-104.206,4.2655,1.7,ml,16,66,0.1,0.5,tx,tx2024eini,2024-03-02T14:16:19.807Z,"52 km NW of Toyah, Texas",earthquake,0,1.47088719162209,0.1,12,automatic,tx,tx
 2024-03-02T13:57:49.326Z,61.5787,-146.362,28.2,1.6,ml,,,,0.63,ak,ak0242ureh3o,2024-03-02T13:59:41.201Z,"49 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-02T13:32:08.710Z,19.2950000762939,-155.245834350586,1.0900000333786,1.92999995,md,42,142,0.02425,0.170000002,hv,hv74126386,2024-03-02T13:34:03.530Z,"16 km S of Volcano, Hawaii",earthquake,0.25,0.379999995,0.340000004,16,automatic,hv,hv
+2024-03-02T13:17:51.960Z,17.9128333333333,-66.283,14.1,1.95,md,10,192,0.1243,0.12,pr,pr71441758,2024-03-02T14:39:20.140Z,"7 km SSE of Salinas, Puerto Rico",earthquake,0.55,1.05,0.0736632230158889,5,reviewed,pr,pr
 2024-03-02T13:11:51.220Z,38.8131676,-122.8096695,2.92,1.55,md,22,47,0.01022,0.04,nc,nc74010636,2024-03-02T13:13:27.410Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.46,0.15,26,automatic,nc,nc
 2024-03-02T13:10:12.108Z,60.2716,-152.6896,108.3,1.5,ml,,,,0.09,ak,ak0242ur4bkq,2024-03-02T13:12:11.287Z,"61 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-03-02T13:05:35.436Z,64.5067,-146.9166,4.7,1.2,ml,,,,0.48,ak,ak0242ur3asn,2024-03-02T13:07:45.416Z,"2 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T14:55:12.660Z,34.0143333,-116.4091667,3.04,1.39,ml,56,34,0.05712,0.17,ci,ci40679560,2024-03-01T17:06:27.201Z,"10 km NE of Desert Hot Springs, CA",earthquake,0.15,0.47,0.137,27,reviewed,ci,ci
 2024-03-01T14:54:17.670Z,38.8301659,-122.7878342,1.71,1.22,md,9,208,0.008461,0.02,nc,nc74010296,2024-03-01T14:55:52.388Z,"6 km W of Cobb, CA",earthquake,0.87,0.76,0.25,11,automatic,nc,nc
 2024-03-01T14:45:28.175Z,61.6736,-150.374,26.9,1.9,ml,,,,0.45,ak,ak0242t4dxzl,2024-03-01T14:47:34.884Z,"16 km NNE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-01T14:33:02.008Z,31.613,-104.096,6.7151,2.2,ml,28,56,0,0.2,tx,tx2024egsz,2024-03-01T17:34:14.394Z,"43 km NW of Toyah, Texas",earthquake,0.4317479452388318,0.4458913279442319,0.3,22,reviewed,tx,tx
