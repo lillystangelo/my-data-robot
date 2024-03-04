@@ -175,6 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-03T18:38:46.110Z,38.8153343,-122.8126678,2.77,1.24,md,22,54,0.0083,0.05,nc,nc74011191,2024-03-03T18:40:21.346Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.48,0.21,25,automatic,nc,nc
 2024-03-03T18:33:31.990Z,38.7528333,-122.714,1.49,0.48,md,11,74,0.01219,0.02,nc,nc71132974,2024-03-04T05:49:22.048Z,"3 km SW of Anderson Springs, CA",earthquake,0.27,0.38,0.129,6,reviewed,nc,nc
 2024-03-03T18:32:23.770Z,38.8268333,-122.7878333,1.2,0.35,md,12,82,0.01172,0.01,nc,nc74011186,2024-03-04T05:45:21.543Z,"6 km W of Cobb, CA",earthquake,0.32,0.7,0.167,12,reviewed,nc,nc
+2024-03-03T18:31:52.210Z,38.6543333333333,-112.548166666667,3.06,1.1,md,4,225,0.09087,0.07,uu,uu80059466,2024-03-04T14:33:14.510Z,"18 km SSW of Kanosh, Utah",earthquake,1.87,6.04,0.229601039630482,3,reviewed,uu,uu
 2024-03-03T18:30:39.460Z,38.8163338,-122.8146667,2.77,0.83,md,14,68,0.007911,0.02,nc,nc74011181,2024-03-03T18:32:16.508Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.78,0.14,18,automatic,nc,nc
 2024-03-03T18:29:15.980Z,38.8323333,-122.8163333,1.7,0.35,md,12,54,0.01018,0.01,nc,nc74011176,2024-03-04T05:21:49.461Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.92,0.092,11,reviewed,nc,nc
 2024-03-03T18:25:20.694Z,64.8046,-148.9127,25.4,1,ml,,,,1.26,ak,ak0242whq2hx,2024-03-03T18:27:35.331Z,"24 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
