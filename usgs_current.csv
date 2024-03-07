@@ -261,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T06:02:17.250Z,32.7711667,-115.5321667,11.04,1.37,ml,28,78,0.05651,0.2,ci,ci40681968,2024-03-06T21:39:56.733Z,"3 km SE of El Centro, CA",earthquake,0.27,0.43,0.172,18,reviewed,ci,ci
 2024-03-06T05:59:50.780Z,33.3353333,-116.6745,12.63,0.49,ml,32,41,0.1217,0.17,ci,ci40681960,2024-03-06T14:37:25.332Z,"7 km NNW of Warner Springs, CA",earthquake,0.2,0.66,0.128,8,reviewed,ci,ci
 2024-03-06T05:58:17.140Z,36.2298333,-118.3203333,4.71,1.83,ml,26,93,0.07782,0.19,ci,ci40681952,2024-03-06T14:38:23.760Z,"29 km WSW of Olancha, CA",earthquake,0.25,0.89,0.223,26,reviewed,ci,ci
-2024-03-06T05:52:12.790Z,33.62,-116.7411667,14.48,0.18,ml,18,75,0.03248,0.08,ci,ci40681944,2024-03-06T19:57:11.077Z,"10 km NW of Anza, CA",earthquake,0.23,0.41,0.273,9,reviewed,ci,ci
