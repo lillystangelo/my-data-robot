@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-09T01:43:56.710Z,38.8364983,-122.791832,2.11,1.09,md,20,50,0.002234,0.03,nc,nc74014131,2024-03-09T01:45:29.635Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.45,0.15,21,automatic,nc,nc
 2024-03-09T01:40:53.110Z,33.9346667,-116.961,3.54,0.88,ml,33,83,0.02099,0.17,ci,ci40684112,2024-03-09T01:47:44.220Z,"2 km ENE of Beaumont, CA",earthquake,0.18,0.36,0.187,24,automatic,ci,ci
 2024-03-09T01:37:11.410Z,38.8120003,-122.8205032,3.32,0.75,md,9,113,0.007464,0.01,nc,nc74014121,2024-03-09T01:38:44.513Z,"7 km NW of The Geysers, CA",earthquake,0.72,1.39,0.28,9,automatic,nc,nc
-2024-03-09T01:35:38.320Z,19.1478328704834,-155.475006103516,31.4400005340576,2.49000001,md,39,168,0.01433,0.159999996,hv,hv74131996,2024-03-09T01:37:16.220Z,"6 km S of Pāhala, Hawaii",earthquake,0.57,0.860000014,0.209999993,8,automatic,hv,hv
+2024-03-09T01:35:38.320Z,19.1478328704834,-155.475006103516,31.4400005340576,2.49000001,md,39,168,0.01433,0.159999996,hv,hv74131996,2024-03-09T02:08:16.875Z,"6 km S of Pāhala, Hawaii",earthquake,0.57,0.860000014,0.209999993,8,automatic,hv,hv
 2024-03-09T01:28:40.520Z,38.7911682,-122.7668304,-0.16,0.63,md,9,88,0.01096,0.03,nc,nc74014111,2024-03-09T01:30:14.389Z,"2 km NNW of The Geysers, CA",earthquake,0.23,0.61,0.26,10,automatic,nc,nc
 2024-03-09T01:25:05.630Z,32.9086685,-116.6203308,7.58,1.07,ml,8,114,0.2274,0.24,ci,ci40684096,2024-03-09T01:32:05.625Z,"13 km NW of Pine Valley, CA",earthquake,1.25,23.44,0.176,7,automatic,ci,ci
 2024-03-09T01:19:35.090Z,38.8113327,-122.8203354,3.04,0.64,md,9,85,0.007334,0.02,nc,nc74014101,2024-03-09T01:21:09.292Z,"7 km NW of The Geysers, CA",earthquake,0.57,0.91,0.17,9,automatic,nc,nc
@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-08T21:17:41.128Z,36.84,-115.9012,7.9,0.5,ml,25,203.73,0.054,0.1391,nn,nn00874403,2024-03-08T23:14:49.087Z,"36 km NW of Indian Springs, Nevada",earthquake,,1.2,0.12,13,reviewed,nn,nn
 2024-03-08T21:12:34.620Z,33.9813333,-116.6881667,12.95,1.09,ml,33,91,0.0661,0.12,ci,ci40683872,2024-03-08T21:38:22.035Z,"12 km NE of Cabazon, CA",earthquake,0.17,0.47,0.216,19,reviewed,ci,ci
 2024-03-08T21:10:36.291Z,62.3284,-149.588,51.1,1.8,ml,,,,0.41,ak,ak02434t3x8t,2024-03-08T21:13:06.139Z,"23 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-03-08T21:09:41.170Z,32.7955,-117.4613333,15.81,3.03,ml,74,128,0.1908,0.21,ci,ci40683864,2024-03-09T00:32:05.710Z,"18 km WSW of La Jolla, CA",earthquake,0.33,0.44,0.218,245,reviewed,ci,ci
+2024-03-08T21:09:41.170Z,32.7955,-117.4613333,15.81,3.03,ml,74,128,0.1908,0.21,ci,ci40683864,2024-03-09T01:53:22.961Z,"18 km WSW of La Jolla, CA",earthquake,0.33,0.44,0.218,245,reviewed,ci,ci
 2024-03-08T20:59:01.010Z,61.9185,-150.6866,5.1,2.1,ml,,,,0.49,ak,ak02434ssx05,2024-03-08T21:01:12.429Z,"38 km ESE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-08T20:54:03.850Z,33.634,-116.6935,13.76,0.82,ml,37,50,0.03849,0.11,ci,ci40683840,2024-03-08T22:01:58.252Z,"9 km NNW of Anza, CA",earthquake,0.15,0.27,0.138,15,reviewed,ci,ci
 2024-03-08T20:52:20.510Z,33.6328333,-116.693,13.31,0.43,ml,8,133,0.03938,0.08,ci,ci37630684,2024-03-09T00:14:29.182Z,"9 km NNW of Anza, CA",earthquake,0.36,0.6,0.187,3,reviewed,ci,ci
@@ -261,7 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-08T02:14:00.144Z,44.3574,-116.1192,10,2.6,ml,23,62,0.343,0.7,us,us7000m41u,2024-03-08T16:07:45.980Z,"6 km NNW of Smiths Ferry, Idaho",earthquake,1.21,2.009,0.057,40,reviewed,us,us
 2024-03-08T02:13:38.960Z,60.0506666666667,-153.076333333333,-3,-0.52,ml,5,117,,0.04,av,av92225346,2024-03-08T20:52:27.800Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.59,1.05,0.26282740120401,5,reviewed,av,av
 2024-03-08T02:10:15.370Z,38.8138351,-122.8176651,2.4,0.99,md,16,61,0.01027,0.02,nc,nc74013481,2024-03-08T02:11:51.941Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.64,0.24,17,automatic,nc,nc
-2024-03-08T02:03:47.280Z,46.85616666666667,-121.9435,4.69,0.96,ml,25,110,0.01261,0.08,uw,uw61988681,2024-03-08T19:06:49.490Z,"12 km NNE of Ashford, Washington",earthquake,0.23,0.37,0.18669545403880872,17,reviewed,uw,uw
-2024-03-08T01:59:28.100Z,47.599833333333336,-123.39,40.34,2.2800000000000002,ml,69,49,0.1915,0.2,uw,uw61988676,2024-03-08T18:30:53.829Z,"28 km NW of Hoodsport, Washington",earthquake,0.26,0.47,0.16058170070378353,46,reviewed,uw,uw
-2024-03-08T01:57:43.936Z,65.3076,-144.9985,0,1.8,ml,,,,0.87,ak,ak02434hhce1,2024-03-08T02:00:39.282Z,"30 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-08T01:53:32.385Z,63.1439,-150.1277,76.8,2,ml,,,,0.72,ak,ak02434hggmu,2024-03-08T01:55:42.593Z,"65 km WSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
