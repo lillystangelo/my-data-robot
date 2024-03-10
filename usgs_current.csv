@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-10T21:23:26.610Z,38.8461685,-122.8141632,1.47,0.77,md,13,53,0.01111,0.03,nc,nc74015186,2024-03-10T21:25:03.579Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.76,0.27,14,automatic,nc,nc
+2024-03-10T21:16:15.240Z,17.9645,-66.8551666666667,10.06,2.38,md,7,201,0.02522,0.11,pr,pr71442743,2024-03-10T21:24:57.380Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.51,0.49,0.0361841258236544,6,reviewed,pr,pr
 2024-03-10T21:12:16.504Z,63.4591,-151.3262,0,1.6,ml,,,,0.51,ak,ak024384704y,2024-03-10T21:14:54.872Z,"21 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-10T20:58:25.760Z,18.1298333333333,-66.2906666666667,15.98,2.15,md,10,104,0.1137,0.12,pr,pr71442733,2024-03-10T21:25:12.600Z,"2 km WSW of Aibonito, Puerto Rico",earthquake,0.34,0.69,0.0936887999165861,3,reviewed,pr,pr
 2024-03-10T20:55:20.200Z,38.7931671,-122.7648315,2.98,0.98,md,10,102,0.008453,0.01,nc,nc74015176,2024-03-10T20:56:57.310Z,"2 km NNW of The Geysers, CA",earthquake,0.42,0.89,0.28,12,automatic,nc,nc
 2024-03-10T20:33:55.555Z,-52.2891,139.9721,10,5,mww,34,79,10.608,0.69,us,us7000m4kv,2024-03-10T20:53:50.040Z,"west of Macquarie Island",earthquake,5.42,1.879,0.089,12,reviewed,us,us
 2024-03-10T20:29:24.950Z,33.8028333,-116.1906667,1.99,0.58,ml,34,63,0.02639,0.17,ci,ci40685200,2024-03-10T20:35:00.463Z,"9 km NNE of Indio, CA",earthquake,0.18,0.44,0.12,12,automatic,ci,ci
@@ -47,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-10T15:10:24.823Z,31.739,-104.586,2.3872,1.6,ml,17,201,0.1,0.5,tx,tx2024exfr,2024-03-10T15:40:59.890Z,"52 km SSW of Whites City, New Mexico",earthquake,0,1.99401370848647,0.1,13,automatic,tx,tx
 2024-03-10T15:08:24.514Z,39.4101,-119.6909,8.8,1.7,ml,18,69.13,0.059,0.1604,nn,nn00874506,2024-03-10T15:23:16.830Z,"11 km NNW of Virginia City, Nevada",earthquake,,1,0.3,7,reviewed,nn,nn
 2024-03-10T15:06:01.560Z,65.6889,-149.7187,5.2,1.5,ml,,,,0.43,ak,ak024380l324,2024-03-10T15:13:18.122Z,"29 km NE of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-03-10T14:52:32.981Z,41.9037,-119.5701,0,2,ml,4,217.9,0.546,0.1558,nn,nn00874515,2024-03-10T21:16:38.281Z,"48 km E of Fort Bidwell, California",earthquake,,4.1,0.67,3,reviewed,nn,nn
 2024-03-10T14:50:05.630Z,32.6968333,-115.7268333,10.69,1.94,ml,43,49,0.04737,0.26,ci,ci40685096,2024-03-10T15:00:56.360Z,"19 km NW of Progreso, B.C., MX",earthquake,0.25,0.5,0.199,29,automatic,ci,ci
 2024-03-10T14:45:57.910Z,19.3544998168945,-155.391662597656,6.46999979019165,1.74000001,md,38,60,0.02175,0.200000003,hv,hv74133071,2024-03-10T14:47:45.870Z,"19 km NNE of Pāhala, Hawaii",earthquake,0.36,0.589999974,0.25999999,15,automatic,hv,hv
 2024-03-10T14:36:05.040Z,38.8151665,-122.817337,2.57,1.29,md,25,50,0.009985,0.04,nc,nc74015071,2024-03-10T14:37:39.775Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.43,0.09,27,automatic,nc,nc
