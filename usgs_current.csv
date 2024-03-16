@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-15T19:10:43.577Z,64.8884,-148.9361,13,0.5,ml,,,,0.43,ak,ak0243gcoi23,2024-03-15T19:13:08.198Z,"33 km NNE of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-15T19:04:03.640Z,19.2211666107178,-155.427001953125,24.0799999237061,1.71000004,md,16,207,0.0732,0.319999993,hv,hv74137582,2024-03-15T19:05:23.280Z,"5 km ENE of Pāhala, Hawaii",earthquake,1.8,2.68000007,0.610000014,4,automatic,hv,hv
 2024-03-15T18:55:08.160Z,38.764,-122.7351667,1.49,0.64,md,18,88,0.008408,0.03,nc,nc74018006,2024-03-15T23:53:12.509Z,"2 km SE of The Geysers, CA",earthquake,0.44,0.3,0.175,11,reviewed,nc,nc
-2024-03-15T18:46:15.900Z,39.326,-94.6592,9.805,3.5,mb_lg,39,48,0.922,0.52,us,us6000mj50,2024-03-16T02:09:10.408Z,"1 km NNE of Ferrelview, Missouri",earthquake,2.52,7.221,0.039,173,reviewed,us,us
+2024-03-15T18:46:15.900Z,39.326,-94.6592,9.805,3.5,mb_lg,39,48,0.922,0.52,us,us6000mj50,2024-03-16T02:55:02.439Z,"1 km NNE of Ferrelview, Missouri",earthquake,2.52,7.221,0.039,173,reviewed,us,us
 2024-03-15T18:42:24.290Z,54.1186666666667,-165.9295,2.28,0.33,ml,5,107,,0.23,av,av92231881,2024-03-15T20:33:36.390Z,"10 km W of Akutan, Alaska",earthquake,0.5,1.05,0.134775944751156,4,reviewed,av,av
 2024-03-15T18:34:12.500Z,33.6773333,-116.7123333,15.47,0.8,ml,33,58,0.03322,0.1,ci,ci40687704,2024-03-15T21:22:38.810Z,"7 km S of Idyllwild, CA",earthquake,0.14,0.26,0.1,18,automatic,ci,ci
 2024-03-15T18:30:15.501Z,58.0839,-155.5752,19,0.8,ml,,,,0.61,ak,ak0243gc7alq,2024-03-15T18:31:37.928Z,"87 km NW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-15T03:15:14.870Z,39.3460007,-123.2663345,6.22,2.27,md,22,70,0.1107,0.06,nc,nc74017701,2024-03-15T04:06:01.718Z,"10 km NNW of Redwood Valley, CA",earthquake,0.22,0.95,0.12,20,automatic,nc,nc
 2024-03-15T03:14:16.460Z,19.2921666666667,-155.3815,3.4,1.42,md,30,102,0.0412,0.11,hv,hv74137107,2024-03-15T04:38:52.610Z,"14 km NE of Pāhala, Hawaii",earthquake,0.28,0.92,0.209779496179256,18,reviewed,hv,hv
 2024-03-15T03:13:58.759Z,12.9024,-88.5129,63.674,5,mb,73,135,0.905,1.23,us,us6000mizf,2024-03-15T18:04:31.696Z,"42 km S of Puerto El Triunfo, El Salvador",earthquake,6.79,6.367,0.024,553,reviewed,us,us
-2024-03-15T03:00:26.320Z,36.261,-89.4978333333333,7.18,1.17,md,14,63,0.01175,0.05,nm,nm60573221,2024-03-15T16:33:29.050Z,"0 km WSW of Ridgely, Tennessee",earthquake,0.27,0.4,0.0618164095182461,11,reviewed,nm,nm
