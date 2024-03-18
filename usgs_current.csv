@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-18T03:52:09.958Z,61.9494,-150.2888,2.9,1.6,ml,,,,0.39,ak,ak0243l20jc3,2024-03-18T03:54:21.893Z,"26 km NNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-18T03:18:48.539Z,58.9693,-153.4643,59.2,2,ml,,,,0.43,ak,ak0243l1tbyt,2024-03-18T03:20:42.351Z,"87 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-03-18T03:12:29.728Z,61.7489,-149.4493,0,1.4,ml,,,,0.65,ak,ak0243l1s07w,2024-03-18T03:14:48.954Z,"11 km W of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-18T03:11:15.660Z,33.6956667,-116.7265,17.5,0.82,ml,43,37,0.01857,0.14,ci,ci40688672,2024-03-18T03:17:41.497Z,"5 km S of Idyllwild, CA",earthquake,0.16,0.28,0.19,19,automatic,ci,ci
