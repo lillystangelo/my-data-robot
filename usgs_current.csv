@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-20T17:54:30.211Z,58.1892,-155.4003,0,1.5,ml,,,,0.6,ak,ak0243olfrsd,2024-03-20T17:56:35.509Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-20T17:39:19.938Z,62.7102,-148.7292,0,1.7,ml,,,,0.65,ak,ak0243olcj95,2024-03-20T17:41:24.243Z,"76 km ENE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-20T17:27:56.950Z,36.3190002,-120.9723358,4.19,1.05,md,4,131,0.01475,0,nc,nc74020751,2024-03-20T17:29:31.463Z,"18 km NE of King City, CA",earthquake,1.76,2.14,0.13,5,automatic,nc,nc
 2024-03-20T17:21:07.614Z,61.6628,-148.2173,23.8,1.2,ml,,,,0.45,ak,ak0243ol8nex,2024-03-20T17:22:27.143Z,"19 km SE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-19T18:15:58.300Z,19.2390003204346,-155.390335083008,31.1100006103516,2.41000009,md,32,146,0.094,0.159999996,hv,hv74141732,2024-03-19T18:17:31.100Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.850000024,0.0900000036,4,automatic,hv,hv
 2024-03-19T18:07:02.933Z,-56.4214,-143.4502,10,5.5,mww,19,75,32.79,0.95,us,us6000mk0i,2024-03-20T15:34:13.725Z,"Pacific-Antarctic Ridge",earthquake,15.48,1.83,0.098,10,reviewed,us,us
 2024-03-19T18:00:24.630Z,46.294,-111.612166666667,-2,0.84,ml,5,215,0.4441,0.02,mb,mb90043543,2024-03-19T22:59:06.400Z,"7 km WSW of Townsend, Montana",quarry blast,1.08,31.61,0.104069441674842,4,reviewed,mb,mb
-2024-03-19T17:52:24.783Z,11.9467,-62.0708,136.037,4.6,mb,57,49,0.448,0.61,us,us6000mjtq,2024-03-19T18:53:06.834Z,"36 km WSW of Saint George's, Grenada",earthquake,7.85,4.736,0.06,83,reviewed,us,us
