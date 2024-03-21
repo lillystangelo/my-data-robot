@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-21T21:54:38.746Z,60.0027,-152.7881,94.1,1.1,ml,,,,0.16,ak,ak0243qbcvcy,2024-03-21T21:56:19.898Z,"59 km WNW of Anchor Point, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-03-21T21:42:29.582Z,64.5879,-148.9046,0,0.8,ml,,,,0.91,ak,ak0243qbaa26,2024-03-21T21:44:02.016Z,"9 km ENE of Nenana, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-21T21:40:51.130Z,33.314,-116.8963333,16.63,1.79,ml,71,24,0.04854,0.2,ci,ci40521279,2024-03-21T21:51:55.390Z,"6 km SSW of Palomar Observatory, CA",earthquake,0.16,0.41,0.181,26,automatic,ci,ci
 2024-03-21T21:36:33.226Z,63.1451,-150.4125,102.8,2.4,ml,,,,0.47,ak,ak0243qb900p,2024-03-21T21:50:00.040Z,"74 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-21T21:31:19.231Z,61.5567,-146.403,30,1.4,ml,,,,0.86,ak,ak0243qb7wdv,2024-03-21T21:33:40.266Z,"47 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-03-21T21:22:03.015Z,31.631,-104.369,6.1255,1.8,ml,22,63,0.1,0.2,tx,tx2024fruo,2024-03-21T22:03:29.084Z,"60 km S of Whites City, New Mexico",earthquake,0.9154190458339484,0.9335086262707731,0.1,12,reviewed,tx,tx
 2024-03-21T21:17:24.637Z,38.6486,-117.1351,0,1.7,ml,10,221.68,0.526,0.4835,nn,nn00875181,2024-03-21T21:37:25.592Z,"62 km S of Kingston, Nevada",explosion,,0,0.47,5,reviewed,nn,nn
-2024-03-21T21:16:59.131Z,-30.0517,-71.7537,30.443,4.1,mb,45,133,0.466,0.77,us,us6000mkc9,2024-03-21T21:40:33.040Z,"41 km WSW of Coquimbo, Chile",earthquake,4.49,8.956,0.166,10,reviewed,us,us
+2024-03-21T21:16:59.131Z,-30.0517,-71.7537,30.443,4.1,mb,45,133,0.466,0.77,us,us6000mkc9,2024-03-21T22:05:31.106Z,"41 km WSW of Coquimbo, Chile",earthquake,4.49,8.956,0.166,10,reviewed,us,us
 2024-03-21T21:07:25.234Z,56.6232,-154.8373,20.3,2.5,ml,,,,0.49,ak,ak0243qb2rnv,2024-03-21T21:20:14.040Z,"54 km SW of Akhiok, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2024-03-21T21:05:40.720Z,38.7755013,-122.7448349,1.26,1.36,md,18,77,0.009992,0.04,nc,nc74021681,2024-03-21T21:07:20.201Z,"1 km ESE of The Geysers, CA",earthquake,0.24,0.4,0.18,22,automatic,nc,nc
 2024-03-21T20:56:43.670Z,47.556333333333335,-122.78633333333333,-0.38,1.3900000000000001,md,6,121,0.007561,0.09,uw,uw61991436,2024-03-21T21:54:19.660Z,"7 km WNW of Gorst, Washington",explosion,0.57,31.61,0.2151122197330042,3,reviewed,uw,uw
@@ -134,6 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T09:55:46.728Z,64.6126,-149.1825,13.6,1.4,ml,,,,0.34,ak,ak0243q47wff,2024-03-21T16:04:47.191Z,"3 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-21T09:52:33.885Z,63.03,-149.3584,84.1,1.2,ml,,,,0.13,ak,ak0243q478a0,2024-03-21T09:55:05.443Z,"45 km SSW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-03-21T09:50:56.400Z,33.4191667,-116.648,6.53,0.41,ml,32,36,0.08504,0.17,ci,ci40520527,2024-03-21T17:40:47.589Z,"15 km N of Warner Springs, CA",earthquake,0.2,0.55,0.203,10,reviewed,ci,ci
+2024-03-21T09:49:17.340Z,51.9596666666667,179.554833333333,7.87,0.44,ml,5,102,,0.24,av,av91137288,2024-03-21T21:59:02.950Z,"262 km W of Adak, Alaska",earthquake,0.89,1.45,0.102147362622086,5,reviewed,av,av
 2024-03-21T09:49:16.120Z,33.2626667,-115.9953333,5.45,0.51,ml,23,106,0.01912,0.14,ci,ci40520519,2024-03-21T17:10:05.799Z,"5 km SW of Salton City, CA",earthquake,0.22,0.36,0.109,9,reviewed,ci,ci
 2024-03-21T09:48:20.690Z,51.9596666666667,179.5755,7.08,0.66,ml,6,87,,0.19,av,av92237616,2024-03-21T21:54:32.410Z,"260 km W of Adak, Alaska",earthquake,0.63,1.09,0.154848130330408,6,reviewed,av,av
 2024-03-21T09:44:21.049Z,60.2194,-152.0976,86.4,2,ml,,,,0.38,ak,ak0243q45hko,2024-03-21T09:46:02.717Z,"30 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -210,7 +213,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T02:29:18.870Z,39.3488333,-123.2708333,6.82,1.13,md,14,71,0.07193,0.06,nc,nc74021096,2024-03-21T11:00:06.401Z,"10 km SE of Willits, CA",earthquake,0.19,0.71,0.198,12,reviewed,nc,nc
 2024-03-21T02:28:09.630Z,19.8518333435059,-155.853332519531,2.95000004768372,2.26,ml,9,200,0.1671,0.379999995,hv,hv74143672,2024-03-21T02:31:02.070Z,"11 km SW of Waikoloa, Hawaii",earthquake,2.65,16.6700001,0.3,5,automatic,hv,hv
 2024-03-21T02:26:31.180Z,38.8338318,-122.8171692,2.04,0.8,md,9,88,0.0118,0.02,nc,nc74021091,2024-03-21T02:28:05.322Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.9,0.35,12,automatic,nc,nc
-2024-03-21T02:25:00.440Z,20.0438327789307,-155.814666748047,24.7900009155273,2.34,ml,34,248,0.08835,0.300000012,hv,hv74143667,2024-03-21T04:28:34.468Z,"8 km NNE of Puako, Hawaii",earthquake,1.04,2.67000008,0.34,6,automatic,hv,hv
+2024-03-21T02:25:00.240Z,20.0536666666667,-155.834,22.84,2.17,md,28,208,0.08908,0.1,hv,hv74143667,2024-03-21T21:57:00.690Z,"9 km N of Puako, Hawaii",earthquake,0.56,0.78,0.115105307344003,24,reviewed,hv,hv
 2024-03-21T02:23:26.010Z,58.1768333333333,-155.339,1.58,-0.2,ml,8,171,,0.05,av,av91137238,2024-03-21T19:37:58.830Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.49,0.292221453001354,8,reviewed,av,av
 2024-03-21T02:21:50.487Z,36.7354,-116.2181,4.1,-0.2,ml,11,125.55,0.009,0.0897,nn,nn00875135,2024-03-21T15:09:54.927Z,"51 km ESE of Beatty, Nevada",earthquake,,1.3,0.35,6,reviewed,nn,nn
 2024-03-21T02:20:46.095Z,61.1761,-152.5312,43.1,1.3,ml,,,,1.07,ak,ak0243pzucxu,2024-03-21T02:23:15.656Z,"76 km W of Tyonek, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -271,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T22:40:32.580Z,53.8745,-166.598,4.06,-0.16,ml,6,144,,0.1,av,av92237096,2024-03-21T04:08:00.700Z,"4 km WSW of Dutch Harbor, Alaska",earthquake,0.41,0.85,0.167477099837579,6,reviewed,av,av
 2024-03-20T22:31:20.770Z,17.9615,-65.4706666666667,12.8,2.93,md,12,164,0.156,0.27,pr,pr71443468,2024-03-20T22:56:50.870Z,"15 km S of Esperanza, Puerto Rico",earthquake,0.94,0.83,0.142739366937936,5,reviewed,pr,pr
 2024-03-20T22:20:37.450Z,34.25566667,-97.57366667,13.09,2.47,ml,80,53,0.1133777514,0.44,ok,ok2024fqaz,2024-03-21T12:18:53.953Z,"8 km WNW of Healdton, Oklahoma",earthquake,,1.4,0.2,28,reviewed,ok,ok
-2024-03-20T21:55:39.290Z,37.5251656,-121.9016647,7.72,1.3,md,9,105,0.09658,0.04,nc,nc74020946,2024-03-20T21:57:13.299Z,"7 km ESE of Fremont, CA",earthquake,0.44,1.26,0.09,7,automatic,nc,nc
