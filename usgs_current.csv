@@ -252,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-20T10:40:21.910Z,39.3995,-122.9058333,4.78,1.4,md,19,120,0.1741,0.08,nc,nc74020576,2024-03-20T17:27:43.062Z,"5 km ESE of Lake Pillsbury, CA",earthquake,0.34,1.42,0.293,19,reviewed,nc,nc
 2024-03-20T10:35:13.850Z,61.3684,-146.7381,26,2.2,ml,,,,0.34,ak,ak0243oh5mop,2024-03-20T10:36:33.830Z,"33 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-20T10:34:36.334Z,51.725,179.8017,12.2,3.4,ml,,,,0.66,ak,ak0243oh5gp8,2024-03-20T18:54:22.765Z,"246 km W of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2024-03-20T10:34:08.973Z,37.587,-115.151,0,1.1,ml,4,280.42,0.197,0.0462,nn,nn00875096,2024-03-20T18:17:30.413Z,"6 km E of Hiko, Nevada",earthquake,,0,0.35,3,reviewed,nn,nn
