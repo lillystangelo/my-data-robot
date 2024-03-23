@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-22T10:55:25.609Z,32.5525,-104.6755,5,2.5,ml,35,79,0.686,0.54,us,us6000mkgu,2024-03-22T11:17:41.040Z,"29 km S of Hope, New Mexico",earthquake,4.19,1.973,0.069,84,reviewed,us,us
 2024-03-22T10:53:20.360Z,34.2103333,-117.4995,3.99,1.01,ml,40,31,0.02748,0.22,ci,ci40521847,2024-03-22T19:55:49.088Z,"5 km S of Lytle Creek, CA",earthquake,0.24,0.45,0.185,11,reviewed,ci,ci
 2024-03-22T10:46:13.627Z,65.2894,-144.8378,0.1,1.4,ml,,,,0.65,ak,ak0243rsaoj6,2024-03-22T10:49:23.114Z,"31 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-22T10:38:51.190Z,35.2096667,-118.1775,4.67,0.92,ml,24,81,0.06185,0.13,ci,ci40521839,2024-03-22T16:25:08.747Z,"18 km N of Mojave, CA",earthquake,0.17,0.34,0.069,10,reviewed,ci,ci
