@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-23T07:25:14.310Z,36.598999,-121.2590027,4.17,2.19,md,27,113,0.04633,0.14,nc,nc74022551,2024-03-23T07:26:47.572Z,"13 km NW of Pinnacles, CA",earthquake,0.37,1.35,0.12,23,automatic,nc,nc
+2024-03-23T07:23:56.400Z,35.8388329,-121.3201675,6.14,1.65,md,13,226,0.0914,0.1,nc,nc74022556,2024-03-23T07:26:52.531Z,"25 km NNW of San Simeon, CA",earthquake,0.99,0.8,0.15,8,automatic,nc,nc
+2024-03-23T07:21:52.811Z,62.4445,-148.9943,8,1.4,ml,,,,0.48,ak,ak0243tdwgc1,2024-03-23T07:23:13.970Z,"54 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-23T07:12:46.740Z,33.2595,-116.4311667,3.52,0.65,ml,42,37,0.01459,0.21,ci,ci40522887,2024-03-23T07:18:58.480Z,"5 km W of Borrego Springs, CA",earthquake,0.21,0.36,0.137,12,automatic,ci,ci
 2024-03-23T06:53:49.893Z,31.993,-103.836,4.5185,1.7,ml,8,185,0,0.5,tx,tx2024fuix,2024-03-23T07:14:03.555Z,"33 km SE of Malaga, New Mexico",earthquake,0,2.00803537282145,0.3,7,automatic,tx,tx
 2024-03-23T06:48:24.818Z,58.8808,-141.7906,1.7,2,ml,,,,0.62,ak,ak0243tdgqwh,2024-03-23T06:51:23.476Z,"139 km WSW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -228,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-22T07:39:41.050Z,38.8240013,-122.8051682,1.39,0.79,md,13,57,0.00388,0.01,nc,nc74021951,2024-03-22T07:41:16.531Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.66,0.12,15,automatic,nc,nc
 2024-03-22T07:39:31.260Z,33.9683333,-116.7455,17.45,1.16,ml,44,68,0.06319,0.14,ci,ci40521791,2024-03-22T18:50:04.920Z,"7 km NE of Cabazon, CA",earthquake,0.16,0.36,0.121,25,reviewed,ci,ci
 2024-03-22T07:34:58.390Z,33.3618333,-116.8658333,9.84,0.44,ml,26,35,0.008623,0.15,ci,ci40521783,2024-03-22T18:44:23.476Z,"1 km NNW of Palomar Observatory, CA",earthquake,0.2,0.53,0.144,9,reviewed,ci,ci
-2024-03-22T07:23:53.410Z,33.4766667,-116.4886667,12.54,1.36,ml,76,26,0.08804,0.19,ci,ci40521775,2024-03-22T16:22:40.660Z,"19 km ESE of Anza, CA",earthquake,0.13,0.35,0.197,27,reviewed,ci,ci
