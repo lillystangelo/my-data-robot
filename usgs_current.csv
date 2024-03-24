@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-24T17:36:59.207Z,62.429,-151.1272,3.1,1.2,ml,,,,0.87,ak,ak0243v7hd40,2024-03-24T17:38:46.295Z,"20 km WSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-24T17:32:02.380Z,39.206665,-120.0670013,-1.57,1.92,md,7,92,0.04585,0.29,nc,nc74023241,2024-03-24T17:34:36.510Z,"4 km NE of Dollar Point, CA",earthquake,0.99,15.16,0.05,5,automatic,nc,nc
 2024-03-24T17:25:30.850Z,35.9265,-117.6696667,4.5,0.92,ml,22,66,0.02648,0.13,ci,ci40523687,2024-03-24T17:31:18.879Z,"21 km E of Little Lake, CA",earthquake,0.16,0.25,0.103,10,automatic,ci,ci
 2024-03-24T17:22:56.830Z,38.8375015,-122.767334,1.17,1.68,md,26,149,0.007304,0.03,nc,nc74023236,2024-03-24T17:24:31.240Z,"4 km WNW of Cobb, CA",earthquake,0.22,0.28,0.18,25,automatic,nc,nc
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-23T18:16:53.640Z,32.422,-117.1575,15.89,1.9,ml,29,115,0.07699,0.21,ci,ci40523199,2024-03-23T18:24:26.228Z,"15 km NW of Rosarito, B.C., MX",earthquake,0.39,0.58,0.224,28,automatic,ci,ci
 2024-03-23T18:06:09.595Z,60.6514,-141.7165,14.6,1,ml,,,,0.12,ak,ak0243tkcwwv,2024-03-23T18:08:00.086Z,"108 km SE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-23T17:55:00.830Z,17.8973333333333,-66.8423333333333,10.85,2.81,md,13,202,0.08491,0.18,pr,pr71443753,2024-03-23T18:06:54.080Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.49,0.43,0.129201869377658,10,reviewed,pr,pr
-2024-03-23T17:44:14.680Z,38.7753334,-122.8639984,10.35,1.54,md,6,116,0.06207,0.06,nc,nc74022746,2024-03-23T17:46:04.363Z,"9 km W of The Geysers, CA",earthquake,2.66,2.21,0.26,5,automatic,nc,nc
