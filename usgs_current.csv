@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-24T23:34:20.950Z,38.8466682,-122.8161697,1.82,0.22,md,9,112,0.009752,0.02,nc,nc74023376,2024-03-24T23:35:54.058Z,"8 km WNW of Cobb, CA",earthquake,0.32,1.03,0.11,9,automatic,nc,nc
 2024-03-24T23:32:53.190Z,62.4197,-151.0977,13.4,1.6,ml,,,,0.81,ak,ak0243vb13ev,2024-03-24T23:34:30.602Z,"19 km WSW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-24T23:25:49.490Z,64.7295,-148.5458,3.2,1.2,ml,,,,0.33,ak,ak0243vazl45,2024-03-24T23:27:36.638Z,"28 km WSW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-24T23:17:04.660Z,17.9828333333333,-66.8395,12.04,2.66,md,6,190,0.03862,0.08,pr,pr71443833,2024-03-24T23:26:16.150Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.47,0.58,0.129545487229149,3,reviewed,pr,pr
