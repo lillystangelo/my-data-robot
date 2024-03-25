@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-25T15:19:18.730Z,32.9633333,-115.8861667,7.35,1.75,ml,53,30,0.05271,0.24,ci,ci40524079,2024-03-25T15:25:55.570Z,"26 km WSW of Westmorland, CA",earthquake,0.2,0.54,0.267,28,automatic,ci,ci
 2024-03-25T15:12:41.191Z,59.6555,-152.4387,71.1,2.3,ml,,,,0.49,ak,ak0243wtontj,2024-03-25T15:15:01.570Z,"36 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-25T15:04:36.020Z,38.8018341,-122.8079987,1.61,0.77,md,10,72,0.01403,0.03,nc,nc74023666,2024-03-25T15:06:12.878Z,"5 km WNW of The Geysers, CA",earthquake,0.33,0.82,0.34,12,automatic,nc,nc
 2024-03-25T14:57:15.180Z,65.0605,-151.3353,13.1,1.1,ml,,,,0.23,ak,ak0243wtctfi,2024-03-25T15:00:14.817Z,"33 km W of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-25T08:51:09.590Z,63.1858,-151.4066,8.6,1.3,ml,,,,0.46,ak,ak0243wpqx2n,2024-03-25T08:53:28.187Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-25T08:40:30.794Z,59.8043,-152.0264,52.6,2.3,ml,,,,0.38,ak,ak0243wpoltz,2024-03-25T10:18:04.040Z,"11 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-25T08:39:19.970Z,38.8333321,-122.8075027,2.09,1.02,md,13,64,0.01012,0.01,nc,nc74023541,2024-03-25T08:40:56.956Z,"7 km W of Cobb, CA",earthquake,0.31,0.83,0.23,13,automatic,nc,nc
-2024-03-25T08:25:39.330Z,36.2888336,-119.6920013,21.88,2.74,md,32,53,0.1108,0.24,nc,nc74023526,2024-03-25T13:31:54.579Z,"3 km SSE of Armona, CA",earthquake,0.45,0.54,0.18,36,automatic,nc,nc
+2024-03-25T08:25:39.330Z,36.2888336,-119.6920013,21.88,2.74,md,32,53,0.1108,0.24,nc,nc74023526,2024-03-25T15:18:02.770Z,"3 km SSE of Armona, CA",earthquake,0.45,0.54,0.18,36,automatic,nc,nc
 2024-03-25T08:21:06.032Z,31.592,-104.117,7.6892,1.8,ml,22,60,0,0.2,tx,tx2024fycu,2024-03-25T15:01:10.659Z,"43 km NW of Toyah, Texas",earthquake,0.6918886270743304,0.8400443394166831,0.3,18,reviewed,tx,tx
 2024-03-25T08:15:29.009Z,62.3953,-151.0682,8.5,1.9,ml,,,,0.71,ak,ak0243wpj8sk,2024-03-25T08:17:41.152Z,"19 km SW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-25T08:01:31.250Z,47.67783333333333,-122.15566666666666,29.62,2.74,ml,83,19,0.02808,0.15,uw,uw61992201,2024-03-25T14:37:05.700Z,"2 km W of Redmond, Washington",earthquake,0.21,0.41,0.180603198094337,130,reviewed,uw,uw
@@ -175,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-24T15:39:52.960Z,38.8451653,-122.8160019,0.85,1.14,md,22,59,0.01108,0.04,nc,nc74023181,2024-03-24T15:41:26.216Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.37,0.19,23,automatic,nc,nc
 2024-03-24T15:34:05.797Z,-7.6078,108.5692,115.309,4.6,mb,35,50,0.923,0.73,us,us6000mkz6,2024-03-25T01:46:30.699Z,"28 km WSW of Sidareja, Indonesia",earthquake,5.61,5.792,0.097,32,reviewed,us,us
 2024-03-24T15:33:52.030Z,38.7723351,-122.742836,1.43,1.2,md,11,74,0.01189,0.03,nc,nc74023176,2024-03-24T15:35:26.126Z,"1 km ESE of The Geysers, CA",earthquake,0.4,0.57,0.24,12,automatic,nc,nc
-2024-03-24T15:22:19.769Z,63.4364,-147.5666,10.8,1.3,ml,,,,0.32,ak,ak0243v67eu0,2024-03-24T15:24:12.551Z,"69 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-24T15:20:20.366Z,36.7601,-116.284,7.8,0.1,ml,27,61.08,0.023,0.124,nn,nn00875272,2024-03-24T16:42:45.610Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.35,14,reviewed,nn,nn
