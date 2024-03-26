@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-26T13:35:09.200Z,38.8371658,-122.8013306,2.14,1.08,md,20,64,0.00867,0.02,nc,nc74024326,2024-03-26T13:36:42.342Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.45,0.17,21,automatic,nc,nc
+2024-03-26T13:31:56.800Z,34.2621651,-116.4375,8.13,1.58,ml,24,51,0.05408,0.17,ci,ci40524751,2024-03-26T13:34:33.021Z,"16 km N of Yucca Valley, CA",earthquake,0.28,0.58,0.09,6,automatic,ci,ci
 2024-03-26T13:03:14.325Z,65.6715,-151.0301,8.7,1.3,ml,,,,0.92,ak,ak0243yfz5k5,2024-03-26T13:05:52.875Z,"43 km WNW of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-26T13:02:53.531Z,61.9792,-148.363,36.6,1,ml,,,,1.1,ak,ak0243yfz0w9,2024-03-26T13:04:36.996Z,"21 km NNE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-26T13:01:29.204Z,64.4643,-146.7335,9.1,0.7,ml,,,,1.14,ak,ak0243yfyr8d,2024-03-26T13:04:32.046Z,"10 km SE of Salcha, Alaska",earthquake,,0.7,,,automatic,ak,ak
