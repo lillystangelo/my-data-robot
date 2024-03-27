@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-27T16:47:48.090Z,38.8256683,-122.8290024,2.23,0.65,md,10,91,0.005354,0.01,nc,nc74025011,2024-03-27T16:49:21.113Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.93,0.24,11,automatic,nc,nc
+2024-03-27T16:44:06.560Z,38.8084984,-122.8238297,2.26,0.75,md,12,55,0.004195,0.03,nc,nc74025006,2024-03-27T16:45:42.346Z,"7 km WNW of The Geysers, CA",earthquake,0.38,0.69,0.33,12,automatic,nc,nc
+2024-03-27T16:43:03.603Z,62.5505,-152.2048,0,1.8,ml,,,,0.75,ak,ak024405jcpk,2024-03-27T16:45:11.048Z,"74 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T16:27:05.205Z,61.7628,-150.8327,47.4,1.4,ml,,,,0.42,ak,ak024405fxdk,2024-03-27T16:29:06.902Z,"29 km NW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-03-27T16:25:05.290Z,33.884,-116.8825,14.03,1.25,ml,47,34,0.08687,0.12,ci,ci40700224,2024-03-27T16:36:18.050Z,"5 km S of Banning, CA",earthquake,0.12,0.31,0.133,28,automatic,ci,ci
 2024-03-27T15:55:27.440Z,38.8370018,-122.814003,15.87,0.81,md,8,135,0.01393,0.06,nc,nc74024996,2024-03-27T15:57:00.633Z,"8 km WNW of Cobb, CA",earthquake,3.13,2.63,0.31,9,automatic,nc,nc
@@ -95,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T07:29:33.160Z,38.815834,-122.8241653,2.27,0.87,md,12,82,0.007982,0.02,nc,nc74024781,2024-03-27T07:31:05.857Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.77,0.15,13,automatic,nc,nc
 2024-03-27T07:12:54.580Z,38.8240013,-122.7838364,0.68,0.59,md,8,108,0.01101,0.01,nc,nc74024771,2024-03-27T07:14:30.668Z,"5 km W of Cobb, CA",earthquake,0.38,0.93,0.45,8,automatic,nc,nc
 2024-03-27T06:56:21.660Z,61.0041,-146.9753,14.4,1.3,ml,,,,0.92,ak,ak0243zznud2,2024-03-27T06:58:45.521Z,"22 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-03-27T06:52:00.360Z,46.32066666666667,-122.23366666666666,4.72,0.51,ml,8,275,0.0277,0.1,uw,uw61992701,2024-03-27T16:45:26.420Z,"26 km S of Morton, Washington",earthquake,0.74,0.54,0.08667200829716357,3,reviewed,uw,uw
 2024-03-27T06:37:08.456Z,61.9687,-148.4549,35.7,1.4,ml,,,,0.6,ak,ak0243zzjqql,2024-03-27T06:38:59.252Z,"19 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-27T06:27:42.015Z,65.907,-146.3767,9.2,1.7,ml,,,,1.16,ak,ak0243zzho61,2024-03-27T06:29:59.368Z,"46 km SSW of Birch Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T06:26:55.160Z,36.1311666666667,-89.7183333333333,9.4,2.04,md,16,82,0.01729,0.02,nm,nm60575201,2024-03-27T13:23:16.800Z,"8 km SW of Caruthersville, Missouri",earthquake,0.38,0.52,0.0991175939004565,15,reviewed,nm,nm
