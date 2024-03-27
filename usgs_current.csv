@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-27T23:37:49.212Z,59.0095,-154.5274,77.4,1.9,ml,,,,0.38,ak,ak024409o761,2024-03-27T23:39:38.346Z,"49 km SSE of Kokhanok, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-03-27T23:32:18.889Z,36.7284,-116.2797,12.6,0.3,ml,9,194.81,0.054,0.2181,nn,nn00875454,2024-03-27T23:34:06.692Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.25,6,automatic,nn,nn
 2024-03-27T23:29:38.989Z,56.9541,-155.1667,0,2.2,ml,,,,0.61,ak,ak024409mgne,2024-03-27T23:32:32.352Z,"60 km W of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-27T23:20:30.440Z,38.833168,-122.8095016,2.24,0.28,md,9,71,0.009769,0.02,nc,nc74025191,2024-03-27T23:22:06.755Z,"8 km W of Cobb, CA",earthquake,0.39,1.46,0.15,10,automatic,nc,nc
@@ -205,6 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T03:52:14.560Z,17.9228333333333,-66.8533333333333,15.62,2.53,md,9,226,0.0575,0.13,pr,pr71443958,2024-03-27T04:49:38.423Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.89,0.64,0.160489756016964,5,reviewed,pr,pr
 2024-03-27T03:49:21.760Z,32.5221667,-117.2266667,13.59,1.16,ml,14,173,0.108,0.14,ci,ci40699904,2024-03-27T17:31:18.919Z,"13 km WSW of Imperial Beach, CA",earthquake,0.43,1.09,0.103,7,reviewed,ci,ci
 2024-03-27T03:49:16.338Z,42.3166,-126.5022,10,4.1,mb,67,201,1.597,0.89,us,us7000m87e,2024-03-27T04:08:33.040Z,"171 km WSW of Port Orford, Oregon",earthquake,8.61,1.977,0.086,37,reviewed,us,us
+2024-03-27T03:45:10.818Z,37.4348,-116.9372,3.1,0.8,ml,6,224.21,0.29,0.1045,nn,nn00875455,2024-03-27T23:41:42.989Z,"40 km SE of Goldfield, Nevada",earthquake,,35.8,0.57,2,reviewed,nn,nn
 2024-03-27T03:42:34.474Z,63.3036,-151.3377,0,1.8,ml,,,,0.67,ak,ak0243zxskif,2024-03-27T03:44:40.116Z,"32 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T03:38:41.620Z,19.1933326721191,-155.378005981445,31.0200004577637,2.02999997,md,43,165,0.08799,0.150000006,hv,hv74150907,2024-03-27T03:40:26.410Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.699999988,0.300000012,6,automatic,hv,hv
 2024-03-27T03:38:00.063Z,65.5718,-150.8136,0,1.7,ml,,,,0.99,ak,ak0243zxrmzq,2024-03-27T03:40:23.164Z,"30 km WNW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -253,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T23:53:01.080Z,59.1523,-138.4816,0.8,2.4,ml,,,,0.84,ak,ak0243ym86k6,2024-03-26T23:56:13.410Z,"83 km ESE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-26T23:49:56.790Z,38.829834,-122.7904968,1.5,0.54,md,8,115,0.008563,0.02,nc,nc74024656,2024-03-26T23:51:29.373Z,"6 km W of Cobb, CA",earthquake,0.39,1.09,0.32,9,automatic,nc,nc
 2024-03-26T23:49:23.880Z,17.9426666666667,-65.7658333333333,17.63,2.04,md,7,223,0.1433,0.11,pr,pr71443953,2024-03-27T00:04:03.800Z,"13 km SE of El Negro, Puerto Rico",earthquake,0.66,1.14,0.0456913745583587,5,reviewed,pr,pr
-2024-03-26T23:41:44.657Z,61.261,-146.1496,21.7,1.8,ml,,,,0.71,ak,ak0243ym5p6p,2024-03-26T23:43:48.100Z,"18 km NE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-26T23:37:34.200Z,44.3383333333333,-114.822333333333,6.1,1.94,ml,12,86,0.2327,0.24,mb,mb90044218,2024-03-27T14:10:05.270Z,"16 km NE of Stanley, Idaho",earthquake,0.61,1.69,0.24008992989281,16,reviewed,mb,mb
