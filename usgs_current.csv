@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T08:39:01.085Z,62.8864,-150.2455,74,1.4,ml,,,,0.82,ak,ak024400r0rg,2024-03-27T08:41:46.694Z,"49 km N of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-27T08:36:37.770Z,61.4201,-150.2095,19,0.6,ml,,,,0.21,ak,ak024400qfaa,2024-03-28T06:19:55.915Z,"14 km WNW of Point MacKenzie, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2024-03-27T08:35:02.860Z,33.06,-115.8953333,5.42,1.55,ml,53,39,0.08302,0.22,ci,ci40699968,2024-03-28T01:33:17.200Z,"24 km ESE of Ocotillo Wells, CA",earthquake,0.17,0.53,0.198,23,reviewed,ci,ci
-2024-03-27T08:22:45.069Z,39.0668,-118.1294,11.2,0.2,ml,3,231.91,0.029,0.0065,nn,nn00875461,2024-03-28T00:44:04.717Z,"28 km NW of Gabbs, Nevada",earthquake,,13.9,0.06,2,reviewed,nn,nn
