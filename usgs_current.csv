@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-01T22:14:15.654Z,64.4757,-147.0001,4.8,0.9,ml,,,,0.34,ak,ak02448imhv2,2024-04-01T22:17:08.923Z,"7 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-01T22:13:54.280Z,38.8218346,-122.8509979,1.79,0.62,md,9,166,0.007319,0.02,nc,nc74027621,2024-04-01T22:15:27.739Z,"10 km WNW of The Geysers, CA",earthquake,0.5,1.01,0.1,9,automatic,nc,nc
 2024-04-01T21:54:45.770Z,33.1633339,-116.4688339,15.33,0.63,ml,8,91,0.08957,0.23,ci,ci40703248,2024-04-01T22:00:39.833Z,"14 km SW of Borrego Springs, CA",earthquake,0.98,1.5,0.113,4,automatic,ci,ci
 2024-04-01T21:52:50.370Z,38.8116684,-122.8288345,1.52,1.08,md,24,58,0.002809,0.02,nc,nc74027606,2024-04-01T21:54:27.576Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.34,0.24,25,automatic,nc,nc
 2024-04-01T21:36:16.288Z,61.9782,-150.2831,29.1,1.8,ml,,,,0.72,ak,ak02448i5s23,2024-04-01T21:45:30.827Z,"28 km NNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-01T21:34:02.910Z,38.8160019,-122.7750015,-0.02,1.1,md,14,79,0.005217,0.05,nc,nc74027596,2024-04-01T21:35:37.382Z,"4 km W of Cobb, CA",earthquake,0.23,0.47,0.15,17,automatic,nc,nc
 2024-04-01T21:32:09.740Z,38.810833,-122.7669983,-0.91,0.78,md,8,92,0.01096,0.13,nc,nc74027581,2024-04-01T21:33:42.341Z,"4 km NNW of The Geysers, CA",earthquake,0.42,2.03,0.22,10,automatic,nc,nc
-2024-04-01T21:31:46.762Z,65.01,-170.2654,28.6,3.7,ml,,,,1.03,ak,ak02448i4rvz,2024-04-01T21:57:48.724Z,"73 km SSE of Lavrentiya, Russia",earthquake,,3.1,,,reviewed,ak,ak
+2024-04-01T21:31:46.762Z,65.01,-170.2654,28.6,3.7,ml,,,,1.03,ak,ak02448i4rvz,2024-04-01T22:02:37.939Z,"73 km SSE of Lavrentiya, Russia",earthquake,,3.1,,,reviewed,ak,ak
 2024-04-01T21:17:49.255Z,60.3345,-151.3058,53.4,1.7,ml,,,,0.39,ak,ak02448i1s3x,2024-04-01T21:19:14.556Z,"1 km W of Kasilof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-04-01T21:16:58.367Z,43.2754,-126.8804,10,3.1,ml,22,264,2.097,0.39,us,us7000m997,2024-04-01T21:44:46.040Z,"201 km W of Langlois, Oregon",earthquake,5.85,2.014,0.034,116,reviewed,us,us
 2024-04-01T21:11:16.982Z,-21.0208,-178.5208,541.294,4.7,mb,91,45,3.101,0.71,us,us7000m996,2024-04-01T21:38:34.040Z,"Fiji region",earthquake,11.44,6.54,0.035,246,reviewed,us,us
@@ -219,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-31T22:37:16.660Z,19.2176666259766,-154.933334350586,21.3899993896484,2.06,ml,34,244,0.1705,0.140000001,hv,hv74156962,2024-03-31T22:39:53.380Z,"27 km S of Leilani Estates, Hawaii",earthquake,0.63,1.35000002,0.35,4,automatic,hv,hv
 2024-03-31T22:31:42.422Z,62.3213,-149.077,32.8,2.1,ml,,,,0.33,ak,ak02446v6upu,2024-03-31T22:33:29.405Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-31T22:24:43.718Z,61.4263,-147.5551,33.3,2.5,ml,,,,0.08,ak,ak02446v5csz,2024-04-01T01:40:44.040Z,"42 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-03-31T22:20:24.600Z,36.7466667,-121.4453333,7.17,1.05,md,16,79,0.0174,0.1,nc,nc74027056,2024-04-01T10:08:51.442Z,"10 km SW of Ridgemark, CA",earthquake,0.52,0.43,0.209,14,reviewed,nc,nc
-2024-03-31T22:19:48.160Z,47.3508333333333,-113.425333333333,18.09,0.83,ml,8,201,0.1185,0.06,mb,mb90044568,2024-04-01T15:53:11.000Z,"19 km NNE of Seeley Lake, Montana",earthquake,0.52,0.87,0.0988694369861808,3,reviewed,mb,mb
-2024-03-31T22:18:46.889Z,64.5386,-153.3533,0,1.8,ml,,,,0.49,ak,ak02446v42r4,2024-03-31T22:21:13.730Z,"88 km NW of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-31T22:10:25.640Z,60.1796666666667,-152.872,7.69,-0.14,ml,5,190,0.1558,0.02,av,av93073836,2024-03-31T22:24:57.250Z,"68 km WNW of Ninilchik, Alaska",earthquake,1.85,1.68,0.155331432813417,4,reviewed,av,av
