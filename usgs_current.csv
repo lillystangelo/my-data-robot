@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-03T11:19:22.601Z,62.4348,-150.4513,59.2,2.4,ml,,,,0.67,ak,ak0244bn6iek,2024-04-03T11:21:16.245Z,"17 km NW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-04-03T11:15:35.958Z,61.6572,-148.6472,32.8,1.2,ml,,,,0.31,ak,ak0244bn5ol7,2024-04-03T11:17:34.304Z,"14 km SSE of Sutton-Alpine, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-04-03T11:12:09.916Z,59.5941,-153.4599,107.6,1.8,ml,,,,0.29,ak,ak0244bn4zfj,2024-04-03T11:13:56.119Z,"42 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-03T11:10:38.980Z,19.2756671905518,-155.394500732422,32.3499984741211,2.36999989,md,20,221,0.05803,0.0700000003,hv,hv74159732,2024-04-03T11:12:25.280Z,"11 km NE of Pāhala, Hawaii",earthquake,1.4,1.00999999,0.100000001,3,automatic,hv,hv
 2024-04-03T10:57:30.400Z,32.4098333,-115.227,11.36,1.72,ml,22,53,0.06667,0.24,ci,ci40704392,2024-04-03T11:03:56.336Z,"7 km NNW of Delta, B.C., MX",earthquake,0.33,0.85,0.259,21,automatic,ci,ci
@@ -147,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T00:02:35.791Z,61.7367,-150.1539,38.8,1.3,ml,,,,0.53,ak,ak0244bgj4m3,2024-04-03T00:04:08.846Z,"6 km W of Willow, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2024-04-03T00:00:27.610Z,34.029,-116.8118333,12.14,0.75,ml,18,84,0.006997,0.19,ci,ci40704104,2024-04-03T00:07:21.027Z,"13 km N of Cabazon, CA",earthquake,0.44,0.77,0.348,13,automatic,ci,ci
 2024-04-02T23:59:45.440Z,38.7901649,-122.7348328,1.6,1.27,md,14,90,0.007074,0.02,nc,nc74028151,2024-04-03T01:58:03.837Z,"2 km NE of The Geysers, CA",earthquake,0.27,0.78,0.14,14,automatic,nc,nc
-2024-04-02T23:58:11.228Z,23.819,121.5616,34.75,7.4,mww,87,23,0.354,1.18,us,us7000m9g4,2024-04-03T11:13:46.030Z,"18 km SSW of Hualien City, Taiwan",earthquake,4.35,4.487,0.043,51,reviewed,us,us
+2024-04-02T23:58:11.228Z,23.819,121.5616,34.75,7.4,mww,87,23,0.354,1.18,us,us7000m9g4,2024-04-03T11:18:58.339Z,"18 km SSW of Hualien City, Taiwan",earthquake,4.35,4.487,0.043,51,reviewed,us,us
 2024-04-02T23:47:54.050Z,35.8673333,-117.5676667,11.88,1.08,ml,21,142,0.1048,0.13,ci,ci40704096,2024-04-03T00:40:45.226Z,"18 km NW of Searles Valley, CA",earthquake,0.29,0.63,0.174,12,reviewed,ci,ci
 2024-04-02T23:43:45.170Z,38.8008347,-122.8073349,1.24,1.06,md,15,60,0.01179,0.02,nc,nc74028146,2024-04-02T23:45:18.509Z,"5 km WNW of The Geysers, CA",earthquake,0.25,0.47,0.17,17,automatic,nc,nc
 2024-04-02T23:36:43.832Z,62.262,-150.9076,69.2,1.5,ml,,,,0.07,ak,ak0244a6w1zz,2024-04-02T23:38:44.737Z,"27 km SSW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -259,5 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T11:46:13.140Z,34.5335,-118.936,-0.63,1.18,ml,29,92,0.05635,0.31,ci,ci40703560,2024-04-02T17:06:03.277Z,"15 km N of Fillmore, CA",earthquake,0.39,1.15,0.133,16,reviewed,ci,ci
 2024-04-02T11:35:27.396Z,61.4554,-141.2569,24.4,0.7,ml,,,,0.45,ak,ak02449zql6a,2024-04-02T18:23:20.057Z,"88 km E of McCarthy, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2024-04-02T11:34:54.660Z,38.8139992,-122.8274994,1.76,0.98,md,11,87,0.005289,0.01,nc,nc74027896,2024-04-02T11:36:29.772Z,"7 km WNW of The Geysers, CA",earthquake,0.3,0.64,0.2,12,automatic,nc,nc
-2024-04-02T11:24:16.970Z,36.1035,-89.7665,9.07,2.47,md,42,33,0.05476,0.08,nm,nm60575811,2024-04-02T20:36:49.886Z,"6 km ENE of Steele, Missouri",earthquake,0.19,0.41,0.102384602537359,35,reviewed,nm,nm
-2024-04-02T11:16:16.170Z,19.073,-155.365666666667,33.55,1.91,md,17,280,0.1226,0.07,hv,hv74158747,2024-04-02T18:19:54.740Z,"18 km SE of Pāhala, Hawaii",earthquake,1.61,1.07,0.135461166506313,24,reviewed,hv,hv
