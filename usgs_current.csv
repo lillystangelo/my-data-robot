@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-05T08:52:57.960Z,38.8195,-122.8238297,2.02,0.75,md,9,81,0.01141,0.01,nc,nc74029641,2024-04-05T08:54:33.706Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.94,0.38,9,automatic,nc,nc
 2024-04-05T08:47:25.254Z,62.2812,-149.789,20,1.4,ml,,,,0.42,ak,ak0244ewmwv2,2024-04-05T08:50:35.647Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-05T08:40:56.795Z,60.9364,-151.2652,56.9,1.4,ml,,,,0.71,ak,ak0244ewlh9r,2024-04-05T08:42:54.772Z,"16 km SSW of Tyonek, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2024-04-05T08:23:02.330Z,33.7446667,-116.0365,4.57,1.16,ml,22,89,0.09731,0.13,ci,ci40705968,2024-04-05T08:29:17.050Z,"15 km ENE of Coachella, CA",earthquake,0.19,0.69,0.273,15,automatic,ci,ci
