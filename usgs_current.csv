@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-07T20:38:09.515Z,61.8841,-150.7925,63.1,1.8,ml,,,,0.57,ak,ak0244iesufr,2024-04-07T20:40:04.988Z,"33 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-07T20:23:42.911Z,60.1177,-152.9199,113.6,0.7,ml,,,,0.36,ak,ak0244ieppkp,2024-04-07T20:26:46.396Z,"68 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-07T20:11:41.867Z,63.2538,-148.3545,175.1,1.5,ml,,,,0.83,ak,ak0244ien5f4,2024-04-07T20:14:20.931Z,"33 km ESE of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-04-07T20:08:56.591Z,36.6363,-116.28,6.2,0,ml,11,196.76,0.048,0.052,nn,nn00875912,2024-04-07T20:10:56.226Z,"52 km SE of Beatty, Nevada",earthquake,,1,0.25,6,automatic,nn,nn
@@ -157,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T00:48:41.560Z,19.3784999847412,-155.296173095703,1.52999997138977,2.25,md,11,110,0.01163,0.360000014,hv,hv74163427,2024-04-07T01:16:11.089Z,"9 km SW of Volcano, Hawaii",earthquake,0.59,0.579999983,0.239999995,10,automatic,hv,hv
 2024-04-07T00:35:07.510Z,40.3798333,-125.2696667,10,3.39,ml,103,237,0.7145,0.29,nc,nc74030516,2024-04-07T04:34:33.257Z,"84 km W of Petrolia, CA",earthquake,1.23,31.61,0.196,46,reviewed,nc,nc
 2024-04-07T00:28:45.520Z,36.9544983,-121.5868301,7.05,2.49,md,68,33,0.003914,0.22,nc,nc74030511,2024-04-07T04:37:27.587Z,"6 km SSW of Gilroy, CA",earthquake,0.26,0.56,0.12,72,automatic,nc,nc
+2024-04-07T00:23:07.000Z,33.583,-116.8048333,10.03,1.6,ml,33,56,0.03563,0.16,ci,ci37642204,2024-04-07T20:37:21.742Z,"13 km WNW of Anza, CA",earthquake,0.22,0.38,0.098,38,reviewed,ci,ci
 2024-04-07T00:23:02.080Z,33.5763333,-116.8115,9.06,1.94,ml,85,18,0.04319,0.21,ci,ci40706592,2024-04-07T20:24:46.600Z,"13 km W of Anza, CA",earthquake,0.13,0.36,0.169,84,reviewed,ci,ci
 2024-04-07T00:03:44.330Z,35.4813333333333,-83.6368333333333,2.63,2.03,md,14,60,0.2088,0.1,se,se60576406,2024-04-07T19:58:25.840Z,"17 km WNW of Bryson City, North Carolina",earthquake,0.56,1.44,0.165277048886407,11,reviewed,se,se
 2024-04-06T23:54:47.680Z,38.7851677,-122.7356644,1.38,1.23,md,14,82,0.02432,0.02,nc,nc74030506,2024-04-06T23:56:19.897Z,"2 km ENE of The Geysers, CA",earthquake,0.24,0.85,0.13,14,automatic,nc,nc
@@ -177,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T21:15:08.994Z,24.0002,121.7774,18.418,4.9,mb,57,69,0.748,0.71,us,us7000mai0,2024-04-06T22:21:48.874Z,"17 km E of Hualien City, Taiwan",earthquake,1.56,4.215,0.058,96,reviewed,us,us
 2024-04-06T21:07:52.620Z,40.0408333,-121.295,7.33,2.23,md,31,51,0.2363,0.19,nc,nc74030431,2024-04-06T22:47:46.389Z,"5 km NW of Belden, CA",earthquake,0.32,1.48,0.137,31,reviewed,nc,nc
 2024-04-06T21:04:48.670Z,19.0336666107178,-155.518005371094,39.2900009155273,2.44000006,md,34,250,0.06035,0.129999995,hv,hv74163247,2024-04-06T21:36:03.040Z,"7 km ESE of Naalehu, Hawaii",earthquake,0.99,0.689999998,0.389999986,5,automatic,hv,hv
-2024-04-06T20:45:11.610Z,33.8348333,-116.8636667,16.1,0.6,ml,20,72,0.1557,0.13,ci,ci40706544,2024-04-07T15:14:52.584Z,"10 km NNE of Valle Vista, CA",earthquake,0.23,0.68,0.163,17,reviewed,ci,ci
-2024-04-06T20:43:27.140Z,38.8115005,-122.7961655,2.12,1.07,md,15,61,0.003591,0.02,nc,nc74030421,2024-04-06T20:45:05.013Z,"5 km NW of The Geysers, CA",earthquake,0.28,0.46,0.16,18,automatic,nc,nc
