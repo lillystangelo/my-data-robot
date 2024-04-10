@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-10T13:31:55.862Z,61.439,-150.4194,16.3,1.4,ml,,,,0.49,ak,ak0244n97g8y,2024-04-10T13:33:37.494Z,"12 km SSE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-10T13:30:45.870Z,33.8364983,-118.5828323,7.42,1.87,ml,25,154,0.175,0.22,ci,ci40709616,2024-04-10T13:32:54.326Z,"17 km WSW of Manhattan Beach, CA",earthquake,0.63,1.6,0.31,29,automatic,ci,ci
+2024-04-10T13:30:45.730Z,33.8353333,-118.5771667,3.22,1.84,ml,40,133,0.1672,0.24,ci,ci40709616,2024-04-10T13:37:33.022Z,"16 km WSW of Manhattan Beach, CA",earthquake,0.32,1.25,0.131,28,automatic,ci,ci
 2024-04-10T13:29:46.270Z,38.8276672,-122.8150024,2.03,0.81,md,13,116,0.005746,0.02,nc,nc74032251,2024-04-10T13:31:19.675Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.68,0.29,14,automatic,nc,nc
 2024-04-10T13:11:01.700Z,33.6943333,-116.7126667,17.62,0.73,ml,33,37,0.01684,0.11,ci,ci40709592,2024-04-10T13:17:06.881Z,"5 km S of Idyllwild, CA",earthquake,0.16,0.27,0.304,17,automatic,ci,ci
 2024-04-10T12:20:56.449Z,58.2781,-155.0255,1.1,1.7,ml,,,,0.92,ak,ak0244n8jnt8,2024-04-10T12:21:50.028Z,"85 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T14:24:54.640Z,38.8354988,-122.7990036,2.24,1.09,md,16,63,0.007361,0.02,nc,nc74031786,2024-04-09T14:26:27.858Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.53,0.06,17,automatic,nc,nc
 2024-04-09T14:17:49.710Z,35.6821667,-117.5048333,6.54,0.99,ml,15,128,0.06821,0.12,ci,ci40708448,2024-04-09T17:14:20.997Z,"13 km SW of Searles Valley, CA",earthquake,0.33,0.75,0.125,4,reviewed,ci,ci
 2024-04-09T14:07:03.740Z,28.0599,100.2997,16.05,5,mb,125,35,8.397,0.75,us,us7000mazk,2024-04-10T02:44:43.365Z,"43 km NW of Yongning, China",earthquake,9.25,4.309,0.046,158,reviewed,us,us
-2024-04-09T13:37:36.353Z,63.111,-150.4014,107.4,1.1,ml,,,,0.56,ak,ak0244llpcjn,2024-04-09T13:40:32.443Z,"70 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-04-09T13:35:02.370Z,38.8183327,-122.767334,0.56,1.09,md,8,102,0.0116,0.02,nc,nc74031781,2024-04-09T13:36:36.269Z,"4 km W of Cobb, CA",earthquake,0.34,0.75,0.26,10,automatic,nc,nc
