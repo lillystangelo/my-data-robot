@@ -1,4 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-16T12:12:50.860Z,38.8326683,-122.8183365,1.83,0.66,md,15,57,0.01464,0.01,nc,nc74035251,2024-04-16T12:14:26.145Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.89,0.09,15,automatic,nc,nc
+2024-04-16T12:11:40.080Z,19.1518325805664,-155.374496459961,28.2800006866455,2.00999999,md,45,179,0.0829,0.119999997,hv,hv74173317,2024-04-16T12:13:31.750Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.42,0.779999971,0.25,12,automatic,hv,hv
+2024-04-16T12:09:33.330Z,38.7966652,-122.737999,1.45,1.04,md,9,153,0.01345,0.02,nc,nc74035246,2024-04-16T12:11:06.096Z,"3 km NE of The Geysers, CA",earthquake,0.4,1.08,0.13,11,automatic,nc,nc
+2024-04-16T12:06:44.950Z,33.0058333,-116.3656667,5.92,0.7,ml,33,70,0.05079,0.19,ci,ci40713880,2024-04-16T12:13:22.739Z,"24 km ESE of Julian, CA",earthquake,0.21,0.66,0.128,11,automatic,ci,ci
+2024-04-16T12:03:13.700Z,39.1954994,-123.0656662,7.27,1.88,md,16,124,0.06598,0.07,nc,nc74035241,2024-04-16T12:04:46.035Z,"11 km NE of Talmage, CA",earthquake,0.35,0.9,0.18,12,automatic,nc,nc
+2024-04-16T11:59:38.510Z,38.8218346,-122.7591629,0.86,0.51,md,8,129,0.02118,0.02,nc,nc74035236,2024-04-16T12:01:11.966Z,"3 km W of Cobb, CA",earthquake,0.39,1.82,0.27,9,automatic,nc,nc
+2024-04-16T11:37:47.760Z,31.694,-104.174,3.9347,1.6,ml,17,99,0.1,0.3,tx,tx2024hmoi,2024-04-16T12:17:37.555Z,"54 km W of Mentone, Texas",earthquake,0,1.42858377178854,0.2,12,automatic,tx,tx
 2024-04-16T11:33:52.956Z,57.7198,-155.5222,77.5,1.8,ml,,,,0.16,ak,ak0244x5937j,2024-04-16T11:36:08.607Z,"65 km WNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-16T11:14:50.930Z,35.31,-118.1653333,0.75,1.47,ml,43,33,0.1566,0.14,ci,ci40713872,2024-04-16T11:25:33.310Z,"26 km NW of California City, CA",earthquake,0.12,0.29,0.132,28,automatic,ci,ci
 2024-04-16T11:09:36.859Z,61.8311,-150.5255,59.2,1.1,ml,,,,0.28,ak,ak0244x53ws5,2024-04-16T11:11:09.700Z,"27 km WNW of Willow, Alaska",earthquake,,1.9,,,automatic,ak,ak
@@ -167,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T18:27:06.780Z,49.01766666666666,-122.04183333333333,-0.39,1.69,ml,9,245,0.03451,0.08,uw,uw61988757,2024-04-15T20:52:23.000Z,"10 km NNE of Maple Falls, Washington",explosion,0.51,31.61,0.10142833408368945,9,reviewed,uw,uw
 2024-04-15T18:27:02.840Z,42.7665,-123.184,-0.96,1.34,ml,9,84,0.08261,0.29,uw,uw61988762,2024-04-16T00:43:56.150Z,"19 km SSE of Canyonville, Oregon",explosion,0.82,31.61,0.057078467516399445,3,reviewed,uw,uw
 2024-04-15T18:17:02.776Z,52.5633,172.7784,35,4.6,mb,58,86,0.822,0.63,us,us7000mc91,2024-04-16T00:01:00.065Z,"41 km SW of Attu Station, Alaska",earthquake,9.85,1.915,0.048,129,reviewed,us,us
-2024-04-15T18:16:44.040Z,19.151,-155.468166666667,32.92,3.18,ml,42,161,0.007213,0.1,hv,hv74172412,2024-04-15T19:54:58.980Z,"5 km S of Pāhala, Hawaii",earthquake,0.46,0.6,0.0922176020060197,24,reviewed,hv,hv
+2024-04-15T18:16:44.040Z,19.151,-155.468166666667,32.92,3.18,ml,42,161,0.007213,0.1,hv,hv74172412,2024-04-16T11:58:47.850Z,"5 km S of Pāhala, Hawaii",earthquake,0.46,0.6,0.0922176020060197,24,reviewed,hv,hv
 2024-04-15T18:14:49.935Z,62.0554,-148.1496,24.2,1.6,ml,,,,0.72,ak,ak0244vlrnny,2024-04-15T18:16:49.764Z,"33 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-15T18:14:42.825Z,64.7306,-151.082,13.8,1.2,ml,,,,0.53,ak,ak0244vlroka,2024-04-15T18:16:54.409Z,"36 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-15T18:10:01.492Z,31.655,-104.382,4.9719,2.2,ml,21,67,0,0.1,tx,tx2024hlfu,2024-04-15T19:25:36.396Z,"57 km S of Whites City, New Mexico",earthquake,0.70357947377338,0.794753673432513,0.2,12,reviewed,tx,tx
@@ -229,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-15T12:32:30.740Z,38.822834,-122.7648315,2.19,1.1,md,15,205,0.008597,0.02,nc,nc74034726,2024-04-15T12:34:04.926Z,"4 km W of Cobb, CA",earthquake,0.59,0.59,0.06,17,automatic,nc,nc
 2024-04-15T12:24:18.193Z,60.838,-152.8331,27.4,0.7,ml,,,,0.57,ak,ak0244vi967j,2024-04-15T12:26:30.207Z,"85 km W of Nikiski, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-15T12:19:45.600Z,38.8105011,-122.8206635,-0.52,1.05,md,7,165,0.0153,0.08,nc,nc74034721,2024-04-15T12:21:19.780Z,"7 km WNW of The Geysers, CA",earthquake,0.56,2.11,0.19,11,automatic,nc,nc
-2024-04-15T12:13:16.440Z,35.478,-118.3733333,8.03,1.19,ml,28,55,0.1903,0.13,ci,ci40713048,2024-04-15T17:46:27.925Z,"16 km SE of Bodfish, CA",earthquake,0.17,0.72,0.2,13,reviewed,ci,ci
