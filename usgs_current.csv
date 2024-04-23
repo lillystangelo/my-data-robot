@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-23T06:44:05.764Z,65.1044,-151.7512,2.5,1.3,ml,,,,1,ak,ak02458n3lvr,2024-04-23T06:47:02.762Z,"17 km ESE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-23T06:40:49.667Z,64.4681,-146.9088,9.9,1.1,ml,,,,0.61,ak,ak02458n2uee,2024-04-23T06:43:17.488Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-23T06:38:27.584Z,65.1093,-151.6837,10.8,0.9,ml,,,,0.22,ak,ak02458n2d9i,2024-04-23T06:40:19.209Z,"19 km ESE of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-23T06:27:34.397Z,62.4017,-149.3973,34.6,1.4,ml,,,,0.73,ak,ak02458n00wv,2024-04-23T06:29:35.678Z,"35 km NE of Susitna North, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -160,7 +161,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T16:39:17.703Z,31.6,-103.947,4.7546,1.5,ml,15,77,0,0.2,tx,tx2024hxxh,2024-04-22T17:22:19.787Z,"34 km NNW of Toyah, Texas",earthquake,0,1.32351913650738,0.2,12,automatic,tx,tx
 2024-04-22T16:33:04.742Z,23.8075,121.6515,27.921,4.1,mwr,65,80,0.526,0.75,us,us6000mszm,2024-04-22T18:21:21.040Z,"19 km SSE of Hualien City, Taiwan",earthquake,3.59,3.943,0.063,24,reviewed,us,us
 2024-04-22T16:30:45.841Z,0.9182,98.8063,85.006,4.5,mb,38,145,1.289,0.76,us,us6000mszn,2024-04-22T17:39:34.040Z,"72 km SW of Padangsidempuan, Indonesia",earthquake,6.97,7.01,0.111,24,reviewed,us,us
-2024-04-22T16:28:54.476Z,57.9616,-156.1091,72.6,1.3,ml,,,,0.94,ak,ak024575fdjz,2024-04-22T16:42:02.243Z,"79 km ESE of Egegik, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2024-04-22T16:17:20.459Z,60.1221,-153.2536,129.9,1.5,ml,,,,0.48,ak,ak024575cu8d,2024-04-22T16:19:36.284Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-22T16:14:41.183Z,40.6936,-74.7144,6.659,1.5,ml,7,114,0.028,0.23,us,us6000mt01,2024-04-22T21:01:33.598Z,"5 km SW of Gladstone, New Jersey",earthquake,1.69,1.823,0.105,12,reviewed,us,us
 2024-04-22T16:12:52.890Z,19.5065002441406,-155.65966796875,2.54999995231628,1.83000004,md,17,85,0.03752,0.180000007,hv,hv74181177,2024-04-22T16:14:29.920Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.680000007,0.230000004,5,automatic,hv,hv
