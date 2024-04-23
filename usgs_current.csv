@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-23T08:01:22.470Z,33.9393333,-116.3078333,5.23,2.09,ml,77,27,0.08392,0.15,ci,ci40555671,2024-04-23T08:11:50.450Z,"15 km NNE of Thousand Palms, CA",earthquake,0.1,0.56,0.18,26,automatic,ci,ci
 2024-04-23T07:59:14.696Z,-5.985,147.2048,103.283,4.9,mb,58,57,7.342,0.64,us,us6000mt5f,2024-04-23T08:22:10.931Z,"84 km NNE of Lae, Papua New Guinea",earthquake,7.63,5.811,0.057,96,reviewed,us,us
 2024-04-23T07:46:56.330Z,34.3725,-118.6343333,11.13,1.35,ml,49,24,0.0332,0.27,ci,ci40555663,2024-04-23T07:53:26.142Z,"11 km SSW of Valencia, CA",earthquake,0.24,0.48,0.206,27,automatic,ci,ci
-2024-04-23T07:46:20.967Z,40.6947,-74.7615,6.966,1.2,ml,5,117,0.01,0.03,us,us6000mt72,2024-04-23T14:03:16.040Z,"6 km ESE of Califon, New Jersey",earthquake,2.42,0.549,0.115,10,reviewed,us,us
+2024-04-23T07:46:20.967Z,40.6947,-74.7615,6.966,1.2,ml,5,117,0.01,0.03,us,us6000mt72,2024-04-23T18:50:37.804Z,"6 km ESE of Califon, New Jersey",earthquake,2.42,0.549,0.115,10,reviewed,us,us
 2024-04-23T07:44:37.342Z,58.452,-153.9877,69.8,2.3,ml,,,,0.72,ak,ak02458np3wm,2024-04-23T07:47:52.113Z,"76 km NW of Aleneva, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-04-23T07:41:47.210Z,63.2134,-151.177,7.7,1.5,ml,,,,0.68,ak,ak02458nohj5,2024-04-23T07:44:11.341Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-23T07:28:53.600Z,17.9315,-66.8478333333333,17.67,2.38,md,8,218,0.05264,0.07,pr,pr71446253,2024-04-23T07:43:46.560Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.84,0.47,0.0822308697053278,5,reviewed,pr,pr
@@ -262,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T18:58:12.890Z,36.3431667,-121.3238333,10.62,1.22,md,22,46,0.06013,0.16,nc,nc74039356,2024-04-22T20:41:56.759Z,"8 km WNW of Greenfield, CA",earthquake,0.32,0.47,0.125,16,reviewed,nc,nc
 2024-04-22T18:53:43.430Z,33.1623333,-115.647,3.32,1.52,ml,39,67,0.02915,0.2,ci,ci40555103,2024-04-22T19:00:22.032Z,"13 km WNW of Calipatria, CA",earthquake,0.19,0.29,0.246,29,automatic,ci,ci
 2024-04-22T18:52:53.970Z,47.39816666666667,-117.30616666666667,-0.79,1.92,ml,10,101,0.0203,0.62,uw,uw61998931,2024-04-23T18:20:22.590Z,"6 km ESE of Spangle, Washington",explosion,1.98,31.61,0.2388499817280061,3,reviewed,uw,uw
-2024-04-22T18:44:13.690Z,38.8364983,-122.8081665,2.29,1.29,md,17,58,0.01317,0.01,nc,nc74039341,2024-04-22T18:45:49.887Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.61,0.22,21,automatic,nc,nc
-2024-04-22T18:43:38.916Z,-20.8039,-178.3553,557.999,4.7,mb,49,79,2.967,0.87,us,us6000mt0x,2024-04-22T18:58:56.040Z,"Fiji region",earthquake,12.06,8.74,0.038,209,reviewed,us,us
