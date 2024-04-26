@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T18:11:29.500Z,38.8199997,-122.7863312,1.66,0.71,md,10,82,0.008047,0.02,nc,nc74040901,2024-04-25T18:13:03.827Z,"5 km NNW of The Geysers, CA",earthquake,0.46,0.94,0.42,10,automatic,nc,nc
 2024-04-25T18:05:23.052Z,-16.0722,-175.0583,285.076,4.6,mb,57,57,3.438,0.62,us,us6000mtt8,2024-04-26T14:31:29.808Z,"135 km W of Hihifo, Tonga",earthquake,8.5,2.096,0.046,143,reviewed,us,us
 2024-04-25T17:59:19.564Z,60.7089,-151.6012,75.8,1.8,ml,,,,0.26,ak,ak0245c4tbbo,2024-04-25T18:01:06.522Z,"17 km W of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-04-25T17:50:35.142Z,40.7433,-74.7373,5.265,1.1,ml,7,243,0.042,0.28,us,us6000mtwe,2024-04-26T03:12:29.040Z,"5 km SW of Chester, New Jersey",earthquake,1.73,1.849,0.115,10,reviewed,us,us
