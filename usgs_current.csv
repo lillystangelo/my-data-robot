@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-07T06:20:34.640Z,33.8438333,-117.6356667,9.47,1.32,ml,20,63,0.05324,0.14,ci,ci40741776,2024-05-07T06:27:35.005Z,"7 km WSW of Corona, CA",earthquake,0.27,0.45,0.493,32,automatic,ci,ci
-2024-05-07T05:55:21.103Z,31.671,-104.189,3.4932,1.7,ml,16,72,0.1,0.5,tx,tx2024iymp,2024-05-07T06:07:26.808Z,"54 km NW of Toyah, Texas",earthquake,0,1.30910839380102,0.2,12,automatic,tx,tx
+2024-05-07T05:55:21.051Z,31.664,-104.194,4.0101,1.7,ml,16,68,0.1,0.4,tx,tx2024iymp,2024-05-07T06:40:35.040Z,"54 km NW of Toyah, Texas",earthquake,0,1.27424773669178,0.2,12,automatic,tx,tx
 2024-05-07T05:49:14.764Z,65.4006,-144.8435,2.7,1.4,ml,,,,0.86,ak,ak0245vs24gk,2024-05-07T05:51:35.574Z,"19 km S of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-07T05:38:03.800Z,19.3950004577637,-155.26383972168,0.379999995231628,1.91999996,md,14,65,0.009261,0.289999992,hv,hv74217197,2024-05-07T05:39:36.820Z,"6 km SSW of Volcano, Hawaii",earthquake,0.29,0.600000024,0.239999995,15,automatic,hv,hv
 2024-05-07T05:34:09.340Z,35.5,-118.5246667,3.18,1.69,ml,35,38,0.1676,0.15,ci,ci40741736,2024-05-07T05:45:04.480Z,"10 km SSW of Bodfish, CA",earthquake,0.16,0.64,0.196,26,automatic,ci,ci
@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-06T06:53:01.920Z,41.5831666666667,-112.3735,12.06,0.98,md,4,158,0.09516,0.12,uu,uu80068776,2024-05-06T19:57:25.880Z,"13 km SSW of Thatcher, Utah",earthquake,2.62,3.35,0.125050254459764,4,reviewed,uu,uu
 2024-05-06T06:43:58.160Z,44.3646666666667,-116.1075,7.88,1.12,ml,8,95,0.06322,0.09,mb,mb90049428,2024-05-06T15:03:27.190Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.51,0.92,0.22747762102404,7,reviewed,mb,mb
 2024-05-06T06:41:15.290Z,35.195,-80.9516666666667,3.75,2.19,md,17,71,0.3171,0.37,se,se60501923,2024-05-07T02:17:17.705Z,"9 km SE of Belmont, North Carolina",earthquake,0.67,3.71,0.0634877249267847,17,reviewed,se,se
-2024-05-06T06:30:30.347Z,-20.8359,-68.8786,106.308,4.9,mb,80,45,0.605,1.29,us,us6000mwmw,2024-05-06T18:53:34.337Z,"77 km WNW of Ollagüe, Chile",earthquake,5.53,5.643,0.031,317,reviewed,us,us
