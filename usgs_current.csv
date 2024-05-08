@@ -292,4 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-07T08:03:03.016Z,11.3205,125.6988,61.986,5.1,mb,67,53,4.225,0.86,us,us6000mwwl,2024-05-07T12:00:30.032Z,"8 km E of Hernani, Philippines",earthquake,9.36,7.189,0.052,118,reviewed,us,us
 2024-05-07T07:55:58.085Z,-57.5798,-26.0694,89.8,5.1,mb,36,80,6.72,0.93,us,us6000mwwk,2024-05-07T08:13:08.040Z,"South Sandwich Islands region",earthquake,12.15,7.908,0.081,50,reviewed,us,us
 2024-05-07T07:47:39.980Z,35.3263333,-118.5425,3,2.72,ml,58,20,0.1055,0.17,ci,ci40741832,2024-05-07T15:37:28.445Z,"23 km NNW of Tehachapi, CA",earthquake,0.14,0.82,0.191,25,automatic,ci,ci
-2024-05-07T07:37:03.691Z,59.9925,-152.9603,106.8,0.9,ml,,,,0.37,ak,ak0245vt6e81,2024-05-07T07:38:37.279Z,"67 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
