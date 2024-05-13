@@ -265,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-12T10:01:12.730Z,19.373,-155.223166666667,2.22,1.39,ml,22,97,0.00728,0.1,hv,hv74228727,2024-05-12T12:46:51.650Z,"7 km S of Volcano, Hawaii",earthquake,0.34,0.22,0.217819719447569,3,reviewed,hv,hv
 2024-05-12T09:58:16.672Z,17.6135,145.8599,204.895,4.5,mb,56,101,2.36,0.63,us,us6000my1i,2024-05-12T10:40:41.040Z,"265 km N of Saipan, Northern Mariana Islands",earthquake,11.48,7.907,0.081,45,reviewed,us,us
 2024-05-12T09:56:17.225Z,60.1362,-152.5252,93.7,1.6,ml,,,,0.51,ak,ak02464463ju,2024-05-12T09:58:35.159Z,"48 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-05-12T09:55:27.941Z,18.6722,-106.2447,10,4.5,mb,94,145,4.841,0.79,us,us6000my1g,2024-05-12T10:35:22.040Z,"156 km WSW of Emiliano Zapata, Mexico",earthquake,10.76,1.948,0.036,228,reviewed,us,us
