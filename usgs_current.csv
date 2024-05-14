@@ -94,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-13T17:24:04.161Z,-21.2337,-179.5013,623.672,4.7,mb,50,80,4.01,0.91,us,us6000mybf,2024-05-13T17:49:41.040Z,"Fiji region",earthquake,13.31,8.628,0.087,40,reviewed,us,us
 2024-05-13T17:23:59.988Z,30.85,-102.954,4.816,1.5,ml,5,238,0.1,0.5,tx,tx2024jkij,2024-05-13T17:52:14.620Z,"8 km SW of Fort Stockton, Texas",earthquake,0,3.06373742464022,0.5,5,automatic,tx,tx
 2024-05-13T17:22:14.198Z,31.657,-104.351,4.1374,1.9,ml,18,70,0.1,0.2,tx,tx2024jkih,2024-05-13T18:05:04.741Z,"57 km S of Whites City, New Mexico",earthquake,0,1.28794099977071,0.2,14,automatic,tx,tx
+2024-05-13T17:14:34.324Z,36.6537,-116.2737,6.6,-0.3,ml,10,108.64000000000001,0.053,0.0744,nn,nn00877574,2024-05-14T03:37:57.977Z,"51 km ESE of Beatty, Nevada",earthquake,,1.8,0.68,5,reviewed,nn,nn
 2024-05-13T17:05:52.371Z,-27.8705,-176.6489,35,4.9,mb,34,133,1.773,1.01,us,us6000mybg,2024-05-13T17:57:37.040Z,"Kermadec Islands region",earthquake,13.02,1.934,0.106,28,reviewed,us,us
 2024-05-13T17:03:55.265Z,64.4882,-147.0001,0.2,0.5,ml,,,,0.6,ak,ak02465w5mva,2024-05-13T17:15:26.004Z,"6 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-13T17:03:22.746Z,52.5366,-169.9473,10,3.2,ml,14,207,0.258,1.03,us,us6000mycm,2024-05-13T20:00:04.040Z,"85 km WSW of Nikolski, Alaska",earthquake,2.28,1.964,0.091,16,reviewed,us,us
@@ -241,12 +242,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-13T04:10:02.375Z,63.3638,-149.8162,24.5,1.2,ml,,,,0.96,ak,ak02465ogdxp,2024-05-13T04:12:05.231Z,"43 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-13T04:09:52.480Z,32.4185,-115.231,11.18,2.66,ml,25,67,0.0626,0.32,ci,ci37653732,2024-05-13T16:01:36.402Z,"8 km NNW of Delta, B.C., MX",earthquake,0.54,0.93,0.185,15,reviewed,ci,ci
 2024-05-13T04:08:29.590Z,38.8175010681152,-122.798667907715,3.13000011444092,0.72,md,10,143,0.009875,0.04,nc,nc75005846,2024-05-13T04:10:07.165Z,"6 km NNW of The Geysers, CA",earthquake,0.5,1.23000002,0.11,11,automatic,nc,nc
-2024-05-13T04:08:16.800Z,32.4296667,-115.217,10.36,3,ml,23,48,0.07511,0.33,ci,ci37653724,2024-05-13T15:32:20.339Z,"9 km NNW of Delta, B.C., MX",earthquake,0.42,0.94,0.189,14,reviewed,ci,ci
+2024-05-13T04:08:16.800Z,32.4296667,-115.217,10.36,3,ml,23,48,0.07511,0.33,ci,ci37653724,2024-05-14T03:43:57.040Z,"9 km NNW of Delta, B.C., MX",earthquake,0.42,0.94,0.189,14,reviewed,ci,ci
 2024-05-13T04:07:34.590Z,32.4358333,-115.228,10.89,3.55,ml,38,45,0.06712,0.34,ci,ci40747552,2024-05-14T02:58:23.040Z,"10 km NNW of Delta, B.C., MX",earthquake,0.38,0.85,0.14,73,reviewed,ci,ci
 2024-05-13T04:02:18.810Z,32.4348333,-115.2281667,11.84,4.18,mw,43,45,0.06675,0.37,ci,ci40747544,2024-05-14T02:36:09.006Z,"10 km NNW of Delta, B.C., MX",earthquake,0.36,0.86,,6,reviewed,ci,ci
 2024-05-13T03:55:58.040Z,32.7585,-116.2395,20.99,1.99,ml,13,195,0.1509,0.28,ci,ci40747528,2024-05-13T04:03:24.202Z,"23 km W of Ocotillo, CA",earthquake,5.75,3.51,0.295,27,automatic,ci,ci
 2024-05-13T03:55:57.550Z,32.4515,-116.2615,14.38,2.34,ml,44,61,0.2176,0.19,ci,ci40747536,2024-05-13T12:50:48.970Z,"26 km SE of Campo, CA",earthquake,0.22,0.53,0.368,23,reviewed,ci,ci
 2024-05-13T03:49:37.780Z,38.816333770752,-122.814002990723,2.48000001907349,0.44,md,7,90,0.00769,0.02,nc,nc75005841,2024-05-13T03:51:12.137Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.98000002,0.28,9,automatic,nc,nc
-2024-05-13T03:46:27.230Z,32.4111667,-115.2745,2.46,2.4,ml,29,53,0.0271,0.37,ci,ci40747512,2024-05-13T03:53:48.140Z,"10 km NW of Delta, B.C., MX",earthquake,0.47,0.82,0.2,25,automatic,ci,ci
-2024-05-13T03:45:15.980Z,35.89666667,-97.34666667,6.47,1.01,ml,61,35,0.1646676866,0.18,ok,ok2024jjhi,2024-05-13T17:45:56.486Z,"7 km ENE of Guthrie, Oklahoma",earthquake,,0.4,0.25,26,reviewed,ok,ok
-2024-05-13T03:38:00.670Z,60.0671,-152.9861,110.7,1.4,ml,,,,0.42,ak,ak02465o0y8z,2024-05-13T03:40:24.453Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
