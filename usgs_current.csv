@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-15T09:47:15.360Z,34.7254982,-116.2988358,8.39,1.19,ml,10,67,0.1078,0.08,ci,ci40585775,2024-05-15T09:49:18.140Z,"13 km W of Ludlow, CA",earthquake,0.45,1.5,0.195,4,automatic,ci,ci
+2024-05-15T10:03:20.379Z,61.2204,-148.6463,25.9,1.5,ml,,,,0.44,ak,ak02469327xh,2024-05-15T10:05:10.151Z,"30 km SSE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-05-15T10:03:02.680Z,33.5758324,-116.8130035,8.71,1.03,ml,15,113,0.04454,0.11,ci,ci40585791,2024-05-15T10:05:22.232Z,"13 km W of Anza, CA",earthquake,0.55,0.96,0.57,7,automatic,ci,ci
+2024-05-15T10:02:17.490Z,34.0153351,-117.0550003,6.86,0.98,ml,15,172,0.2671,0.2,ci,ci40585783,2024-05-15T10:04:22.903Z,"2 km SSW of Yucaipa, CA",earthquake,0.55,2.95,0.347,8,automatic,ci,ci
+2024-05-15T09:47:15.470Z,34.7256667,-116.2995,5.74,0.95,ml,19,44,0.1075,0.15,ci,ci40585775,2024-05-15T09:53:20.162Z,"13 km W of Ludlow, CA",earthquake,0.2,0.81,0.163,10,automatic,ci,ci
 2024-05-15T09:32:53.890Z,34.0208333,-116.7855,17.85,0.77,ml,41,74,0.02337,0.16,ci,ci40585767,2024-05-15T09:38:52.305Z,"12 km N of Cabazon, CA",earthquake,0.18,0.41,0.103,19,automatic,ci,ci
 2024-05-15T09:24:16.390Z,19.0653324127197,-155.361831665039,32.0499992370605,2.00999999,md,45,205,0.1305,0.129999995,hv,hv74231472,2024-05-15T09:26:01.070Z,"19 km SE of Pāhala, Hawaii",earthquake,0.59,0.779999971,0.140000001,7,automatic,hv,hv
 2024-05-15T09:22:11.741Z,61.3512,-146.6814,24.7,1.3,ml,,,,0.63,ak,ak024692ku9i,2024-05-15T09:24:47.495Z,"30 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -76,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-15T00:42:36.770Z,19.3265,-67.4768333333333,24.33,3.39,md,20,233,0.9219,0.38,pr,pr71448808,2024-05-15T02:29:19.374Z,"100 km NNW of San Antonio, Puerto Rico",earthquake,1.38,26.38,0.101278381997006,15,reviewed,pr,pr
 2024-05-15T00:41:45.953Z,36.9206,-116.1244,5.2,1.5,ml,34,32.549999999999955,0.039,0.1668,nn,nn00877645,2024-05-15T02:23:42.927Z,"56 km NW of Indian Springs, Nevada",earthquake,,1,0.18,21,reviewed,nn,nn
 2024-05-15T00:36:54.500Z,19.3708333333333,-155.214333333333,2.09,0.81,md,23,105,0.003136,0.1,hv,hv74231097,2024-05-15T01:46:28.840Z,"8 km SSE of Volcano, Hawaii",earthquake,0.35,0.23,0.0970872799485096,4,reviewed,hv,hv
-2024-05-15T00:30:11.410Z,19.2698,-67.4235,7,5.6,ml,32,191,0.8609,0.43,pr,pr2024136000,2024-05-15T09:43:15.722Z,"92 km NNW of San Antonio, Puerto Rico",earthquake,1.64,2.009,0.17,18,reviewed,pr,pr
+2024-05-15T00:30:11.410Z,19.2698,-67.4235,7,5.6,ml,32,191,0.8609,0.43,pr,pr2024136000,2024-05-15T10:04:43.421Z,"92 km NNW of San Antonio, Puerto Rico",earthquake,1.64,2.009,0.17,18,reviewed,pr,pr
 2024-05-15T00:14:40.710Z,34.99183333,-97.65633333,10.87,1.19,ml,51,43,0.08998234239,0.33,ok,ok2024jmrk,2024-05-15T01:02:16.526Z,"5 km SSW of Dibble, Oklahoma",earthquake,,1.3,0.25,21,reviewed,ok,ok
 2024-05-15T00:14:06.352Z,31.635,-104.031,7.4329,2.5,ml,28,38,0,0.2,tx,tx2024jmrp,2024-05-15T08:17:36.112Z,"41 km W of Mentone, Texas",earthquake,0.5551569449522384,0.6358491979794103,0.1,15,reviewed,tx,tx
 2024-05-15T00:14:01.000Z,33.3815,-116.8783333,3.21,1.55,ml,78,19,0.1038,0.23,ci,ci40584759,2024-05-15T00:25:15.240Z,"3 km NNW of Palomar Observatory, CA",earthquake,0.16,0.74,0.152,26,automatic,ci,ci
@@ -243,9 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-14T10:21:19.840Z,38.8381652832031,-122.808166503906,1.51999998092651,0.81,md,11,74,0.01392,0.01,nc,nc75006501,2024-05-14T10:22:57.496Z,"8 km WNW of Cobb, CA",earthquake,0.36,0.709999979,0.17,12,automatic,nc,nc
 2024-05-14T10:13:33.763Z,37.7226,-117.3288,5.3,0.9,ml,11,96.77,0.049,0.1706,nn,nn00877581,2024-05-15T02:04:11.003Z,"8 km W of Goldfield, Nevada",earthquake,,2.6,0.35,6,reviewed,nn,nn
 2024-05-14T10:09:23.530Z,64.6125,-148.371,12.5,1,ml,,,,0.56,ak,ak02467fk5z5,2024-05-14T10:11:27.446Z,"31 km SSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-14T10:05:44.710Z,51.811,-178.820833333333,8.01,0.4,ml,4,221,0.02709,0.09,av,av93126146,2024-05-15T02:51:51.700Z,"150 km W of Adak, Alaska",earthquake,0.6,0.64,0.140947854949677,4,reviewed,av,av
-2024-05-14T10:04:45.155Z,38.2129,-117.7569,4.6,0.9,ml,8,90.78,0.142,0.1611,nn,nn00877580,2024-05-15T02:04:04.674Z,"36 km ESE of Mina, Nevada",earthquake,,8.1,0.6,4,reviewed,nn,nn
-2024-05-14T10:03:25.930Z,38.7866668701172,-122.766502380371,2.63000011444092,1.04,md,15,97,0.01491,0.03,nc,nc75006491,2024-05-14T10:05:03.487Z,"1 km NNW of The Geysers, CA",earthquake,0.38,0.629999995,0.25,16,automatic,nc,nc
-2024-05-14T09:59:58.596Z,61.013,-150.4429,33.6,1.6,ml,,,,0.4,ak,ak02467f9ivn,2024-05-14T10:02:23.356Z,"16 km NE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-14T09:55:41.637Z,65.273,-148.9396,3.6,1,ml,,,,0.66,ak,ak02467f8mpf,2024-05-14T09:57:47.798Z,"23 km NE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-14T09:54:17.292Z,-6.2276,147.8466,66.224,4.5,mb,55,105,3.229,0.74,us,us6000myh5,2024-05-14T14:25:44.040Z,"36 km N of Finschhafen, Papua New Guinea",earthquake,4.57,7.218,0.084,42,reviewed,us,us
