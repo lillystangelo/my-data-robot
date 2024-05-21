@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-21T23:29:04.510Z,35.0305,-117.6778333,-0.81,1.65,ml,38,38,0.09708,0.23,ci,ci40595351,2024-05-21T23:35:55.002Z,"4 km NW of Boron, CA",earthquake,0.3,0.77,0.158,29,automatic,ci,ci
 2024-05-21T23:16:41.840Z,38.8231658935547,-122.763664245605,2.45000004768372,0.84,md,6,137,0.008777,0.01,nc,nc75010331,2024-05-21T23:18:19.423Z,"4 km WNW of Cobb, CA",earthquake,0.62,1.51999998,0.26,8,automatic,nc,nc
 2024-05-21T23:14:16.305Z,61.9219,-148.0334,14.9,2.1,ml,,,,0.74,ak,ak0246j83abi,2024-05-21T23:16:08.978Z,"23 km WNW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-05-21T23:12:44.380Z,35.8915,-117.6968333,4.66,0.59,ml,19,98,0.06774,0.12,ci,ci40595319,2024-05-21T23:18:33.657Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.37,0.115,4,automatic,ci,ci
