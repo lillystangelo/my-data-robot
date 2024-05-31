@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-31T15:22:14.740Z,35.6836662,-118.4004974,4.51,2,ml,40,37,0.04124,0.16,ci,ci40608415,2024-05-31T15:24:21.886Z,"6 km ESE of Wofford Heights, CA",earthquake,0.22,0.51,0.249,27,automatic,ci,ci
+2024-05-31T15:33:51.294Z,38.1364,-117.9878,7.8,1.9,ml,13,117.78999999999999,0.063,0.3531,nn,nn00878418,2024-05-31T15:36:55.774Z,"30 km SSE of Mina, Nevada",earthquake,,0.4,0.16,7,automatic,nn,nn
+2024-05-31T15:22:14.730Z,35.684,-118.3993333,5.19,1.95,ml,37,37,0.04023,0.14,ci,ci40608415,2024-05-31T15:33:24.290Z,"6 km ESE of Wofford Heights, CA",earthquake,0.14,0.37,0.182,26,automatic,ci,ci
+2024-05-31T15:21:24.700Z,59.824,-152.9947,102.7,2.2,ml,,,,0.49,ak,ak0246zmqt30,2024-05-31T15:34:42.154Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-05-31T14:59:41.100Z,42.4193333333333,-111.468166666667,-1.44,1.81,ml,19,127,0.3822,0.13,uu,uu80070726,2024-05-31T15:22:58.270Z,"10 km SW of Georgetown, Idaho",earthquake,0.5,1.19,0.251349202846769,4,reviewed,uu,uu
+2024-05-31T14:53:51.650Z,42.4213333333333,-111.469,-1.08,2.19,ml,19,130,0.3834,0.11,uu,uu80070721,2024-05-31T15:29:08.260Z,"10 km SW of Georgetown, Idaho",earthquake,0.46,1.51,0.162422180658151,6,reviewed,uu,uu
 2024-05-31T14:40:31.840Z,37.5120010375977,-118.424163818359,7.1100001335144,1.45,md,9,205,0.03909,0.04,nc,nc75013842,2024-05-31T14:42:07.405Z,"14 km N of Dixon Lane-Meadow Creek, CA",earthquake,1.64,1.66999996,0.1,5,automatic,nc,nc
 2024-05-31T14:38:43.661Z,31.68,-104.404,4.7668,1.5,ml,17,69,0,0.1,tx,tx2024kqzy,2024-05-31T15:17:26.460Z,"55 km S of Whites City, New Mexico",earthquake,0.7685007071114378,0.8791527136660802,0.1,7,reviewed,tx,tx
 2024-05-31T14:26:44.726Z,61.1694,-151.7462,75.2,1.2,ml,,,,0.16,ak,ak0246zm6hlk,2024-05-31T14:28:32.966Z,"34 km WNW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -115,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-31T01:10:16.831Z,31.669,-104.198,5.741,1.6,ml,30,62,0.1,0.1,tx,tx2024kpzi,2024-05-31T15:00:52.286Z,"54 km NW of Toyah, Texas",earthquake,0.5710048165596736,0.8018658543975206,0.1,15,reviewed,tx,tx
 2024-05-31T01:07:02.260Z,37.6396675109863,-122.497001647949,7.6100001335144,1.46,md,9,177,0.01778,0.01,nc,nc75013587,2024-05-31T01:08:41.177Z,"3 km  of Pacifica, CA",earthquake,1.17,0.949999988,0.21,6,automatic,nc,nc
 2024-05-31T01:05:55.040Z,38.8156661987305,-122.816497802734,2.95000004768372,0.82,md,6,157,0.009206,0.01,nc,nc75013582,2024-05-31T01:07:30.935Z,"7 km NW of The Geysers, CA",earthquake,1.36,1.12,0.15,8,automatic,nc,nc
-2024-05-31T00:56:06.880Z,32.976,-116.3145,6.26,0.99,ml,29,41,0.0233,0.26,ci,ci40607759,2024-05-31T01:02:11.767Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.29,0.62,0.169,17,automatic,ci,ci
+2024-05-31T00:56:06.640Z,32.9783333,-116.3161667,10.24,0.97,ml,22,40,0.02599,0.12,ci,ci40607759,2024-05-31T15:36:54.292Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.2,0.38,0.086,10,reviewed,ci,ci
 2024-05-31T00:45:54.160Z,38.835334777832,-122.800834655762,2.29999995231628,1,md,13,61,0.008749,0.01,nc,nc75013572,2024-05-31T00:47:31.967Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.660000026,0.27,17,automatic,nc,nc
 2024-05-31T00:42:47.950Z,38.8115005493164,-122.810333251953,3.23000001907349,1.08,md,21,49,0.01188,0.02,nc,nc75013567,2024-05-31T00:44:27.047Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.540000021,0.27,22,automatic,nc,nc
 2024-05-31T00:41:53.410Z,38.7928352355957,-122.754165649414,2.22000002861023,0.31,md,8,154,0.008904,0.01,nc,nc75013562,2024-05-31T00:43:30.877Z,"2 km NNE of The Geysers, CA",earthquake,1.17,1.87,0.1,8,automatic,nc,nc
@@ -124,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-31T00:33:25.910Z,33.9256667,-116.9223333,11.8,1.74,ml,66,28,0.04862,0.16,ci,ci40607751,2024-05-31T00:44:14.700Z,"4 km W of Banning, CA",earthquake,0.12,0.44,0.19,28,automatic,ci,ci
 2024-05-31T00:30:13.984Z,31.67,-104.193,5.4333,1.7,ml,13,70,0.1,0.1,tx,tx2024kpxy,2024-05-31T10:27:40.974Z,"54 km NW of Toyah, Texas",earthquake,0.7074338197709263,1.7338837651854122,0.1,13,reviewed,tx,tx
 2024-05-31T00:24:28.304Z,54.3686,-159.6733,21,1.9,ml,,,,1.11,ak,ak0246zdtzv1,2024-05-31T01:33:06.863Z,"120 km SSE of Sand Point, Alaska",earthquake,,9.1,,,reviewed,ak,ak
-2024-05-31T00:22:49.680Z,33.4886667,-116.5215,10.31,0.64,ml,10,209,0.06817,0.09,ci,ci40607743,2024-05-31T00:40:24.631Z,"16 km ESE of Anza, CA",earthquake,0.55,0.32,0.114,7,automatic,ci,ci
+2024-05-31T00:22:49.460Z,33.4805,-116.5073333,10.55,0.64,ml,18,57,0.0793,0.15,ci,ci40607743,2024-05-31T15:30:34.294Z,"18 km ESE of Anza, CA",earthquake,0.32,0.53,0.068,5,reviewed,ci,ci
 2024-05-31T00:20:33.270Z,38.8261680603027,-122.802833557129,2.49000000953674,1.09,md,19,67,0.006297,0.02,nc,nc75013542,2024-05-31T00:22:10.841Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.430000007,0.21,21,automatic,nc,nc
 2024-05-31T00:19:22.391Z,59.6263,-152.8148,85.1,1.3,ml,,,,1.05,ak,ak0246zdstp8,2024-05-31T00:21:50.852Z,"57 km WSW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-31T00:18:30.510Z,34.2558333,-117.0145,4.9,1.24,ml,38,75,0.07792,0.17,ci,ci40607735,2024-05-31T00:38:03.067Z,"10 km W of Big Bear Lake, CA",earthquake,0.17,0.57,0.217,32,automatic,ci,ci
@@ -164,6 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-30T20:14:41.920Z,37.1911666666667,-121.219333333333,0.72,1.24,md,22,158,0.1127,0.11,nc,nc75013477,2024-05-31T06:46:32.413Z,"21 km W of Gustine, CA",earthquake,0.28,0.45,0.188,13,reviewed,nc,nc
 2024-05-30T20:13:14.924Z,61.2732,-146.7519,29.4,1.4,ml,,,,0.54,ak,ak0246y24w4k,2024-05-30T20:15:03.272Z,"26 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-30T20:10:05.200Z,34.6721667,-119.5388333,6.26,1.27,ml,13,97,0.1289,0.17,ci,ci40607407,2024-05-30T20:16:00.107Z,"28 km NNE of Montecito, CA",earthquake,0.31,1.11,0.449,16,automatic,ci,ci
+2024-05-30T20:08:17.529Z,1.9477,99.0178,132.395,4.3,mb,34,98,1.577,0.63,us,us7000mp32,2024-05-31T15:35:24.040Z,"34 km NE of Sibolga, Indonesia",earthquake,4.84,9.998,0.116,21,reviewed,us,us
 2024-05-30T20:06:18.952Z,61.2895,-146.8028,21.5,2.4,ml,,,,0.71,ak,ak0246y23efb,2024-05-30T20:08:10.211Z,"30 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-30T19:49:30.630Z,38.6768333333333,-112.207166666667,5.95,1.93,ml,23,49,0.1659,0.28,uu,uu80070691,2024-05-30T20:47:02.610Z,"5 km W of Elsinore, Utah",earthquake,0.52,1.76,0.169449898635791,15,reviewed,uu,uu
 2024-05-30T19:48:55.413Z,61.9342,-150.8448,45.9,2.1,ml,,,,0.27,ak,ak0246y1r1ph,2024-05-30T19:50:14.720Z,"29 km ESE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -212,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-30T15:53:16.740Z,17.956,-66.9533333333333,5.58,2.53,md,5,201,0.07301,0.07,pr,pr71450973,2024-05-30T16:17:40.190Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.58,1.2,0.0549559241622015,3,reviewed,pr,pr
 2024-05-30T15:52:17.003Z,23.9172,121.705,37.87,4.5,mb,51,70,0.642,1,us,us7000mp02,2024-05-30T16:31:47.135Z,"12 km ESE of Hualien City, Taiwan",earthquake,3.29,6.775,0.065,70,reviewed,us,us
 2024-05-30T15:47:41.790Z,19.2488327026367,-155.384002685547,29.7399997711182,2.18,ml,58,138,0.08413,0.129999995,hv,hv74253696,2024-05-30T15:50:19.030Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.38,0.589999974,0.42,15,automatic,hv,hv
-2024-05-30T15:28:34.210Z,34.689,-117.6536667,3.02,1.58,ml,45,32,0.1224,0.16,ci,ci40606983,2024-05-30T15:39:32.530Z,"18 km ENE of Lake Los Angeles, CA",earthquake,0.14,0.72,0.199,29,automatic,ci,ci
