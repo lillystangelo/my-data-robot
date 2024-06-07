@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-07T09:44:29.840Z,19.3875007629395,-155.292999267578,2.49000000953674,1.92999995,md,12,89,0.002661,0.310000002,hv,hv74265431,2024-06-07T09:46:02.080Z,"8 km SW of Volcano, Hawaii",earthquake,0.67,0.75999999,0.379999995,3,automatic,hv,hv
 2024-06-07T09:17:47.911Z,62.0276,-151.2129,83.9,1.4,ml,,,,0.19,ak,ak0247b3wttz,2024-06-07T09:20:01.793Z,"10 km ENE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-06-07T09:15:33.115Z,61.0824,-150.6416,39.5,1.5,ml,,,,1.04,ak,ak0247b3wd9b,2024-06-07T09:17:48.290Z,"17 km N of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-06-07T09:11:08.034Z,61.3302,-146.7735,19.6,1.6,ml,,,,0.53,ak,ak0247b3vggj,2024-06-07T09:14:04.614Z,"31 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
