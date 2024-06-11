@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-11T03:51:48.370Z,38.8224983215332,-122.844833374023,2.1800000667572,0.76,md,21,104,0.007683,0.01,nc,nc75020612,2024-06-11T03:53:27.575Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.15,22,automatic,nc,nc
 2024-06-11T03:46:08.690Z,38.8371658325195,-122.790664672852,1.88999998569489,0.21,md,7,77,0.001266,0.01,nc,nc75020607,2024-06-11T03:47:47.283Z,"6 km WNW of Cobb, CA",earthquake,0.52,1.35000002,0.07,7,automatic,nc,nc
 2024-06-11T03:37:49.500Z,35.7348333,-117.5658333,6.59,1.21,ml,28,122,0.1159,0.14,ci,ci40619343,2024-06-11T03:43:58.642Z,"15 km WSW of Searles Valley, CA",earthquake,0.21,0.62,0.12,13,automatic,ci,ci
 2024-06-11T03:21:44.960Z,38.8084983825684,-122.827835083008,3.84999990463257,0.78,md,13,65,0.001112,0.04,nc,nc75020597,2024-06-11T03:23:22.120Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.78999996,0.15,13,automatic,nc,nc
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T03:04:47.910Z,33.4186667,-116.6591667,3.96,0.98,ml,56,24,0.08955,0.2,ci,ci40619335,2024-06-11T03:11:14.848Z,"15 km S of Anza, CA",earthquake,0.15,0.47,0.173,26,automatic,ci,ci
 2024-06-11T03:00:52.590Z,38.8233337402344,-122.804496765137,1.62999999523163,1.26,md,22,51,0.004357,0.01,nc,nc75020577,2024-06-11T03:02:27.242Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.370000005,0.17,25,automatic,nc,nc
 2024-06-11T02:56:33.392Z,-20.2012,168.4942,10,5.2,mww,28,83,2.591,0.51,us,us7000mrme,2024-06-11T03:15:46.040Z,"110 km SW of Isangel, Vanuatu",earthquake,4.17,1.872,0.103,9,reviewed,us,us
-2024-06-11T02:52:08.768Z,32.7553,-100.6434,1.189,3.1,mb_lg,18,50,0.115,0.46,us,us7000mrmb,2024-06-11T03:31:16.493Z,"17 km NE of Hermleigh, Texas",earthquake,1.31,5.901,0.045,130,reviewed,us,us
+2024-06-11T02:52:08.300Z,32.744,-100.64,6.7627,3.3,ml,26,58,0.1,0.1,tx,tx2024lkfe,2024-06-11T03:49:30.982Z,"16 km NE of Hermleigh, Texas",earthquake,1.1132472538150955,1.8556397284796946,0.1,22,reviewed,tx,tx
 2024-06-11T02:41:48.570Z,33.4995,-116.5368333,4.74,0.65,ml,30,50,0.05483,0.17,ci,ci40619311,2024-06-11T02:47:50.446Z,"14 km ESE of Anza, CA",earthquake,0.21,0.55,0.132,21,automatic,ci,ci
 2024-06-11T02:41:47.100Z,32.9861667,-116.5398333,19.13,1.77,ml,12,77,0.2995,0.13,ci,ci40619319,2024-06-11T02:48:50.450Z,"12 km SSE of Julian, CA",earthquake,0.41,1.44,0.269,24,automatic,ci,ci
 2024-06-11T02:38:41.820Z,32.756,-116.8331667,18.74,1.52,ml,52,48,0.08439,0.22,ci,ci40619303,2024-06-11T02:45:30.430Z,"6 km NE of Jamul, CA",earthquake,0.2,0.37,0.266,25,automatic,ci,ci
@@ -197,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T04:11:19.417Z,59.6525,-153.2274,22.9,1.6,ml,,,,0.86,ak,ak0247fzicsl,2024-06-10T04:12:51.908Z,"51 km ESE of Pedro Bay, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-10T04:09:04.948Z,61.8514,-149.5406,30.5,1.8,ml,,,,0.6,ak,ak0247fzhw8u,2024-06-10T04:10:34.058Z,"20 km NW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-10T04:02:43.444Z,30.97,-103.561,9.4067,1.8,ml,13,83,0.1,0.2,tx,tx2024lima,2024-06-10T19:01:51.079Z,"17 km E of Balmorhea, Texas",earthquake,1.565113304359239,2.5406412311436255,0.3,12,reviewed,tx,tx
-2024-06-10T03:56:16.440Z,23.6476,122.8596,36.681,5,mb,40,183,0.828,0.69,us,us7000mrf2,2024-06-10T06:43:31.157Z,"91 km S of Yonakuni, Japan",earthquake,2,7.227,0.057,96,reviewed,us,us
-2024-06-10T03:52:48.420Z,53.8506666666667,-166.919166666667,27.93,0.14,ml,6,212,0.06234,0.31,av,av93157671,2024-06-10T23:45:41.940Z,"25 km W of Dutch Harbor, Alaska",earthquake,3.12,2.1,0.337723774266476,6,reviewed,av,av
-2024-06-10T03:49:41.681Z,-12.7434,166.708,138.136,5.2,mww,91,28,7.403,0.66,us,us7000mrez,2024-06-11T03:41:38.040Z,"155 km NW of Sola, Vanuatu",earthquake,10.37,4.509,0.062,25,reviewed,us,us
-2024-06-10T03:49:38.467Z,60.1243,-139.4916,0,1.9,ml,,,,0.63,ak,ak0247fz53v7,2024-06-10T03:52:20.728Z,"65 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
