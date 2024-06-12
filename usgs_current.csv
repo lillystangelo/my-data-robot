@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T03:15:15.062Z,63.5714,-150.7434,9.5,1.6,ml,,,,0.62,ak,ak0247ja0gpe,2024-06-12T03:16:56.579Z,"48 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-12T03:14:36.690Z,38.8213348388672,-122.764999389648,2.13000011444092,1.51,md,22,118,0.009897,0.03,nc,nc75021082,2024-06-12T03:16:15.203Z,"4 km W of Cobb, CA",earthquake,0.25,0.419999987,0.17,26,automatic,nc,nc
 2024-06-12T03:00:50.850Z,18.6341666666667,-66.3805,95.06,3.06,md,19,199,0.2107,0.26,pr,pr71452343,2024-06-12T03:57:26.251Z,"18 km NNW of Brenas, Puerto Rico",earthquake,1.67,0.92,0.0953950745260306,12,reviewed,pr,pr
-2024-06-12T02:55:07.000Z,14.778,-90.4799,16.726,4.9,mww,32,74,0.245,0.83,us,us7000mrv6,2024-06-12T04:26:05.694Z,"2 km W of San Pedro Ayampuc, Guatemala",earthquake,3.46,4.522,0.068,21,reviewed,us,us
+2024-06-12T02:55:07.000Z,14.778,-90.4799,16.726,4.9,mww,32,74,0.245,0.83,us,us7000mrv6,2024-06-12T04:31:24.727Z,"2 km W of San Pedro Ayampuc, Guatemala",earthquake,3.46,4.522,0.068,21,reviewed,us,us
 2024-06-12T02:40:37.149Z,58.5423,-152.7121,51.3,2.6,ml,,,,0.39,ak,ak0247j9kfpk,2024-06-12T02:42:24.263Z,"54 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T02:30:31.536Z,66.3802,-153.8538,16.5,1,ml,,,,0.6,ak,ak0247j9ia41,2024-06-12T02:32:22.273Z,"41 km NNE of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-12T02:25:56.818Z,8.4109,-103.3157,10,5.7,mww,59,185,13.953,0.96,us,us7000mrv4,2024-06-12T04:29:42.083Z,"northern East Pacific Rise",earthquake,13.15,1.938,0.044,50,reviewed,us,us
@@ -255,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T05:07:29.840Z,38.8131675720215,-122.783332824707,1.83000004291534,0.76,md,7,107,0.002071,0.02,nc,nc75020632,2024-06-11T05:09:07.958Z,"5 km NNW of The Geysers, CA",earthquake,0.77,1.13999999,0.11,9,automatic,nc,nc
 2024-06-11T04:51:46.596Z,-21.9763,-179.1667,584.503,4.7,mb,94,40,3.775,0.67,us,us7000mrmu,2024-06-12T03:48:23.040Z,"Fiji region",earthquake,11.36,5.93,0.034,266,reviewed,us,us
 2024-06-11T04:46:55.226Z,61.2242,-150.0325,24.5,1.4,ml,,,,0.39,ak,ak0247hn9a42,2024-06-11T04:54:12.402Z,"7 km W of Anchorage, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-11T04:35:20.380Z,52.9311666666667,-169.466333333333,-1.73,1.96,ml,6,168,0.2125,0.33,av,av93011344,2024-06-11T22:38:32.710Z,"40 km W of Nikolski, Alaska",earthquake,2.7,0.55,0.207381036387454,6,reviewed,av,av
-2024-06-11T04:31:23.480Z,51.945,179.593833333333,7.32,0.98,ml,6,83,0.02574,0.15,av,av93159001,2024-06-11T22:34:01.470Z,"259 km W of Adak, Alaska",earthquake,0.54,0.88,0.288572711829191,5,reviewed,av,av
