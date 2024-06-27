@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T05:46:22.305Z,37.3363,-115.5242,0.4,1.2,ml,30,128.28000000000003,0.356,0.1619,nn,nn00879991,2024-06-26T16:26:44.127Z,"32 km W of Alamo, Nevada",earthquake,,38,0.18,13,reviewed,nn,nn
 2024-06-26T05:44:47.955Z,57.9303,-156.0809,120.9,1.9,ml,,,,0.39,ak,ak02486gwh4r,2024-06-26T05:47:24.607Z,"82 km ESE of Egegik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-26T05:34:06.740Z,19.3868333333333,-155.278,1.85,2.21,ml,49,60,0.00352,0.1,hv,hv74293121,2024-06-26T17:00:46.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.13,0.20328357174178,14,reviewed,hv,hv
-2024-06-26T05:24:36.780Z,47.54383333333333,-123.3125,42.9,0.68,ml,14,139,0.1304,0.15,uw,uw62010737,2024-06-26T05:58:12.320Z,"20 km NW of Hoodsport, Washington",earthquake,0.61,0.87,0.10642553436811153,6,reviewed,uw,uw
-2024-06-26T05:23:03.106Z,31.606,-103.973,9.3427,1.6,ml,23,58,0,0.1,tx,tx2024mlus,2024-06-26T11:18:17.549Z,"36 km NNW of Toyah, Texas",earthquake,0.4952957483438797,0.4589369716387421,0.2,18,reviewed,tx,tx
