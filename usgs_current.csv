@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-28T17:09:55.010Z,39.1144981384277,-123.122833251953,3.55999994277954,2.49,md,34,33,0.03921,0.08,nc,nc75028456,2024-06-28T17:14:23.488Z,"4 km SE of Talmage, CA",earthquake,0.18,0.800000012,0.15,33,automatic,nc,nc
+2024-06-28T17:09:55.010Z,39.1144981384277,-123.122833251953,3.55999994277954,2.49,md,34,33,0.03921,0.08,nc,nc75028456,2024-06-28T17:24:51.227Z,"4 km SE of Talmage, CA",earthquake,0.18,0.800000012,0.15,33,automatic,nc,nc
 2024-06-28T17:06:35.362Z,31.572,-103.915,4.9856,1.7,ml,15,85,0.1,0.2,tx,tx2024mqix,2024-06-28T17:15:15.772Z,"30 km NNW of Toyah, Texas",earthquake,0,1.2986264638735503,0.2,12,automatic,tx,tx
 2024-06-28T17:04:09.962Z,59.403,-152.9819,83.9,2,ml,,,,0.23,ak,ak02489yvpt0,2024-06-28T17:05:55.319Z,"60 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-06-28T17:03:35.217Z,-34.5135,-178.6159,10,4.6,mb,31,121,3.934,0.96,us,us6000n8z8,2024-06-28T17:26:09.040Z,"south of the Kermadec Islands",earthquake,5.62,1.871,0.101,29,reviewed,us,us
 2024-06-28T17:01:09.871Z,59.9906,-152.1273,83,1.1,ml,,,,0.27,ak,ak02489yv2nf,2024-06-28T17:02:45.205Z,"22 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-28T17:00:38.510Z,32.6551667,-115.8948333,9.43,1.23,ml,22,74,0.02437,0.19,ci,ci40812968,2024-06-28T17:06:42.292Z,"13 km SE of Ocotillo, CA",earthquake,0.29,0.48,0.265,12,automatic,ci,ci
 2024-06-28T16:51:04.469Z,35.0785,-97.53566667,4.91,1.56,ml,46,53,0.01259752794,0.63,ok,ok2024mqik,2024-06-28T17:09:19.984Z,"4 km SE of Cole, Oklahoma",earthquake,,1.3,0.21,19,reviewed,ok,ok
 2024-06-28T16:49:47.290Z,33.531,-116.5493333,14.97,0.73,ml,25,50,0.03054,0.12,ci,ci40812952,2024-06-28T16:55:46.152Z,"12 km ESE of Anza, CA",earthquake,0.19,0.35,0.218,16,automatic,ci,ci
 2024-06-28T16:48:16.070Z,38.7873344421387,-122.766502380371,2.22000002861023,1.12,md,16,80,0.01429,0.03,nc,nc75028446,2024-06-28T16:49:50.935Z,"1 km NNW of The Geysers, CA",earthquake,0.34,0.560000002,0.22,16,automatic,nc,nc
+2024-06-28T16:29:46.203Z,-3.4555,101.6493,74.741,4.5,mb,29,187,1.583,0.58,us,us6000n8z5,2024-06-28T17:27:40.040Z,"78 km WNW of Bengkulu, Indonesia",earthquake,10.12,9.804,0.131,17,reviewed,us,us
 2024-06-28T16:26:39.120Z,33.1453333,-115.9593333,5.31,1.42,ml,41,58,0.03205,0.2,ci,ci40812912,2024-06-28T16:32:53.099Z,"16 km E of Ocotillo Wells, CA",earthquake,0.19,0.38,0.158,27,automatic,ci,ci
 2024-06-28T16:22:45.684Z,61.2457,-146.799,0,1.4,ml,,,,0.62,ak,ak02489ye7tq,2024-06-28T16:25:48.279Z,"27 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-28T16:17:41.375Z,61.5912,-146.4231,38.3,1,ml,,,,0.53,ak,ak02489yd4xl,2024-06-28T16:19:55.332Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -26,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-28T15:11:28.780Z,19.3831672668457,-155.241333007812,1.86000001430511,1.78999996,md,26,66,0.009574,0.189999998,hv,hv74297856,2024-06-28T15:13:07.250Z,"6 km S of Volcano, Hawaii",earthquake,0.3,0.180000007,0.289999992,18,automatic,hv,hv
 2024-06-28T15:06:25.430Z,35.7098333,-117.5083333,4.68,1.66,ml,29,128,0.08208,0.13,ci,ci40812832,2024-06-28T16:05:48.139Z,"11 km SW of Searles Valley, CA",earthquake,0.2,0.43,0.206,26,reviewed,ci,ci
 2024-06-28T15:03:53.476Z,59.9817,-139.3143,1.6,2,ml,,,,0.71,ak,ak02489xoq95,2024-06-28T15:06:37.307Z,"53 km NNE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-06-28T14:58:54.540Z,46.0775,-122.1495,15.17,0.38,ml,14,247,0.08205,0.06,uw,uw62011492,2024-06-28T17:26:41.000Z,"29 km NE of Amboy, Washington",earthquake,0.64,0.66,0.20909755616823827,6,reviewed,uw,uw
 2024-06-28T14:57:44.680Z,19.3911666870117,-155.246994018555,2.07999992370605,1.9,ml,24,51,0.006947,0.370000005,hv,hv74297836,2024-06-28T15:00:22.410Z,"5 km SSW of Volcano, Hawaii",earthquake,0.29,0.310000002,0.24,14,automatic,hv,hv
 2024-06-28T14:56:07.220Z,19.3858337402344,-155.248336791992,1.50999999046326,1.80999994,md,22,64,0.002825,0.219999999,hv,hv74297831,2024-06-28T14:57:45.790Z,"6 km SSW of Volcano, Hawaii",earthquake,0.29,0.209999993,0.340000004,15,automatic,hv,hv
 2024-06-28T14:55:19.550Z,17.9553333333333,-66.7395,9.14,2.73,md,16,165,0.08117,0.14,pr,pr71454208,2024-06-28T15:15:23.150Z,"5 km SSW of Tallaboa, Puerto Rico",earthquake,0.38,0.63,0.129576218953105,10,reviewed,pr,pr
@@ -92,6 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-28T08:44:05.651Z,64.5326,-152.1657,9.8,1.1,ml,,,,1.23,ak,ak02489trdo5,2024-06-28T08:46:28.637Z,"71 km S of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-28T08:42:35.302Z,23.3901,122.2391,10,4.8,mb,31,104,0.865,1.12,us,us6000n8ud,2024-06-28T09:31:28.040Z,"91 km SE of Hualien City, Taiwan",earthquake,2.57,1.882,0.094,35,reviewed,us,us
 2024-06-28T08:34:08.726Z,61.6618,-151.0444,67.9,1.3,ml,,,,0.74,ak,ak02489tp8qw,2024-06-28T08:36:20.726Z,"31 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-06-28T08:32:14.550Z,46.20016666666667,-122.188,-1.8,0.02,ml,9,72,0.001737,0.18,uw,uw62011442,2024-06-28T17:16:41.440Z,"37 km NNE of Amboy, Washington",earthquake,0.59,3.75,0.20898889592736047,4,reviewed,uw,uw
 2024-06-28T08:07:11.000Z,38.7941665649414,-122.742668151855,1.61000001430511,0.38,md,6,152,0.01186,0.01,nc,nc75028226,2024-06-28T08:08:48.317Z,"2 km NE of The Geysers, CA",earthquake,0.42,1.10000002,0.17,8,automatic,nc,nc
 2024-06-28T08:04:16.294Z,61.8829,-149.2604,18.2,1.3,ml,,,,0.6,ak,ak02489titul,2024-06-28T08:12:51.682Z,"15 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-28T08:00:01.094Z,62.781,-148.852,5.7,1.3,ml,,,,0.49,ak,ak02489thxt9,2024-06-28T08:01:43.673Z,"68 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -115,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-28T06:36:08.165Z,-30.0548,-176.3275,10,5,mb,40,101,1.596,1.14,us,us6000n8tw,2024-06-28T06:55:09.040Z,"Kermadec Islands region",earthquake,11.2,1.864,0.078,52,reviewed,us,us
 2024-06-28T06:35:57.030Z,35.655834197998,-121.068168640137,5.05999994277954,1.54,md,11,114,0.07446,0.04,nc,nc75028211,2024-06-28T06:37:32.634Z,"10 km NNE of Cambria, CA",earthquake,0.31,0.970000029,0.14,8,automatic,nc,nc
 2024-06-28T06:10:44.550Z,60.111,-152.5605,94.1,1.9,ml,,,,0.4,ak,ak02489sdb47,2024-06-28T07:59:33.628Z,"49 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-28T05:52:17.286Z,-15.952,-74.7936,27.515,4.7,mb,19,143,4.888,0.84,us,us6000n8tz,2024-06-28T07:12:05.040Z,"49 km WSW of Atiquipa, Peru",earthquake,13.93,6.434,0.153,13,reviewed,us,us
+2024-06-28T05:52:17.286Z,-15.952,-74.7936,27.515,4.7,mb,19,143,4.888,0.84,us,us6000n8tz,2024-06-28T17:29:33.631Z,"49 km WSW of Atiquipa, Peru",earthquake,13.93,6.434,0.153,13,reviewed,us,us
 2024-06-28T05:50:51.418Z,60.8522,-152.5982,129.2,2.1,ml,,,,0.6,ak,ak02489s0gol,2024-06-28T07:53:46.040Z,"73 km WNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-28T05:49:44.610Z,38.8388328552246,-122.790168762207,1.83000004291534,0.64,md,11,89,0.0004448,0.02,nc,nc75028201,2024-06-28T05:51:23.511Z,"6 km WNW of Cobb, CA",earthquake,0.36,0.589999974,0.39,12,automatic,nc,nc
 2024-06-28T05:38:58.520Z,19.3888339996338,-155.247329711914,0.280000001192093,2.67,ml,35,55,0.005005,0.200000003,hv,hv74296951,2024-06-28T05:41:38.440Z,"6 km SSW of Volcano, Hawaii",earthquake,0.15,0.170000002,0.49,30,automatic,hv,hv
@@ -249,4 +253,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-27T17:42:16.830Z,58.277,-154.956833333333,3.23,0.68,ml,10,208,0.1312,0.09,av,av93179876,2024-06-28T00:01:40.590Z,"84 km NNW of Karluk, Alaska",earthquake,0.56,0.98,0.254540176818333,10,reviewed,av,av
 2024-06-27T17:37:47.550Z,35.9213333,-117.6755,2.85,0.95,ml,17,99,0.03344,0.13,ci,ci40812016,2024-06-27T18:10:46.023Z,"21 km E of Little Lake, CA",earthquake,0.23,0.3,0.114,6,reviewed,ci,ci
 2024-06-27T17:36:03.360Z,33.7921667,-116.9115,11.72,1.24,ml,48,37,0.04954,0.16,ci,ci40812000,2024-06-27T18:38:20.790Z,"4 km ENE of San Jacinto, CA",earthquake,0.16,0.38,0.157,27,reviewed,ci,ci
-2024-06-27T17:32:14.330Z,46.2,-122.188,-1.84,0.25,mh,7,90,0.001748,0.37,uw,uw62011267,2024-06-28T16:59:23.950Z,"37 km NNE of Amboy, Washington",earthquake,0.88,31.98,,0,reviewed,uw,uw
+2024-06-27T17:32:14.330Z,46.2,-122.188,-1.84,0,mh,7,90,0.001748,0.37,uw,uw62011267,2024-06-28T17:17:42.090Z,"37 km NNE of Amboy, Washington",earthquake,0.88,31.98,,0,reviewed,uw,uw
