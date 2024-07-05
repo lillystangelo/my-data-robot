@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-05T09:27:46.300Z,33.222,-116.0475,3.15,1.74,ml,80,23,0.0759,0.21,ci,ci40649303,2024-07-05T09:34:17.265Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.13,0.31,0.145,27,automatic,ci,ci
+2024-07-05T09:43:05.010Z,38.7906684875488,-122.762336730957,2.89000010490417,1.95,md,40,71,0.01015,0.07,nc,nc75031032,2024-07-05T09:44:43.703Z,"2 km  of The Geysers, CA",earthquake,0.2,0.409999996,0.13,37,automatic,nc,nc
+2024-07-05T09:36:26.340Z,38.8413314819336,-122.809829711914,2.05999994277954,0.33,md,7,117,0.01699,0.01,nc,nc75031027,2024-07-05T09:38:02.943Z,"8 km WNW of Cobb, CA",earthquake,0.53,1.02999997,0.11,8,automatic,nc,nc
+2024-07-05T09:27:46.300Z,33.222,-116.0475,3.15,1.74,ml,80,23,0.0759,0.21,ci,ci40649303,2024-07-05T09:38:59.470Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.13,0.31,0.145,27,automatic,ci,ci
 2024-07-05T09:20:48.670Z,33.4058333,-116.8965,5.89,0.55,ml,38,24,0.05929,0.2,ci,ci40649295,2024-07-05T09:26:35.030Z,"5 km SW of Aguanga, CA",earthquake,0.19,0.56,0.105,13,automatic,ci,ci
 2024-07-05T08:52:24.730Z,33.4996667,-116.5601667,12.14,0.62,ml,44,45,0.03547,0.16,ci,ci40649287,2024-07-05T08:58:38.057Z,"12 km ESE of Anza, CA",earthquake,0.16,0.34,0.171,17,automatic,ci,ci
 2024-07-05T08:44:58.066Z,29.034,-97.889,5.8257,1.5,ml,16,68,0.1,1,tx,tx2024ncmx,2024-07-05T09:04:25.915Z,"13 km ENE of Falls City, Texas",earthquake,0,2.3823794112054295,0.2,12,automatic,tx,tx
