@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-08T19:03:00.230Z,19.1998329162598,-155.383834838867,30.2999992370605,2.33,ml,54,161,0.08618,0.129999995,hv,hv74322711,2024-07-08T19:05:37.900Z,"9 km E of Pāhala, Hawaii",earthquake,0.5,0.469999999,0.64,12,automatic,hv,hv
+2024-07-08T19:02:53.280Z,34.9869995,-118.1920013,-0.77,1.28,ml,15,58,0.112,0.21,ci,ci40652471,2024-07-08T19:04:55.683Z,"8 km SSW of Mojave, CA",earthquake,0.47,1.1,0.19,4,automatic,ci,ci
+2024-07-08T18:54:23.461Z,61.5805,-141.0835,4.7,1.7,ml,,,,0.54,ak,ak0248qj5d6y,2024-07-08T18:56:09.697Z,"99 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-08T18:49:52.850Z,61.5569,-141.0339,0,2.6,ml,,,,0.57,ak,ak0248qj4cvp,2024-07-08T18:52:07.733Z,"101 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-08T18:16:09.590Z,33.2316667,-116.0368333,3.37,0.72,ml,30,91,0.06448,0.19,ci,ci40652383,2024-07-08T18:22:21.963Z,"11 km SW of Salton City, CA",earthquake,0.24,0.43,0.143,12,automatic,ci,ci
 2024-07-08T18:07:17.521Z,60.3491,-151.3412,118.9,1.6,ml,,,,0.39,ak,ak0248qiva2w,2024-07-08T18:09:06.691Z,"2 km SW of Cohoe, Alaska",earthquake,,1,,,automatic,ak,ak
