@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-08T07:31:18.210Z,33.1525002,-116.5133362,7.46,1.1,ml,49,45,0.09798,0.23,ci,ci40651855,2024-07-08T07:33:24.584Z,"12 km NE of Julian, CA",earthquake,0.25,1.11,0.22,7,automatic,ci,ci
+2024-07-08T07:21:51.830Z,19.3939990997314,-155.275329589844,0.400000005960464,2.06,ml,19,50,0.002095,0.109999999,hv,hv74321806,2024-07-08T07:24:28.600Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.129999995,0.92,15,automatic,hv,hv
+2024-07-08T07:21:25.050Z,34.3741667,-117.6575,4.42,1.06,ml,23,109,0.135,0.16,ci,ci40651847,2024-07-08T07:27:50.723Z,"3 km NW of Wrightwood, CA",earthquake,0.25,0.68,0.198,4,automatic,ci,ci
 2024-07-08T07:08:16.741Z,61.5948,-143.893,48.1,1.3,ml,,,,0.48,ak,ak0248qcbq2y,2024-07-08T07:10:20.852Z,"30 km ENE of Chitina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-08T07:01:09.381Z,65.9724,-151.7613,10.3,1,ml,,,,0.53,ak,ak0248qca7i2,2024-07-08T07:03:21.694Z,"75 km SSE of New Allakaket, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-08T06:59:01.890Z,38.8143348693848,-122.819831848145,3.02999997138977,0.73,md,9,80,0.009117,0.01,nc,nc75032247,2024-07-08T07:00:36.175Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.14999998,0.3,9,automatic,nc,nc
@@ -191,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-07T07:37:11.360Z,19.3351669311523,-155.205505371094,4.75,1.92,ml,23,75,0.03956,0.170000002,hv,hv74319526,2024-07-07T07:39:50.080Z,"12 km SSE of Volcano, Hawaii",earthquake,0.48,0.99000001,0.26,8,automatic,hv,hv
 2024-07-07T07:35:23.915Z,-6.8305,109.7337,9.51,4.6,mb,23,103,0.735,0.66,us,us7000mxka,2024-07-08T04:52:44.671Z,"9 km NE of Pekalongan, Indonesia",earthquake,7.11,4.62,0.136,16,reviewed,us,us
 2024-07-07T07:35:22.809Z,31.624,-104.469,3.8677,1.7,ml,16,120,0,0.5,tx,tx2024ngbp,2024-07-07T08:04:18.648Z,"61 km S of Whites City, New Mexico",earthquake,0,1.81760706432726,0.1,12,automatic,tx,tx
-2024-07-07T07:30:47.100Z,34,-116.6591667,16.02,1.83,ml,90,45,0.03954,0.16,ci,ci40651031,2024-07-07T14:02:40.050Z,"9 km SW of Morongo Valley, CA",earthquake,0.12,0.33,0.138,26,reviewed,ci,ci
