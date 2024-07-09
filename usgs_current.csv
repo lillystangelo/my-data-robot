@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-09T12:45:01.744Z,61.8839,-149.3048,6.2,1.7,ml,,,,0.82,ak,ak0248s324xq,2024-07-09T12:46:36.961Z,"16 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-07-09T12:43:43.252Z,63.4169,-149.9424,94.4,1.5,ml,,,,0.42,ak,ak0248s31sph,2024-07-09T12:45:56.233Z,"49 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-09T12:24:36.090Z,19.2019996643066,-155.472671508789,29.75,2.27,ml,55,92,0.0474,0.119999997,hv,hv74324411,2024-07-09T12:27:13.690Z,"0 km E of Pāhala, Hawaii",earthquake,0.48,0.550000012,0.25,23,automatic,hv,hv
 2024-07-09T12:23:06.320Z,34.9498333,-119.2573333,0.48,1.33,ml,17,95,0.1,0.18,ci,ci40653231,2024-07-09T12:29:18.969Z,"15 km NW of Pine Mountain Club, CA",earthquake,0.38,0.45,0.265,28,automatic,ci,ci
 2024-07-09T12:19:28.150Z,19.3988342285156,-155.287506103516,0.219999998807907,2.01999998,md,10,60,0.01071,0.0599999987,hv,hv74324396,2024-07-09T12:20:48.970Z,"7 km SW of Volcano, Hawaii",earthquake,0.15,0.270000011,0.239999995,7,automatic,hv,hv
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T09:19:49.950Z,19.3840007781982,-155.245330810547,0.839999973773956,1.8,ml,12,98,0.005841,0.140000001,hv,hv74323971,2024-07-09T09:22:43.330Z,"6 km S of Volcano, Hawaii",earthquake,0.25,0.209999993,0.21,10,automatic,hv,hv
 2024-07-09T09:14:14.850Z,33.4886667,-115.83,6.35,1.12,ml,45,63,0.03064,0.17,ci,ci40653111,2024-07-09T09:20:27.576Z,"11 km ESE of North Shore, CA",earthquake,0.18,0.42,0.143,24,automatic,ci,ci
 2024-07-09T09:12:33.050Z,38.8003349304199,-122.750999450684,1.75,1.11,md,11,100,0.02039,0.02,nc,nc75032712,2024-07-09T09:14:10.332Z,"3 km NNE of The Geysers, CA",earthquake,0.31,1.10000002,0.09,12,automatic,nc,nc
-2024-07-09T09:11:51.715Z,36.6798,28.1896,80.005,4.8,mb,68,62,0.469,0.87,us,us7000mxzg,2024-07-09T12:20:45.463Z,"13 km SSW of İçmeler, Turkey",earthquake,6.18,4.694,0.041,180,reviewed,us,us
+2024-07-09T09:11:51.715Z,36.6798,28.1896,80.005,4.8,mb,68,62,0.469,0.87,us,us7000mxzg,2024-07-09T12:56:38.498Z,"13 km SSW of İçmeler, Turkey",earthquake,6.18,4.694,0.041,180,reviewed,us,us
 2024-07-09T09:09:29.040Z,19.3470001220703,-155.412002563477,6.69000005722046,2.08,ml,42,76,0.02833,0.200000003,hv,hv74323951,2024-07-09T09:12:06.800Z,"17 km NNE of Pāhala, Hawaii",earthquake,0.37,0.660000026,0.19,3,automatic,hv,hv
 2024-07-09T09:02:24.827Z,58.3376,-133.2812,0,2.3,ml,,,,0.96,ak,ak0248s10o42,2024-07-09T09:07:42.469Z,"66 km E of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-09T08:59:52.037Z,63.2283,-151.2934,0.8,1.2,ml,,,,0.53,ak,ak0248s0rifb,2024-07-09T09:02:13.009Z,"40 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -52,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-09T07:38:52.400Z,38.8176651000977,-122.825836181641,1.94000005722046,0.76,md,8,117,0.009011,0.01,nc,nc75032682,2024-07-09T07:40:30.554Z,"8 km NW of The Geysers, CA",earthquake,0.5,1.16999996,0.5,10,automatic,nc,nc
 2024-07-09T07:13:38.428Z,63.9755,-149.7878,13.1,1,ml,,,,0.31,ak,ak0248rzw6tu,2024-07-09T07:15:34.547Z,"33 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-09T07:08:59.817Z,60.0429,-141.6843,4.8,2.2,ml,,,,0.89,ak,ak0248rzv5wd,2024-07-09T07:11:22.334Z,"122 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-07-09T07:07:21.101Z,35.48311996,-98.04766846,3.638582468,1.88,ml,14,106.8191452,0.06057485193,0.5876963676,ok,ok2024njrr,2024-07-09T07:14:48.955Z,"10 km WSW of El Reno, Oklahoma",earthquake,4.07615581,2.786994363,0.15,14,automatic,ok,ok
+2024-07-09T07:07:21.140Z,35.46583333,-98.03466667,6.23,1.38,ml,88,30,0.04229170093,0.31,ok,ok2024njrr,2024-07-09T13:00:24.776Z,"10 km SW of El Reno, Oklahoma",earthquake,,0.5,0.21,43,reviewed,ok,ok
 2024-07-09T07:06:03.347Z,59.9914,-141.5591,17.7,2.2,ml,,,,0.48,ak,ak0248rzum3y,2024-07-09T07:07:48.772Z,"114 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-09T06:59:37.540Z,33.8786667,-117.8061667,5.49,1.01,ml,26,77,0.04927,0.19,ci,ci40653071,2024-07-09T07:06:01.126Z,"1 km SSE of Yorba Linda, CA",earthquake,0.23,0.36,0.249,37,automatic,ci,ci
 2024-07-09T06:57:57.870Z,19.38450050354,-155.260162353516,0.419999986886978,2.24,ml,35,40,0.008417,0.189999998,hv,hv74323706,2024-07-09T07:00:33.580Z,"7 km SSW of Volcano, Hawaii",earthquake,0.18,0.140000001,0.32,17,automatic,hv,hv
@@ -242,8 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-08T13:12:40.640Z,-7.7896,128.0341,134.749,4.2,mb,14,122,4.204,0.55,us,us7000mxs2,2024-07-08T16:01:53.040Z,"139 km NE of Lospalos, Timor Leste",earthquake,14.22,8.897,0.186,8,reviewed,us,us
 2024-07-08T13:02:09.970Z,58.2971666666667,-154.829833333333,7.35,-0.43,ml,7,228,0.0874,0.11,av,av93014719,2024-07-09T02:45:23.150Z,"84 km NNW of Karluk, Alaska",earthquake,0.6,0.69,0.100274172159638,7,reviewed,av,av
 2024-07-08T13:01:40.240Z,58.2981666666667,-154.832833333333,5.97,-0.5,ml,7,227,0.0867,0.07,av,av93014714,2024-07-09T02:39:31.590Z,"84 km NNW of Karluk, Alaska",earthquake,0.57,0.81,0.100552495079596,7,reviewed,av,av
-2024-07-08T12:57:52.290Z,34.0445,-117.1216667,10.16,0.94,ml,43,41,0.01184,0.16,ci,ci40652015,2024-07-08T13:27:52.010Z,"3 km SSE of Mentone, CA",earthquake,0.17,0.34,0.136,24,reviewed,ci,ci
-2024-07-08T12:54:27.514Z,62.0385,-151.2578,80.8,1.2,ml,,,,0.51,ak,ak0248qfkrvj,2024-07-08T12:56:42.648Z,"9 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-07-08T12:52:21.010Z,19.2058334350586,-155.481826782227,29.4099998474121,2.13000011,md,37,129,0.04532,0.129999995,hv,hv74322316,2024-07-08T12:54:05.840Z,"0 km NW of Pāhala, Hawaii",earthquake,0.57,0.660000026,0.340000004,8,automatic,hv,hv
-2024-07-08T12:50:23.090Z,53.8691666666667,-166.752833333333,5.98,-0.94,ml,6,95,0.04212,0.09,av,av93189931,2024-07-09T02:22:21.520Z,"14 km W of Dutch Harbor, Alaska",earthquake,0.38,0.72,0.131180246800341,6,reviewed,av,av
-2024-07-08T12:42:11.590Z,34.5216667,-118.9041667,16.69,2.15,ml,63,30,0.04352,0.24,ci,ci40652007,2024-07-08T15:44:35.574Z,"14 km N of Fillmore, CA",earthquake,0.2,0.55,0.1,71,reviewed,ci,ci
