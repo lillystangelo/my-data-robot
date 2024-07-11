@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-11T19:48:05.620Z,33.4803333,-116.3945,9.89,0.88,ml,35,83,0.05025,0.15,ci,ci40656719,2024-07-11T19:53:55.373Z,"22 km SSW of La Quinta, CA",earthquake,0.19,0.38,0.186,8,automatic,ci,ci
 2024-07-11T19:41:49.701Z,65.8843,-150.8108,0,1.2,ml,,,,0.93,ak,ak0248via3zu,2024-07-11T19:43:36.665Z,"51 km NW of Rampart, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-11T19:39:17.307Z,38.1951,-117.7905,0.4,2.7,ml,23,134.35999999999996,0.153,0.4307,nn,nn00880774,2024-07-11T19:43:45.862Z,"35 km SE of Mina, Nevada",earthquake,,3.5,0.18,13,automatic,nn,nn
 2024-07-11T19:28:26.470Z,19.3618335723877,-155.289001464844,1.9099999666214,1.97,ml,24,62,0.02551,0.219999999,hv,hv74328366,2024-07-11T19:31:04.170Z,"10 km SSW of Volcano, Hawaii",earthquake,0.32,0.430000007,0.29,10,automatic,hv,hv
@@ -215,7 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T20:16:15.360Z,57.064,-135.692,7.79,-0.36,ml,4,237,0.009073,0.09,av,av93192791,2024-07-11T02:58:05.510Z,"21 km W of Sitka, Alaska",earthquake,1.05,0.67,0.153823721721754,4,reviewed,av,av
 2024-07-10T20:08:29.370Z,19.1326675415039,-155.34733581543,27.6399993896484,2.05999994,md,26,227,0.1108,0.119999997,hv,hv74326466,2024-07-10T20:10:02.870Z,"15 km ESE of Pāhala, Hawaii",earthquake,0.92,0.680000007,0.330000013,4,automatic,hv,hv
 2024-07-10T19:58:20.373Z,31.699,-104.061,7.1381,1.6,ml,29,51,0,0.1,tx,tx2024nmmq,2024-07-11T11:57:56.416Z,"43 km W of Mentone, Texas",earthquake,0.3577561326781559,0.4662465538303098,0.2,25,reviewed,tx,tx
-2024-07-10T19:54:40.084Z,24.1484,121.7217,28.427,4.1,mwr,58,65,0.119,0.81,us,us7000mydz,2024-07-10T20:56:48.040Z,"22 km NNE of Hualien City, Taiwan",earthquake,3.81,4.895,0.065,23,reviewed,us,us
-2024-07-10T19:52:17.562Z,61.95,-150.4992,41.4,1.2,ml,,,,0.38,ak,ak0248tut1wc,2024-07-10T19:54:23.519Z,"33 km NW of Willow, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2024-07-10T19:48:57.266Z,-46.9237,-10.5847,10,5.1,mb,37,97,25.091,0.55,us,us7000mydy,2024-07-10T20:06:29.040Z,"southern Mid-Atlantic Ridge",earthquake,14.11,1.921,0.096,35,reviewed,us,us
-2024-07-10T19:48:02.610Z,38.8271675109863,-122.763832092285,1.98000001907349,0.96,md,14,133,0.005783,0.03,nc,nc75033332,2024-07-10T19:49:38.909Z,"4 km WNW of Cobb, CA",earthquake,0.33,0.529999971,0.27,15,automatic,nc,nc
