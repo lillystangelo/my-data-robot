@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-11T04:23:48.980Z,19.392333984375,-155.280502319336,0.620000004768372,2.33999991,md,20,50,0.005884,0.200000003,hv,hv74326981,2024-07-11T04:25:21.240Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.159999996,0.400000006,15,automatic,hv,hv
+2024-07-11T04:17:55.767Z,61.2276,-152.4085,4.4,1.6,ml,,,,0.97,ak,ak0248v97h7c,2024-07-11T04:20:27.221Z,"70 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-07-11T04:12:49.410Z,32.6148333,-115.5456667,11.26,1.46,ml,23,77,0.08256,0.25,ci,ci40655967,2024-07-11T04:19:15.891Z,"5 km NE of Progreso, B.C., MX",earthquake,0.31,0.55,0.148,18,automatic,ci,ci
+2024-07-11T03:57:46.400Z,19.4055,-155.256666666667,0.42,2.03,ml,23,74,0.01141,0.11,hv,hv74326966,2024-07-11T04:23:43.650Z,"4 km SSW of Volcano, Hawaii",earthquake,0.14,0.15,0.206117327402424,12,reviewed,hv,hv
+2024-07-11T03:55:55.770Z,33.6478333,-116.7426667,14.22,0.46,ml,14,222,0.1237,0.12,ci,ci40655959,2024-07-11T04:01:44.205Z,"10 km SSW of Idyllwild, CA",earthquake,0.68,0.44,0.146,8,automatic,ci,ci
 2024-07-11T03:43:09.405Z,36.1415,-115.2309,2.7,1,ml,8,339.22999999999996,0.891,0.382,nn,nn00880737,2024-07-11T03:45:44.512Z,"3 km NNE of Spring Valley, Nevada",earthquake,,17.9,0.4,3,automatic,nn,nn
 2024-07-11T03:41:31.990Z,33.8611667,-117.0308333,9.31,0.88,ml,44,43,0.07454,0.14,ci,ci40655951,2024-07-11T03:48:07.839Z,"9 km SSW of Beaumont, CA",earthquake,0.15,0.63,0.171,22,automatic,ci,ci
 2024-07-11T03:41:25.829Z,60.8764,-146.5744,39.8,1.3,ml,,,,1.28,ak,ak0248v8r4hh,2024-07-11T03:43:46.850Z,"5 km ENE of Tatitlek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -16,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T02:30:27.790Z,38.8110008239746,-122.807167053223,2.99000000953674,1.07,md,14,93,0.009751,0.03,nc,nc75033507,2024-07-11T02:32:06.052Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.629999995,0.15,17,automatic,nc,nc
 2024-07-11T02:23:30.406Z,59.445,-153.6685,178.5,3.5,ml,,,,1.21,ak,ak0248v81uyo,2024-07-11T02:26:33.568Z,"45 km SSE of Pedro Bay, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-07-11T02:17:36.390Z,33.8626667,-116.2206667,7.88,2.6,ml,81,54,0.06572,0.15,ci,ci40655919,2024-07-11T03:32:23.699Z,"16 km N of Indio, CA",earthquake,0.11,0.39,0.18,25,reviewed,ci,ci
-2024-07-11T02:13:17.513Z,6.0646,123.1605,620.077,7.1,mww,136,17,2.602,1.01,us,us7000myfa,2024-07-11T03:24:39.513Z,"106 km WSW of Sangay, Philippines",earthquake,9.39,4.123,0.055,32,reviewed,us,us
+2024-07-11T02:13:17.513Z,6.0646,123.1605,620.077,7.1,mww,136,17,2.602,1.01,us,us7000myfa,2024-07-11T04:00:52.829Z,"106 km WSW of Sangay, Philippines",earthquake,9.39,4.123,0.055,32,reviewed,us,us
 2024-07-11T02:07:39.280Z,38.8098335266113,-122.821334838867,2.83999991416931,1.07,md,23,53,0.006203,0.02,nc,nc75033497,2024-07-11T02:09:15.931Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.449999988,0.13,26,automatic,nc,nc
 2024-07-11T02:04:35.770Z,38.7718315124512,-122.742835998535,1.5,1.92,md,38,37,0.01235,0.05,nc,nc75033492,2024-07-11T02:07:41.110Z,"1 km SE of The Geysers, CA",earthquake,0.2,0.300000012,0.17,36,automatic,nc,nc
 2024-07-11T01:59:03.700Z,35.5164986,-118.3949966,2.66,1.46,ml,25,66,0.1595,0.13,ci,ci40655911,2024-07-11T02:01:19.046Z,"12 km SE of Bodfish, CA",earthquake,0.25,1,0.208,5,automatic,ci,ci
@@ -37,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T23:53:51.470Z,33.4101667,-116.3478333,12.35,1.15,ml,60,33,0.05741,0.18,ci,ci40655831,2024-07-11T00:00:05.212Z,"17 km N of Borrego Springs, CA",earthquake,0.16,0.38,0.161,27,automatic,ci,ci
 2024-07-10T23:52:00.425Z,-60.2889,-26.5661,10,5,mb,50,68,14.797,0.55,us,us7000myf0,2024-07-11T00:07:52.040Z,"South Sandwich Islands region",earthquake,12.67,1.913,0.077,54,reviewed,us,us
 2024-07-10T23:44:08.355Z,37.5431,-117.9933,6.4,0.9,ml,6,155.95000000000002,0.176,0.0952,nn,nn00880710,2024-07-11T00:13:41.596Z,"15 km SSE of Dyer, Nevada",earthquake,,5.8,0.52,4,reviewed,nn,nn
-2024-07-10T23:42:38.561Z,60.1419,-153.3665,17.9,0.6,ml,,,,0.51,ak,ak0248tx4os0,2024-07-11T03:54:59.930Z,"53 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-07-10T23:42:38.561Z,60.1419,-153.3665,17.9,0.6,ml,,,,0.51,ak,ak0248tx4os0,2024-07-11T03:59:07.470Z,"53 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-10T23:35:38.770Z,38.8248329162598,-122.803169250488,2.49000000953674,1.08,md,17,41,0.01686,0.02,nc,nc75033457,2024-07-10T23:37:13.722Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.540000021,0.14,18,automatic,nc,nc
 2024-07-10T23:33:23.640Z,52.0653333333333,-176.117,2.03,0.19,ml,5,102,0.01959,0.29,av,av93192971,2024-07-11T03:51:57.170Z,"41 km ENE of Adak, Alaska",earthquake,1.03,2.11,0.228501492479259,5,reviewed,av,av
 2024-07-10T23:33:15.070Z,38.829833984375,-122.837501525879,8.22000026702881,0.75,md,8,207,0.00698,0.04,nc,nc75033452,2024-07-10T23:34:49.549Z,"9 km NW of The Geysers, CA",earthquake,2.37,7.55000019,0.15,9,automatic,nc,nc
@@ -122,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T15:53:38.440Z,51.93,-178.014,12.26,-0.22,ml,4,304,0.03569,0.07,av,av93014989,2024-07-11T01:51:05.720Z,"95 km W of Adak, Alaska",earthquake,1.66,0.63,0.232513919233874,4,reviewed,av,av
 2024-07-10T15:46:03.430Z,33.9033333,-117.0738333,4.95,1,ml,45,38,0.07962,0.21,ci,ci40654991,2024-07-10T16:00:46.169Z,"9 km WSW of Beaumont, CA",earthquake,0.19,0.66,0.107,27,automatic,ci,ci
 2024-07-10T15:45:36.654Z,62.0865,-151.7284,93.1,1.8,ml,,,,0.46,ak,ak0248tsduxt,2024-07-10T15:47:38.284Z,"20 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-07-10T15:39:55.640Z,52.0673333333333,-176.121166666667,-1.77,-0.43,ml,4,145,0.01854,0.43,av,av93192591,2024-07-11T04:00:01.530Z,"41 km ENE of Adak, Alaska",earthquake,1.26,2.55,0.312663402432482,4,reviewed,av,av
 2024-07-10T15:39:35.656Z,-22.8068,-66.2556,261.767,4.5,mb,35,59,1.779,0.81,us,us7000mya4,2024-07-10T16:10:11.040Z,"58 km W of Abra Pampa, Argentina",earthquake,6.17,10.543,0.157,12,reviewed,us,us
 2024-07-10T15:34:28.940Z,51.9095,179.5635,12.57,0.18,ml,5,176,0.009719,0.18,av,av93192586,2024-07-10T18:59:42.090Z,"261 km W of Adak, Alaska",earthquake,0.98,0.82,0.260663624605076,5,reviewed,av,av
 2024-07-10T15:33:11.700Z,46.203833333333336,-122.18983333333334,6.21,0.07,ml,11,88,0.004116,0.06,uw,uw62023366,2024-07-10T21:11:41.190Z,"38 km NNE of Amboy, Washington",earthquake,0.32,0.46,0.08334529855833153,5,reviewed,uw,uw
@@ -153,6 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T12:32:09.576Z,31.74,-104.118,6.9586,1.7,ml,31,70,0.1,0.2,tx,tx2024nlxx,2024-07-10T13:28:22.415Z,"49 km W of Mentone, Texas",earthquake,0.39452557632838126,0.7111163964106244,0.2,25,reviewed,tx,tx
 2024-07-10T12:28:38.260Z,33.5211667,-116.5111667,13.81,0.6,ml,31,49,0.03984,0.12,ci,ci40654759,2024-07-10T13:27:25.383Z,"16 km ESE of Anza, CA",earthquake,0.16,0.32,0.156,17,reviewed,ci,ci
 2024-07-10T12:25:53.460Z,38.7986679077148,-122.826164245605,1.12000000476837,1.07,md,15,89,0.01045,0.02,nc,nc75033157,2024-07-10T12:27:28.594Z,"6 km WNW of The Geysers, CA",earthquake,0.24,0.50999999,0.24,16,automatic,nc,nc
+2024-07-10T12:22:22.775Z,-14.2673,-74.3448,87.663,4.4,mb,22,132,3.325,0.63,us,us7000my9d,2024-07-11T04:07:50.040Z,"36 km S of Sacsamarca, Peru",earthquake,5.94,8.732,0.179,9,reviewed,us,us
 2024-07-10T12:21:49.770Z,51.8995,178.494,1.8,-0.3,ml,4,316,0.05005,0.19,av,av93014979,2024-07-11T00:38:22.800Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.94,4.76,0.223126637220208,4,reviewed,av,av
 2024-07-10T12:10:58.938Z,63.5651,-150.7298,1.8,1.3,ml,,,,0.55,ak,ak0248tqe3s5,2024-07-10T12:12:54.170Z,"49 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-10T12:10:12.848Z,39.2145,-120.055,6.2,-0.1,ml,3,195.04,0.056,0.0818,nn,nn00880696,2024-07-10T18:06:42.826Z,"2 km ESE of Carnelian Bay, California",earthquake,,9.8,0.07,3,reviewed,nn,nn
@@ -243,8 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T04:30:11.930Z,33.2705,-116.4163333,4.84,0.4,ml,27,75,0.002396,0.16,ci,ci40654471,2024-07-10T04:36:11.112Z,"4 km WNW of Borrego Springs, CA",earthquake,0.19,0.36,0.166,6,automatic,ci,ci
 2024-07-10T04:29:38.988Z,31.421,-103.517,2.7417,1.8,ml,13,59,0,0.1,tx,tx2024nlhz,2024-07-10T15:18:44.493Z,"2 km W of Pecos, Texas",earthquake,0.760471309214589,0.7582855252515494,0.1,7,reviewed,tx,tx
 2024-07-10T04:28:50.402Z,63.6507,-145.9271,17.7,2.6,ml,,,,0.89,ak,ak0248tlqh2l,2024-07-10T04:30:55.342Z,"36 km SSW of Fort Greely, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-07-10T04:25:45.120Z,51.911,179.562333333333,10.63,-0.41,ml,5,181,0.01114,0.28,av,av93014924,2024-07-10T21:51:19.130Z,"261 km W of Adak, Alaska",earthquake,1.94,1.45,0.187266383946068,5,reviewed,av,av
-2024-07-10T04:16:50.410Z,38.8349990844727,-122.8056640625,2.19000005722046,0.75,md,13,53,0.01209,0.01,nc,nc75033007,2024-07-10T04:18:26.899Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.519999981,0.29,14,automatic,nc,nc
-2024-07-10T04:16:00.613Z,63.4596,-151.2927,10.9,2.5,ml,,,,0.91,ak,ak0248tlnsql,2024-07-10T04:18:30.755Z,"23 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-07-10T04:03:51.199Z,61.8957,-149.6635,1.1,1.9,ml,,,,0.49,ak,ak0248tll4bz,2024-07-10T04:20:10.082Z,"25 km NE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-07-10T04:00:09.930Z,38.836498260498,-122.803001403809,2.26999998092651,0.66,md,9,66,0.01007,0.01,nc,nc75033002,2024-07-10T04:01:47.647Z,"7 km WNW of Cobb, CA",earthquake,0.42,1.70000005,0.49,9,automatic,nc,nc
