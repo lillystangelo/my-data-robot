@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T15:13:07.980Z,40.228832244873,-124.130996704102,14.2200002670288,1.64,md,9,140,0.03645,0.04,nc,nc75033232,2024-07-10T15:14:45.803Z,"17 km SE of Petrolia, CA",earthquake,0.57,1.05999994,0.26,7,automatic,nc,nc
 2024-07-10T15:11:35.317Z,65.2474,-148.9023,0,0.8,ml,,,,0.62,ak,ak0248ts6khn,2024-07-10T15:13:16.638Z,"23 km ENE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-10T15:00:08.237Z,65.2417,-148.9394,2,1.7,ml,,,,0.67,ak,ak0248ts45iv,2024-07-10T15:02:06.903Z,"21 km ENE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-07-10T14:48:02.270Z,38.7813339233398,-122.782501220703,8.65999984741211,0.7,md,6,166,0.01256,0.05,nc,nc75033222,2024-07-10T14:49:39.513Z,"2 km WNW of The Geysers, CA",earthquake,2.49,6.67000008,0.2,6,automatic,nc,nc
