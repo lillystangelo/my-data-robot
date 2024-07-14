@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-14T07:37:03.980Z,33.6728333,-116.7661667,13.49,0.41,ml,25,74,0.05781,0.14,ci,ci40658927,2024-07-14T07:42:54.651Z,"9 km SSW of Idyllwild, CA",earthquake,0.22,0.45,0.099,8,automatic,ci,ci
 2024-07-14T07:19:03.740Z,38.8294982910156,-122.78466796875,0.439999997615814,0.78,md,10,73,0.009941,0.02,nc,nc75034677,2024-07-14T07:20:37.763Z,"5 km WNW of Cobb, CA",earthquake,0.25,0.449999988,0.24,10,automatic,nc,nc
 2024-07-14T07:06:02.624Z,44.3697,-116.1576,10.859,2.5,ml,28,43,0.34,0.39,us,us7000mz61,2024-07-14T07:22:07.040Z,"9 km NW of Smiths Ferry, Idaho",earthquake,1.7,8.463,0.053,46,reviewed,us,us
 2024-07-14T07:05:46.510Z,32.9895,-116.4311667,5.75,0.89,ml,34,53,0.02468,0.21,ci,ci40658911,2024-07-14T07:11:41.173Z,"19 km ESE of Julian, CA",earthquake,0.25,0.56,0.132,18,automatic,ci,ci
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-13T08:29:17.426Z,62.1762,-145.4486,31.3,1.6,ml,,,,0.28,ak,ak0248ymqe8u,2024-07-13T08:31:31.356Z,"9 km NE of Glennallen, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-07-13T08:17:29.720Z,19.3678340911865,-155.218170166016,1.47000002861023,1.76999998,md,12,173,0.006434,0.170000002,hv,hv74331801,2024-07-13T08:19:07.650Z,"8 km SSE of Volcano, Hawaii",earthquake,0.53,0.209999993,0.150000006,10,automatic,hv,hv
 2024-07-13T08:10:44.370Z,33.9733333,-116.7528333,15.95,0.62,ml,35,78,0.07672,0.15,ci,ci40658343,2024-07-13T08:16:38.090Z,"7 km NNE of Cabazon, CA",earthquake,0.19,0.5,0.144,11,automatic,ci,ci
-2024-07-13T07:37:33.400Z,38.7956657409668,-122.809669494629,3.07999992370605,1.07,md,17,83,0.008962,0.02,nc,nc75034347,2024-07-13T07:39:09.658Z,"5 km NW of The Geysers, CA",earthquake,0.33,0.730000019,0.29,19,automatic,nc,nc
